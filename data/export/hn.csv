@@ -1,31 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50038634,1,"WallHop – 12ft.io is gone, so I built a replacement",https://wallhop.io/,wallhop.io,171,78,TheWaffleHax,2026-10-11T00:46:48
-50037949,2,Build your own decision model,https://nishtahir.com/build-your-own-decision-model/,nishtahir.com,168,33,softwaredoug,2026-10-10T22:50:10
-49991852,3,2D Vehicles,https://patkerr.co.uk/2d-vehicles/,patkerr.co.uk,395,88,Michelangelo11,2026-10-07T12:30:40
-50039504,4,CIA World Facebook Is Dead – Here Is an Attempt at Recreation,https://worldfacts.app,worldfacts.app,11,4,yegortk,2026-10-11T03:13:46
-50036864,5,A city-building game in which the city would prefer you didn't,https://housing.over.pizza/,housing.over.pizza,236,84,JumpCrisscross,2026-10-10T20:31:50
-50039331,6,Terrence Tao does not understand cancer medicine,https://www.drvinayprasad.com/p/terrence-tao-does-not-understand,drvinayprasad.com,14,2,elo2000,2026-10-11T02:42:42
-50038623,7,PSPi 6 – Raspberry Pi in a PSP,https://github.com/othermod/PSPi-Version-6,github.com,33,5,therepanic,2026-10-11T00:45:49
-50029487,8,The Lightbulb Computer,https://lightbulbcomputer.com/,lightbulbcomputer.com,308,46,oskarth,2026-10-10T04:12:26
-50039633,9,Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list,https://github.com/vscarpenter/gsd-task-manager,github.com,4,1,vscarpenter,2026-10-11T03:42:56
-50017247,10,Nix wrote half of my debugger,https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger,fzakaria.com,158,29,ingve,2026-10-09T07:29:08
-50039627,11,Satya Nadella says we should assume all AI models are 'compromised',https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised,theverge.com,13,4,jonbaer,2026-10-11T03:41:53
-50034081,12,Knuth reward check,https://www.thomas-huehn.com/knuth-reward-check/,thomas-huehn.com,173,61,Curiositry,2026-10-10T15:47:01
-50035530,13,Why DuckDB 2.0 is faster,https://motherduck.com/blog/why-duckdb-20-is-faster/,motherduck.com,170,51,tosh,2026-10-10T18:08:49
-50015833,14,Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes,https://hangul.ink/blog/hangul-day,hangul.ink,18,2,jbaudanza,2026-10-09T03:58:16
-50031614,15,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,https://github.com/rociiu/talorys,github.com,266,123,rociiu,2026-10-10T10:52:09
-50001234,16,Retrofitting language models to operate over bytes,https://www.nature.com/articles/s41586-026-11111-4,nature.com,27,0,theanonymousone,2026-10-08T02:15:16
-50039092,17,500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter,https://momo5502.com/posts/2026-10-09-game-decompilation/,momo5502.com,62,43,davikr,2026-10-11T02:02:38
-50016956,18,Mxc: Microsoft Execution Containers version 1.0.0,https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/,blogs.windows.com,173,40,smokel,2026-10-09T06:52:49
-50038473,19,Veda: The First Agentic Hobby Operating System,https://github.com/vahmoh25/Veda,github.com,36,7,vahmohh,2026-10-11T00:22:33
-50033357,20,Unikernels were hard. key word: were,https://ghuntley.com/unikernels/,ghuntley.com,120,51,ghuntley,2026-10-10T14:27:09
-49984349,21,OpenSCAD the Programmers Solid 3D CAD Modeller,https://openscad.org/,openscad.org,120,94,b-man,2026-10-06T21:22:44
-50021899,22,Five months treating bugs like patients and coding agents like a medical team,https://www.cockroachlabs.com/blog/experiment-running-hospital-code/,cockroachlabs.com,93,41,rafiss,2026-10-09T15:26:33
-50020901,23,Getting old Macromedia Director Games to run on modern Hardware,https://werwolv.net/posts/macromedia_copy_protection/,werwolv.net,54,8,speckx,2026-10-09T14:18:03
-50039062,24,A plastic once thought harmless may be fueling fatty liver disease,https://www.sciencedaily.com/releases/2026/10/261008102718.htm,sciencedaily.com,20,1,gradus_ad,2026-10-11T01:56:04
-50006930,25,"Show HN: Diffle, a keyboard-centric diff viewer with LSP support",https://github.com/moritzwilksch/diffle,github.com,19,1,mwil1000,2026-10-08T15:23:19
-50024805,26,Deterministic Simulation Testing in Celld,https://celld.dev/docs/engineering/deterministic-simulation-testing/,celld.dev,4,0,handfuloflight,2026-10-09T18:31:50
-49980880,27,Grieving the loss of details,https://purplesyringa.moe/blog/grieving-the-loss-of-details/,purplesyringa.moe,377,293,signa11,2026-10-06T16:37:21
-50029830,28,Food processing influences metabolism and brain activity,https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html,news.vt.edu,124,91,gmays,2026-10-10T05:22:30
-50005743,29,C for Rust programmers,https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/,bd103.dev,125,109,xyproto,2026-10-08T13:44:36
-50024242,30,Rampart: Browser native on-device PII radaction,https://ndstudio.gov/posts/say-hello-to-rampart,ndstudio.gov,82,31,nateb2022,2026-10-09T17:52:07
+50042219,1,I paid people to try and follow my README,https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/,shkspr.mobi,65,37,edent,2026-10-11T11:47:29
+50041619,2,Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter,https://radar.cloudflare.com/bots/as13238?dateRange=7d,radar.cloudflare.com,273,105,walrus01,2026-10-11T10:27:53
+50040276,3,LineageOS 24.0,https://lineageos.org/Changelog-32/,lineageos.org,192,52,timschumi,2026-10-11T06:18:59
+50042425,4,Don't Put Tilde In Your Path,https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/,disconnect3d.pl,15,1,arusekk,2026-10-11T12:13:13
+50041682,5,Nitter: Update Oct 10th seeking funding and legal help,https://nitter.net,nitter.net,170,55,ForHackernews,2026-10-11T10:37:55
+50042362,6,Valen's Memory Safety: A New Kind of Borrow Checking,https://verdagon.dev/blog/valen-group-borrowing,verdagon.dev,9,3,verdagon,2026-10-11T12:06:22
+50041540,7,IRCv3,https://ircv3.net/,ircv3.net,133,116,basilikum,2026-10-11T10:11:27
+50042330,8,"Weave (YC W25) is hiring ML, AI, product, & design engineers",https://jobs.ashbyhq.com/weave-os,jobs.ashbyhq.com,0,0,,2026-10-11T12:01:08
+50042149,9,"What driving across Europe costs in tolls, vignettes, bridges and fuel",https://copilot.travel/tolls/europe-2026,copilot.travel,23,19,heikkikalliokos,2026-10-11T11:39:10
+49991852,10,2D Vehicles,https://patkerr.co.uk/2d-vehicles/,patkerr.co.uk,516,105,Michelangelo11,2026-10-07T12:30:40
+50037949,11,Build your own decision model,https://nishtahir.com/build-your-own-decision-model/,nishtahir.com,362,79,softwaredoug,2026-10-10T22:50:10
+50036864,12,A city-building game in which the city would prefer you didn't,https://housing.over.pizza/,housing.over.pizza,399,132,JumpCrisscross,2026-10-10T20:31:50
+50030470,13,Rat's Register Allocator,https://hexrat.cc/pages/blog/2026_10_07,hexrat.cc,23,2,mpweiher,2026-10-10T07:10:17
+50029487,14,The Lightbulb Computer,https://lightbulbcomputer.com/,lightbulbcomputer.com,480,72,oskarth,2026-10-10T04:12:26
+50033300,15,Compression and Concatenation on the Web,https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1,theconsensus.dev,5,0,eatonphil,2026-10-10T14:21:12
+50017548,16,How big is a Git commit?,https://ratfactor.com/cards/git-commit-size,ratfactor.com,53,22,theanonymousone,2026-10-09T08:13:44
+50042370,17,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html,phys.org,15,7,optimalsolver,2026-10-11T12:07:22
+50031289,18,When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64,https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/,joelsiks.com,9,2,joelsiks,2026-10-10T09:55:43
+50038623,19,PSPi 6 – Raspberry Pi in a PSP,https://github.com/othermod/PSPi-Version-6,github.com,111,10,therepanic,2026-10-11T00:45:49
+50001234,20,Retrofitting language models to operate over bytes,https://www.nature.com/articles/s41586-026-11111-4,nature.com,77,13,theanonymousone,2026-10-08T02:15:16
+50017247,21,Nix wrote half of my debugger,https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger,fzakaria.com,208,49,ingve,2026-10-09T07:29:08
+50015833,22,Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes,https://hangul.ink/blog/hangul-day,hangul.ink,62,10,jbaudanza,2026-10-09T03:58:16
+50041667,23,"""Robot"" Is a Social Construct: Why Your Dishwasher Is Not a Robot",https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/,robotgirlgang.com,25,30,birdculture,2026-10-11T10:34:43
+50021899,24,Five months treating bugs like patients and coding agents like a medical team,https://www.cockroachlabs.com/blog/experiment-running-hospital-code/,cockroachlabs.com,159,65,rafiss,2026-10-09T15:26:33
+50042107,25,AI is creating a 'human premium' for art created by people,https://www.bbc.com/news/articles/c5vgjm3gk7rzo,bbc.com,46,52,colinprince,2026-10-11T11:34:28
+50031614,26,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,https://github.com/rociiu/talorys,github.com,303,137,rociiu,2026-10-10T10:52:09
+50034081,27,Knuth reward check,https://www.thomas-huehn.com/knuth-reward-check/,thomas-huehn.com,202,75,Curiositry,2026-10-10T15:47:01
+50028647,28,Decade-old RAM is making a comeback,https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback,theverge.com,105,91,1potato,2026-10-10T01:37:08
+50016956,29,Mxc: Microsoft Execution Containers version 1.0.0,https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/,blogs.windows.com,199,58,smokel,2026-10-09T06:52:49
+50040547,30,3rd Yandex Cloud Data Center Was Hit,https://status.yandex.cloud/en/incidents/2136,status.yandex.cloud,290,358,defly,2026-10-11T07:34:45
+50030558,31,Cyril Hilsum invented the flat-screen displays that hold us in thrall,https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall,economist.com,10,1,sohkamyung,2026-10-10T07:25:23
+50033357,32,Unikernels were hard. key word: were,https://ghuntley.com/unikernels/,ghuntley.com,174,84,ghuntley,2026-10-10T14:27:09
+50029830,33,Food processing influences metabolism and brain activity,https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html,news.vt.edu,167,135,gmays,2026-10-10T05:22:30
+50024805,34,Deterministic Simulation Testing in Celld,https://celld.dev/docs/engineering/deterministic-simulation-testing/,celld.dev,29,2,handfuloflight,2026-10-09T18:31:50
+50005743,35,C for Rust programmers,https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/,bd103.dev,158,171,xyproto,2026-10-08T13:44:36
+49984349,36,OpenSCAD the Programmers Solid 3D CAD Modeller,https://openscad.org/,openscad.org,158,129,b-man,2026-10-06T21:22:44
+50039092,37,500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter,https://momo5502.com/posts/2026-10-09-game-decompilation/,momo5502.com,111,82,davikr,2026-10-11T02:02:38
+50020901,38,Getting old Macromedia Director Games to run on modern Hardware,https://werwolv.net/posts/macromedia_copy_protection/,werwolv.net,80,16,speckx,2026-10-09T14:18:03
+49986919,39,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html,phys.org,165,68,geox,2026-10-07T01:44:59
+50039536,40,GameBoy on E-Paper ESP32 at 30FPS [video],https://www.youtube.com/watch?v=XiZmM6hwwAU,youtube.com,113,33,pizzaiolo,2026-10-11T03:21:07
+49980880,41,Grieving the loss of details,https://purplesyringa.moe/blog/grieving-the-loss-of-details/,purplesyringa.moe,459,371,signa11,2026-10-06T16:37:21
+50006930,42,"Show HN: Diffle, a keyboard-centric diff viewer with LSP support",https://github.com/moritzwilksch/diffle,github.com,58,9,mwil1000,2026-10-08T15:23:19
+50019911,43,Cloudflare acquires Deno,https://deno.com/blog/cloudflare,deno.com,1354,705,ilreb,2026-10-09T13:03:48
+50024242,44,Rampart: Browser native on-device PII radaction,https://ndstudio.gov/posts/say-hello-to-rampart,ndstudio.gov,87,33,nateb2022,2026-10-09T17:52:07
+50009451,45,The Marriage That Captures a High Point of American Art,https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916,theatlantic.com,9,1,prismatic,2026-10-08T18:00:03
+50022292,46,Triple-A Minesweeper,https://minesweeper.mikelacher.com/,minesweeper.mikelacher.com,1391,279,robin_reala,2026-10-09T15:51:05
+50041061,47,"Open-source version of Adobe Creative Suite, built with Rust, using AI",https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/,petapixel.com,11,3,trakkstar,2026-10-11T08:53:32
+50028275,48,REA Reverse – Engineer Anything,https://rea.tools/,rea.tools,743,320,modinfo,2026-10-10T00:37:07
+50041739,49,What's Wrong with GitHub,https://www.gnu.org/philosophy/whats-wrong-with-github.html,gnu.org,6,3,signa11,2026-10-11T10:43:54
+50032758,50,"I would like the value of my home to rise, while my property taxes fall",https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/,conversableeconomist.com,257,585,colinprince,2026-10-10T13:29:03
+50031653,51,Apple/macOS removed from official Unix registry,https://www.opengroup.org//openbrand/register/,opengroup.org,278,236,john_alan,2026-10-10T10:57:31
+50035886,52,Nvidia in talks to acquire US 'open' model startup Reflection AI,https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a,ft.com,168,107,arkj,2026-10-10T18:48:35
+50031269,53,`123456' password used in Danish CPR data breach,https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/,cphpost.dk,394,204,baal80spam,2026-10-10T09:51:49
+50035530,54,Why DuckDB 2.0 is faster,https://motherduck.com/blog/why-duckdb-20-is-faster/,motherduck.com,200,64,tosh,2026-10-10T18:08:49
+50033407,55,Bitwarden Dual License Model,https://community.bitwarden.com/t/published-version-update-in-app-stores/102750,community.bitwarden.com,384,283,Cider9986,2026-10-10T14:32:50
+50028027,56,Clinical trial of a prion disease drug candidate begins enrolling participants,https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants,broadinstitute.org,169,44,luu,2026-10-09T23:53:08
+49981508,57,"Noto means ""no tofu"": fixing dotted circles in Myanmar text",https://www.datocms.com/blog/handling-less-common-scripts,datocms.com,58,34,steffoz,2026-10-06T17:24:17
+50018088,58,"Sorry, I'm in a meeting",https://iminafleeting.com/,iminafleeting.com,1020,279,splintersio,2026-10-09T09:21:48
+50028162,59,How strong is the strong interaction?,https://cerncourier.com/how-strong-is-the-strong-interaction/,cerncourier.com,53,19,EA-3167,2026-10-10T00:13:16
+50034008,60,How Protein Took over the World,https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd,ft.com,75,165,thm,2026-10-10T15:40:06
