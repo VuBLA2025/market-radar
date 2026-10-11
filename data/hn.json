@@ -1,0 +1,340 @@
+{
+ "meta": {
+  "source": "https://news.ycombinator.com/",
+  "scraped_at": "2026-10-11T04:20:34+00:00",
+  "count": 30,
+  "sample": false
+ },
+ "items": [
+  {
+   "id": "50038634",
+   "rank": 1,
+   "title": "WallHop – 12ft.io is gone, so I built a replacement",
+   "url": "https://wallhop.io/",
+   "domain": "wallhop.io",
+   "points": 171,
+   "comments": 78,
+   "author": "TheWaffleHax",
+   "posted_at": "2026-10-11T00:46:48"
+  },
+  {
+   "id": "50037949",
+   "rank": 2,
+   "title": "Build your own decision model",
+   "url": "https://nishtahir.com/build-your-own-decision-model/",
+   "domain": "nishtahir.com",
+   "points": 168,
+   "comments": 33,
+   "author": "softwaredoug",
+   "posted_at": "2026-10-10T22:50:10"
+  },
+  {
+   "id": "49991852",
+   "rank": 3,
+   "title": "2D Vehicles",
+   "url": "https://patkerr.co.uk/2d-vehicles/",
+   "domain": "patkerr.co.uk",
+   "points": 395,
+   "comments": 88,
+   "author": "Michelangelo11",
+   "posted_at": "2026-10-07T12:30:40"
+  },
+  {
+   "id": "50039504",
+   "rank": 4,
+   "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+   "url": "https://worldfacts.app",
+   "domain": "worldfacts.app",
+   "points": 11,
+   "comments": 4,
+   "author": "yegortk",
+   "posted_at": "2026-10-11T03:13:46"
+  },
+  {
+   "id": "50036864",
+   "rank": 5,
+   "title": "A city-building game in which the city would prefer you didn't",
+   "url": "https://housing.over.pizza/",
+   "domain": "housing.over.pizza",
+   "points": 236,
+   "comments": 84,
+   "author": "JumpCrisscross",
+   "posted_at": "2026-10-10T20:31:50"
+  },
+  {
+   "id": "50039331",
+   "rank": 6,
+   "title": "Terrence Tao does not understand cancer medicine",
+   "url": "https://www.drvinayprasad.com/p/terrence-tao-does-not-understand",
+   "domain": "drvinayprasad.com",
+   "points": 14,
+   "comments": 2,
+   "author": "elo2000",
+   "posted_at": "2026-10-11T02:42:42"
+  },
+  {
+   "id": "50038623",
+   "rank": 7,
+   "title": "PSPi 6 – Raspberry Pi in a PSP",
+   "url": "https://github.com/othermod/PSPi-Version-6",
+   "domain": "github.com",
+   "points": 33,
+   "comments": 5,
+   "author": "therepanic",
+   "posted_at": "2026-10-11T00:45:49"
+  },
+  {
+   "id": "50029487",
+   "rank": 8,
+   "title": "The Lightbulb Computer",
+   "url": "https://lightbulbcomputer.com/",
+   "domain": "lightbulbcomputer.com",
+   "points": 308,
+   "comments": 46,
+   "author": "oskarth",
+   "posted_at": "2026-10-10T04:12:26"
+  },
+  {
+   "id": "50039633",
+   "rank": 9,
+   "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+   "url": "https://github.com/vscarpenter/gsd-task-manager",
+   "domain": "github.com",
+   "points": 4,
+   "comments": 1,
+   "author": "vscarpenter",
+   "posted_at": "2026-10-11T03:42:56"
+  },
+  {
+   "id": "50017247",
+   "rank": 10,
+   "title": "Nix wrote half of my debugger",
+   "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+   "domain": "fzakaria.com",
+   "points": 158,
+   "comments": 29,
+   "author": "ingve",
+   "posted_at": "2026-10-09T07:29:08"
+  },
+  {
+   "id": "50039627",
+   "rank": 11,
+   "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "domain": "theverge.com",
+   "points": 13,
+   "comments": 4,
+   "author": "jonbaer",
+   "posted_at": "2026-10-11T03:41:53"
+  },
+  {
+   "id": "50034081",
+   "rank": 12,
+   "title": "Knuth reward check",
+   "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+   "domain": "thomas-huehn.com",
+   "points": 173,
+   "comments": 61,
+   "author": "Curiositry",
+   "posted_at": "2026-10-10T15:47:01"
+  },
+  {
+   "id": "50035530",
+   "rank": 13,
+   "title": "Why DuckDB 2.0 is faster",
+   "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+   "domain": "motherduck.com",
+   "points": 170,
+   "comments": 51,
+   "author": "tosh",
+   "posted_at": "2026-10-10T18:08:49"
+  },
+  {
+   "id": "50015833",
+   "rank": 14,
+   "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+   "url": "https://hangul.ink/blog/hangul-day",
+   "domain": "hangul.ink",
+   "points": 18,
+   "comments": 2,
+   "author": "jbaudanza",
+   "posted_at": "2026-10-09T03:58:16"
+  },
+  {
+   "id": "50031614",
+   "rank": 15,
+   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "url": "https://github.com/rociiu/talorys",
+   "domain": "github.com",
+   "points": 266,
+   "comments": 123,
+   "author": "rociiu",
+   "posted_at": "2026-10-10T10:52:09"
+  },
+  {
+   "id": "50001234",
+   "rank": 16,
+   "title": "Retrofitting language models to operate over bytes",
+   "url": "https://www.nature.com/articles/s41586-026-11111-4",
+   "domain": "nature.com",
+   "points": 27,
+   "comments": 0,
+   "author": "theanonymousone",
+   "posted_at": "2026-10-08T02:15:16"
+  },
+  {
+   "id": "50039092",
+   "rank": 17,
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "domain": "momo5502.com",
+   "points": 62,
+   "comments": 43,
+   "author": "davikr",
+   "posted_at": "2026-10-11T02:02:38"
+  },
+  {
+   "id": "50016956",
+   "rank": 18,
+   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+   "domain": "blogs.windows.com",
+   "points": 173,
+   "comments": 40,
+   "author": "smokel",
+   "posted_at": "2026-10-09T06:52:49"
+  },
+  {
+   "id": "50038473",
+   "rank": 19,
+   "title": "Veda: The First Agentic Hobby Operating System",
+   "url": "https://github.com/vahmoh25/Veda",
+   "domain": "github.com",
+   "points": 36,
+   "comments": 7,
+   "author": "vahmohh",
+   "posted_at": "2026-10-11T00:22:33"
+  },
+  {
+   "id": "50033357",
+   "rank": 20,
+   "title": "Unikernels were hard. key word: were",
+   "url": "https://ghuntley.com/unikernels/",
+   "domain": "ghuntley.com",
+   "points": 120,
+   "comments": 51,
+   "author": "ghuntley",
+   "posted_at": "2026-10-10T14:27:09"
+  },
+  {
+   "id": "49984349",
+   "rank": 21,
+   "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+   "url": "https://openscad.org/",
+   "domain": "openscad.org",
+   "points": 120,
+   "comments": 94,
+   "author": "b-man",
+   "posted_at": "2026-10-06T21:22:44"
+  },
+  {
+   "id": "50021899",
+   "rank": 22,
+   "title": "Five months treating bugs like patients and coding agents like a medical team",
+   "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+   "domain": "cockroachlabs.com",
+   "points": 93,
+   "comments": 41,
+   "author": "rafiss",
+   "posted_at": "2026-10-09T15:26:33"
+  },
+  {
+   "id": "50020901",
+   "rank": 23,
+   "title": "Getting old Macromedia Director Games to run on modern Hardware",
+   "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+   "domain": "werwolv.net",
+   "points": 54,
+   "comments": 8,
+   "author": "speckx",
+   "posted_at": "2026-10-09T14:18:03"
+  },
+  {
+   "id": "50039062",
+   "rank": 24,
+   "title": "A plastic once thought harmless may be fueling fatty liver disease",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+   "domain": "sciencedaily.com",
+   "points": 20,
+   "comments": 1,
+   "author": "gradus_ad",
+   "posted_at": "2026-10-11T01:56:04"
+  },
+  {
+   "id": "50006930",
+   "rank": 25,
+   "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+   "url": "https://github.com/moritzwilksch/diffle",
+   "domain": "github.com",
+   "points": 19,
+   "comments": 1,
+   "author": "mwil1000",
+   "posted_at": "2026-10-08T15:23:19"
+  },
+  {
+   "id": "50024805",
+   "rank": 26,
+   "title": "Deterministic Simulation Testing in Celld",
+   "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+   "domain": "celld.dev",
+   "points": 4,
+   "comments": 0,
+   "author": "handfuloflight",
+   "posted_at": "2026-10-09T18:31:50"
+  },
+  {
+   "id": "49980880",
+   "rank": 27,
+   "title": "Grieving the loss of details",
+   "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+   "domain": "purplesyringa.moe",
+   "points": 377,
+   "comments": 293,
+   "author": "signa11",
+   "posted_at": "2026-10-06T16:37:21"
+  },
+  {
+   "id": "50029830",
+   "rank": 28,
+   "title": "Food processing influences metabolism and brain activity",
+   "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+   "domain": "news.vt.edu",
+   "points": 124,
+   "comments": 91,
+   "author": "gmays",
+   "posted_at": "2026-10-10T05:22:30"
+  },
+  {
+   "id": "50005743",
+   "rank": 29,
+   "title": "C for Rust programmers",
+   "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+   "domain": "bd103.dev",
+   "points": 125,
+   "comments": 109,
+   "author": "xyproto",
+   "posted_at": "2026-10-08T13:44:36"
+  },
+  {
+   "id": "50024242",
+   "rank": 30,
+   "title": "Rampart: Browser native on-device PII radaction",
+   "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+   "domain": "ndstudio.gov",
+   "points": 82,
+   "comments": 31,
+   "author": "nateb2022",
+   "posted_at": "2026-10-09T17:52:07"
+  }
+ ]
+}
