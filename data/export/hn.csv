@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50051532,1,Yandex bot traffic down 99% after data center attack,https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic,radar.cloudflare.com,109,27,rooftopzen,2026-10-12T04:54:12
-50051573,2,Type-safe HTML templating in Zig,https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html,lalinsky.com,29,8,lukaslalinsky,2026-10-12T05:02:34
-50048642,3,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,royfish.dev,253,120,royfish,2026-10-11T22:33:39
-50051530,4,Will Linux phones become a viable alternative to the Android/iOS duopoly?,https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/,amosbbatto.wordpress.com,19,4,amosbatto,2026-10-12T04:54:00
-50045984,5,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,nanolathe.gg,441,187,jttnr,2026-10-11T18:04:47
-50049411,6,Whatever became of holography? (2011),https://www.americanscientist.org/article/whatever-became-of-holography,americanscientist.org,104,50,cainxinth,2026-10-11T23:50:34
-50047091,7,Cartographers of North Korea (2019),https://cartographers-nk.wonyoung.so/,cartographers-nk.wonyoung.so,227,39,edent,2026-10-11T19:46:40
-50034206,8,Calculus with Julia,https://jverzani.github.io/CalculusWithJuliaNotes.jl/,jverzani.github.io,62,1,subset,2026-10-10T15:59:52
-50049872,9,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,github.com,71,18,acley,2026-10-12T00:48:27
-50034001,10,No portable way to detect string-to-float conversion errors in standard C,https://sebsite.pw/w/20261009-strtod.html,sebsite.pw,21,14,signa11,2026-10-10T15:39:30
-50047422,11,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,twitter.com,379,536,albertzeyer,2026-10-11T20:20:52
-50043026,12,Terence Tao: Math 2.0 [pdf],https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf,teorth.github.io,373,408,Anon84,2026-10-11T13:16:45
-50048638,13,Google is illegaly cutting forest to build data centers,https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment,theguardian.com,335,85,heyimada,2026-10-11T22:33:30
-50049508,14,Local Indexing to reduce tool calling and token usage,https://tedhaley.ca/pensieve/,tedhaley.ca,56,12,TedHaley,2026-10-12T00:03:53
-50049133,15,Illustration Beyond Proof,https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/,terrytao.wordpress.com,52,0,smilelamp,2026-10-11T23:22:36
-50048312,16,Passkeys are a trap,https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them,nonfunctional.substack.com,460,250,laurex,2026-10-11T21:59:48
-50046241,17,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",https://www.ways-of-seeing.com/ch1,ways-of-seeing.com,98,15,rafael859,2026-10-11T18:26:24
-50039608,18,Vectorized CLZ and CTZ,https://purplesyringa.moe/blog/vectorized-clz-and-ctz/,purplesyringa.moe,31,4,zX41ZdbW,2026-10-11T03:36:42
-50038088,19,Every US Electrical Outlet Explained [video],https://www.youtube.com/watch?v=n_1wzYQwnts,youtube.com,8,3,zdw,2026-10-10T23:12:55
-50041252,20,Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos,https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5,cell.com,40,4,Bluestein,2026-10-11T09:19:46
-50047055,21,"So, You’d Like To Sell Your Print Issues Of The Onion?",https://theonion.com/archivehunt/,theonion.com,297,45,mooreds,2026-10-11T19:43:32
-50048522,22,Recursive self-improvement through collective intelligence,https://pub.sakana.ai/mass/,pub.sakana.ai,94,51,hardmaru,2026-10-11T22:22:10
-50045946,23,"NYC's ""Click to Cancel"" rule is now in effect",https://www.nyc.gov/main/click-to-cancel,nyc.gov,428,204,gregsadetsky,2026-10-11T18:01:16
-50021989,24,I guess I'm using WebP now?,https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now,anderegg.ca,96,100,Brajeshwar,2026-10-09T15:32:04
-50047802,25,Tattoos you can turn on and off,https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off,livescience.com,46,16,MortyDev,2026-10-11T21:04:46
-50049003,26,ClickHouse C – Talk to ClickHouse using its native binary protocol,https://github.com/ClickHouse/clickhouse-c,github.com,29,1,saisrirampur,2026-10-11T23:08:29
-50045273,27,apsw: Another Python SQLite Wrapper,https://github.com/rogerbinns/apsw,github.com,76,17,tosh,2026-10-11T16:58:22
-50042362,28,Valen's Memory Safety: A New Kind of Borrow Checking,https://verdagon.dev/blog/valen-group-borrowing,verdagon.dev,153,83,verdagon,2026-10-11T12:06:22
-50048490,29,Shredding JSON columns gave Logfire up to 1000x faster queries,https://pydantic.dev/articles/dynamic-shredding-2026-01-26,pydantic.dev,17,9,acossta,2026-10-11T22:18:26
-50049498,30,HashiCorp archives the Boundary open source repo,https://github.com/hashicorp/boundary,github.com,62,12,vmatsiiako,2026-10-12T00:02:45
-50033601,31,"Safe SIMD in Rust, even on the inside",https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/,shnatsel.github.io,53,3,ravenical,2026-10-10T14:56:11
-50028264,32,"A Cray-1 supercomputer replica from 30 ""obsolete"" Mac Minis",https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/,arstechnica.com,70,33,pseudolus,2026-10-10T00:34:34
-50044272,33,How I reverse engineered a commercial spatial audio effect,http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/,epestr.com,114,36,epestr,2026-10-11T15:21:58
-50041540,34,IRCv3,https://ircv3.net/,ircv3.net,372,311,basilikum,2026-10-11T10:11:27
-50047825,35,A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her,https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963,inc.com,199,151,bhrlady,2026-10-11T21:07:20
-50033486,36,FlowCE: Calculus on your TI-84 Plus CE,https://tommyb3ll.github.io/FlowCE/,tommyb3ll.github.io,41,20,jgx0,2026-10-10T14:43:09
-50042330,37,"Weave (YC W25) is hiring ML, AI, product, & design engineers",https://jobs.ashbyhq.com/weave-os,jobs.ashbyhq.com,0,0,,2026-10-11T12:01:08
-50036023,38,Cbirds: A flock of birds in your terminal,https://github.com/clainstone/cbirds,github.com,25,18,epestr,2026-10-10T19:02:35
-50008566,39,"Akhetonics Photonic Computing: 1,000x Faster CPUs",https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079,medium.com,61,38,peter_d_sherman,2026-10-08T17:08:05
-50044989,40,"Playgrnd – tiny tools for making weird, beautiful things",https://www.playgrnd.tools/,playgrnd.tools,56,16,eustoria,2026-10-11T16:31:37
-50042219,41,I paid people to try and follow my README,https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/,shkspr.mobi,381,191,edent,2026-10-11T11:47:29
-50042370,42,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html,phys.org,70,94,optimalsolver,2026-10-11T12:07:22
-50040547,43,3rd Yandex Cloud Data Center Was Hit,https://status.yandex.cloud/en/incidents/2136,status.yandex.cloud,571,692,defly,2026-10-11T07:34:45
-50049302,44,Governments are mishandling the affordability crisis,https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis,economist.com,87,88,andsoitis,2026-10-11T23:40:06
-50043689,45,"I'm sorry, but you still have to think",https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/,itsallaboutthebit.com,353,158,drogus,2026-10-11T14:29:07
-50049388,46,"Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",https://github.com/plimsollmark/plimsoll,github.com,15,2,cagster,2026-10-11T23:47:59
-50046864,47,The Unreasonable Effectiveness of Vex in NixOS,https://blog.kammel.dev/post/nixos_vex/,blog.kammel.dev,49,1,datosh,2026-10-11T19:23:07
-50040276,48,LineageOS 24,https://lineageos.org/Changelog-32/,lineageos.org,419,173,timschumi,2026-10-11T06:18:59
-50039092,49,500B tokens later: Letting AI agents decompile a first-person shooter,https://momo5502.com/posts/2026-10-09-game-decompilation/,momo5502.com,188,137,davikr,2026-10-11T02:02:38
-50049132,50,"Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",https://github.com/swimmingbrain/brainotes,github.com,23,2,swimmingbrain,2026-10-11T23:22:29
-50041765,51,Using AI for just 10 minutes erodes your ability to persist at hard things,https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things,vcresearch.berkeley.edu,98,95,giuliomagnifico,2026-10-11T10:47:21
-50042425,52,The tilde in your PATH may not be your HOME,https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/,disconnect3d.pl,232,147,arusekk,2026-10-11T12:13:13
-50041682,53,Nitter: Update Oct 10th seeking funding and legal help,https://nitter.net,nitter.net,439,231,ForHackernews,2026-10-11T10:37:55
-50032253,54,Shape-sensing sheet digitally tracks its own movement as it bends and twists,https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008,news.mit.edu,25,0,bookofjoe,2026-10-10T12:27:36
-50047553,55,Multi-agent harnesses need separate message channels,https://harshalgajjar.com/blog/multi-agent-harnesses-need-separate-message-channels,harshalgajjar.com,11,3,harshalgajjar,2026-10-11T20:34:32
-50048861,56,A Chicago-area college told Flock to remove its cameras. The company refused,https://chicago.suntimes.com/education/2026/10/09/to-protect-immigrant-students-a-chicago-area-college-told-flock-to-remove-its-cameras-the-company-refused,chicago.suntimes.com,35,4,smurda,2026-10-11T22:54:31
-50050762,57,Sorry we made you grind LeetCode,https://www.hackerrank.com/writing/why-were-sorry,hackerrank.com,25,26,ishanz,2026-10-12T02:52:10
-50050853,58,Pizza in North Korea,https://en.wikipedia.org/wiki/Pizza_in_North_Korea,en.wikipedia.org,14,0,axbac,2026-10-12T03:02:04
-50042333,59,"Show HN: BetterWispr – Free, open-source dictation for Mac",https://betterwispr.com/,betterwispr.com,186,105,kartik017,2026-10-11T12:01:28
-50028647,60,The RAM shortage is bringing back DDR4,https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback,theverge.com,278,294,1potato,2026-10-10T01:37:08
+50036287,1,The Making Of Super Mario 64 – full Giles Goddard interview (2001),https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/,pixelatron.com,104,32,gregsadetsky,2026-10-10T19:28:41
+50055375,2,"Incident with Actions, Pull Requests and Issues",https://www.githubstatus.com/incidents/93njd414rpbx,githubstatus.com,100,74,dkpk,2026-10-12T12:23:51
+50037711,3,Secret of Orange Cats Revealed After 60-Year Search,https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search,sciencealert.com,114,89,bookofjoe,2026-10-10T22:10:57
+50048642,4,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,royfish.dev,569,272,royfish,2026-10-11T22:33:39
+50051573,5,Type-safe HTML templating in Zig,https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html,lalinsky.com,183,69,lukaslalinsky,2026-10-12T05:02:34
+50057278,6,Why aren't AI companies being charged for hacking?,https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/,mortoray.com,184,132,ingve,2026-10-12T14:52:37
+50054751,7,QGIS bans AI assisted contributions,https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387,github.com,280,286,bwnkl,2026-10-12T11:22:24
+50042936,8,Choreographic Programming in Rust,https://github.com/hibanaworks/hibana,github.com,32,21,o8vm,2026-10-11T13:05:03
+50056822,9,Solar Panels That Plug into Your Wall,https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy,nationalgeographic.com,46,37,speckx,2026-10-12T14:19:04
+50045984,10,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,nanolathe.gg,607,227,jttnr,2026-10-11T18:04:47
+50052251,11,Show HN: PS2 games statically recompiled to WebAssembly,https://github.com/snuri00/ps2-web-recomp,github.com,146,79,deadxwarrior,2026-10-12T06:46:53
+50034206,12,Calculus with Julia,https://jverzani.github.io/CalculusWithJuliaNotes.jl/,jverzani.github.io,195,32,subset,2026-10-10T15:59:52
+50041573,13,Running the unmodified Linux amdgpu driver on an iPad,https://github.com/Geramy/LemonSeed-Studio,github.com,63,18,joshcsimmons,2026-10-11T10:18:18
+50057030,14,An Unmade Film Shaped Hayao Miyazaki,https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki,animationobsessive.substack.com,12,1,vinhnx,2026-10-12T14:34:25
+50054474,15,Living in the Weimar Era of Ruby,https://blog.julik.nl/2026/10/the-weimar-of-ruby,blog.julik.nl,15,0,julik,2026-10-12T10:53:41
+50043026,16,Terence Tao: Math 2.0 [pdf],https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf,teorth.github.io,464,466,Anon84,2026-10-11T13:16:45
+50034950,17,Bag of Decisions Reranker,https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html,softwaredoug.com,48,5,zdw,2026-10-10T17:12:33
+50047091,18,Cartographers of North Korea (2019),https://cartographers-nk.wonyoung.so/,cartographers-nk.wonyoung.so,301,61,edent,2026-10-11T19:46:40
+50049872,19,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,github.com,170,64,acley,2026-10-12T00:48:27
+50054207,20,Deloitte falsified documents to evade tax on Abramovich's wealth,https://www.bbc.com/news/articles/c64g1l5389kvo,bbc.com,506,170,Betelbuddy,2026-10-12T10:21:27
+50055220,21,Citroen revives the 2CV for an electric age,https://www.bbc.co.uk/news/articles/c620r33plgppo,bbc.co.uk,113,116,scrlk,2026-10-12T12:09:09
+50047422,22,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,twitter.com,581,838,albertzeyer,2026-10-11T20:20:52
+50049411,23,Whatever became of holography? (2011),https://www.americanscientist.org/article/whatever-became-of-holography,americanscientist.org,163,85,cainxinth,2026-10-11T23:50:34
+50039291,24,Ask HN: Do you want a router that has DD-WRT pre-installed?,https://news.ycombinator.com/item?id=50039291,news.ycombinator.com (Ask/Show HN),100,103,Ixander,2026-10-11T02:37:33
+50048312,25,Passkeys are a trap,https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them,nonfunctional.substack.com,864,463,laurex,2026-10-11T21:59:48
+50049508,26,Local Indexing to reduce tool calling and token usage,https://tedhaley.ca/pensieve/,tedhaley.ca,105,34,TedHaley,2026-10-12T00:03:53
+50052638,27,I Found a $90k Remote Code Execution Vulnerability in Google,https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce,simonkoeck.com,29,10,soeckly,2026-10-12T07:28:53
+50049133,28,Illustration Beyond Proof,https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/,terrytao.wordpress.com,92,14,smilelamp,2026-10-11T23:22:36
+50046241,29,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",https://www.ways-of-seeing.com/ch1,ways-of-seeing.com,134,36,rafael859,2026-10-11T18:26:24
+50045946,30,"NYC's ""Click to Cancel"" rule is now in effect",https://www.nyc.gov/main/click-to-cancel,nyc.gov,555,279,gregsadetsky,2026-10-11T18:01:16
+50055654,31,"AI less regulated than milk, Microsoft president says in warning over safety",https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules,theguardian.com,16,15,nephihaha,2026-10-12T12:46:52
+50047055,32,"So, you’d like to sell your print issues of The Onion?",https://theonion.com/archivehunt/,theonion.com,364,56,mooreds,2026-10-11T19:43:32
+50021989,33,I guess I'm using WebP now?,https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now,anderegg.ca,125,153,Brajeshwar,2026-10-09T15:32:04
+50057185,34,Deep dive into Azure Maia 300 architecture,https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/,azure.microsoft.com,3,1,azhenley,2026-10-12T14:45:44
+50052814,35,Zod 4.6.6 compromised by malware?,https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467,github.com,168,48,luggage_bazooka,2026-10-12T07:47:29
+50052163,36,"Postgres isn't slow, your storage is",https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is,clickhouse.com,153,162,saisrirampur,2026-10-12T06:36:53
+50051530,37,Will Linux phones become a viable alternative to the Android/iOS duopoly?,https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/,amosbbatto.wordpress.com,232,273,amosbatto,2026-10-12T04:54:00
+50042330,38,"Weave (YC W25) is hiring ML, AI, product, & design engineers",https://jobs.ashbyhq.com/weave-os,jobs.ashbyhq.com,0,0,,2026-10-11T12:01:08
+50041252,39,Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos,https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5,cell.com,76,54,Bluestein,2026-10-11T09:19:46
+50048522,40,Recursive self-improvement through collective intelligence,https://pub.sakana.ai/mass/,pub.sakana.ai,128,72,hardmaru,2026-10-11T22:22:10
+50039608,41,Vectorized CLZ and CTZ,https://purplesyringa.moe/blog/vectorized-clz-and-ctz/,purplesyringa.moe,52,5,zX41ZdbW,2026-10-11T03:36:42
+50042362,42,Valen's Memory Safety: A New Kind of Borrow Checking,https://verdagon.dev/blog/valen-group-borrowing,verdagon.dev,166,94,verdagon,2026-10-11T12:06:22
+50049003,43,ClickHouse C – Talk to ClickHouse using its native binary protocol,https://github.com/ClickHouse/clickhouse-c,github.com,44,3,saisrirampur,2026-10-11T23:08:29
+50053765,44,"A decade after Stardew Valley, Eric Barone is still going it alone",https://www.gq-magazine.co.uk/article/a-decade-after-stardew-valley-eric-barone-is-still-going-it-alone,gq-magazine.co.uk,39,6,HelloUsername,2026-10-12T09:37:58
+50048768,45,Google Data Centers around the world,https://datacenters.google/locations/,datacenters.google,79,70,andsoitis,2026-10-11T22:45:40
+50055912,46,Parsing JSON at gigabytes per second in Python,https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/,lemire.me,7,0,smilelamp,2026-10-12T13:08:34
+50051097,47,Crest – an Arc-inspired open-source browser for Mac,https://crestbrowser.com/,crestbrowser.com,22,19,cobychapple,2026-10-12T03:37:09
+50045273,48,apsw: Another Python SQLite Wrapper,https://github.com/rogerbinns/apsw,github.com,84,25,tosh,2026-10-11T16:58:22
+50055195,49,French supermarket chains say cyberattack forced refrigerator shutdown,https://www.france24.com/en/live-news/20261012-french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown,france24.com,16,3,Zadak,2026-10-12T12:07:48
+50041540,50,IRCv3,https://ircv3.net/,ircv3.net,394,336,basilikum,2026-10-11T10:11:27
+50056703,51,"Nobel Prize in economics goes to Hall, Woodford for work on boom-bust cycles",https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics,npr.org,4,0,rbanffy,2026-10-12T14:08:15
+50041765,52,Using AI for just 10 minutes erodes your ability to persist at hard things,https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things,vcresearch.berkeley.edu,137,124,giuliomagnifico,2026-10-11T10:47:21
+50028264,53,"A Cray-1 supercomputer replica from 30 ""obsolete"" Mac Minis",https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/,arstechnica.com,78,39,pseudolus,2026-10-10T00:34:34
+50042370,54,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html,phys.org,82,109,optimalsolver,2026-10-11T12:07:22
+50040547,55,3rd Yandex Cloud Data Center Was Hit,https://status.yandex.cloud/en/incidents/2136,status.yandex.cloud,605,748,defly,2026-10-11T07:34:45
+50044272,56,How I reverse engineered a commercial spatial audio effect,http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/,epestr.com,125,41,epestr,2026-10-11T15:21:58
+50033601,57,"Safe SIMD in Rust, even on the inside",https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/,shnatsel.github.io,62,4,ravenical,2026-10-10T14:56:11
+50052083,58,A Critical Look at Lean4,https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1,lesswrong.com,6,0,amanverasia,2026-10-12T06:24:44
+50047825,59,A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her,https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963,inc.com,248,178,bhrlady,2026-10-11T21:07:20
+50042219,60,I paid people to try and follow my README,https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/,shkspr.mobi,406,197,edent,2026-10-11T11:47:29
