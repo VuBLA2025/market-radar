@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50064536,1,Blood cells from 80-year-old donor become stem cells with molecular age under 20,https://doi.org/10.1111/acel.70751,doi.org,57,21,arunc,2026-10-12T23:34:22
-50064318,2,GPT-6 Astra Helped Me Jailbreak My Kindle,https://nirajrajgor.com/blog/kindle-photo-frame-with-ai,nirajrajgor.com,53,24,nirajrajgor,2026-10-12T23:07:25
-50058507,3,GLM-Legal,https://z.ai/blog/glm-legal,z.ai,415,239,ilreb,2026-10-12T16:11:45
-50063138,4,Who Is Vfmaddrnd231pd?,https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/,purplesyringa.moe,101,8,pngmangi,2026-10-12T21:12:43
-50058528,5,A Modern Web App in C,https://prophitt.me/writing/a-modern-web-app-in-c,prophitt.me,371,159,prophittcorey,2026-10-12T16:13:10
-50041866,6,The baffling intelligence of a single cell (2024),https://jsomers.net/e-coli-chemotaxis/,jsomers.net,20,1,jsomers,2026-10-11T11:02:30
-50063365,7,Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X,https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html,intel.com,35,11,hurricanepootis,2026-10-12T21:35:35
-50055304,8,Hackers activate automatic defrosting in supermarket fridges across Europe,https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident,tomshardware.com,418,638,Zeekaas,2026-10-12T12:16:42
-50063417,9,Phreak.ing – Internet Phone Switch,https://phreak.ing/,phreak.ing,57,16,rickcarlino,2026-10-12T21:39:32
-50061791,10,Making big downloads resumable in Firefox,https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html,lunarwatcher.codeberg.page,78,29,speckx,2026-10-12T19:36:02
-50061859,11,Writing a Demoscene Intro for the ZX Spectrum,https://www.markround.com/blog/2026/zx-spectrum-intro,markround.com,70,6,zdw,2026-10-12T19:40:00
-50063717,12,Janas: Run LLMs larger than RAM by streaming experts from SSD,https://github.com/prabanta-dev/janas,github.com,16,5,khalidkhair,2026-10-12T22:05:43
-50059096,13,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,https://news.ycombinator.com/item?id=50059096,news.ycombinator.com (Ask/Show HN),94,64,vishnukool,2026-10-12T16:46:34
-50055593,14,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,https://github.com/h0m3us3r/w1700k-sdr,github.com,250,64,djfergus,2026-10-12T12:41:58
-50055220,15,Citroen revives the 2CV for an electric age,https://www.bbc.com/news/articles/c620r33plgppo,bbc.com,257,315,scrlk,2026-10-12T12:09:09
-50060694,16,"Codex CLI installs a persistent, self-updating background daemon by default",https://github.com/openai/codex/issues/48195,github.com,439,229,whimblepop,2026-10-12T18:29:04
-50063831,17,Breaking Bad star RJ Mitte dies aged 34,https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332,news.sky.com,113,33,austinallegro,2026-10-12T22:15:29
-50064438,18,Show HN: An experimental pattern-first DAW that supports MCP,https://github.com/andrewfader/blokkily,github.com,7,2,androsynth89,2026-10-12T23:21:12
-50063427,19,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,203,184,layer8,2026-10-12T21:40:18
-50060269,20,'AI' Is Not a Tool by Rich Hickey,https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e,linkedin.com,200,92,svieira,2026-10-12T18:00:25
-50037711,21,Secret of Orange Cats Revealed After 60-Year Search,https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search,sciencealert.com,221,172,bookofjoe,2026-10-10T22:10:57
-50036287,22,The Making Of Super Mario 64 – full Giles Goddard interview (2001),https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/,pixelatron.com,216,84,gregsadetsky,2026-10-10T19:28:41
-50059115,23,Muse Wonder,https://research.meta.ai/blog/muse-wonder,research.meta.ai,513,281,meetpateltech,2026-10-12T16:48:01
-50056822,24,Solar panels that plug into your wall,https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy,nationalgeographic.com,101,93,speckx,2026-10-12T14:19:04
-50057668,25,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",https://taylor.town/kk-ai-2026,taylor.town,129,39,surprisetalk,2026-10-12T15:16:45
-50063042,26,Show HN: Brickbrag – A multiplayer brick-building world in the browser,https://brickbrag.com/,brickbrag.com,23,9,neuling,2026-10-12T21:03:36
-50052251,27,Show HN: PS2 games statically recompiled to WebAssembly,https://github.com/snuri00/ps2-web-recomp,github.com,265,141,deadxwarrior,2026-10-12T06:46:53
-50059204,28,Thinking will become a hobby,https://www.spinellis.gr/blog/20261008/?li261008,spinellis.gr,218,283,pranitha_m,2026-10-12T16:54:08
-50049588,29,Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p,https://github.com/SaarthurR/atticus-mac,github.com,62,9,SaarthRanka,2026-10-12T00:15:12
-50051573,30,Type-safe HTML templating in Zig,https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html,lalinsky.com,237,84,lukaslalinsky,2026-10-12T05:02:34
-50060674,31,"Publishers Killed the Paperback, Then Blamed Readers",https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback,jacobin.com,105,69,PaulHoule,2026-10-12T18:27:26
-50059523,32,"AI coding agents generate more code, but not more software",https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/,arstechnica.com,305,265,gumby,2026-10-12T17:14:01
-50034001,33,No portable way to detect string-to-float conversion errors in standard C,https://sebsite.pw/w/20261009-strtod.html,sebsite.pw,66,83,signa11,2026-10-10T15:39:30
-50054751,34,QGIS enacts moratorium on AI contributions,https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387,github.com,363,397,bwnkl,2026-10-12T11:22:24
-50063756,35,Patching Zig's Std,https://marler8997.github.io/blog/zig-patch/,marler8997.github.io,3,0,ingve,2026-10-12T22:09:36
-50052638,36,I Found a $90k Remote Code Execution Vulnerability in Google,https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce,simonkoeck.com,182,94,soeckly,2026-10-12T07:28:53
-50055409,37,(Post-Quantum) Cryptographic Right Answers,https://words.filippo.io/right-answers/,words.filippo.io,84,25,gavide,2026-10-12T12:26:32
-50060296,38,My Reddit AMA on the Law of Web Scraping,https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm,blog.ericgoldman.org,77,18,speckx,2026-10-12T18:02:32
-50046745,39,America's Longest Highway Tunnel (2025),https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/,thetravel.com,8,8,NaOH,2026-10-11T19:12:39
-50043026,40,Terence Tao: Math 2.0 [pdf],https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf,teorth.github.io,522,517,Anon84,2026-10-11T13:16:45
-50061278,41,OpenFatigue™ – Open is the new closed,https://openfatigue.ai/,openfatigue.ai,194,45,ajcp,2026-10-12T19:08:21
-50048642,42,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,royfish.dev,702,340,royfish,2026-10-11T22:33:39
-50063029,43,Picothermal – WebUSB Thermal Camera Using RP2040 and Flir Lepton,https://www.cezarchirila.com/blog/2026/10/picothermal/,cezarchirila.com,3,0,icamaster,2026-10-12T21:02:39
-50063707,44,The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI,https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/,wolfstreet.com,15,2,metadat,2026-10-12T22:05:07
-50041573,45,Running the unmodified Linux amdgpu driver on an iPad,https://github.com/Geramy/LemonSeed-Studio,github.com,88,19,joshcsimmons,2026-10-11T10:18:18
-50064100,46,OpenKylin: The AI Agent Linux Desktop,https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/,techstrong.ai,6,1,CrankyBear,2026-10-12T22:42:42
-50049872,47,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,github.com,207,72,acley,2026-10-12T00:48:27
-50058850,48,"Reverse engineer anything with agents, from app behavior down to native binaries",https://github.com/morluto/rea,github.com,82,26,taytus,2026-10-12T16:31:55
-50063944,49,"Japan declares a ""state of emergency in cyberspace"" as cyberattacks surge",https://twitter.com/Polymarket/status/2109748239931150347,twitter.com,7,0,jaekwon,2026-10-12T22:28:01
-50039291,50,Ask HN: Do you want a router that has DD-WRT pre-installed?,https://news.ycombinator.com/item?id=50039291,news.ycombinator.com (Ask/Show HN),133,138,Ixander,2026-10-11T02:37:33
-50054474,51,Living in the Weimar Era of Ruby,https://blog.julik.nl/2026/10/the-weimar-of-ruby,blog.julik.nl,87,54,julik,2026-10-12T10:53:41
-50047422,52,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,twitter.com,680,991,albertzeyer,2026-10-11T20:20:52
-50055375,53,"Incident with Actions, Pull Requests and Issues",https://www.githubstatus.com/incidents/93njd414rpbx,githubstatus.com,154,138,dkpk,2026-10-12T12:23:51
-50059446,54,Feds got warrants to use fake cell towers to hunt down Don Lemon's producer,https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/,wired.com,144,98,rndsignals,2026-10-12T17:08:16
-50034950,55,Bag of Decisions Reranker,https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html,softwaredoug.com,67,13,zdw,2026-10-10T17:12:33
-50064274,56,Canadian AI company turns away from U.S. government work amid trade tensions,https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/,globalnews.ca,5,1,ClearwayLaw,2026-10-12T23:02:24
-50048312,57,Passkeys are a trap,https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them,nonfunctional.substack.com,1021,536,laurex,2026-10-11T21:59:48
-50045984,58,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,nanolathe.gg,666,249,jttnr,2026-10-11T18:04:47
-50046241,59,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",https://www.ways-of-seeing.com/ch1,ways-of-seeing.com,143,47,rafael859,2026-10-11T18:26:24
-50049508,60,Local Indexing to reduce tool calling and token usage,https://tedhaley.ca/pensieve/,tedhaley.ca,119,49,TedHaley,2026-10-12T00:03:53
+50069499,1,11 year old unsoundness bugs found in Rust borrow checker,https://github.com/rust-lang/rust/issues/164250,github.com,387,193,formerly_proven,2026-10-13T10:27:00
+50069971,2,An hour of audio transcribed in about 13s on MacBook Air,https://eg2.haku.sh/,eg2.haku.sh,201,50,amrrs,2026-10-13T11:27:14
+50070593,3,Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs,https://machinelearning.apple.com/research/distributed-gpu-cloud,machinelearning.apple.com,84,36,acossta,2026-10-13T12:26:36
+50067414,4,Hittite royal archive found in Turkey,https://www.thehistoryblog.com/archives/77107,thehistoryblog.com,197,44,benbreen,2026-10-13T06:02:51
+50069337,5,Show HN: Use your OpenAI subscription to create audiobooks,https://pdftomp3.com/connect-ai/,pdftomp3.com,101,52,janpmz,2026-10-13T10:08:34
+50070287,6,A Visual Intro to Complex Numbers,https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers,photonlines.substack.com,19,4,surprisetalk,2026-10-13T12:00:04
+50069329,7,CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades,https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran,bloomberg.com,249,107,helsinkiandrew,2026-10-13T10:08:00
+50070302,8,Mozilla Introduces Firefox Enterprise,https://www.firefox.com/en-US/enterprise/,firefox.com,199,100,recvonline,2026-10-13T12:00:42
+50068036,9,Character.ai files for Chapter 11 bankruptcy,https://blog.character.ai/an-update-on-character-ai/,blog.character.ai,68,26,nryoo,2026-10-13T07:28:34
+50041866,10,The baffling intelligence of a single cell (2024),https://jsomers.net/e-coli-chemotaxis/,jsomers.net,347,97,jsomers,2026-10-11T11:02:30
+50058507,11,GLM-Legal,https://z.ai/blog/glm-legal,z.ai,621,346,ilreb,2026-10-12T16:11:45
+50055304,12,Hackers activate automatic defrosting in supermarket fridges across Europe,https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident,tomshardware.com,806,918,Zeekaas,2026-10-12T12:16:42
+50063365,13,Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X,https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html,intel.com,274,148,hurricanepootis,2026-10-12T21:35:35
+50068443,14,Document Review with Unsiloed and TypeSafe Jev,https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev,unsiloed.ai,32,7,ritzaco,2026-10-13T08:24:51
+50058528,15,A Modern Web App in C,https://prophitt.me/writing/a-modern-web-app-in-c,prophitt.me,642,279,prophittcorey,2026-10-12T16:13:10
+50071017,16,Apple HomeView,https://www.apple.com/apple-homeview/,apple.com,147,191,etothet,2026-10-13T13:02:12
+50063717,17,Janas: Run LLMs larger than RAM by streaming experts from SSD,https://github.com/prabanta-dev/janas,github.com,188,69,khalidkhair,2026-10-12T22:05:43
+50069942,18,Character.ai Files for Bankruptcy,https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney,theverge.com,118,76,yanis_t,2026-10-13T11:24:08
+50061791,19,Making big downloads resumable in Firefox,https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html,lunarwatcher.codeberg.page,249,120,speckx,2026-10-12T19:36:02
+50063138,20,Who is vfmaddrnd231pd?,https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/,purplesyringa.moe,234,21,pngmangi,2026-10-12T21:12:43
+50055593,21,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,https://github.com/h0m3us3r/w1700k-sdr,github.com,387,105,djfergus,2026-10-12T12:41:58
+50055220,22,Citroen revives the 2CV for an electric age,https://www.bbc.com/news/articles/c620r33plgppo,bbc.com,381,425,scrlk,2026-10-12T12:09:09
+50061859,23,Writing a Demoscene Intro for the ZX Spectrum,https://www.markround.com/blog/2026/zx-spectrum-intro,markround.com,161,30,zdw,2026-10-12T19:40:00
+50059096,24,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,https://news.ycombinator.com/item?id=50059096,news.ycombinator.com (Ask/Show HN),147,103,vishnukool,2026-10-12T16:46:34
+50064840,25,Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support),https://github.com/bherbruck/solidcraft,github.com,101,22,bherbruck,2026-10-13T00:11:04
+50063427,26,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,497,401,layer8,2026-10-12T21:40:18
+50047664,27,Auto Research: Integer multiplication below n log n,https://app.getsupers.com/auto-research,app.getsupers.com,72,37,swesnow,2026-10-11T20:48:30
+50065932,28,A look at the math that OpenAI claims computes faster Fourier transforms,https://www.argmin.net/p/faster-fourier-transforms,argmin.net,198,128,mochomocha,2026-10-13T02:46:43
+50056822,29,Solar panels that plug into your wall,https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy,nationalgeographic.com,231,244,speckx,2026-10-12T14:19:04
+50065692,30,AI models can provably hide arbitrary capabilities,https://arxiv.org/abs/2610.13928,arxiv.org,251,118,sbulaev,2026-10-13T02:07:08
+50064438,31,Show HN: An experimental pattern-first DAW that supports MCP,https://github.com/andrewfader/blokkily,github.com,80,31,androsynth89,2026-10-12T23:21:12
+50036287,32,The Making Of Super Mario 64 – full Giles Goddard interview (2001),https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/,pixelatron.com,265,100,gregsadetsky,2026-10-10T19:28:41
+50068437,33,DishwasherBench – Can Frontier Models Stack a Dishwasher?,https://github.com/composo-ai/DishwasherBench,github.com,75,43,mlukewizard,2026-10-13T08:24:06
+50063417,34,Phreak.ing – Internet Phone Switch,https://phreak.ing/,phreak.ing,144,34,rickcarlino,2026-10-12T21:39:32
+50068508,35,Crypto thieves sell hardware wallets with secret eSIM,https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html,heise.de,99,69,qwertox,2026-10-13T08:34:12
+50057668,36,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",https://taylor.town/kk-ai-2026,taylor.town,204,79,surprisetalk,2026-10-12T15:16:45
+50052638,37,I Found a $90k Remote Code Execution Vulnerability in Google,https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce,simonkoeck.com,220,106,soeckly,2026-10-12T07:28:53
+50060694,38,"Codex CLI installs a persistent, self-updating background daemon by default",https://github.com/openai/codex/issues/48195,github.com,584,280,whimblepop,2026-10-12T18:29:04
+50043026,39,Terence Tao: Math 2.0 [pdf],https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf,teorth.github.io,547,537,Anon84,2026-10-11T13:16:45
+50049588,40,Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p,https://github.com/SaarthurR/atticus-mac,github.com,111,23,SaarthRanka,2026-10-12T00:15:12
+50059115,41,Muse Wonder,https://research.meta.ai/blog/muse-wonder,research.meta.ai,650,357,meetpateltech,2026-10-12T16:48:01
+50059204,42,Thinking will become a hobby,https://www.spinellis.gr/blog/20261008/?li261008,spinellis.gr,311,427,pranitha_m,2026-10-12T16:54:08
+50069319,43,India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032,https://oilprice.com/Latest-Energy-News/World-News/Indias-Battery-Storage-Capacity-Set-to-Surge-Nearly-50-Fold-by-2032.html,oilprice.com,11,1,thelastgallon,2026-10-13T10:07:20
+50061497,44,RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine,https://ludeon.com/blog/2026/10/announcing-the-waylith-engine-and-update-1-7/,ludeon.com,76,29,sha-3,2026-10-12T19:18:42
+50034001,45,No portable way to detect string-to-float conversion errors in standard C,https://sebsite.pw/w/20261009-strtod.html,sebsite.pw,76,103,signa11,2026-10-10T15:39:30
+50048642,46,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,royfish.dev,731,357,royfish,2026-10-11T22:33:39
+50054751,47,QGIS enacts moratorium on AI contributions,https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387,github.com,380,406,bwnkl,2026-10-12T11:22:24
+50069318,48,AWS Lambda Web Functions,https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/,aws.amazon.com,65,49,HatchedLake721,2026-10-13T10:07:03
+50037711,49,Secret of Orange Cats Revealed After 60-Year Search,https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search,sciencealert.com,270,184,bookofjoe,2026-10-10T22:10:57
+50064673,50,The Origin Story of Kid Pix,http://red-green-blue.com/kid-pix-the-early-years,red-green-blue.com,22,2,MBCook,2026-10-12T23:52:29
+50041573,51,Running the unmodified Linux amdgpu driver on an iPad,https://github.com/Geramy/LemonSeed-Studio,github.com,98,19,joshcsimmons,2026-10-11T10:18:18
+50039291,52,Ask HN: Do you want a router that has DD-WRT pre-installed?,https://news.ycombinator.com/item?id=50039291,news.ycombinator.com (Ask/Show HN),148,142,Ixander,2026-10-11T02:37:33
+50049872,53,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,github.com,221,78,acley,2026-10-12T00:48:27
+50047422,54,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,twitter.com,706,1031,albertzeyer,2026-10-11T20:20:52
+50068666,55,Teach My Little Sister How to Drive,https://steamcommunity.com/app/3948460/allnews/,steamcommunity.com,16,9,croes,2026-10-13T08:55:08
+50068099,56,10 Years of the SRE book: Announcing the second edition,https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition,cloud.google.com,23,3,geoffbp,2026-10-13T07:35:48
+50055409,57,(Post-Quantum) Cryptographic Right Answers,https://words.filippo.io/right-answers/,words.filippo.io,100,32,gavide,2026-10-12T12:26:32
+50063029,58,Picothermal – WebUSB Thermal Camera Using RP2040 and Flir Lepton,https://www.cezarchirila.com/blog/2026/10/picothermal/,cezarchirila.com,18,2,icamaster,2026-10-12T21:02:39
+50064536,59,Blood cells from 80-year-old donor become stem cells with molecular age under 20,https://doi.org/10.1111/acel.70751,doi.org,168,114,arunc,2026-10-12T23:34:22
+50045984,60,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,nanolathe.gg,682,258,jttnr,2026-10-11T18:04:47
