@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50069499,1,11 year old unsoundness bugs found in Rust borrow checker,https://github.com/rust-lang/rust/issues/164250,github.com,387,193,formerly_proven,2026-10-13T10:27:00
-50069971,2,An hour of audio transcribed in about 13s on MacBook Air,https://eg2.haku.sh/,eg2.haku.sh,201,50,amrrs,2026-10-13T11:27:14
-50070593,3,Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs,https://machinelearning.apple.com/research/distributed-gpu-cloud,machinelearning.apple.com,84,36,acossta,2026-10-13T12:26:36
-50067414,4,Hittite royal archive found in Turkey,https://www.thehistoryblog.com/archives/77107,thehistoryblog.com,197,44,benbreen,2026-10-13T06:02:51
-50069337,5,Show HN: Use your OpenAI subscription to create audiobooks,https://pdftomp3.com/connect-ai/,pdftomp3.com,101,52,janpmz,2026-10-13T10:08:34
-50070287,6,A Visual Intro to Complex Numbers,https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers,photonlines.substack.com,19,4,surprisetalk,2026-10-13T12:00:04
-50069329,7,CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades,https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran,bloomberg.com,249,107,helsinkiandrew,2026-10-13T10:08:00
-50070302,8,Mozilla Introduces Firefox Enterprise,https://www.firefox.com/en-US/enterprise/,firefox.com,199,100,recvonline,2026-10-13T12:00:42
-50068036,9,Character.ai files for Chapter 11 bankruptcy,https://blog.character.ai/an-update-on-character-ai/,blog.character.ai,68,26,nryoo,2026-10-13T07:28:34
-50041866,10,The baffling intelligence of a single cell (2024),https://jsomers.net/e-coli-chemotaxis/,jsomers.net,347,97,jsomers,2026-10-11T11:02:30
-50058507,11,GLM-Legal,https://z.ai/blog/glm-legal,z.ai,621,346,ilreb,2026-10-12T16:11:45
-50055304,12,Hackers activate automatic defrosting in supermarket fridges across Europe,https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident,tomshardware.com,806,918,Zeekaas,2026-10-12T12:16:42
-50063365,13,Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X,https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html,intel.com,274,148,hurricanepootis,2026-10-12T21:35:35
-50068443,14,Document Review with Unsiloed and TypeSafe Jev,https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev,unsiloed.ai,32,7,ritzaco,2026-10-13T08:24:51
-50058528,15,A Modern Web App in C,https://prophitt.me/writing/a-modern-web-app-in-c,prophitt.me,642,279,prophittcorey,2026-10-12T16:13:10
-50071017,16,Apple HomeView,https://www.apple.com/apple-homeview/,apple.com,147,191,etothet,2026-10-13T13:02:12
-50063717,17,Janas: Run LLMs larger than RAM by streaming experts from SSD,https://github.com/prabanta-dev/janas,github.com,188,69,khalidkhair,2026-10-12T22:05:43
-50069942,18,Character.ai Files for Bankruptcy,https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney,theverge.com,118,76,yanis_t,2026-10-13T11:24:08
-50061791,19,Making big downloads resumable in Firefox,https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html,lunarwatcher.codeberg.page,249,120,speckx,2026-10-12T19:36:02
-50063138,20,Who is vfmaddrnd231pd?,https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/,purplesyringa.moe,234,21,pngmangi,2026-10-12T21:12:43
-50055593,21,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,https://github.com/h0m3us3r/w1700k-sdr,github.com,387,105,djfergus,2026-10-12T12:41:58
-50055220,22,Citroen revives the 2CV for an electric age,https://www.bbc.com/news/articles/c620r33plgppo,bbc.com,381,425,scrlk,2026-10-12T12:09:09
-50061859,23,Writing a Demoscene Intro for the ZX Spectrum,https://www.markround.com/blog/2026/zx-spectrum-intro,markround.com,161,30,zdw,2026-10-12T19:40:00
-50059096,24,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,https://news.ycombinator.com/item?id=50059096,news.ycombinator.com (Ask/Show HN),147,103,vishnukool,2026-10-12T16:46:34
-50064840,25,Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support),https://github.com/bherbruck/solidcraft,github.com,101,22,bherbruck,2026-10-13T00:11:04
-50063427,26,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,497,401,layer8,2026-10-12T21:40:18
-50047664,27,Auto Research: Integer multiplication below n log n,https://app.getsupers.com/auto-research,app.getsupers.com,72,37,swesnow,2026-10-11T20:48:30
-50065932,28,A look at the math that OpenAI claims computes faster Fourier transforms,https://www.argmin.net/p/faster-fourier-transforms,argmin.net,198,128,mochomocha,2026-10-13T02:46:43
-50056822,29,Solar panels that plug into your wall,https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy,nationalgeographic.com,231,244,speckx,2026-10-12T14:19:04
-50065692,30,AI models can provably hide arbitrary capabilities,https://arxiv.org/abs/2610.13928,arxiv.org,251,118,sbulaev,2026-10-13T02:07:08
-50064438,31,Show HN: An experimental pattern-first DAW that supports MCP,https://github.com/andrewfader/blokkily,github.com,80,31,androsynth89,2026-10-12T23:21:12
-50036287,32,The Making Of Super Mario 64 – full Giles Goddard interview (2001),https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/,pixelatron.com,265,100,gregsadetsky,2026-10-10T19:28:41
-50068437,33,DishwasherBench – Can Frontier Models Stack a Dishwasher?,https://github.com/composo-ai/DishwasherBench,github.com,75,43,mlukewizard,2026-10-13T08:24:06
-50063417,34,Phreak.ing – Internet Phone Switch,https://phreak.ing/,phreak.ing,144,34,rickcarlino,2026-10-12T21:39:32
-50068508,35,Crypto thieves sell hardware wallets with secret eSIM,https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html,heise.de,99,69,qwertox,2026-10-13T08:34:12
-50057668,36,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",https://taylor.town/kk-ai-2026,taylor.town,204,79,surprisetalk,2026-10-12T15:16:45
-50052638,37,I Found a $90k Remote Code Execution Vulnerability in Google,https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce,simonkoeck.com,220,106,soeckly,2026-10-12T07:28:53
-50060694,38,"Codex CLI installs a persistent, self-updating background daemon by default",https://github.com/openai/codex/issues/48195,github.com,584,280,whimblepop,2026-10-12T18:29:04
-50043026,39,Terence Tao: Math 2.0 [pdf],https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf,teorth.github.io,547,537,Anon84,2026-10-11T13:16:45
-50049588,40,Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p,https://github.com/SaarthurR/atticus-mac,github.com,111,23,SaarthRanka,2026-10-12T00:15:12
-50059115,41,Muse Wonder,https://research.meta.ai/blog/muse-wonder,research.meta.ai,650,357,meetpateltech,2026-10-12T16:48:01
-50059204,42,Thinking will become a hobby,https://www.spinellis.gr/blog/20261008/?li261008,spinellis.gr,311,427,pranitha_m,2026-10-12T16:54:08
-50069319,43,India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032,https://oilprice.com/Latest-Energy-News/World-News/Indias-Battery-Storage-Capacity-Set-to-Surge-Nearly-50-Fold-by-2032.html,oilprice.com,11,1,thelastgallon,2026-10-13T10:07:20
-50061497,44,RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine,https://ludeon.com/blog/2026/10/announcing-the-waylith-engine-and-update-1-7/,ludeon.com,76,29,sha-3,2026-10-12T19:18:42
-50034001,45,No portable way to detect string-to-float conversion errors in standard C,https://sebsite.pw/w/20261009-strtod.html,sebsite.pw,76,103,signa11,2026-10-10T15:39:30
-50048642,46,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,royfish.dev,731,357,royfish,2026-10-11T22:33:39
-50054751,47,QGIS enacts moratorium on AI contributions,https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387,github.com,380,406,bwnkl,2026-10-12T11:22:24
-50069318,48,AWS Lambda Web Functions,https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/,aws.amazon.com,65,49,HatchedLake721,2026-10-13T10:07:03
-50037711,49,Secret of Orange Cats Revealed After 60-Year Search,https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search,sciencealert.com,270,184,bookofjoe,2026-10-10T22:10:57
-50064673,50,The Origin Story of Kid Pix,http://red-green-blue.com/kid-pix-the-early-years,red-green-blue.com,22,2,MBCook,2026-10-12T23:52:29
-50041573,51,Running the unmodified Linux amdgpu driver on an iPad,https://github.com/Geramy/LemonSeed-Studio,github.com,98,19,joshcsimmons,2026-10-11T10:18:18
-50039291,52,Ask HN: Do you want a router that has DD-WRT pre-installed?,https://news.ycombinator.com/item?id=50039291,news.ycombinator.com (Ask/Show HN),148,142,Ixander,2026-10-11T02:37:33
-50049872,53,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,github.com,221,78,acley,2026-10-12T00:48:27
-50047422,54,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,twitter.com,706,1031,albertzeyer,2026-10-11T20:20:52
-50068666,55,Teach My Little Sister How to Drive,https://steamcommunity.com/app/3948460/allnews/,steamcommunity.com,16,9,croes,2026-10-13T08:55:08
-50068099,56,10 Years of the SRE book: Announcing the second edition,https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition,cloud.google.com,23,3,geoffbp,2026-10-13T07:35:48
-50055409,57,(Post-Quantum) Cryptographic Right Answers,https://words.filippo.io/right-answers/,words.filippo.io,100,32,gavide,2026-10-12T12:26:32
-50063029,58,Picothermal – WebUSB Thermal Camera Using RP2040 and Flir Lepton,https://www.cezarchirila.com/blog/2026/10/picothermal/,cezarchirila.com,18,2,icamaster,2026-10-12T21:02:39
-50064536,59,Blood cells from 80-year-old donor become stem cells with molecular age under 20,https://doi.org/10.1111/acel.70751,doi.org,168,114,arunc,2026-10-12T23:34:22
-50045984,60,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,nanolathe.gg,682,258,jttnr,2026-10-11T18:04:47
+50078141,1,OpenAI engineer arrested in bugging of executive conference room,https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/,sfstandard.com,241,230,forthwall,2026-10-13T20:23:55
+50073879,2,Gemini 4 Argon,https://deepmind.google/models/gemini/,deepmind.google,870,681,737max,2026-10-13T16:03:16
+50077020,3,"Show HN: Guitoro, a virtual guitar you strum with your keyboard",https://guitoro.com/,guitoro.com,174,63,talccc,2026-10-13T19:11:48
+50054092,4,Ledger confirms spy chip implant behind wallet crypto thefts,https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/,bleepingcomputer.com,330,279,thm,2026-10-12T10:09:37
+50073633,5,Redesigning source control at Anthropic,https://www.anthropic.com/engineering/redesigning-source-control,anthropic.com,442,439,Philpax,2026-10-13T15:49:56
+50071017,6,Apple HomeView,https://www.apple.com/apple-homeview/,apple.com,614,747,etothet,2026-10-13T13:02:12
+50072913,7,Thunderbird for iOS,https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/,blog.thunderbird.net,288,118,mjorgers,2026-10-13T15:07:37
+50069499,8,11 year old unsoundness bugs found in Rust borrow checker,https://github.com/rust-lang/rust/issues/164250,github.com,642,361,formerly_proven,2026-10-13T10:27:00
+50070302,9,Firefox Enterprise,https://www.firefox.com/en-US/enterprise/,firefox.com,588,248,recvonline,2026-10-13T12:00:42
+50078686,10,PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery,https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0,jobs.lever.co,0,0,,2026-10-13T21:01:12
+50073221,11,"I posted to HN, and then my website was flooded with AI bot traffic",https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic,sammystraus.com,216,139,sammy0910,2026-10-13T15:25:50
+50079464,12,AlphaNIST,https://alpha-nist.github.io/,alpha-nist.github.io,6,0,jasonjmcghee,2026-10-13T21:57:29
+50072994,13,The United Kingdom generates less electricity per person than in the 1970s,https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak,ourworldindata.org,159,230,karakoram,2026-10-13T15:12:57
+50072286,14,Apple's new 'Switch to Safari' campaign details why you should ditch Chrome,https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/,9to5mac.com,150,248,ivell,2026-10-13T14:26:08
+50071310,15,New Apple TV 4K,https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/,apple.com,259,505,corvad,2026-10-13T13:21:35
+50069971,16,We turned EmbeddingGemma 2 into a speech-to-text model,https://eg2.haku.sh/,eg2.haku.sh,373,82,amrrs,2026-10-13T11:27:14
+50061659,17,MIT class project turns into an FDA-cleared treatment for tremors,https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002,news.mit.edu,115,18,zdw,2026-10-12T19:28:48
+50070010,18,"Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",https://github.com/LargeModGames/spotatui,github.com,36,6,LargeModGames,2026-10-13T11:32:00
+50059542,19,Hiking the world in search of rare cheeses,https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses,bbc.com,31,8,tosh,2026-10-12T17:15:13
+50077619,20,Show HN: Parsimony – an open-source benchmark for how much code AI models add,https://parsimony.lasu.dev/,parsimony.lasu.dev,23,1,lasu,2026-10-13T19:50:31
+50067721,21,Maybe a better way to track the release history of a Git repo,https://blog.plover.com/prog/git/history-proposal.html,blog.plover.com,13,1,hellerve,2026-10-13T06:47:42
+50070593,22,A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices,https://machinelearning.apple.com/research/distributed-gpu-cloud,machinelearning.apple.com,214,90,acossta,2026-10-13T12:26:36
+50074869,23,Gemini 4 Argon for Robotics,https://developers.googleblog.com/gemini-4-argon-for-robotics/,developers.googleblog.com,168,40,xnx,2026-10-13T16:55:47
+50079437,24,Physical Intelligence API Beta: Frontier Models for Every Robot,https://www.pi.website/blog/api-beta,pi.website,5,0,modeless,2026-10-13T21:55:25
+50058649,25,IDRs as Records of Intent,https://wrla.ch/log/2026/10/idrs-as-records-of-intent/,wrla.ch,9,1,evakhoury,2026-10-12T16:20:26
+50077096,26,The Four Colour Theorem: The first time machines mogged mathematicians,https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians,newsletter.pessimistsarchive.org,18,17,list,2026-10-13T19:17:19
+50072120,27,How to engineer an AI harness for game development,https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code,kylekukshtel.com,109,49,kkukshtel,2026-10-13T14:14:23
+50074909,28,Show HN: How Random Are You?,https://lab.specr.net/rigged-draw/,lab.specr.net,64,32,vunderba,2026-10-13T16:57:57
+50068036,29,Character.ai has initiated voluntary Chapter 11 bankruptcy,https://blog.character.ai/an-update-on-character-ai/,blog.character.ai,263,260,nryoo,2026-10-13T07:28:34
+50070554,30,Worlds more habitable than Earth?,https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html,nytimes.com,72,147,cainxinth,2026-10-13T12:23:34
+50073471,31,Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data,https://news.ycombinator.com/item?id=50073471,news.ycombinator.com (Ask/Show HN),32,16,ericmags,2026-10-13T15:41:00
+50079417,32,Nexus-Q: un motor open source de Rust para PQC,https://nexus-q.link/,nexus-q.link,3,0,ManuelAxiom,2026-10-13T21:54:24
+50067414,33,Hittite royal archive found in Turkey,https://www.thehistoryblog.com/archives/77107,thehistoryblog.com,330,82,benbreen,2026-10-13T06:02:51
+50075665,34,Show HN: XY Music Notation,https://music.xy.dev/,music.xy.dev,42,34,jmole,2026-10-13T17:43:05
+50063427,35,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,637,505,layer8,2026-10-12T21:40:18
+50076503,36,Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain,https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain,xbow.com,25,9,ollin,2026-10-13T18:37:45
+50069318,37,AWS Lambda Web Functions,https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/,aws.amazon.com,100,94,HatchedLake721,2026-10-13T10:07:03
+50069337,38,Show HN: Use your OpenAI subscription to create audiobooks,https://pdftomp3.com/connect-ai/,pdftomp3.com,157,78,janpmz,2026-10-13T10:08:34
+50078691,39,Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source,https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/,zdnet.com,23,0,CrankyBear,2026-10-13T21:01:37
+50071200,40,Show HN: Stream live open data in two commands,https://docs.hypermass.io/docs/cli/,docs.hypermass.io,8,1,gardensalad,2026-10-13T13:14:09
+50078653,41,"OpenAI employee arrested by FBI over hidden listening device, company says",https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/,reuters.com,23,5,jawiggins,2026-10-13T20:59:13
+50074289,42,Cyberattack halts construction of tunnel between Denmark and Germany,https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24,ua.news,144,118,paaloeye,2026-10-13T16:24:15
+50074325,43,Yet another catalogue of fast matrix multiplication algorithms,https://fmm.univ-lille.fr,fmm.univ-lille.fr,12,0,bmc7505,2026-10-13T16:26:15
+50079855,44,Reddit Self-Promotion Rules,https://redship.io/blog/reddit-self-promotion-rules,redship.io,3,0,nizarmah,2026-10-13T22:32:39
+50077166,45,Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU,https://www.datalab.to/blog/indra-ocr,datalab.to,28,0,runtimewire,2026-10-13T19:21:25
+50078423,46,Trezor Wallets Also Compromised with Implants,https://www.zetter-zeroday.com/trezor-wallets-also-compromised-with-implants/,zetter-zeroday.com,16,1,jbegley,2026-10-13T20:42:22
+50077389,47,How many shots are in the average movie today?,https://stephenfollows.com/p/how-many-shots-are-in-the-average,stephenfollows.com,6,1,rdmuser,2026-10-13T19:36:09
+50077660,48,Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died,https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html,nytimes.com,19,0,sonabinu,2026-10-13T19:52:43
+50077263,49,"Show HN: My live 3D satellite tracker, now with asteroids and a UAP archive",https://skylens.yantraai.app/app.html,skylens.yantraai.app,4,1,skylensspace,2026-10-13T19:27:46
+50070287,50,A Visual Intro to Complex Numbers,https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers,photonlines.substack.com,113,68,surprisetalk,2026-10-13T12:00:04
+50077743,51,"Huawei, once hobbled by US sanctions, passes 100M Kirin chip milestone",https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone,scmp.com,22,2,yogthos,2026-10-13T19:57:33
+50068443,52,Document Review with Unsiloed and TypeSafe Jev,https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev,unsiloed.ai,45,7,ritzaco,2026-10-13T08:24:51
+50070286,53,Show HN: Opensidian,https://opensidian.org/,opensidian.org,32,31,jpzk,2026-10-13T12:00:00
+50075809,54,Show HN: Deslop – Oxlint rules for AI-generated TypeScript,https://github.com/maharshi365/deslop,github.com,22,5,maharshi365,2026-10-13T17:52:57
+50076505,55,Windows NT 3.1 MIPS on QEMU,https://virtuallyfun.com/2026/10/13/windows-nt-3-1-mips-on-qemu/,virtuallyfun.com,16,1,andrewstuart,2026-10-13T18:37:49
+50059096,56,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,https://news.ycombinator.com/item?id=50059096,news.ycombinator.com (Ask/Show HN),157,109,vishnukool,2026-10-12T16:46:34
+50064840,57,Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support),https://github.com/bherbruck/solidcraft,github.com,133,43,bherbruck,2026-10-13T00:11:04
+50058507,58,GLM-Legal,https://z.ai/blog/glm-legal,z.ai,661,358,ilreb,2026-10-12T16:11:45
+50055304,59,Hackers activate automatic defrosting in supermarket fridges across Europe,https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident,tomshardware.com,879,980,Zeekaas,2026-10-12T12:16:42
+50068510,60,"Where is all the new, good software?",https://www.natemeyvis.com/where-is-all-the-new-good-software/,natemeyvis.com,52,110,ingve,2026-10-13T08:34:35
