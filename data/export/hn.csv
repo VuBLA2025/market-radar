@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50090443,1,The Emperor Pelican Has No Clothes,https://arcfu.com/post/the-emperor-pelican-has-no-clothes/,arcfu.com,52,25,pcwelder,2026-10-14T16:33:34
-50089921,2,Americans' Social Activity Has Steeply Declined in the Past 30 Years,https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years,dataforprogress.org,27,15,hubraumhugo,2026-10-14T16:09:00
-50084240,3,"Iosevka is an open-source, sans-serif and slab-serif monospace font",https://typeof.net/Iosevka/,typeof.net,538,219,otobrglez,2026-10-14T08:27:59
-50089229,4,Submarine cable resilience,https://blog.apnic.net/2026/10/14/submarine-cable-resilience/,blog.apnic.net,39,4,speckx,2026-10-14T15:31:15
-50090084,5,Amsterdam police confiscates server left-wing ISP A/I at American request,https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960,nrc.nl,86,21,jeroenhd,2026-10-14T16:16:25
-50086165,6,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,https://github.com/timescale/pg_vectorsearch,github.com,138,41,jascha_eng,2026-10-14T11:47:53
-50088713,7,"Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",https://github.com/graphicle-ai/graphicle,github.com,17,1,KarLexAI,2026-10-14T15:00:41
-50084757,8,Amazon pushes up prices across the Internet,https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/,not-ship.com,501,456,sighborg,2026-10-14T09:28:17
-50088643,9,Running Windows desktop tests from Linux with disposable VMs,https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation,qawolf.com,44,19,jadenlemmon,2026-10-14T14:55:19
-50088430,10,ASML's strong orders ease fears AI spending boom is running out of steam,https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/,reuters.com,125,114,tartoran,2026-10-14T14:38:55
-50055632,11,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html,robotsinplainenglish.com,44,6,ripe,2026-10-12T12:44:42
-50090369,12,Better HTTP/1 connection reuse in Go 1.27,https://go.dev/blog/http-connection-reuse,go.dev,4,0,allddd,2026-10-14T16:29:33
-50065572,13,LittleJS is 2D and 3D now,https://frankforce.com/littlejs-is-2d-and-3d-now/,frankforce.com,8,1,dmit,2026-10-13T01:50:17
-50045147,14,Sound (2022),https://ciechanow.ski/sound/,ciechanow.ski,246,25,dverlaeckt80,2026-10-11T16:46:43
-50090246,15,ICE Planning $100M 'Nightmare' Domestic Spy Program,https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/,prospect.org,22,0,bhrlady,2026-10-14T16:24:11
-50064673,16,The Origin Story of Kid Pix,http://red-green-blue.com/kid-pix-the-early-years,red-green-blue.com,129,24,MBCook,2026-10-12T23:52:29
-50090799,17,Has AI Tells,https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1,theconsensus.dev,14,0,7777777phil,2026-10-14T16:52:42
-50086363,18,Nvidia's first GPU: GeForce 256,https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/,dfarq.homeip.net,25,17,ibobev,2026-10-14T12:05:44
-50085022,19,"Show HN: A guided 3D Leonardo da Vinci museum, built in code",https://museumofages.org/w/vinci,museumofages.org,72,31,micstradev,2026-10-14T10:00:24
-50053487,20,900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan),https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html,openculture.com,249,43,mdp2021,2026-10-12T09:05:02
-50088447,21,Strands Decider: Why Not an Encoder?,https://brooker.co.za:443/blog/2026/10/04/encoders.html,brooker.co.za:443,10,0,surprisetalk,2026-10-14T14:40:03
-50087337,22,Scientists Are Teaching Birds to Sing Lost Songs,https://e360.yale.edu/digest/teaching-birds-lost-songs,e360.yale.edu,12,0,speckx,2026-10-14T13:20:44
-50062575,23,The Genealogy of Eliza,https://elizagen.org/genealogy.html,elizagen.org,19,1,abrax3141,2026-10-12T20:29:25
-50085323,24,TV4 postpones show after AI agent erases edited material,https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage,swedenherald.com,104,62,tobr,2026-10-14T10:28:26
-50088935,25,Passkeys are not a trap,https://scotthelme.co.uk/passkeys-are-not-a-trap/,scotthelme.co.uk,255,377,speckx,2026-10-14T15:15:45
-50085306,26,Pulsar at ESUG 2026 (new Smalltalk IDE),https://blog.lorenzano.eu/pulsar-at-esug-2026/,blog.lorenzano.eu,64,14,mpweiher,2026-10-14T10:26:53
-50073879,27,Gemini 4 Argon,https://deepmind.google/models/gemini/,deepmind.google,1407,1014,737max,2026-10-13T16:03:16
-50077096,28,The Four Colour Theorem: The first time machines mogged mathematicians,https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians,newsletter.pessimistsarchive.org,68,45,list,2026-10-13T19:17:19
-50090349,29,Google is silently linking your phone number across all signed-in accounts,https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/,androidauthority.com,8,0,Brajeshwar,2026-10-14T16:28:51
-50083130,30,AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs,https://github.com/android/ndk/issues/2260,github.com,454,220,tharen,2026-10-14T06:18:01
-50071466,31,"Same Job, Two Engines: InnoDB and Iceberg Internals",https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/,marcpaul.io,51,6,marcbpaul,2026-10-13T13:31:43
-50079865,32,Recreational Programming,https://www.cphiri.dev/presentations/recreational-programming,cphiri.dev,286,135,jslakro,2026-10-13T22:33:33
-50087044,33,RIP Eric Binnion,https://ma.tt/2026/10/rip-eric/,ma.tt,77,35,speckx,2026-10-14T12:58:32
-50090842,34,Linus Torvalds's first LLM-assisted patch series,https://lwn.net/Articles/1100449/,lwn.net,6,0,janvdberg,2026-10-14T16:55:07
-50078686,35,PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery,https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0,jobs.lever.co,0,0,,2026-10-13T21:01:12
-50090662,36,"Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges,extremetech.com,5,1,speckx,2026-10-14T16:45:19
-50082470,37,Felix Rieseberg Homepage,https://felixrieseberg.com/,felixrieseberg.com,260,99,rglover,2026-10-14T04:42:33
-50074909,38,Show HN: How random are you?,https://lab.specr.net/rigged-draw/,lab.specr.net,207,109,vunderba,2026-10-13T16:57:57
-50086484,39,The Aaronson Oracle,https://aaronsonoracle.com/,aaronsonoracle.com,40,34,routeroff,2026-10-14T12:16:35
-50054092,40,Ledger confirms spy chip implant behind wallet crypto thefts,https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/,bleepingcomputer.com,769,488,thm,2026-10-12T10:09:37
-50063427,41,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,749,577,layer8,2026-10-12T21:40:18
-50063104,42,Kcgi – minimal CGI and FastCGI library for C/C++,https://kristaps.bsd.lv/kcgi/,kristaps.bsd.lv,70,35,Bluestein,2026-10-12T21:09:08
-50085302,43,AI Laser Locking for Quantum Computers: How QuEra Automates It,https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers,quera.com,24,5,EvgeniyZh,2026-10-14T10:26:24
-50090791,44,"CoreWeave's Bonds Turn Distressed, Drawing 'Yikes' from Musk",https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk,bloomberg.com,5,3,striking,2026-10-14T16:52:22
-50073633,45,Redesigning source control at Anthropic,https://www.anthropic.com/engineering/redesigning-source-control,anthropic.com,844,936,Philpax,2026-10-13T15:49:56
-50077020,46,"Show HN: Guitoro, a virtual guitar you strum with your keyboard",https://guitoro.com/,guitoro.com,538,149,talccc,2026-10-13T19:11:48
-50046022,47,Arena Allocators in C,https://eliasebner.com/blog/guides/arena-allocators-in-c/,eliasebner.com,80,32,dimonomid,2026-10-11T18:07:56
-50057119,48,Maybe a better way to track the release history of a Git repo,https://blog.plover.com/prog/git/history-proposal.html,blog.plover.com,59,13,evakhoury,2026-10-12T14:41:27
-50071017,49,Apple HomeView,https://www.apple.com/apple-homeview/,apple.com,744,881,etothet,2026-10-13T13:02:12
-50069499,50,11 year old unsoundness bugs found in Rust borrow checker,https://github.com/rust-lang/rust/issues/164250,github.com,731,415,formerly_proven,2026-10-13T10:27:00
-50079464,51,AlphaNIST,https://alpha-nist.github.io/,alpha-nist.github.io,88,31,jasonjmcghee,2026-10-13T21:57:29
-50087289,52,AI agent behavior drift analysis with Cloudflare Clef,https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef,arcjet.com,3,0,dmytton,2026-10-14T13:17:14
-50084838,53,Who Is Planting Backdoors in Ledger Crypto Wallets?,https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/,zetter-zeroday.com,116,137,hacb,2026-10-14T09:37:24
-50078141,54,OpenAI engineer arrested in bugging of executive conference room,https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/,sfstandard.com,627,520,forthwall,2026-10-13T20:23:55
-50070302,55,Firefox Enterprise,https://www.firefox.com/en-US/enterprise/,firefox.com,735,315,recvonline,2026-10-13T12:00:42
-50072994,56,The United Kingdom generates less electricity per person than in the 1970s,https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak,ourworldindata.org,391,651,karakoram,2026-10-13T15:12:57
-50072913,57,Thunderbird for iOS,https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/,blog.thunderbird.net,453,198,mjorgers,2026-10-13T15:07:37
-50075665,58,Show HN: XY Music Notation,https://music.xy.dev/,music.xy.dev,80,74,jmole,2026-10-13T17:43:05
-50088166,59,Gaming on Linux Without Cheating,https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2,onlineservices.epicgames.com,26,9,water-drummer,2026-10-14T14:19:02
-50059542,60,Hiking the world in search of rare cheeses,https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses,bbc.com,102,39,tosh,2026-10-12T17:15:13
+50093568,1,Things to know when you get cancer – 2026 Edition,https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/,jjmaxwell4.com,413,95,jjmaxwell4,2026-10-14T19:26:30
+50094994,2,OpenCode 2.0,https://anoma.ly/notes/opencode-2-0/,anoma.ly,75,15,gmays,2026-10-14T20:48:24
+50095353,3,We’re releasing Jev 1.14.0 along with experimental features for dreamers,https://typesafe.ai/blog/jev-1-14,typesafe.ai,40,17,emschwartz,2026-10-14T21:11:03
+50088935,4,Passkeys are not a trap,https://scotthelme.co.uk/passkeys-are-not-a-trap/,scotthelme.co.uk,330,511,speckx,2026-10-14T15:15:45
+50091788,5,Containment and monitoring failures are to blame for AI hacking reports: experts,https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html,csoonline.com,774,370,latexr,2026-10-14T17:45:23
+50050553,6,Do dentists know what they're doing?,https://mapwriting.substack.com/p/dentists,mapwriting.substack.com,215,169,doitLP,2026-10-12T02:21:54
+50090369,7,Better HTTP/1 connection reuse in Go 1.27,https://go.dev/blog/http-connection-reuse,go.dev,169,28,allddd,2026-10-14T16:29:33
+50094694,8,Anthropic's Scion is heavily inspired by Mononoke,https://sunshowers.io/posts/anthropic-mononoke/,sunshowers.io,140,39,sunshowers,2026-10-14T20:30:54
+50093612,9,Fancy Curl Sites,https://nytpu.com/gemlog/2026-03-18,nytpu.com,36,10,adunk,2026-10-14T19:29:12
+50092730,10,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/,dpa-international.com,226,158,ilamont,2026-10-14T18:37:21
+50094673,11,"Yandex outage: data shows that instead of going dark, malicious bots moved",https://blog.cloudflare.com/yandex-outage/,blog.cloudflare.com,114,38,coloneltcb,2026-10-14T20:29:13
+50092470,12,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",https://petal.live/,petal.live,78,13,thedracle,2026-10-14T18:23:14
+50084240,13,"Iosevka is an open-source, sans-serif and slab-serif monospace font",https://typeof.net/Iosevka/,typeof.net,671,278,otobrglez,2026-10-14T08:27:59
+50092664,14,Banks are now trying to offload the AI data center debt they just underwrote,https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/,startupfortune.com,204,157,smartmic,2026-10-14T18:32:52
+50054465,15,Phloem: Git history grown like a slime mold,https://phloem.stemdeck.app/,phloem.stemdeck.app,61,18,thclpr,2026-10-12T10:52:25
+50078757,16,Marshall Islands Stick Chart,https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart,en.wikipedia.org,15,2,Thevet,2026-10-13T21:06:33
+50091794,17,Neckbeard – A DevOps/platform/SRE plugin for your agent,https://github.com/bealesh/neckbeard,github.com,54,39,bealesh,2026-10-14T17:45:34
+50089229,18,Submarine cable resilience,https://blog.apnic.net/2026/10/14/submarine-cable-resilience/,blog.apnic.net,116,36,speckx,2026-10-14T15:31:15
+50089921,19,Americans' social activity has steeply declined in the past 30 years,https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years,dataforprogress.org,77,165,hubraumhugo,2026-10-14T16:09:00
+50093180,20,Suicide rates highest ever among middle-aged men,https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/,telegraph.co.uk,142,161,ivewonyoung,2026-10-14T19:03:58
+50090799,21,Has AI tells,https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1,theconsensus.dev,53,46,7777777phil,2026-10-14T16:52:42
+50090349,22,Google is silently linking your phone number across all signed-in accounts,https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/,androidauthority.com,296,78,Brajeshwar,2026-10-14T16:28:51
+50090932,23,Show HN: I wrote an email app that accepts only one sender per inbox,https://clova.email/,clova.email,55,44,edpin2000,2026-10-14T17:00:59
+50065572,24,LittleJS is 2D and 3D now,https://frankforce.com/littlejs-is-2d-and-3d-now/,frankforce.com,78,23,dmit,2026-10-13T01:50:17
+50086165,25,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,https://github.com/timescale/pg_vectorsearch,github.com,179,47,jascha_eng,2026-10-14T11:47:53
+50084757,26,Amazon pushes up prices across the Internet,https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/,not-ship.com,669,562,sighborg,2026-10-14T09:28:17
+50091875,27,"America didn't lose its rare earth industry, it sold it",https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it,lawfaremedia.org,109,49,speckx,2026-10-14T17:50:26
+50092423,28,Virtual Oxide Labs: Emulating a Full Oxide Rack,https://oxide.computer/blog/voxel-labs,oxide.computer,19,1,tosh,2026-10-14T18:21:14
+50083028,29,Why is every rationalist blog post way too long?,https://alexwennerberg.com/blog/2026-10-13-long.html,alexwennerberg.com,104,85,epestr,2026-10-14T06:02:16
+50088713,30,"Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",https://github.com/graphicle-ai/graphicle,github.com,38,11,KarLexAI,2026-10-14T15:00:41
+50064673,31,The Origin Story of Kid Pix,http://red-green-blue.com/kid-pix-the-early-years,red-green-blue.com,180,42,MBCook,2026-10-12T23:52:29
+50055632,32,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html,robotsinplainenglish.com,61,16,ripe,2026-10-12T12:44:42
+50088643,33,Running Windows desktop tests from Linux with disposable VMs,https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation,qawolf.com,76,27,jadenlemmon,2026-10-14T14:55:19
+50088447,34,Strands Decider: Why Not an Encoder?,https://brooker.co.za:443/blog/2026/10/04/encoders.html,brooker.co.za:443,33,1,surprisetalk,2026-10-14T14:40:03
+50095034,35,Sally Rooney can no longer sell books in UK due to Palestine Action support,https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support,theguardian.com,11,0,gmargari,2026-10-14T20:51:39
+50086363,36,Nvidia's first GPU: GeForce 256,https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/,dfarq.homeip.net,61,40,ibobev,2026-10-14T12:05:44
+50085323,37,TV4 postpones show after AI agent erases edited material,https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage,swedenherald.com,136,75,tobr,2026-10-14T10:28:26
+50087337,38,Scientists are teaching birds to sing lost songs,https://e360.yale.edu/digest/teaching-birds-lost-songs,e360.yale.edu,42,5,speckx,2026-10-14T13:20:44
+50090662,39,"Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges,extremetech.com,123,82,speckx,2026-10-14T16:45:19
+50043948,40,Show HN: Timur's Chess – A 14th century chess variant with giraffes,https://timurschess.com,timurschess.com,13,3,LarsDu88,2026-10-11T14:52:59
+50088166,41,Gaming on Linux without cheating,https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2,onlineservices.epicgames.com,47,44,water-drummer,2026-10-14T14:19:02
+50085022,42,"Show HN: A guided 3D Leonardo da Vinci museum, built in code",https://museumofages.org/w/vinci,museumofages.org,85,34,micstradev,2026-10-14T10:00:24
+50073879,43,Gemini 4 Argon,https://deepmind.google/models/gemini/,deepmind.google,1428,1021,737max,2026-10-13T16:03:16
+50086313,44,Smart people don't think others are stupid (2012),https://sive.rs/ss,sive.rs,83,114,andsoitis,2026-10-14T12:01:16
+50080007,45,Grace Hopper Celebration Cancelled,https://anitab.org/press-release,anitab.org,236,239,mooreds,2026-10-13T22:46:49
+50093857,46,Bank of America hired 1000 contractors to patch software flaws exposed by Mythos,https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html,cnbc.com,16,7,mirzap,2026-10-14T19:40:59
+50077096,47,The Four Colour Theorem: The first time machines mogged mathematicians,https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians,newsletter.pessimistsarchive.org,80,45,list,2026-10-13T19:17:19
+50084416,48,What agents mean for Rust (and vice versa),https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/,smallcultfollowing.com,62,54,mfrw,2026-10-14T08:49:06
+50085296,49,I let an AI run my startup for a week,https://daily.tinyprojects.dev/221,daily.tinyprojects.dev,49,54,tinyprojects,2026-10-14T10:25:48
+50094361,50,Microsoft Defender now supports Linux desktops,https://www.neowin.net/news/microsoft-defender-now-supports-linux-desktops/,neowin.net,10,8,bundie,2026-10-14T20:09:48
+50078686,51,PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery,https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0,jobs.lever.co,0,0,,2026-10-13T21:01:12
+50082021,52,"Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",https://strafe.chat/,strafe.chat,99,78,brydencalaway,2026-10-14T03:28:00
+50043112,53,How tabasco became the hot sauce,https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/,weareravenous.com,18,55,bookofjoe,2026-10-11T13:28:46
+50083130,54,AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs,https://github.com/android/ndk/issues/2260,github.com,470,233,tharen,2026-10-14T06:18:01
+50062575,55,The Genealogy of Eliza,https://elizagen.org/genealogy.html,elizagen.org,26,2,abrax3141,2026-10-12T20:29:25
+50063427,56,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,755,586,layer8,2026-10-12T21:40:18
+50091076,57,Oldest shipwreck found off coast of Turkey,https://www.bbc.com/news/articles/c6gr80rk1yyko,bbc.com,8,0,benbreen,2026-10-14T17:09:17
+50054092,58,Ledger confirms spy chip implant behind wallet crypto thefts,https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/,bleepingcomputer.com,778,491,thm,2026-10-12T10:09:37
+50071466,59,"Same Job, Two Engines: InnoDB and Iceberg Internals",https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/,marcpaul.io,58,9,marcbpaul,2026-10-13T13:31:43
+50091914,60,The Death of Amazon's Writing Culture,https://alifeengineered.substack.com/p/on-the-death-of-amazons-writing-culture,alifeengineered.substack.com,28,3,herbertl,2026-10-14T17:52:44
