@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50093568,1,Things to know when you get cancer,https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/,jjmaxwell4.com,1466,361,jjmaxwell4,2026-10-14T19:26:30
-50070625,2,"Wanted to download an ISO, ended up writing a kernel exploit",https://blog.dfb.sh/blog/eap770-root-for-two-zeros/,blog.dfb.sh,137,69,0xdeafbeef,2026-10-13T12:30:08
-50094994,3,OpenCode 2.0,https://anoma.ly/notes/opencode-2-0/,anoma.ly,656,263,gmays,2026-10-14T20:48:24
-50096142,4,Tiny Little Office,https://tinylittleoffice.com/,tinylittleoffice.com,476,87,donohoe,2026-10-14T22:10:08
-50064470,5,Show HN: Indigene – Native plants for where you stand,https://indigene.app/,indigene.app,42,7,olivierlacan,2026-10-12T23:25:20
-50050553,6,Do dentists know what they're doing?,https://mapwriting.substack.com/p/dentists,mapwriting.substack.com,745,541,doitLP,2026-10-12T02:21:54
-50071902,7,Bookofjoe's Favorite Thing: Best Pill Splitter,https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html,bookofjoe2.blogspot.com,12,8,surprisetalk,2026-10-13T14:00:06
-50097369,8,LFM2.5-24B-A2B: Built for fast on-device agents,https://www.liquid.ai/blog/lfm2-5-24b-a2b,liquid.ai,227,54,gmays,2026-10-14T23:59:37
-50079701,9,The First Social Network: In rural Argentina residents send messages w AM radio,https://www.newyorker.com/magazine/2026/10/19/the-first-social-network,newyorker.com,34,15,bookofjoe,2026-10-13T22:17:41
-50053384,10,Catch a Bird – I made it for my own sanity,https://catchabird.com,catchabird.com,213,56,eduardsik,2026-10-12T08:51:18
-50089921,11,Americans' social activity has steeply declined in the past 30 years,https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years,dataforprogress.org,432,393,hubraumhugo,2026-10-14T16:09:00
-50060547,12,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html,phys.org,48,19,maxall4,2026-10-12T18:20:17
-50077709,13,"Donaldson Futuro House in Idyllwild, California, USA",https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/,wowhaus.co.uk,52,19,rmason,2026-10-13T19:55:41
-50070661,14,It took me nine years to hack my Xbox 360,https://kennedn.com/blog/posts/glitching/,kennedn.com,95,28,kennedn,2026-10-13T12:33:18
-50047576,15,The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl,https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/,ei3lh.eu,45,12,austinallegro,2026-10-11T20:36:56
-50090369,16,Better HTTP/1 connection reuse in Go 1.27,https://go.dev/blog/http-connection-reuse,go.dev,265,41,allddd,2026-10-14T16:29:33
-50096300,17,Show HN: Ito – Build Terminal UIs in Lua,https://uji.sh/ito/,uji.sh,32,9,cat-whisperer,2026-10-14T22:23:53
-50098274,18,The Double Headed Stack Allocator,https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/,blog.demofox.org,70,24,g0xA52A2A,2026-10-15T02:06:36
-50100387,19,Aidlc: Adaptive workflow steering rules for AI coding agents,https://github.com/awslabs/aidlc-workflows,github.com,12,12,pramodbiligiri,2026-10-15T07:20:39
-50071546,20,Your C is not standard C,https://sebsite.pw/w/20261012-notstdc.html,sebsite.pw,97,64,dverlaeckt80,2026-10-13T13:36:21
-50060923,21,"David Rudnick on ""borderline impossible"" process of designing Arsenal typeface",https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026,itsnicethat.com,29,13,droidjj,2026-10-12T18:44:42
-50083028,22,Why is every rationalist blog post way too long?,https://alexwennerberg.com/blog/2026-10-13-long.html,alexwennerberg.com,379,353,epestr,2026-10-14T06:02:16
-50092470,23,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",https://petal.live/,petal.live,184,39,thedracle,2026-10-14T18:23:14
-50099136,24,"Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",https://github.com/andunieee/flipflop,github.com,47,14,andunie,2026-10-15T04:25:28
-50084757,25,How Amazon pushes up prices all across the Internet,https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/,not-ship.com,853,653,sighborg,2026-10-14T09:28:17
-50065237,26,Stopping sand from destroying a hydropower turbine [video],https://www.youtube.com/watch?v=kCYrSBexF_4,youtube.com,5,0,CaliforniaKarl,2026-10-13T01:02:54
-50091788,27,Containment and monitoring failures are to blame for AI hacking reports: experts,https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html,csoonline.com,912,549,latexr,2026-10-14T17:45:23
-50095353,28,We’re releasing Jev 1.14.0 along with experimental features for dreamers,https://typesafe.ai/blog/jev-1-14,typesafe.ai,305,97,emschwartz,2026-10-14T21:11:03
-50067325,29,Ask HN: CAD for wood working with LLM support?,https://news.ycombinator.com/item?id=50067325,news.ycombinator.com (Ask/Show HN),83,78,reacharavindh,2026-10-13T05:54:01
-50092423,30,Virtual Oxide Labs: Emulating a Full Oxide Rack,https://oxide.computer/blog/voxel-labs,oxide.computer,128,13,tosh,2026-10-14T18:21:14
-50090799,31,Has AI tells,https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1,theconsensus.dev,124,105,7777777phil,2026-10-14T16:52:42
-50054465,32,Phloem: Git history grown like a slime mold,https://phloem.stemdeck.app/,phloem.stemdeck.app,117,22,thclpr,2026-10-12T10:52:25
-50089229,33,Submarine cable resilience,https://blog.apnic.net/2026/10/14/submarine-cable-resilience/,blog.apnic.net,161,66,speckx,2026-10-14T15:31:15
-50088935,34,Passkeys are not a trap,https://scotthelme.co.uk/passkeys-are-not-a-trap/,scotthelme.co.uk,605,750,speckx,2026-10-14T15:15:45
-50093612,35,Fancy Curl Sites,https://nytpu.com/gemlog/2026-03-18,nytpu.com,129,25,adunk,2026-10-14T19:29:12
-50092730,36,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/,dpa-international.com,368,244,ilamont,2026-10-14T18:37:21
-50094694,37,Anthropic's Scion is heavily inspired by Mononoke,https://sunshowers.io/posts/anthropic-mononoke/,sunshowers.io,380,139,sunshowers,2026-10-14T20:30:54
-50086165,38,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,https://github.com/timescale/pg_vectorsearch,github.com,204,52,jascha_eng,2026-10-14T11:47:53
-50084240,39,"Iosevka is an open-source, sans-serif and slab-serif monospace font",https://typeof.net/Iosevka/,typeof.net,723,298,otobrglez,2026-10-14T08:27:59
-50090349,40,Google is silently linking your phone number across all signed-in accounts,https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/,androidauthority.com,475,131,Brajeshwar,2026-10-14T16:28:51
-50090932,41,Show HN: I wrote an email app that accepts only one sender per inbox,https://clova.email/,clova.email,102,84,edpin2000,2026-10-14T17:00:59
-50093180,42,Suicide rates highest ever among middle-aged men,https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/,telegraph.co.uk,429,553,ivewonyoung,2026-10-14T19:03:58
-50097797,43,Making all divisions slower to fix a bug in 0.000000000000000000542% of cases,https://futhark-lang.org/blog/2026-10-14-defining-division.html,futhark-lang.org,18,1,marvinborner,2026-10-15T00:56:13
-50064673,44,The Origin Story of Kid Pix,http://red-green-blue.com/kid-pix-the-early-years,red-green-blue.com,194,45,MBCook,2026-10-12T23:52:29
-50073879,45,Gemini 4 Argon,https://deepmind.google/models/gemini/,deepmind.google,1448,1029,737max,2026-10-13T16:03:16
-50099375,46,Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration,https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data,noma.security,7,0,wondersky,2026-10-15T05:02:06
-50100791,47,AI was great until it was not,https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not,thetheorygirlie.substack.com,87,60,JohnHammersley,2026-10-15T08:18:38
-50065572,48,LittleJS is 2D and 3D now,https://frankforce.com/littlejs-is-2d-and-3d-now/,frankforce.com,102,44,dmit,2026-10-13T01:50:17
-50097858,49,Why are chip companies allergic to open source?,https://www.zeroasic.com/blog/hardware-github-stars,zeroasic.com,14,2,adapteva,2026-10-15T01:03:56
-50094673,50,"Yandex outage: data shows that instead of going dark, malicious bots moved",https://blog.cloudflare.com/yandex-outage/,blog.cloudflare.com,265,98,coloneltcb,2026-10-14T20:29:13
-50063427,51,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,yyhh.org,778,598,layer8,2026-10-12T21:40:18
-50086363,52,Nvidia's first GPU: GeForce 256,https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/,dfarq.homeip.net,76,45,ibobev,2026-10-14T12:05:44
-50085323,53,TV4 postpones show after AI agent erases edited material,https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage,swedenherald.com,148,83,tobr,2026-10-14T10:28:26
-50070438,54,Webster’s Dictionary: The pleasure of finding things out (2014),https://jsomers.net/blog/dictionary,jsomers.net,31,3,hangsi,2026-10-13T12:13:20
-50098454,55,Show HN: My Terminal Themes Web App,https://news.ycombinator.com/item?id=50098454,news.ycombinator.com (Ask/Show HN),20,6,bado,2026-10-15T02:33:42
-50086313,56,Smart people don't think others are stupid (2012),https://sive.rs/ss,sive.rs,112,137,andsoitis,2026-10-14T12:01:16
-50055632,57,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html,robotsinplainenglish.com,66,19,ripe,2026-10-12T12:44:42
-50091875,58,"America didn't lose its rare earth industry, it sold it",https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it,lawfaremedia.org,180,103,speckx,2026-10-14T17:50:26
-50088643,59,Running Windows desktop tests from Linux with disposable VMs,https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation,qawolf.com,91,31,jadenlemmon,2026-10-14T14:55:19
-50077096,60,The Four Colour Theorem: The first time machines mogged mathematicians,https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians,newsletter.pessimistsarchive.org,86,48,list,2026-10-13T19:17:19
+50104654,1,Simons Foundation launches $15M effort to help mathematicians navigate AI era,https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/,simonsfoundation.org,128,80,aaraujo002,2026-10-15T14:58:48
+50103338,2,Wayland desktop for Linux with skeuomorphic design,https://github.com/fyzugx/DEsk,github.com,243,103,FinalDestiny,2026-10-15T13:23:44
+50105647,3,Neural Networks Are Already Clean,https://already-clean.goodfire.com/,already-clean.goodfire.com,48,8,themgt,2026-10-15T16:04:01
+50103630,4,I Know Why the Mathematicians Weep,https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep,derekthompson.org,191,266,RickJWagner,2026-10-15T13:44:32
+50102923,5,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",https://libreboot.org/news/libreboot2610.html,libreboot.org,168,89,iamnothere,2026-10-15T12:52:16
+50104726,6,Celebrating 70 Years of Fortran,https://fortran-lang.org/news/2026/09-15-Fortran-birthday/,fortran-lang.org,78,40,rbanffy,2026-10-15T15:03:17
+50105648,7,Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro,https://www.krea.ai/krea-3,krea.ai,37,20,dvrp,2026-10-15T16:04:05
+50105635,8,Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher,https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/,respawnfirst.com,101,115,starkparker,2026-10-15T16:03:19
+50102247,9,Show HN: Unfenced – Land for sale that borders public land,https://unfenced.land/,unfenced.land,170,121,otherwatersflow,2026-10-15T11:38:57
+50101813,10,Zero-Click Spyware Delivered via Targeted Ads: AdFection,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/,citizenlab.ca,168,26,jcomp,2026-10-15T10:43:36
+50080155,11,Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love,https://www.seriouseats.com/biscoff-history-12168161,seriouseats.com,26,21,mhb,2026-10-13T23:00:46
+50093568,12,Things to know when you get cancer,https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/,jjmaxwell4.com,1786,425,jjmaxwell4,2026-10-14T19:26:30
+50105777,13,The technical actions needed to ensure the continuity of UTC,https://www.bipm.org/en/cgpm-2026/resolution-5,bipm.org,21,5,gliffie,2026-10-15T16:11:36
+50103164,14,C++26 Contracts: Introduction to Preconditions and Postconditions,https://www.cppstories.com/2026/cpp26_contracts/,cppstories.com,76,66,ibobev,2026-10-15T13:11:26
+50104310,15,Prompt injection in HTTP headers: what 217M web responses show,https://www.signalscorps.com/blog/prompt-injection-in-http-headers/,signalscorps.com,45,9,panoramas4good,2026-10-15T14:36:22
+50105467,16,Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering,https://proa.so/,proa.so,15,0,burnrate,2026-10-15T15:52:08
+50070625,17,"Wanted to download an ISO, ended up writing a kernel exploit",https://blog.dfb.sh/blog/eap770-root-for-two-zeros/,blog.dfb.sh,277,139,0xdeafbeef,2026-10-13T12:30:08
+50075392,18,The largest eagle hunted unlike any other bird of prey (2021),https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html,nhm.ac.uk,24,0,EndXA,2026-10-13T17:27:01
+50094994,19,OpenCode 2.0,https://anoma.ly/notes/opencode-2-0/,anoma.ly,800,343,gmays,2026-10-14T20:48:24
+50058531,20,The Haunted Toys R Us,https://www.retroist.com/p/the-haunted-toys-r-us,retroist.com,48,22,speckx,2026-10-12T16:13:11
+50103263,21,GridSnap – an open-source Divvy-style window snapper for macOS,https://github.com/konieczkow/gridsnap,github.com,34,18,zderror,2026-10-15T13:19:07
+50106054,22,"Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",https://sygal.app,sygal.app,8,1,cyrillsemah,2026-10-15T16:26:16
+50096142,23,Tiny Little Office,https://tinylittleoffice.com/,tinylittleoffice.com,608,159,donohoe,2026-10-14T22:10:08
+50079701,24,The First Social Network: In rural Argentina residents send messages w AM radio,https://www.newyorker.com/magazine/2026/10/19/the-first-social-network,newyorker.com,119,45,bookofjoe,2026-10-13T22:17:41
+50105900,25,"Market selloff, rising rates test AI data centre deal boom",https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/,reuters.com,21,13,tartoran,2026-10-15T16:17:40
+50105344,26,I designed a nose guard for my dog and gave it away. Now 500 dogs wear one,https://snoutcover.com/one-year,snoutcover.com,173,96,ragswag,2026-10-15T15:44:36
+50050553,27,Do dentists know what they're doing?,https://mapwriting.substack.com/p/dentists,mapwriting.substack.com,914,646,doitLP,2026-10-12T02:21:54
+50089921,28,Americans' social activity has steeply declined in the past 30 years,https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years,dataforprogress.org,543,519,hubraumhugo,2026-10-14T16:09:00
+50053384,29,Catch a Bird – I made it for my own sanity,https://catchabird.com,catchabird.com,356,103,eduardsik,2026-10-12T08:51:18
+50064470,30,Show HN: Indigene – Native plants for where you stand,https://indigene.app/,indigene.app,98,17,olivierlacan,2026-10-12T23:25:20
+50064470,31,Show HN: Indigene – Native plants for where you stand,https://indigene.app/,indigene.app,98,17,olivierlacan,2026-10-12T23:25:20
+50097369,32,LFM2.5-24B-A2B: Built for fast on-device agents,https://www.liquid.ai/blog/lfm2-5-24b-a2b,liquid.ai,273,72,gmays,2026-10-14T23:59:37
+50060547,33,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html,phys.org,94,38,maxall4,2026-10-12T18:20:17
+50081045,34,"Creating a Garmin ""MCP""",https://jackantico.io/garmin-mcp,jackantico.io,53,63,ricotico060,2026-10-14T00:52:25
+50070661,35,It took me nine years to hack my Xbox 360,https://kennedn.com/blog/posts/glitching/,kennedn.com,157,45,kennedn,2026-10-13T12:33:18
+50105701,36,"Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says",https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says,bloomberg.com,18,1,sbulaev,2026-10-15T16:07:20
+50071068,37,Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster,https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/,hudsonrivertrading.com,45,4,theHRTBeat,2026-10-13T13:05:46
+50077709,38,"Donaldson Futuro House in Idyllwild, California, USA",https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/,wowhaus.co.uk,80,27,rmason,2026-10-13T19:55:41
+50105495,39,"ChatGPT Ads Target Your Phone Number, Email",https://www.404media.co/chatgpt-ads-target-your-phone-number-email/,404media.co,12,1,pavel_lishin,2026-10-15T15:53:41
+50090369,40,Better HTTP/1 connection reuse in Go 1.27,https://go.dev/blog/http-connection-reuse,go.dev,291,47,allddd,2026-10-14T16:29:33
+50096300,41,Show HN: Ito – Build Terminal UIs in Lua,https://uji.sh/ito/,uji.sh,61,12,cat-whisperer,2026-10-14T22:23:53
+50065237,42,Stopping sand from destroying a hydropower turbine [video],https://www.youtube.com/watch?v=kCYrSBexF_4,youtube.com,25,5,CaliforniaKarl,2026-10-13T01:02:54
+50105419,43,Dexcom forces ToS\Privacy Policy acceptance to see glucose levels,https://www.reddit.com/r/diabetes_t1/comments/1x4lwdl/dexcom_apps_new_terms_and_conditions/,reddit.com,7,0,CoopaTroopa,2026-10-15T15:49:00
+50099136,44,"Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",https://github.com/andunieee/flipflop,github.com,80,42,andunie,2026-10-15T04:25:28
+50060923,45,"David Rudnick on ""borderline impossible"" process of designing Arsenal typeface",https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026,itsnicethat.com,54,36,droidjj,2026-10-12T18:44:42
+50071546,46,Your C is not standard C,https://sebsite.pw/w/20261012-notstdc.html,sebsite.pw,123,91,dverlaeckt80,2026-10-13T13:36:21
+50098274,47,The Double Headed Stack Allocator,https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/,blog.demofox.org,87,31,g0xA52A2A,2026-10-15T02:06:36
+50084757,48,How Amazon pushes up prices all across the Internet,https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/,not-ship.com,916,709,sighborg,2026-10-14T09:28:17
+50092470,49,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",https://petal.live/,petal.live,204,39,thedracle,2026-10-14T18:23:14
+50072456,50,Show HN: A 3D Configurator for Macropads,https://npad.ngrok.dev,npad.ngrok.dev,4,5,alexandermkinn,2026-10-13T14:38:03
+50067325,51,Ask HN: CAD for wood working with LLM support?,https://news.ycombinator.com/item?id=50067325,news.ycombinator.com (Ask/Show HN),113,109,reacharavindh,2026-10-13T05:54:01
+50091788,52,Containment and monitoring failures are to blame for AI hacking reports: experts,https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html,csoonline.com,933,596,latexr,2026-10-14T17:45:23
+50095353,53,We’re releasing Jev 1.14.0 along with experimental features for dreamers,https://typesafe.ai/blog/jev-1-14,typesafe.ai,325,115,emschwartz,2026-10-14T21:11:03
+50047576,54,The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl,https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/,ei3lh.eu,52,17,austinallegro,2026-10-11T20:36:56
+50090799,55,Has AI tells,https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1,theconsensus.dev,131,111,7777777phil,2026-10-14T16:52:42
+50054465,56,Phloem: Git history grown like a slime mold,https://phloem.stemdeck.app/,phloem.stemdeck.app,125,22,thclpr,2026-10-12T10:52:25
+50088935,57,Passkeys are not a trap,https://scotthelme.co.uk/passkeys-are-not-a-trap/,scotthelme.co.uk,629,783,speckx,2026-10-14T15:15:45
+50089229,58,Submarine cable resilience,https://blog.apnic.net/2026/10/14/submarine-cable-resilience/,blog.apnic.net,167,75,speckx,2026-10-14T15:31:15
+50092423,59,Virtual Oxide Labs: Emulating a Full Oxide Rack,https://oxide.computer/blog/voxel-labs,oxide.computer,140,14,tosh,2026-10-14T18:21:14
+50105219,60,How to Make End-Grain Cutting Boards,https://a.wholelottanothing.org/how-to-make-end-grain-cutting-boards/,a.wholelottanothing.org,4,0,karakoram,2026-10-15T15:36:11
