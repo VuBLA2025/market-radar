@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50107379,1,Muse Spark Open,https://research.meta.ai/blog/muse-spark-open,research.meta.ai,692,374,bigwheels,2026-10-15T17:47:39
-50112330,2,RPKI now protects 70% of internet routes,https://ipinfo.io/blog/rpki-protects-70-internet-routes,ipinfo.io,83,23,emot,2026-10-16T00:52:35
-50112739,3,"Any window from your Mac, on your iPhone and iPad",https://github.com/Saffsanity/sill,github.com,73,9,chanana,2026-10-16T01:43:17
-50111852,4,Business accounts will consent to Meta scraping their websites Starting Oct. 30,https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/,niemanlab.org,111,44,0in,2026-10-15T23:37:42
-50105647,5,Neural networks are clean,https://already-clean.goodfire.com/,already-clean.goodfire.com,565,216,themgt,2026-10-15T16:04:01
-50072119,6,'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds,https://www.polygon.com/order-of-the-sinking-star-impressions/,polygon.com,33,11,cvoss,2026-10-13T14:14:20
-50109715,7,What I self-host,https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/,viceconsole.fyi,347,226,BrunoBernardino,2026-10-15T20:23:25
-50068203,8,Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat,https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge,pcmag.com,81,52,giuliomagnifico,2026-10-13T07:52:54
-50105777,9,BIPM decides to stop adding leap seconds to UTC,https://www.bipm.org/en/cgpm-2026/resolution-5,bipm.org,115,53,gliffie,2026-10-15T16:11:36
-50103338,10,Wayland desktop for Linux with skeuomorphic design,https://github.com/fyzugx/DEsk,github.com,550,215,FinalDestiny,2026-10-15T13:23:44
-50101813,11,AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/,citizenlab.ca,417,578,jcomp,2026-10-15T10:43:36
-50106023,12,Jev meets the Trolley Problem,https://zachlandes.com/trolley-problem/,zachlandes.com,361,162,zlandes86,2026-10-15T16:24:52
-50087616,13,Non-Determinism Doesn't Matter,https://sklar.rocks/non-determinism-doesnt-matter/,sklar.rocks,29,27,sklarsa,2026-10-14T13:37:59
-50108872,14,Someone on Torrent Sites Kept Fucking with My Sonarr,https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup,thereallo.dev,275,128,speckx,2026-10-15T19:21:38
-50109375,15,New Withings Users Must Pay $99/Year for Apple Health Syncing,https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts,support.withings.com,204,152,johnbehnke,2026-10-15T19:55:49
-50105648,16,Krea 3 – An image model built for editing at scale,https://www.krea.ai/krea-3,krea.ai,279,86,dvrp,2026-10-15T16:04:05
-50071319,17,4 Years of Ludicon,https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/,ludicon.com,5,0,ibobev,2026-10-13T13:22:11
-50104726,18,Celebrating 70 Years of Fortran,https://fortran-lang.org/news/2026/09-15-Fortran-birthday/,fortran-lang.org,240,104,rbanffy,2026-10-15T15:03:17
-50111742,19,BeBox is a Haiku application that emulates Be Inc.'s BeBox,https://github.com/johnrash/bebox,github.com,35,9,rguiscard,2026-10-15T23:22:53
-50084674,20,"Why I Wrote PGP (1991, revised 1999)",https://philzimmermann.com/EN/essays/WhyIWrotePGP.html,philzimmermann.com,128,49,GaryBluto,2026-10-14T09:17:06
-50080155,21,Delta’s Biscoff cookies were supposed to be temporary,https://www.seriouseats.com/biscoff-history-12168161,seriouseats.com,200,150,mhb,2026-10-13T23:00:46
-50102923,22,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",https://libreboot.org/news/libreboot2610.html,libreboot.org,261,165,iamnothere,2026-10-15T12:52:16
-50108229,23,E Ink Kaleido 4,https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4,eink.com,149,86,Perroboc,2026-10-15T18:38:16
-50100387,24,Aidlc: Adaptive workflow steering rules for AI coding agents,https://github.com/awslabs/aidlc-workflows,github.com,22,18,pramodbiligiri,2026-10-15T07:20:39
-50069439,25,Major ICQ security hole (1998),https://opennet.ru/base/maillist/169.txt.html,opennet.ru,57,29,sysoleg,2026-10-13T10:21:17
-50112331,26,"Thank You, Deno",https://www.vlt.io/blog/competition-keeps-javascript-moving,vlt.io,39,3,jcbhmr,2026-10-16T00:52:40
-50112887,27,Comparing Chromium Development at Google and Igalia,https://lwn.net/Articles/1094721/,lwn.net,16,0,signa11,2026-10-16T01:56:37
-50104299,28,Using AI to reverse engineer hardware,https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/,blogs.gnome.org,145,122,ErenayDev,2026-10-15T14:35:15
-50097843,29,The engineering that allows articulated buses to bend,https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/,theautopian.com,91,41,CharlesW,2026-10-15T01:02:05
-50102247,30,Show HN: Unfenced – Land for sale that borders public land,https://unfenced.land/,unfenced.land,282,188,otherwatersflow,2026-10-15T11:38:57
-50070510,31,Speculative Sauropods,https://svpow.com/2026/10/02/speculative-sauropods/,svpow.com,12,0,surprisetalk,2026-10-13T12:20:03
-50099121,32,An Apology,https://www.elevationlab.com/blogs/news/an-apology,elevationlab.com,116,133,cdrnsf,2026-10-15T04:23:27
-50099136,33,Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing,https://github.com/andunieee/flipflop,github.com,119,62,andunie,2026-10-15T04:25:28
-50112657,34,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,309,345,shekhar101,2026-10-16T01:32:45
-50104654,35,Simons Foundation launches $15M effort to help mathematicians navigate AI era,https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/,simonsfoundation.org,233,191,aaraujo002,2026-10-15T14:58:48
-50103164,36,C++26 Contracts: Introduction to Preconditions and Postconditions,https://www.cppstories.com/2026/cpp26_contracts/,cppstories.com,131,136,ibobev,2026-10-15T13:11:26
-50105635,37,Steam Client is now faster than Epic's new vibe coded launcher,https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/,respawnfirst.com,300,303,starkparker,2026-10-15T16:03:19
-50082637,38,The 8-mile hole in a Hawaii national park that no one can explain,https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php,sfgate.com,63,42,elsewhen,2026-10-14T05:08:09
-50093568,39,Things to know when you get cancer,https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/,jjmaxwell4.com,1878,459,jjmaxwell4,2026-10-14T19:26:30
-50103630,40,I know why the mathematicians weep,https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep,derekthompson.org,351,577,RickJWagner,2026-10-15T13:44:32
-50114077,41,Tesla makes cars that fly? [video],https://www.youtube.com/watch?v=7p5LxFdc-Qg,youtube.com,4,0,merinpapz10,2026-10-16T04:27:54
-50105467,42,Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering,https://proa.so/,proa.so,95,28,burnrate,2026-10-15T15:52:08
-50085171,43,"Game of Life – But Multiplayer, Hypermedia and Python",https://stario.dev/apps/life,stario.dev,52,19,bobowski,2026-10-14T10:13:39
-50079701,44,The First Social Network: In rural Argentina residents send messages w AM radio,https://www.newyorker.com/magazine/2026/10/19/the-first-social-network,newyorker.com,151,53,bookofjoe,2026-10-13T22:17:41
-50112227,45,"Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans",https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/,reuters.com,36,12,usernomdeguerre,2026-10-16T00:37:06
-50104310,46,Prompt injection in HTTP headers: what 217M web responses show,https://www.signalscorps.com/blog/prompt-injection-in-http-headers/,signalscorps.com,83,16,panoramas4good,2026-10-15T14:36:22
-50112421,47,Turn your regular JavaScript code into a neural net,https://chenglou.me/handwired/,chenglou.me,7,4,vismit2000,2026-10-16T01:04:18
-50112329,48,A model where companies lease critical minerals instead of selling them,https://ccsi.columbia.edu/metals-service-maas/,ccsi.columbia.edu,7,3,crookedroad44,2026-10-16T00:52:32
-50105791,49,Frontier Pre-Training at Microsoft AI,https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/,microsoft.ai,37,3,psoulos,2026-10-15T16:12:13
-50064470,50,Show HN: Indigene – Native plants for where you stand,https://indigene.app/,indigene.app,108,38,olivierlacan,2026-10-12T23:25:20
-50094994,51,OpenCode 2.0,https://anoma.ly/notes/opencode-2-0/,anoma.ly,857,377,gmays,2026-10-14T20:48:24
-50058531,52,The Haunted Toys R Us,https://www.retroist.com/p/the-haunted-toys-r-us,retroist.com,66,39,speckx,2026-10-12T16:13:11
-50113841,53,Sergey Brin says Google's AI models are reaching recursive self-improvement,https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10,businessinsider.com,4,1,ryan_j_naughton,2026-10-16T03:49:35
-50106054,54,"Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",https://sygal.app,sygal.app,35,11,cyrillsemah,2026-10-15T16:26:16
-50062683,55,Rediscovering the Romance of Travel Clocks,https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks,acollectedman.com,34,8,austinallegro,2026-10-12T20:35:43
-50113569,56,OSI Approved the Curl License,https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/,daniel.haxx.se,5,0,sohkamyung,2026-10-16T03:14:47
-50060547,57,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html,phys.org,102,48,maxall4,2026-10-12T18:20:17
-50070661,58,It took me nine years to hack my Xbox 360,https://kennedn.com/blog/posts/glitching/,kennedn.com,172,47,kennedn,2026-10-13T12:33:18
-50108036,59,Bringing the magic: Google breaks open a bottleneck in quantum computing,https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/,blog.google,23,6,xnx,2026-10-15T18:26:30
-50070625,60,"Wanted to download an ISO, ended up writing a kernel exploit",https://blog.dfb.sh/blog/eap770-root-for-two-zeros/,blog.dfb.sh,363,182,0xdeafbeef,2026-10-13T12:30:08
+50077225,1,Yet another way to invoke functions without parentheses,https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/,blog.ikaes.de,57,20,aragonite,2026-10-13T19:25:18
+50065859,2,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],https://www.youtube.com/watch?v=sjNpfz4UzqU,youtube.com,396,131,johnnyApplePRNG,2026-10-13T02:32:53
+50111852,3,Meta’s new commercial terms will allow the scraping of news sites: experts,https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/,niemanlab.org,336,117,0in,2026-10-15T23:37:42
+50084790,4,The Economic Complexity of the Western Roman Empire,https://www.michelecoscia.com/?p=2613,michelecoscia.com,35,9,mikk14,2026-10-14T09:32:09
+50107379,5,Muse Spark Open,https://research.meta.ai/blog/muse-spark-open,research.meta.ai,833,420,bigwheels,2026-10-15T17:47:39
+50072485,6,Two-Stack Sliding-Window Aggregation,https://orlp.net/blog/two-stack-sliding-window-aggregation/,orlp.net,38,2,surprisetalk,2026-10-13T14:40:03
+50112330,7,RPKI now protects 70% of internet routes,https://ipinfo.io/blog/rpki-protects-70-internet-routes,ipinfo.io,172,59,emot,2026-10-16T00:52:35
+50105647,8,Neural networks are clean,https://already-clean.goodfire.com/,already-clean.goodfire.com,715,266,themgt,2026-10-15T16:04:01
+50114342,9,The Folders Programming Language,https://danieltemkin.com/esolangs/folders,danieltemkin.com,91,12,gurst,2026-10-16T05:11:28
+50109375,10,New Withings Users Must Pay $99/Year for Apple Health Syncing,https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts,support.withings.com,318,205,johnbehnke,2026-10-15T19:55:49
+50109715,11,What I self-host,https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/,viceconsole.fyi,519,329,BrunoBernardino,2026-10-15T20:23:25
+50103338,12,Wayland desktop for Linux with skeuomorphic design,https://github.com/fyzugx/DEsk,github.com,624,251,FinalDestiny,2026-10-15T13:23:44
+50068203,13,Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat,https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge,pcmag.com,149,106,giuliomagnifico,2026-10-13T07:52:54
+50106023,14,Jev meets the Trolley Problem,https://zachlandes.com/trolley-problem/,zachlandes.com,487,208,zlandes86,2026-10-15T16:24:52
+50105777,15,BIPM decides to stop adding leap seconds to UTC,https://www.bipm.org/en/cgpm-2026/resolution-5,bipm.org,197,94,gliffie,2026-10-15T16:11:36
+50112739,16,"Any window from your Mac, on your iPhone and iPad",https://github.com/Saffsanity/sill,github.com,169,39,chanana,2026-10-16T01:43:17
+50079280,17,"New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete,sciencealert.com,16,6,andrewl,2026-10-13T21:42:38
+50108872,18,Someone on Torrent Sites Kept Fucking with My Sonarr,https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup,thereallo.dev,361,165,speckx,2026-10-15T19:21:38
+50104726,19,Celebrating 70 Years of Fortran,https://fortran-lang.org/news/2026/09-15-Fortran-birthday/,fortran-lang.org,283,122,rbanffy,2026-10-15T15:03:17
+50112331,20,"Thank You, Deno",https://www.vlt.io/blog/competition-keeps-javascript-moving,vlt.io,98,20,jcbhmr,2026-10-16T00:52:40
+50072119,21,'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds,https://www.polygon.com/order-of-the-sinking-star-impressions/,polygon.com,155,107,cvoss,2026-10-13T14:14:20
+50105648,22,Krea 3 – An image model built for editing at scale,https://www.krea.ai/krea-3,krea.ai,315,101,dvrp,2026-10-15T16:04:05
+50115144,23,The insider trading you're allowed to do,https://coached.com/essays/the-insider-trading-youre-allowed-to-do/,coached.com,56,42,rohanm93,2026-10-16T07:12:09
+50112887,24,Comparing Chromium Development at Google and Igalia,https://lwn.net/Articles/1094721/,lwn.net,58,17,signa11,2026-10-16T01:56:37
+50084674,25,"Why I Wrote PGP (1991, revised 1999)",https://philzimmermann.com/EN/essays/WhyIWrotePGP.html,philzimmermann.com,165,60,GaryBluto,2026-10-14T09:17:06
+50116367,26,Japanese people still aren't having sex. And nobody knows why,https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience,sciencefocus.com,27,39,baranul,2026-10-16T09:54:55
+50102923,27,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",https://libreboot.org/news/libreboot2610.html,libreboot.org,290,181,iamnothere,2026-10-15T12:52:16
+50080155,28,Delta’s Biscoff cookies were supposed to be temporary,https://www.seriouseats.com/biscoff-history-12168161,seriouseats.com,227,174,mhb,2026-10-13T23:00:46
+50069439,29,Major ICQ security hole (1998),https://opennet.ru/base/maillist/169.txt.html,opennet.ru,96,53,sysoleg,2026-10-13T10:21:17
+50104299,30,Using AI to reverse engineer hardware,https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/,blogs.gnome.org,206,187,ErenayDev,2026-10-15T14:35:15
+50116031,31,Geoffrey Hinton: 'We're creating alien beings. I'm willing to choose humans',https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech,theguardian.com,17,3,Michelangelo11,2026-10-16T09:13:43
+50108229,32,E Ink Kaleido 4,https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4,eink.com,174,105,Perroboc,2026-10-15T18:38:16
+50082637,33,The 8-mile hole in a Hawaii national park that no one can explain,https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php,sfgate.com,72,46,elsewhen,2026-10-14T05:08:09
+50097843,34,The engineering that allows articulated buses to bend,https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/,theautopian.com,109,54,CharlesW,2026-10-15T01:02:05
+50087616,35,Non-Determinism Doesn't Matter,https://sklar.rocks/non-determinism-doesnt-matter/,sklar.rocks,54,60,sklarsa,2026-10-14T13:37:59
+50082113,36,New York City's iconic horse-drawn carriages expected to take their last trot,https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban,cnn.com,46,55,1659447091,2026-10-14T03:41:42
+50059094,37,Casio F-91W using Statecharts,https://github.com/dundalek/casio-f91w-fsm,github.com,37,9,austinallegro,2026-10-12T16:46:30
+50101813,38,AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/,citizenlab.ca,468,627,jcomp,2026-10-15T10:43:36
+50099136,39,Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing,https://github.com/andunieee/flipflop,github.com,129,63,andunie,2026-10-15T04:25:28
+50093568,40,Things to know when you get cancer,https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/,jjmaxwell4.com,1897,467,jjmaxwell4,2026-10-14T19:26:30
+50099121,41,An Apology,https://www.elevationlab.com/blogs/news/an-apology,elevationlab.com,124,137,cdrnsf,2026-10-15T04:23:27
+50116255,42,"Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second",https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second,foxbusiness.com,7,1,nsoonhui,2026-10-16T09:40:47
+50071319,43,4 Years of Ludicon,https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/,ludicon.com,19,4,ibobev,2026-10-13T13:22:11
+50100387,44,Aidlc: Adaptive workflow steering rules for AI coding agents,https://github.com/awslabs/aidlc-workflows,github.com,25,19,pramodbiligiri,2026-10-15T07:20:39
+50114359,45,Last rites for Gentoo's Chromium package,https://lwn.net/Articles/1097760/,lwn.net,64,61,signa11,2026-10-16T05:14:42
+50103164,46,C++26 Contracts: Introduction to Preconditions and Postconditions,https://www.cppstories.com/2026/cpp26_contracts/,cppstories.com,139,156,ibobev,2026-10-15T13:11:26
+50104654,47,Simons Foundation launches $15M effort to help mathematicians navigate AI era,https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/,simonsfoundation.org,240,193,aaraujo002,2026-10-15T14:58:48
+50114256,48,Self-Evolving Agent Harness,https://arxiv.org/abs/2610.18813,arxiv.org,12,0,axis_official,2026-10-16T04:57:30
+50113842,49,The Thinking Leakage in Reinforcement Learning for LLMs,https://arxiv.org/abs/2610.14270,arxiv.org,7,0,ilreb,2026-10-16T03:49:46
+50079701,50,The First Social Network: In rural Argentina residents send messages w AM radio,https://www.newyorker.com/magazine/2026/10/19/the-first-social-network,newyorker.com,157,57,bookofjoe,2026-10-13T22:17:41
+50103630,51,I know why the mathematicians weep,https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep,derekthompson.org,370,613,RickJWagner,2026-10-15T13:44:32
+50113738,52,3DCodeVerse,https://3dcodeverse.com/,3dcodeverse.com,8,0,ilreb,2026-10-16T03:34:31
+50105635,53,Steam Client is now faster than Epic's new vibe coded launcher,https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/,respawnfirst.com,319,328,starkparker,2026-10-15T16:03:19
+50113506,54,MuscleMemory: Open-source procedural memory for AI agents,https://github.com/TheWariend/MuscleMemory,github.com,8,0,maaaz,2026-10-16T03:06:23
+50105467,55,Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering,https://proa.so/,proa.so,102,28,burnrate,2026-10-15T15:52:08
+50070510,56,Speculative Sauropods,https://svpow.com/2026/10/02/speculative-sauropods/,svpow.com,14,0,surprisetalk,2026-10-13T12:20:03
+50112799,57,Lightpanda headless browser written in Zig,https://lightpanda.io,lightpanda.io,12,0,zlu,2026-10-16T01:48:06
+50104310,58,Prompt injection in HTTP headers: what 217M web responses show,https://www.signalscorps.com/blog/prompt-injection-in-http-headers/,signalscorps.com,88,17,panoramas4good,2026-10-15T14:36:22
+50113743,59,Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio,https://machinelearning.apple.com/research/mlx-distributed-inference,machinelearning.apple.com,6,1,vinhnx,2026-10-16T03:34:45
+50094994,60,OpenCode 2.0,https://anoma.ly/notes/opencode-2-0/,anoma.ly,864,381,gmays,2026-10-14T20:48:24
