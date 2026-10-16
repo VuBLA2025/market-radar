@@ -303,6 +303,22 @@
     "avg_comments": 69.5,
     "top_domain": "youtube.com"
    }
+  },
+  {
+   "at": "2026-10-16T21:20:35+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 118.7,
+    "max_points": 897,
+    "avg_comments": 77.2,
+    "top_domain": "github.com"
+   }
   }
  ]
 }
