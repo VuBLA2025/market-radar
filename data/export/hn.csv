@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50106747,1,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,paperinstruments.com,76,20,i_rush_carriers,2026-10-15T17:06:01
-50112657,2,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1294,2295,shekhar101,2026-10-16T01:32:45
-50122431,3,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,github.com,230,62,Anon84,2026-10-16T18:32:35
-50122800,4,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,763,293,ahlCVA,2026-10-16T18:55:59
-50122878,5,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,189,56,speckx,2026-10-16T19:01:17
-50123580,6,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,135,39,gmays,2026-10-16T19:47:13
-50127274,7,Butlerian Jihad,https://dune.fandom.com/wiki/Butlerian_Jihad,dune.fandom.com,125,63,wetwater,2026-10-17T02:21:08
-50088937,8,California is building a $400M shield for Yosemite's most dangerous highway,https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php,sfchronicle.com,16,2,danso,2026-10-14T15:15:58
-50122034,9,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,195,152,7402,2026-10-16T18:06:17
-50118320,10,Apple ML Research: Muse Spark Open with MLX on Mac Studio,https://machinelearning.apple.com/research/mlx-distributed-inference,machinelearning.apple.com,286,135,antipaul,2026-10-16T13:43:48
-50121939,11,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,117,24,pretext,2026-10-16T18:00:18
-50126334,12,Show HN: Fakeipedia – Wikipedia for worlds that don't exist,https://fakeipedia.org,fakeipedia.org,13,4,darajava,2026-10-16T23:52:04
-50126774,13,Flexport Is Hiring a Biz Ops Leader in Office of CEO,https://www.flexport.com/company/careers/,flexport.com,0,0,,2026-10-17T01:01:51
-50120224,14,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,221,156,farlight,2026-10-16T16:12:02
-50122736,15,C++26: The New Debugging Header,https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging,sandordargo.com,82,13,jandeboevrie,2026-10-16T18:52:39
-50083673,16,Wireless magnetic millirobots that deliver medicine inside the beating heart,https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/,hub.jhu.edu,83,10,giuliomagnifico,2026-10-14T07:21:12
-50121179,17,90% of US working hours are spent on tasks not covered well by AI benchmarks,https://www.mercor.com/research/labor-index/benchmark-map/,mercor.com,443,385,speckx,2026-10-16T17:08:38
-50122951,18,How the Claude Code team does code review,https://claude.dev/blog/solving-code-review-at-anthropic/,claude.dev,279,255,pretext,2026-10-16T19:04:47
-50076089,19,Monte-Carlo Simulations,https://eli.thegreenplace.net/2026/monte-carlo-simulations/,eli.thegreenplace.net,81,18,ibobev,2026-10-13T18:11:46
-50118688,20,Show HN: Gemini 4 Argon plays StarCraft,https://starskirmish.com/bench/v0-2/,starskirmish.com,200,90,__cayenne__,2026-10-16T14:18:44
-50079280,21,"New 'super ice' 10 times stronger, bringing it close to the strength of concrete",https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete,sciencealert.com,89,62,andrewl,2026-10-13T21:42:38
-50125545,22,Nine-Inch Snails,https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/,theatlantic.com,40,20,zdw,2026-10-16T22:21:05
-50117746,23,I love software rendering,https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/,jamesfmackenzie.com,311,196,speckx,2026-10-16T12:52:08
-50118977,24,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,https://calif.io/research/big-fish,calif.io,172,48,rs_rs_rs_rs_rs,2026-10-16T14:44:02
-50088748,25,I built the RealWorld app in Lean 4,https://leangineer.com/blog/realworld-in-lean/,leangineer.com,24,3,saviorand,2026-10-14T15:03:14
-50074322,26,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/,cbsnews.com,111,67,ohjeez,2026-10-13T16:26:03
-50080246,27,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",https://wonderhop.io/en/,wonderhop.io,79,71,mtlduo,2026-10-13T23:10:04
-50118828,28,What on Earth Is Dekton?,https://www.worksinprogress.news/p/porcelain,worksinprogress.news,140,51,wawayanda,2026-10-16T14:31:43
-50118981,29,Waymo in Toronto,https://waymo.com/blog/2026/10/waymo-in-toronto/,waymo.com,303,409,ChrisArchitect,2026-10-16T14:44:17
-50127839,30,"""In every study that considered the question""",https://unsung.aresluna.org/in-every-study-that-considered-the-question/,unsung.aresluna.org,4,0,zdw,2026-10-17T04:08:27
-50127839,31,"""In every study that considered the question""",https://unsung.aresluna.org/in-every-study-that-considered-the-question/,unsung.aresluna.org,4,0,zdw,2026-10-17T04:08:27
-50121601,32,GifCities,https://gifcities.org/,gifcities.org,65,12,augury,2026-10-16T17:35:07
-50077225,33,Yet another way to invoke functions without parentheses,https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/,blog.ikaes.de,245,102,aragonite,2026-10-13T19:25:18
-50115703,34,Coconuts in Medieval Britain (2015),https://www.themarysue.com/monty-python-holy-grail-coconuts/,themarysue.com,7,0,wolfi1,2026-10-16T08:28:54
-50118267,35,RFC8950: Announce IPv4 with an IPv6 next-hop,https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/,anuragbhatia.com,101,63,porridgeraisin,2026-10-16T13:38:25
-50121004,36,/dev/null: social network for developers,https://dev-null.sh,dev-null.sh,137,126,mnapoli,2026-10-16T16:57:49
-50122112,37,Anthropic assigned highest junk credit rating in June,https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d,ft.com,232,71,JumpCrisscross,2026-10-16T18:11:42
-50124251,38,I never authorized an integration that scans my secrets,https://github.com/home-assistant/home-assistant.io/issues/49314,github.com,209,170,trvrprkr,2026-10-16T20:33:41
-50124646,39,Self-hosted infrastructure with Incus OS,https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html,dataswamp.org,19,1,psxuaw,2026-10-16T21:01:32
-50090453,40,PGO or not PGO this is the dilemma. Step 2,https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/,percona.com,19,3,hnp9j9qtda,2026-10-14T16:33:48
-50124642,41,Why harnesses matter for energy (and token) efficiency,https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency,neuralwatt.com,50,23,ccgibson,2026-10-16T21:01:23
-50118048,42,My old job feels distant now,https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/,pinecoder.dev,89,90,speckx,2026-10-16T13:18:59
-50111752,43,Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video],https://www.youtube.com/watch?v=eF6bMSjPepM,youtube.com,75,49,zdw,2026-10-15T23:23:51
-50084790,44,The Economic Complexity of the Western Roman Empire,https://www.michelecoscia.com/?p=2613,michelecoscia.com,150,37,mikk14,2026-10-14T09:32:09
-50118512,45,How to Formalize All of Mathematics,https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/,xenaproject.wordpress.com,77,77,practal,2026-10-16T14:01:53
-50125976,46,Brax Wink. The most private mobile phone. Modular. Open source,https://braxtech.net/products/wink,braxtech.net,9,2,dgellow,2026-10-16T23:07:09
-50119021,47,A week on the farm with Dylan Araps,https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/,adamschaefers.com,6,2,djnaraps,2026-10-16T14:46:55
-50085553,48,AI-assisted PCB design for KiCad 10,https://github.com/mixelpixx/Konnect,github.com,128,48,ofrzeta,2026-10-14T10:51:37
-50065859,49,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],https://www.youtube.com/watch?v=sjNpfz4UzqU,youtube.com,832,247,johnnyApplePRNG,2026-10-13T02:32:53
-50123356,50,The Fatal Flaw of 911,https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health,themarshallproject.org,50,70,plunge,2026-10-16T19:33:00
-50086838,51,"Making 1,750 programmable PCB badges for Canada's biggest hackathon",https://va3ndf.com/blog/hacker-badges/,va3ndf.com,49,12,va3ndf,2026-10-14T12:44:07
-50118662,52,How to make System 1 LLMs show System 2 competencies?,https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113,onlinelibrary.wiley.com,49,24,porridgeraisin,2026-10-16T14:16:34
-50118876,53,Show HN: rStation – A shared research lab for your AI agents,https://rstation.ai/,rstation.ai,51,19,stephenchung,2026-10-16T14:35:43
-50124215,54,Gnome OS Preview,https://lwn.net/Articles/1101057/,lwn.net,26,11,mtbkvc,2026-10-16T20:30:58
-50120101,55,US Rep Announces Congressional Legislation to Protect Video Game Ownership,https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games,ritchietorres.house.gov,200,112,DeepLogin,2026-10-16T16:03:02
-50122776,56,Show HN: Stoke Money – Personal finance app built around a cash flow forecast,https://stoke.money,stoke.money,25,19,_wesley,2026-10-16T18:54:47
-50114342,57,The Folders Programming Language,https://danieltemkin.com/esolangs/folders,danieltemkin.com,206,37,gurst,2026-10-16T05:11:28
-50098281,58,Symmetries in Boolean Scan,https://ap29600.github.io/boolean_scans.html,ap29600.github.io,12,0,g0xA52A2A,2026-10-15T02:07:15
-50072119,59,'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds,https://www.polygon.com/order-of-the-sinking-star-impressions/,polygon.com,189,154,cvoss,2026-10-13T14:14:20
-50119991,60,Postgres 19 delayed after AI reviewers find more bugs than humans can fix,https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471,theregister.com,189,73,magoghm,2026-10-16T15:55:40
+50129121,1,DeepSeek: DeepSeek v4.1 Flash 1017,https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017,openrouter.ai,158,28,theanonymousone,2026-10-17T08:37:46
+50106747,2,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,paperinstruments.com,255,77,i_rush_carriers,2026-10-15T17:06:01
+50112657,3,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1448,2532,shekhar101,2026-10-16T01:32:45
+50127979,4,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,https://llmspeed.dev/,llmspeed.dev,86,36,albinstman,2026-10-17T04:36:53
+50129045,5,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,174,74,theykk,2026-10-17T08:21:25
+50103255,6,Intuitive concurrent programming in any language,https://www.lf-lang.org/,lf-lang.org,52,11,mpweiher,2026-10-15T13:18:44
+50089577,7,Tell HN: Remember to migrate away from .name domain,https://news.ycombinator.com/item?id=50089577,news.ycombinator.com (Ask/Show HN),49,25,nikanj,2026-10-14T15:49:31
+50122431,8,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,github.com,295,74,Anon84,2026-10-16T18:32:35
+50122878,9,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,314,73,speckx,2026-10-16T19:01:17
+50129235,10,"Is MCP becoming the common foundation of smart, decentralised search?",https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search,contextetech.com,14,9,contextetech,2026-10-17T09:01:30
+50122800,11,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,881,328,ahlCVA,2026-10-16T18:55:59
+50104783,12,Recipes Are Moving from Maven Central to the Code Genome Project,https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module,docs.openrewrite.org,10,2,javahippie,2026-10-15T15:06:52
+50123580,13,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,168,47,gmays,2026-10-16T19:47:13
+50118320,14,Apple ML Research: Muse Spark Open with MLX on Mac Studio,https://machinelearning.apple.com/research/mlx-distributed-inference,machinelearning.apple.com,323,161,antipaul,2026-10-16T13:43:48
+50088767,15,0/1 Knapsack Problem in PyTorch,https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg,jedrzej.maczan.pl,26,2,yu3zhou4,2026-10-14T15:04:33
+50122034,16,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,227,199,7402,2026-10-16T18:06:17
+50121939,17,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,144,32,pretext,2026-10-16T18:00:18
+50127274,18,Butlerian Jihad,https://dune.fandom.com/wiki/Butlerian_Jihad,dune.fandom.com,238,130,wetwater,2026-10-17T02:21:08
+50120224,19,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,267,184,farlight,2026-10-16T16:12:02
+50100440,20,We Still Use Paper,https://humanpro.co/articles/we-still-use-paper/,humanpro.co,3,0,gx,2026-10-15T07:27:55
+50088748,21,I built the RealWorld app in Lean 4,https://leangineer.com/blog/realworld-in-lean/,leangineer.com,63,5,saviorand,2026-10-14T15:03:14
+50128654,22,"Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",https://github.com/CLoaKY233/siltop,github.com,8,8,cloaky233,2026-10-17T07:01:07
+50119751,23,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",https://adepts.of0x.cc/eufy-homestation2-firmware/,adepts.of0x.cc,50,3,michidk,2026-10-16T15:38:28
+50076089,24,Monte-Carlo Simulations,https://eli.thegreenplace.net/2026/monte-carlo-simulations/,eli.thegreenplace.net,126,23,ibobev,2026-10-13T18:11:46
+50126774,25,Flexport Is Hiring a Biz Ops Leader in Office of CEO,https://www.flexport.com/company/careers/,flexport.com,0,0,,2026-10-17T01:01:51
+50121179,26,90% of US working hours are spent on tasks not covered well by AI benchmarks,https://www.mercor.com/research/labor-index/benchmark-map/,mercor.com,510,434,speckx,2026-10-16T17:08:38
+50125545,27,Nine-Inch Snails,https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/,theatlantic.com,73,35,zdw,2026-10-16T22:21:05
+50122951,28,How the Claude Code team does code review,https://claude.dev/blog/solving-code-review-at-anthropic/,claude.dev,353,332,pretext,2026-10-16T19:04:47
+50118688,29,Show HN: Gemini 4 Argon plays StarCraft,https://starskirmish.com/bench/v0-2/,starskirmish.com,225,101,__cayenne__,2026-10-16T14:18:44
+50083673,30,Wireless magnetic millirobots that deliver medicine inside the beating heart,https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/,hub.jhu.edu,98,17,giuliomagnifico,2026-10-14T07:21:12
+50079280,31,"New 'super ice' 10 times stronger, bringing it close to the strength of concrete",https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete,sciencealert.com,104,80,andrewl,2026-10-13T21:42:38
+50117746,32,I love software rendering,https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/,jamesfmackenzie.com,326,205,speckx,2026-10-16T12:52:08
+50074322,33,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/,cbsnews.com,128,81,ohjeez,2026-10-13T16:26:03
+50118977,34,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,https://calif.io/research/big-fish,calif.io,188,59,rs_rs_rs_rs_rs,2026-10-16T14:44:02
+50122736,35,C++26: The New Debugging Header,https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging,sandordargo.com,98,23,jandeboevrie,2026-10-16T18:52:39
+50080246,36,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",https://wonderhop.io/en/,wonderhop.io,98,77,mtlduo,2026-10-13T23:10:04
+50118318,37,What was a Token Ring network?,https://dfarq.homeip.net/what-was-a-token-ring-network/,dfarq.homeip.net,114,87,ibobev,2026-10-16T13:43:30
+50077225,38,Yet another way to invoke functions without parentheses,https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/,blog.ikaes.de,250,102,aragonite,2026-10-13T19:25:18
+50118981,39,Waymo in Toronto,https://waymo.com/blog/2026/10/waymo-in-toronto/,waymo.com,311,414,ChrisArchitect,2026-10-16T14:44:17
+50118828,40,What on Earth Is Dekton?,https://www.worksinprogress.news/p/porcelain,worksinprogress.news,147,54,wawayanda,2026-10-16T14:31:43
+50110930,41,$50k First Letters Prize Awarded for PHerc 343,https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for,scrollprize.substack.com,9,0,dcminter,2026-10-15T21:55:04
+50121004,42,/dev/null: social network for developers,https://dev-null.sh,dev-null.sh,156,138,mnapoli,2026-10-16T16:57:49
+50121601,43,GifCities,https://gifcities.org/,gifcities.org,73,12,augury,2026-10-16T17:35:07
+50084790,44,The Economic Complexity of the Western Roman Empire,https://www.michelecoscia.com/?p=2613,michelecoscia.com,155,37,mikk14,2026-10-14T09:32:09
+50065859,45,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],https://www.youtube.com/watch?v=sjNpfz4UzqU,youtube.com,842,250,johnnyApplePRNG,2026-10-13T02:32:53
+50122112,46,Anthropic assigned highest junk credit rating in June,https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d,ft.com,259,79,JumpCrisscross,2026-10-16T18:11:42
+50118048,47,My old job feels distant now,https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/,pinecoder.dev,98,101,speckx,2026-10-16T13:18:59
+50111752,48,Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video],https://www.youtube.com/watch?v=eF6bMSjPepM,youtube.com,77,51,zdw,2026-10-15T23:23:51
+50118512,49,How to Formalize All of Mathematics,https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/,xenaproject.wordpress.com,82,79,practal,2026-10-16T14:01:53
+50118267,50,RFC8950: Announce IPv4 with an IPv6 next-hop,https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/,anuragbhatia.com,104,69,porridgeraisin,2026-10-16T13:38:25
+50085553,51,AI-assisted PCB design for KiCad 10,https://github.com/mixelpixx/Konnect,github.com,131,50,ofrzeta,2026-10-14T10:51:37
+50124646,52,Self-hosted infrastructure with Incus OS,https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html,dataswamp.org,28,1,psxuaw,2026-10-16T21:01:32
+50088937,53,California is building a $400M shield for Yosemite's most dangerous highway,https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php,sfchronicle.com,43,48,danso,2026-10-14T15:15:58
+50127839,54,"""In every study that considered the question""",https://unsung.aresluna.org/in-every-study-that-considered-the-question/,unsung.aresluna.org,31,21,zdw,2026-10-17T04:08:27
+50126334,55,Show HN: Fakeipedia – Wikipedia for worlds that don't exist,https://fakeipedia.org,fakeipedia.org,27,15,darajava,2026-10-16T23:52:04
+50090027,56,Compiler bootstrapping depends on more than you might think,https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges,utcc.utoronto.ca,16,2,gavinhoward,2026-10-14T16:13:25
+50090453,57,PGO or not PGO this is the dilemma. Step 2,https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/,percona.com,23,3,hnp9j9qtda,2026-10-14T16:33:48
+50127572,58,A skeptic's first contact with Kubernetes (2024),https://blog.davidv.dev/posts/first-contact-with-k8s/,blog.davidv.dev,10,1,pmoriarty,2026-10-17T03:16:25
+50127900,59,Commodore 64 Hardware Simulator,https://github.com/antirez/c64-hw-simulator,github.com,8,0,erickhill,2026-10-17T04:19:30
+50086838,60,"Making 1,750 programmable PCB badges for Canada's biggest hackathon",https://va3ndf.com/blog/hacker-badges/,va3ndf.com,52,12,va3ndf,2026-10-14T12:44:07
