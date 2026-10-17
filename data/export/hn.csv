@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50129121,1,DeepSeek: DeepSeek v4.1 Flash 1017,https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017,openrouter.ai,472,249,theanonymousone,2026-10-17T08:37:46
-50131213,2,Making Chicken Transparent Using Dorito Dust,https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using,chillphysicsenjoyer.substack.com,60,22,crescit_eundo,2026-10-17T13:55:28
-50131256,3,Solar surpasses nuclear power globally for first time – pv magazine Global,https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/,pv-magazine.com,141,58,xbmcuser,2026-10-17T14:01:01
-50119315,4,Rendering pretty sky in Around The World game,https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/,frozenfractal.com,39,3,ibobev,2026-10-16T15:06:43
-50082358,5,A Tudor Life in the Time of Plague,https://www.historytoday.com/archive/history-matters/tudor-life-time-plague,historytoday.com,11,0,pepys,2026-10-14T04:23:25
-50106747,6,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,paperinstruments.com,326,100,i_rush_carriers,2026-10-15T17:06:01
-50121506,7,The First Candid,https://www.newyorker.com/magazine/2026/10/19/the-first-candid,newyorker.com,17,7,Thevet,2026-10-16T17:28:19
-50112657,8,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1545,2812,shekhar101,2026-10-16T01:32:45
-50131881,9,"Ad-tech company was a delivery system for ""mercenary spyware""",https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech,pluralistic.net,21,1,samizdis,2026-10-17T15:17:32
-50127979,10,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,https://llmspeed.dev/,llmspeed.dev,175,56,albinstman,2026-10-17T04:36:53
-50129045,11,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,322,126,theykk,2026-10-17T08:21:25
-50122431,12,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,github.com,330,82,Anon84,2026-10-16T18:32:35
-50131440,13,US federal budget deficit jumps 12% in one year to nearly $2 Trillion,https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html,finance.yahoo.com,21,7,ck2,2026-10-17T14:22:05
-50122878,14,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,390,91,speckx,2026-10-16T19:01:17
-50129947,15,MapQuest will now show you where Flock cameras are in your neighborhood,https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/,engadget.com,74,8,bookofjoe,2026-10-17T10:59:31
-50122800,16,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,961,345,ahlCVA,2026-10-16T18:55:59
-50104783,17,Recipes Are Moving from Maven Central to the Code Genome Project,https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module,docs.openrewrite.org,33,8,javahippie,2026-10-15T15:06:52
-50103588,18,The cryptoint library (2025) [pdf],https://cr.yp.to/papers/cryptoint-20250424.pdf,cr.yp.to,16,0,akkartik,2026-10-15T13:41:08
-50103255,19,Intuitive concurrent programming in any language,https://www.lf-lang.org/,lf-lang.org,98,25,mpweiher,2026-10-15T13:18:44
-50118320,20,Apple ML Research: Muse Spark Open with MLX on Mac Studio,https://machinelearning.apple.com/research/mlx-distributed-inference,machinelearning.apple.com,339,177,antipaul,2026-10-16T13:43:48
-50123580,21,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,188,55,gmays,2026-10-16T19:47:13
-50122034,22,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,247,221,7402,2026-10-16T18:06:17
-50130079,23,The future of programming – A.I. Wasserman and S. Gutz (1982),https://dl.acm.org/doi/10.1145/358453.358459,dl.acm.org,9,0,vismit2000,2026-10-17T11:20:52
-50120224,24,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,295,193,farlight,2026-10-16T16:12:02
-50121939,25,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,159,34,pretext,2026-10-16T18:00:18
-50125545,26,Nine-Inch Snails,https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/,theatlantic.com,101,50,zdw,2026-10-16T22:21:05
-50088767,27,0/1 Knapsack Problem in PyTorch,https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg,jedrzej.maczan.pl,35,5,yu3zhou4,2026-10-14T15:04:33
-50076089,28,Monte-Carlo Simulations,https://eli.thegreenplace.net/2026/monte-carlo-simulations/,eli.thegreenplace.net,151,33,ibobev,2026-10-13T18:11:46
-50126774,29,Flexport Is Hiring a Biz Ops Leader in Office of CEO,https://www.flexport.com/company/careers/,flexport.com,0,0,,2026-10-17T01:01:51
-50088748,30,I built the RealWorld app in Lean 4,https://leangineer.com/blog/realworld-in-lean/,leangineer.com,84,12,saviorand,2026-10-14T15:03:14
-50121179,31,90% of US working hours are spent on tasks not covered well by AI benchmarks,https://www.mercor.com/research/labor-index/benchmark-map/,mercor.com,558,497,speckx,2026-10-16T17:08:38
-50122951,32,How the Claude Code team does code review,https://claude.dev/blog/solving-code-review-at-anthropic/,claude.dev,421,399,pretext,2026-10-16T19:04:47
-50117746,33,I love software rendering,https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/,jamesfmackenzie.com,350,220,speckx,2026-10-16T12:52:08
-50079280,34,"New 'super ice' 10 times stronger, bringing it close to the strength of concrete",https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete,sciencealert.com,118,91,andrewl,2026-10-13T21:42:38
-50119751,35,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",https://adepts.of0x.cc/eufy-homestation2-firmware/,adepts.of0x.cc,70,5,michidk,2026-10-16T15:38:28
-50127274,36,Butlerian Jihad,https://dune.fandom.com/wiki/Butlerian_Jihad,dune.fandom.com,329,197,wetwater,2026-10-17T02:21:08
-50118688,37,Show HN: Gemini 4 Argon plays StarCraft,https://starskirmish.com/bench/v0-2/,starskirmish.com,232,104,__cayenne__,2026-10-16T14:18:44
-50074322,38,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/,cbsnews.com,134,93,ohjeez,2026-10-13T16:26:03
-50118977,39,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,https://calif.io/research/big-fish,calif.io,190,63,rs_rs_rs_rs_rs,2026-10-16T14:44:02
-50080246,40,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",https://wonderhop.io/en/,wonderhop.io,103,81,mtlduo,2026-10-13T23:10:04
-50083673,41,Wireless magnetic millirobots that deliver medicine inside the beating heart,https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/,hub.jhu.edu,105,18,giuliomagnifico,2026-10-14T07:21:12
-50077225,42,Yet another way to invoke functions without parentheses,https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/,blog.ikaes.de,254,103,aragonite,2026-10-13T19:25:18
-50118318,43,What was a Token Ring network?,https://dfarq.homeip.net/what-was-a-token-ring-network/,dfarq.homeip.net,118,90,ibobev,2026-10-16T13:43:30
-50115354,44,Development of Norton Commander,https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml,softpanorama.org,18,4,Michelangelo11,2026-10-16T07:41:36
-50122736,45,C++26: The New Debugging Header,https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging,sandordargo.com,105,27,jandeboevrie,2026-10-16T18:52:39
-50118981,46,Waymo in Toronto,https://waymo.com/blog/2026/10/waymo-in-toronto/,waymo.com,318,424,ChrisArchitect,2026-10-16T14:44:17
-50131530,47,The Rise of the Meritocracy (1958),https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy,en.wikipedia.org,6,1,theanonymousone,2026-10-17T14:30:59
-50121004,48,/dev/null: social network for developers,https://dev-null.sh,dev-null.sh,167,154,mnapoli,2026-10-16T16:57:49
-50118828,49,What on Earth Is Dekton?,https://www.worksinprogress.news/p/porcelain,worksinprogress.news,152,54,wawayanda,2026-10-16T14:31:43
-50084790,50,The Economic Complexity of the Western Roman Empire,https://www.michelecoscia.com/?p=2613,michelecoscia.com,158,38,mikk14,2026-10-14T09:32:09
-50118048,51,My old job feels distant now,https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/,pinecoder.dev,114,118,speckx,2026-10-16T13:18:59
-50065859,52,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],https://www.youtube.com/watch?v=sjNpfz4UzqU,youtube.com,850,251,johnnyApplePRNG,2026-10-13T02:32:53
-50121601,53,GifCities,https://gifcities.org/,gifcities.org,79,14,augury,2026-10-16T17:35:07
-50118267,54,RFC8950: Announce IPv4 with an IPv6 next-hop,https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/,anuragbhatia.com,109,72,porridgeraisin,2026-10-16T13:38:25
-50085553,55,AI-assisted PCB design for KiCad 10,https://github.com/mixelpixx/Konnect,github.com,136,51,ofrzeta,2026-10-14T10:51:37
-50118512,56,How to Formalize All of Mathematics,https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/,xenaproject.wordpress.com,89,82,practal,2026-10-16T14:01:53
-50111752,57,Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video],https://www.youtube.com/watch?v=eF6bMSjPepM,youtube.com,81,51,zdw,2026-10-15T23:23:51
-50122112,58,Anthropic assigned highest junk credit rating in June,https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d,ft.com,272,84,JumpCrisscross,2026-10-16T18:11:42
-50095730,59,Orbital Angular Momentum of Light,https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light,en.wikipedia.org,25,5,peter_d_sherman,2026-10-14T21:39:50
-50107379,60,Muse Spark Open,https://research.meta.ai/blog/muse-spark-open,research.meta.ai,911,471,bigwheels,2026-10-15T17:47:39
+50126253,1,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,144,20,alkyon,2026-10-16T23:38:27
+50100366,2,"The Commodore 64 hardware simulator: break chips and pins, see the results",https://github.com/antirez/c64-hw-simulator,github.com,84,14,antirez,2026-10-15T07:18:14
+50100994,3,"Furifont, a Japanese font that shows furigana",https://furifont.antfu.me/,furifont.antfu.me,162,37,plaguna,2026-10-15T08:48:30
+50126312,4,Dam removals are bringing fish back across the northeastern United States,https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/,smithsonianmag.com,63,12,sohkamyung,2026-10-16T23:47:31
+50134617,5,Chrome and Edge are removing XSLT: what breaks and what does not,https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/,doctor-seo.net,10,3,croes,2026-10-17T20:07:33
+50127586,6,Source code of the Estonian online voting system,https://github.com/valimised/ivxv,github.com,93,63,theanonymousone,2026-10-17T03:18:39
+50131213,7,Making chicken transparent using Dorito dust,https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using,chillphysicsenjoyer.substack.com,205,59,crescit_eundo,2026-10-17T13:55:28
+50129045,8,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,563,508,theykk,2026-10-17T08:21:25
+50132193,9,Pele – Mermaid diagrams as themeable SVG,https://pele.run/,pele.run,81,13,dchest,2026-10-17T15:55:09
+50133830,10,Microsoft and CMU Team Up to Train Early Career Software Engineers,https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise,cs.cmu.edu,14,9,azhenley,2026-10-17T18:45:07
+50132870,11,Gold is now the top U.S. export,https://www.numismaticnews.net/gold-now-top-u-s-export,numismaticnews.net,107,53,iamnothere,2026-10-17T17:06:07
+50133736,12,Pattern Matching Beats Narrative Reasoning,https://blog.scottstevenson.net/p/pattern-matching-beats-narrative,blog.scottstevenson.net,16,5,tosh,2026-10-17T18:34:13
+50132839,13,Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers,https://www.artie.com/careers,artie.com,0,0,,2026-10-17T17:02:50
+50101649,14,Laser Fault Injection on a Budget: RP2350 Edition,https://courk.cc/rp2350-challenge-laser,courk.cc,13,0,gregsadetsky,2026-10-15T10:24:16
+50132950,15,Development statistics for the 7.2 kernel,https://lwn.net/Articles/1088776/,lwn.net,107,81,farlight,2026-10-17T17:14:12
+50131256,16,Solar surpasses nuclear power globally for first time,https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/,pv-magazine.com,390,236,xbmcuser,2026-10-17T14:01:01
+50133401,17,OpenCode Hacked: User credentials leaked,https://twitter.com/opencode/status/2111516673953935833,twitter.com,363,66,pranshuchittora,2026-10-17T18:01:41
+50131006,18,Show HN: High-quality duck audio synthesizer,https://celphase.github.io/duck-pond/,celphase.github.io,45,11,celphase,2026-10-17T13:28:46
+50094887,19,Vintage Cassettes: 1963-2010,http://vintagecassettes.com/,vintagecassettes.com,27,2,austinallegro,2026-10-14T20:41:36
+50133150,20,I Became a Citizen of Japan,https://www.derekwessman.com/blog-1/natural,derekwessman.com,61,12,luu,2026-10-17T17:36:17
+50122878,21,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,449,107,speckx,2026-10-16T19:01:17
+50119315,22,Rendering pretty sky in Around The World game,https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/,frozenfractal.com,106,7,ibobev,2026-10-16T15:06:43
+50118098,23,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",https://github.com/Kapendev/parin,github.com,22,3,Kapendev,2026-10-16T13:22:49
+50127572,24,A skeptic's first contact with Kubernetes (2024),https://blog.davidv.dev/posts/first-contact-with-k8s/,blog.davidv.dev,48,10,pmoriarty,2026-10-17T03:16:25
+50126384,25,Show HN: Things to Do API,https://thingstodoapi.com/,thingstodoapi.com,23,6,invalidmonk,2026-10-16T23:58:34
+50131189,26,Show HN: Esp32sim – Run ESP32 firmware in the browser,https://github.com/mikroverk/esp32sim,github.com,82,10,joakimeriksson,2026-10-17T13:51:08
+50082358,27,A Tudor life in the time of plague (2020),https://www.historytoday.com/archive/history-matters/tudor-life-time-plague,historytoday.com,41,3,pepys,2026-10-14T04:23:25
+50130079,28,The future of programming (1982),https://dl.acm.org/doi/10.1145/358453.358459,dl.acm.org,29,7,vismit2000,2026-10-17T11:20:52
+50127979,29,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,https://llmspeed.dev/,llmspeed.dev,218,73,albinstman,2026-10-17T04:36:53
+50121506,30,The First Candid,https://www.newyorker.com/magazine/2026/10/19/the-first-candid,newyorker.com,37,8,Thevet,2026-10-16T17:28:19
+50129947,31,MapQuest will now show you where Flock cameras are in your neighborhood,https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/,engadget.com,234,38,bookofjoe,2026-10-17T10:59:31
+50122431,32,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,github.com,361,85,Anon84,2026-10-16T18:32:35
+50089577,33,Tell HN: Remember to migrate away from .name domain,https://news.ycombinator.com/item?id=50089577,news.ycombinator.com (Ask/Show HN),119,81,nikanj,2026-10-14T15:49:31
+50133231,34,Codex is EATING my Mac's disk space,https://github.com/openai/codex/issues/25921,github.com,5,2,AIorNot,2026-10-17T17:45:08
+50115354,35,The history of development of Norton Commander (2011),https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml,softpanorama.org,66,22,Michelangelo11,2026-10-16T07:41:36
+50119751,36,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",https://adepts.of0x.cc/eufy-homestation2-firmware/,adepts.of0x.cc,78,5,michidk,2026-10-16T15:38:28
+50088767,37,0/1 Knapsack Problem in PyTorch,https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg,jedrzej.maczan.pl,41,6,yu3zhou4,2026-10-14T15:04:33
+50100640,38,What changes when your search index lives on S3?,https://infino.ai/blog/search-index-on-s3/,infino.ai,17,11,tatvamasi,2026-10-15T07:55:34
+50122800,39,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,1008,372,ahlCVA,2026-10-16T18:55:59
+50129274,40,"""Tame"" boar and deer are instinctively adapting to the wolf in the Netherlands",https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf,nos.nl,48,88,felipevb,2026-10-17T09:08:16
+50106747,41,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,paperinstruments.com,364,104,i_rush_carriers,2026-10-15T17:06:01
+50123580,42,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,204,56,gmays,2026-10-16T19:47:13
+50122682,43,Espresso machine can run Doom,https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/,gamespot.com,15,6,speckx,2026-10-16T18:49:31
+50112657,44,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1592,2904,shekhar101,2026-10-16T01:32:45
+50103255,45,Intuitive concurrent programming in any language,https://www.lf-lang.org/,lf-lang.org,122,33,mpweiher,2026-10-15T13:18:44
+50132328,46,GLP-1 may slow biological aging,https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging,universityofcalifornia.edu,153,143,dzink,2026-10-17T16:10:21
+50122034,47,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,265,239,7402,2026-10-16T18:06:17
+50132278,48,Amazon uses AI to monitor union risk in UK warehouses,https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/,opendemocracy.net,131,52,DeepLogin,2026-10-17T16:04:23
+50133014,49,Show HN: I reverse engineered serum 2 and build an open source alternative,https://github.com/itsfabioroma/tessera,github.com,3,2,ofabioroma,2026-10-17T17:20:05
+50132911,50,Tsc-ts: TypeScript written in TypeScript,https://github.com/vercel-labs/tsc-ts,github.com,37,41,tosh,2026-10-17T17:10:27
+50133747,51,When No ID Means No Internet,https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information,eff.org,12,1,DASD,2026-10-17T18:35:56
+50100440,52,We still use paper,https://humanpro.co/articles/we-still-use-paper/,humanpro.co,63,75,gx,2026-10-15T07:27:55
+50120224,53,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,314,205,farlight,2026-10-16T16:12:02
+50121939,54,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,168,36,pretext,2026-10-16T18:00:18
+50133790,55,University of Leicester to make redundant all pure math professors (2021),https://www.reddit.com/r/math/comments/l7yyir/not_joking_university_of_leicester_to_make/,reddit.com,10,0,E-Reverance,2026-10-17T18:40:34
+50134241,56,Israel makes propaganda video featuring AI generated IAMDDB without her consent,https://twitter.com/beeechimblind/status/2111227318534279501,twitter.com,20,2,grandpajoey,2026-10-17T19:26:43
+50103588,57,The cryptoint library (2025) [pdf],https://cr.yp.to/papers/cryptoint-20250424.pdf,cr.yp.to,25,0,akkartik,2026-10-15T13:41:08
+50104783,58,Recipes Are Moving from Maven Central to the Code Genome Project,https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module,docs.openrewrite.org,38,15,javahippie,2026-10-15T15:06:52
+50132502,59,OpenAI discloses four more rogue incidents,https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/,fortune.com,109,121,DASD,2026-10-17T16:31:12
+50134141,60,Astronomers discover the first ever green star,https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween,space.com,6,1,naves,2026-10-17T19:16:02
