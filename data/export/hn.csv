@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50141076,1,RepRapMicron,https://github.com/VikOlliver/RepRapMicron/wiki,github.com,134,19,RobotToaster,2026-10-18T13:48:48
-50141681,2,Will it be a golden age or a dark age for mathematics (and science)?,https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/,terrytao.wordpress.com,37,28,smilelamp,2026-10-18T15:00:40
-50139692,3,Legal experts warn Meta's new terms still grant broad scraping permissions,https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/,niemanlab.org,133,34,DeepLogin,2026-10-18T10:21:51
-50138531,4,DeepSeek search and fetch – $0.75 per 1000 successful requests,https://api-docs.deepseek.com/guides/search/,api-docs.deepseek.com,393,199,fagnerbrack,2026-10-18T06:50:36
-50141909,5,macOS 15.8.2 Breaks OpenGL,https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550,developer.apple.com,18,4,Audiophilip,2026-10-18T15:26:06
-50140769,6,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,https://legendofhyrule.com/,legendofhyrule.com,49,15,jsomau,2026-10-18T13:06:54
-50140001,7,Open MicroManipulator – A sub-micrometer 3D motion control plattform,https://github.com/0x23/MicroManipulatorStepper,github.com,106,8,_Microft,2026-10-18T11:16:22
-50141657,8,Websites are closing their doors to AI agents,https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web,theverge.com,43,30,evolve2k,2026-10-18T14:58:10
-50141579,9,Java sealed classes and exhaustive pattern matching,https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/,neilmadden.blog,9,2,hnisjafx40,2026-10-18T14:47:37
-50139067,10,Parser Combinators,https://t3.at/blog/2026-10-17-parser-combinators/,t3.at,133,55,schindlabua,2026-10-18T08:19:53
-50137620,11,How the Elizabeth Holmes documentary “You Can See Everything” is deceiving,https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything,readtheprofile.com,254,320,MaysonL,2026-10-18T03:19:49
-50141024,12,The Electronic Disturbance Theater and Electronic Civil Disobedience,https://www.thing.net/~rdom/ecd/EDTECD.html,thing.net,13,3,jruohonen,2026-10-18T13:41:06
-50141206,13,Theranos-Style Fraud Has Become the Norm,https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/,theatlantic.com,52,12,fortran77,2026-10-18T14:05:36
-50141429,14,Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages,https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model,tomshardware.com,74,64,f-serif,2026-10-18T14:30:27
-50137950,15,Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping,https://sphinx-six-theta.vercel.app/,sphinx-six-theta.vercel.app,203,64,critiquebrowser,2026-10-18T04:33:49
-50126253,16,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,517,108,alkyon,2026-10-16T23:38:27
-50093081,17,Hatching (Heraldry),https://en.wikipedia.org/wiki/Hatching_(heraldry),en.wikipedia.org,43,8,theanonymousone,2026-10-14T18:57:57
-50124730,18,Teal – A statically-typed dialect of Lua,https://teal-language.org/,teal-language.org,102,44,Lyngbakr,2026-10-16T21:07:24
-50108165,19,"Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",http://www.ibiblio.org/eldritch/nhb/paperc/intro.html,ibiblio.org,6,1,Eridanus2,2026-10-15T18:34:09
-50122671,20,Regex visualized as 3D marble run,https://www.regexmarblerun.com/,regexmarblerun.com,57,21,seizethecheese,2026-10-16T18:48:48
-50141295,21,Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car,https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car,thedrive.com,46,51,healsdata,2026-10-18T14:16:41
-50139998,22,The Brain Sandwich,https://terriblesoftware.org/2026/10/02/the-brain-sandwich/,terriblesoftware.org,22,9,keyle,2026-10-18T11:15:37
-50140462,23,How Far Will AI Assistants Go for a Refund They Can't Get?,https://www.vals.ai/blogs/impossible-refund,vals.ai,11,3,DeepLogin,2026-10-18T12:22:58
-50141436,24,High performance policy routed IPsec mesh SD-WAN,https://ranet3.com/,ranet3.com,4,0,StepBroBD,2026-10-18T14:31:52
-50102480,25,A History of Curves and Surfaces in Computer Aided Geometric Design [pdf],https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf,math.pku.edu.cn,19,3,mbustamanter,2026-10-15T12:06:38
-50114758,26,Lean now ships with verified kernels,https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/,leodemoura.github.io,176,60,matt_d,2026-10-16T06:16:13
-50132193,27,Pele – Mermaid diagrams as themeable SVG,https://pele.run/,pele.run,517,49,dchest,2026-10-17T15:55:09
-50126312,28,Dam removals are bringing fish back across the northeastern United States,https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/,smithsonianmag.com,322,81,sohkamyung,2026-10-16T23:47:31
-50114061,29,Chirp Pong – uses microphones and audio for networked game play,https://simonwillison.net/2026/Oct/15/chirp-pong/,simonwillison.net,12,3,havaloc,2026-10-16T04:25:02
-50100994,30,"Furifont, a Japanese font that shows furigana",https://furifont.antfu.me/,furifont.antfu.me,385,81,plaguna,2026-10-15T08:48:30
-50098485,31,Lorenz and Little: How Much Does Your Tail Cost?,https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html,brooker.co.za,22,2,porridgeraisin,2026-10-15T02:39:37
-50131213,32,Making chicken transparent using Dorito dust,https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using,chillphysicsenjoyer.substack.com,335,86,crescit_eundo,2026-10-17T13:55:28
-50139636,33,The Public Pays to Produce Research. Shareholders Collect the Return,https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/,sparcopen.org,9,4,jruohonen,2026-10-18T10:10:03
-50110081,34,Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo,https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo,nltimes.nl,58,13,jacquesm,2026-10-15T20:55:40
-50122878,35,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,604,134,speckx,2026-10-16T19:01:17
-50100366,36,"The Commodore 64 hardware simulator: break chips and pins, see the results",https://github.com/antirez/c64-hw-simulator,github.com,223,34,antirez,2026-10-15T07:18:14
-50130379,37,Interactive Linear Programming in the Browser,https://lpviz.net/,lpviz.net,68,5,klamike,2026-10-17T12:06:44
-50106792,38,Fun Extending the C Preprocessor,https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html,davidpriver.com,45,16,david2ndaccount,2026-10-15T17:08:26
-50139083,39,OpenCode has a security breach last that impacted 1.4% of console users,https://twitter.com/opencode/status/2111519637049319818,twitter.com,17,12,notmine1337,2026-10-18T08:22:11
-50141494,40,World Bank says 'small AI' could transform developing countries,https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies,theguardian.com,8,0,simonpure,2026-10-18T14:37:55
-50136536,41,NY announces game ownership bill requiring ownership rather than licensing,https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends,tomshardware.com,387,177,guiambros,2026-10-18T00:14:22
-50133231,42,Codex Desktop continuously generates Crashpad pending dumps,https://github.com/openai/codex/issues/25921,github.com,157,77,AIorNot,2026-10-17T17:45:08
-50132870,43,Gold is now the top U.S. export,https://www.numismaticnews.net/gold-now-top-u-s-export,numismaticnews.net,384,211,iamnothere,2026-10-17T17:06:07
-50140472,44,Show HN: CallSitter – bot that answers my calls and wastes scammers' time,https://github.com/szerintedmi/callsitter,github.com,5,7,szert,2026-10-18T12:24:53
-50132839,45,Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers,https://www.artie.com/careers,artie.com,0,0,,2026-10-17T17:02:50
-50131006,46,Show HN: High-quality duck audio synthesizer,https://celphase.github.io/duck-pond/,celphase.github.io,157,37,celphase,2026-10-17T13:28:46
-50141386,47,"US Rep proposes bill to give video game buyers ""ownership,"" not ""a license""",https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/,arstechnica.com,8,4,pseudolus,2026-10-18T14:25:13
-50129045,48,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,920,681,theykk,2026-10-17T08:21:25
-50097257,49,Custom server to revive neato bots,https://github.com/vacuula/vacuula,github.com,57,3,matttah,2026-10-14T23:48:38
-50117935,50,Superoptimizing an FPU Emulator,https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/,purplesyringa.moe,41,6,dverlaeckt80,2026-10-16T13:08:32
-50131189,51,Show HN: Esp32sim – Run ESP32 firmware in the browser,https://github.com/mikroverk/esp32sim,github.com,185,36,joakimeriksson,2026-10-17T13:51:08
-50138002,52,Notes on the Complex Roots of Unity,https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/,eli.thegreenplace.net,37,9,sks_15,2026-10-18T04:49:31
-50131256,53,Solar surpasses nuclear power globally for first time,https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/,pv-magazine.com,649,412,xbmcuser,2026-10-17T14:01:01
-50127572,54,A skeptic's first contact with Kubernetes (2024),https://blog.davidv.dev/posts/first-contact-with-k8s/,blog.davidv.dev,133,75,pmoriarty,2026-10-17T03:16:25
-50139534,55,"One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across ECos, Linux",https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/,quentinkaiser.be,9,1,tosh,2026-10-18T09:47:44
-50112657,56,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1625,3063,shekhar101,2026-10-16T01:32:45
-50119315,57,Rendering pretty sky in Around The World game,https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/,frozenfractal.com,156,13,ibobev,2026-10-16T15:06:43
-50118098,58,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",https://github.com/Kapendev/parin,github.com,67,16,Kapendev,2026-10-16T13:22:49
-50094887,59,Vintage Cassettes: 1963-2010,http://vintagecassettes.com/,vintagecassettes.com,71,9,austinallegro,2026-10-14T20:41:36
-50101649,60,Laser Fault Injection on a Budget: RP2350 Edition (2025),https://courk.cc/rp2350-challenge-laser,courk.cc,64,17,gregsadetsky,2026-10-15T10:24:16
+50142573,1,Someone behind the software,https://karrisaarinen.com/posts/someone-behind-the-software/,karrisaarinen.com,195,72,tosh,2026-10-18T16:32:00
+50144066,2,Free Pascal compiler now supports dynamic packages,https://www.getlazarus.org/dynamic/,getlazarus.org,55,12,sysrpl,2026-10-18T18:48:04
+50141076,3,RepRapMicron,https://github.com/VikOlliver/RepRapMicron/wiki,github.com,288,44,RobotToaster,2026-10-18T13:48:48
+50143536,4,PalmOS Lemmings,https://github.com/ardiri/palmos-lemmings,github.com,51,9,memalign,2026-10-18T17:56:59
+50138531,5,DeepSeek search and fetch – $0.75 per 1000 successful requests,https://api-docs.deepseek.com/guides/search/,api-docs.deepseek.com,496,241,fagnerbrack,2026-10-18T06:50:36
+50096110,6,SIGSALY: Churchill's top secret hotline to the president,https://www.iwm.org.uk/history/iwm/cwr/telephone,iwm.org.uk,81,19,stmw,2026-10-14T22:07:47
+50142449,7,The Intel 8087 chip: floating-point addition and subtraction,https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html,righto.com,70,17,pwg,2026-10-18T16:20:27
+50136979,8,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky,sciencealert.com,30,11,gmays,2026-10-18T01:38:08
+50140769,9,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,https://legendofhyrule.com/,legendofhyrule.com,136,75,jsomau,2026-10-18T13:06:54
+50131053,10,Developing for Debugging (2025),https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/,davepacheco.net,8,0,mpweiher,2026-10-17T13:34:43
+50140001,11,Open MicroManipulator – A sub-micrometer 3D motion control plattform,https://github.com/0x23/MicroManipulatorStepper,github.com,157,12,_Microft,2026-10-18T11:16:22
+50136017,12,Beyond Tetris: The other games of Alexey Pajitnov [video],https://www.youtube.com/watch?v=QH_LPimUJMs,youtube.com,40,0,zdw,2026-10-17T23:08:30
+50142866,13,Namecheap just seized and disabled all my domains,https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/,reddit.com,226,120,sashk,2026-10-18T16:56:56
+50093020,14,I electrified my push scooter with a power drill,https://eddieabbondanz.io/post/shop/drill-powered-scooter/,eddieabbondanz.io,75,30,speckx,2026-10-14T18:53:52
+50141579,15,Java sealed classes and exhaustive pattern matching,https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/,neilmadden.blog,107,78,hnisjafx40,2026-10-18T14:47:37
+50122058,16,"One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/,quentinkaiser.be,4,2,zoobab,2026-10-16T18:07:44
+50137620,17,How the Elizabeth Holmes documentary “You Can See Everything” is deceiving,https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything,readtheprofile.com,330,450,MaysonL,2026-10-18T03:19:49
+50139067,18,Parser Combinators,https://t3.at/blog/2026-10-17-parser-combinators/,t3.at,201,75,schindlabua,2026-10-18T08:19:53
+50141436,19,Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN,https://ranet3.com/,ranet3.com,19,3,StepBroBD,2026-10-18T14:31:52
+50119819,20,CKKS – Addition and Multiplication,https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/,jeremykun.com,9,0,ibobev,2026-10-16T15:43:46
+50129060,21,Geographical Fun: Being Humourous Outlines of Various Countries (1868),https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/,publicdomainreview.org,8,0,Thevet,2026-10-17T08:24:23
+50144144,22,Tiny Brutalism – Thanks to HN it's on Steam,https://store.steampowered.com/app/5426130/Tiny_Brutalism/,store.steampowered.com,35,3,MatiErnst,2026-10-18T18:59:09
+50137950,23,Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping,https://sphinx-six-theta.vercel.app/,sphinx-six-theta.vercel.app,231,76,critiquebrowser,2026-10-18T04:33:49
+50124730,24,Teal – A statically-typed dialect of Lua,https://teal-language.org/,teal-language.org,144,62,Lyngbakr,2026-10-16T21:07:24
+50139692,25,Legal experts warn Meta's new terms still grant broad scraping permissions,https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/,niemanlab.org,210,58,DeepLogin,2026-10-18T10:21:51
+50108165,26,"Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",http://www.ibiblio.org/eldritch/nhb/paperc/intro.html,ibiblio.org,25,6,Eridanus2,2026-10-15T18:34:09
+50141681,27,Will it be a golden age or a dark age for mathematics (and science)?,https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/,terrytao.wordpress.com,108,144,smilelamp,2026-10-18T15:00:40
+50139998,28,The Brain Sandwich,https://terriblesoftware.org/2026/10/02/the-brain-sandwich/,terriblesoftware.org,60,36,keyle,2026-10-18T11:15:37
+50141024,29,The Electronic Disturbance Theater and Electronic Civil Disobedience (1998),https://www.thing.net/~rdom/ecd/EDTECD.html,thing.net,29,9,jruohonen,2026-10-18T13:41:06
+50141909,30,macOS 15.8.2 Breaks OpenGL,https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550,developer.apple.com,224,220,Audiophilip,2026-10-18T15:26:06
+50143876,31,CFPB Opens Debanking Investigation into Nine Large National Banks,https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/,forbes.com,24,9,iamnothere,2026-10-18T18:26:40
+50144005,32,Florida's HOAs and condo associations are making the housing crisis worse,https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html,hoaspy.com,113,185,lovewins,2026-10-18T18:40:16
+50093081,33,Hatching (Heraldry),https://en.wikipedia.org/wiki/Hatching_(heraldry),en.wikipedia.org,71,22,theanonymousone,2026-10-14T18:57:57
+50122671,34,Regex visualized as 3D marble run,https://www.regexmarblerun.com/,regexmarblerun.com,85,32,seizethecheese,2026-10-16T18:48:48
+50114758,35,Lean now ships with verified kernels,https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/,leodemoura.github.io,194,74,matt_d,2026-10-16T06:16:13
+50143132,36,Mitos editor is a fork of Helix,https://mitos.computer/,mitos.computer,48,47,ambigious7777,2026-10-18T17:19:34
+50122878,37,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,616,140,speckx,2026-10-16T19:01:17
+50114061,38,Chirp Pong – uses microphones and audio for networked game play,https://simonwillison.net/2026/Oct/15/chirp-pong/,simonwillison.net,26,14,havaloc,2026-10-16T04:25:02
+50139636,39,The Public Pays to Produce Research. Shareholders Collect the Return,https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/,sparcopen.org,33,20,jruohonen,2026-10-18T10:10:03
+50102480,40,A History of Curves and Surfaces in Computer Aided Geometric Design [pdf],https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf,math.pku.edu.cn,29,5,mbustamanter,2026-10-15T12:06:38
+50126253,41,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,536,115,alkyon,2026-10-16T23:38:27
+50100366,42,"The Commodore 64 hardware simulator: break chips and pins, see the results",https://github.com/antirez/c64-hw-simulator,github.com,227,34,antirez,2026-10-15T07:18:14
+50140784,43,Hyper Optimizing Kimi K3 in vLLM,https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel,vllm.ai,15,0,torutofu,2026-10-18T13:08:50
+50139083,44,OpenCode has a security breach last that impacted 1.4% of console users,https://twitter.com/opencode/status/2111519637049319818,twitter.com,38,21,notmine1337,2026-10-18T08:22:11
+50145051,45,Are we sleepwalking into World War III?,https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729,ft.com,5,3,themgt,2026-10-18T20:16:59
+50140462,46,How Far Will AI Assistants Go for a Refund They Can't Get?,https://www.vals.ai/blogs/impossible-refund,vals.ai,71,75,DeepLogin,2026-10-18T12:22:58
+50110081,47,Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo,https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo,nltimes.nl,62,16,jacquesm,2026-10-15T20:55:40
+50130379,48,Interactive Linear Programming in the Browser,https://lpviz.net/,lpviz.net,72,12,klamike,2026-10-17T12:06:44
+50106792,49,Fun Extending the C Preprocessor,https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html,davidpriver.com,52,28,david2ndaccount,2026-10-15T17:08:26
+50098485,50,Lorenz and Little: How Much Does Your Tail Cost?,https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html,brooker.co.za,26,2,porridgeraisin,2026-10-15T02:39:37
+50133231,51,Codex Desktop continuously generates Crashpad pending dumps,https://github.com/openai/codex/issues/25921,github.com,166,80,AIorNot,2026-10-17T17:45:08
+50137820,52,Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5,https://tkgally.github.io/500-clocks/,tkgally.github.io,59,24,tkgally,2026-10-18T04:04:58
+50132839,53,Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers,https://www.artie.com/careers,artie.com,0,0,,2026-10-17T17:02:50
+50132870,54,Gold is now the top U.S. export,https://www.numismaticnews.net/gold-now-top-u-s-export,numismaticnews.net,401,218,iamnothere,2026-10-17T17:06:07
+50129045,55,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,931,700,theykk,2026-10-17T08:21:25
+50131006,56,Show HN: High-quality duck audio synthesizer,https://celphase.github.io/duck-pond/,celphase.github.io,164,43,celphase,2026-10-17T13:28:46
+50136536,57,NY announces game ownership bill requiring ownership rather than licensing,https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends,tomshardware.com,412,188,guiambros,2026-10-18T00:14:22
+50126312,58,Dam removals are bringing fish back across the northeastern United States,https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/,smithsonianmag.com,347,88,sohkamyung,2026-10-16T23:47:31
+50132193,59,Pele – Mermaid diagrams as themeable SVG,https://pele.run/,pele.run,560,57,dchest,2026-10-17T15:55:09
+50131189,60,Show HN: Esp32sim – Run ESP32 firmware in the browser,https://github.com/mikroverk/esp32sim,github.com,189,39,joakimeriksson,2026-10-17T13:51:08
