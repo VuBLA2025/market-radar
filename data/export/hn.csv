@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50126253,1,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,144,20,alkyon,2026-10-16T23:38:27
-50100366,2,"The Commodore 64 hardware simulator: break chips and pins, see the results",https://github.com/antirez/c64-hw-simulator,github.com,84,14,antirez,2026-10-15T07:18:14
-50100994,3,"Furifont, a Japanese font that shows furigana",https://furifont.antfu.me/,furifont.antfu.me,162,37,plaguna,2026-10-15T08:48:30
-50126312,4,Dam removals are bringing fish back across the northeastern United States,https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/,smithsonianmag.com,63,12,sohkamyung,2026-10-16T23:47:31
-50134617,5,Chrome and Edge are removing XSLT: what breaks and what does not,https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/,doctor-seo.net,10,3,croes,2026-10-17T20:07:33
-50127586,6,Source code of the Estonian online voting system,https://github.com/valimised/ivxv,github.com,93,63,theanonymousone,2026-10-17T03:18:39
-50131213,7,Making chicken transparent using Dorito dust,https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using,chillphysicsenjoyer.substack.com,205,59,crescit_eundo,2026-10-17T13:55:28
-50129045,8,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,563,508,theykk,2026-10-17T08:21:25
-50132193,9,Pele – Mermaid diagrams as themeable SVG,https://pele.run/,pele.run,81,13,dchest,2026-10-17T15:55:09
-50133830,10,Microsoft and CMU Team Up to Train Early Career Software Engineers,https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise,cs.cmu.edu,14,9,azhenley,2026-10-17T18:45:07
-50132870,11,Gold is now the top U.S. export,https://www.numismaticnews.net/gold-now-top-u-s-export,numismaticnews.net,107,53,iamnothere,2026-10-17T17:06:07
-50133736,12,Pattern Matching Beats Narrative Reasoning,https://blog.scottstevenson.net/p/pattern-matching-beats-narrative,blog.scottstevenson.net,16,5,tosh,2026-10-17T18:34:13
-50132839,13,Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers,https://www.artie.com/careers,artie.com,0,0,,2026-10-17T17:02:50
-50101649,14,Laser Fault Injection on a Budget: RP2350 Edition,https://courk.cc/rp2350-challenge-laser,courk.cc,13,0,gregsadetsky,2026-10-15T10:24:16
-50132950,15,Development statistics for the 7.2 kernel,https://lwn.net/Articles/1088776/,lwn.net,107,81,farlight,2026-10-17T17:14:12
-50131256,16,Solar surpasses nuclear power globally for first time,https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/,pv-magazine.com,390,236,xbmcuser,2026-10-17T14:01:01
-50133401,17,OpenCode Hacked: User credentials leaked,https://twitter.com/opencode/status/2111516673953935833,twitter.com,363,66,pranshuchittora,2026-10-17T18:01:41
-50131006,18,Show HN: High-quality duck audio synthesizer,https://celphase.github.io/duck-pond/,celphase.github.io,45,11,celphase,2026-10-17T13:28:46
-50094887,19,Vintage Cassettes: 1963-2010,http://vintagecassettes.com/,vintagecassettes.com,27,2,austinallegro,2026-10-14T20:41:36
-50133150,20,I Became a Citizen of Japan,https://www.derekwessman.com/blog-1/natural,derekwessman.com,61,12,luu,2026-10-17T17:36:17
-50122878,21,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,449,107,speckx,2026-10-16T19:01:17
-50119315,22,Rendering pretty sky in Around The World game,https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/,frozenfractal.com,106,7,ibobev,2026-10-16T15:06:43
-50118098,23,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",https://github.com/Kapendev/parin,github.com,22,3,Kapendev,2026-10-16T13:22:49
-50127572,24,A skeptic's first contact with Kubernetes (2024),https://blog.davidv.dev/posts/first-contact-with-k8s/,blog.davidv.dev,48,10,pmoriarty,2026-10-17T03:16:25
-50126384,25,Show HN: Things to Do API,https://thingstodoapi.com/,thingstodoapi.com,23,6,invalidmonk,2026-10-16T23:58:34
-50131189,26,Show HN: Esp32sim – Run ESP32 firmware in the browser,https://github.com/mikroverk/esp32sim,github.com,82,10,joakimeriksson,2026-10-17T13:51:08
-50082358,27,A Tudor life in the time of plague (2020),https://www.historytoday.com/archive/history-matters/tudor-life-time-plague,historytoday.com,41,3,pepys,2026-10-14T04:23:25
-50130079,28,The future of programming (1982),https://dl.acm.org/doi/10.1145/358453.358459,dl.acm.org,29,7,vismit2000,2026-10-17T11:20:52
-50127979,29,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,https://llmspeed.dev/,llmspeed.dev,218,73,albinstman,2026-10-17T04:36:53
-50121506,30,The First Candid,https://www.newyorker.com/magazine/2026/10/19/the-first-candid,newyorker.com,37,8,Thevet,2026-10-16T17:28:19
-50129947,31,MapQuest will now show you where Flock cameras are in your neighborhood,https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/,engadget.com,234,38,bookofjoe,2026-10-17T10:59:31
-50122431,32,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,github.com,361,85,Anon84,2026-10-16T18:32:35
-50089577,33,Tell HN: Remember to migrate away from .name domain,https://news.ycombinator.com/item?id=50089577,news.ycombinator.com (Ask/Show HN),119,81,nikanj,2026-10-14T15:49:31
-50133231,34,Codex is EATING my Mac's disk space,https://github.com/openai/codex/issues/25921,github.com,5,2,AIorNot,2026-10-17T17:45:08
-50115354,35,The history of development of Norton Commander (2011),https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml,softpanorama.org,66,22,Michelangelo11,2026-10-16T07:41:36
-50119751,36,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",https://adepts.of0x.cc/eufy-homestation2-firmware/,adepts.of0x.cc,78,5,michidk,2026-10-16T15:38:28
-50088767,37,0/1 Knapsack Problem in PyTorch,https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg,jedrzej.maczan.pl,41,6,yu3zhou4,2026-10-14T15:04:33
-50100640,38,What changes when your search index lives on S3?,https://infino.ai/blog/search-index-on-s3/,infino.ai,17,11,tatvamasi,2026-10-15T07:55:34
-50122800,39,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,1008,372,ahlCVA,2026-10-16T18:55:59
-50129274,40,"""Tame"" boar and deer are instinctively adapting to the wolf in the Netherlands",https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf,nos.nl,48,88,felipevb,2026-10-17T09:08:16
-50106747,41,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,paperinstruments.com,364,104,i_rush_carriers,2026-10-15T17:06:01
-50123580,42,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,204,56,gmays,2026-10-16T19:47:13
-50122682,43,Espresso machine can run Doom,https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/,gamespot.com,15,6,speckx,2026-10-16T18:49:31
-50112657,44,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1592,2904,shekhar101,2026-10-16T01:32:45
-50103255,45,Intuitive concurrent programming in any language,https://www.lf-lang.org/,lf-lang.org,122,33,mpweiher,2026-10-15T13:18:44
-50132328,46,GLP-1 may slow biological aging,https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging,universityofcalifornia.edu,153,143,dzink,2026-10-17T16:10:21
-50122034,47,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,265,239,7402,2026-10-16T18:06:17
-50132278,48,Amazon uses AI to monitor union risk in UK warehouses,https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/,opendemocracy.net,131,52,DeepLogin,2026-10-17T16:04:23
-50133014,49,Show HN: I reverse engineered serum 2 and build an open source alternative,https://github.com/itsfabioroma/tessera,github.com,3,2,ofabioroma,2026-10-17T17:20:05
-50132911,50,Tsc-ts: TypeScript written in TypeScript,https://github.com/vercel-labs/tsc-ts,github.com,37,41,tosh,2026-10-17T17:10:27
-50133747,51,When No ID Means No Internet,https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information,eff.org,12,1,DASD,2026-10-17T18:35:56
-50100440,52,We still use paper,https://humanpro.co/articles/we-still-use-paper/,humanpro.co,63,75,gx,2026-10-15T07:27:55
-50120224,53,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,314,205,farlight,2026-10-16T16:12:02
-50121939,54,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,168,36,pretext,2026-10-16T18:00:18
-50133790,55,University of Leicester to make redundant all pure math professors (2021),https://www.reddit.com/r/math/comments/l7yyir/not_joking_university_of_leicester_to_make/,reddit.com,10,0,E-Reverance,2026-10-17T18:40:34
-50134241,56,Israel makes propaganda video featuring AI generated IAMDDB without her consent,https://twitter.com/beeechimblind/status/2111227318534279501,twitter.com,20,2,grandpajoey,2026-10-17T19:26:43
-50103588,57,The cryptoint library (2025) [pdf],https://cr.yp.to/papers/cryptoint-20250424.pdf,cr.yp.to,25,0,akkartik,2026-10-15T13:41:08
-50104783,58,Recipes Are Moving from Maven Central to the Code Genome Project,https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module,docs.openrewrite.org,38,15,javahippie,2026-10-15T15:06:52
-50132502,59,OpenAI discloses four more rogue incidents,https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/,fortune.com,109,121,DASD,2026-10-17T16:31:12
-50134141,60,Astronomers discover the first ever green star,https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween,space.com,6,1,naves,2026-10-17T19:16:02
+50137620,1,How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You,https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything,readtheprofile.com,18,2,MaysonL,2026-10-18T03:19:49
+50126253,2,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,382,80,alkyon,2026-10-16T23:38:27
+50114758,3,Lean now ships with verified kernels,https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/,leodemoura.github.io,62,16,matt_d,2026-10-16T06:16:13
+50126312,4,Dam removals are bringing fish back across the northeastern United States,https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/,smithsonianmag.com,238,59,sohkamyung,2026-10-16T23:47:31
+50129045,5,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,764,612,theykk,2026-10-17T08:21:25
+50132193,6,Pele – Mermaid diagrams as themeable SVG,https://pele.run/,pele.run,322,29,dchest,2026-10-17T15:55:09
+50100994,7,"Furifont, a Japanese font that shows furigana",https://furifont.antfu.me/,furifont.antfu.me,306,63,plaguna,2026-10-15T08:48:30
+50136536,8,NY announces game ownership bill requiring ownership rather than licensing,https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends,tomshardware.com,157,40,guiambros,2026-10-18T00:14:22
+50131213,9,Making chicken transparent using Dorito dust,https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using,chillphysicsenjoyer.substack.com,277,68,crescit_eundo,2026-10-17T13:55:28
+50100366,10,"The Commodore 64 hardware simulator: break chips and pins, see the results",https://github.com/antirez/c64-hw-simulator,github.com,161,24,antirez,2026-10-15T07:18:14
+50132870,11,Gold is now the top U.S. export,https://www.numismaticnews.net/gold-now-top-u-s-export,numismaticnews.net,281,149,iamnothere,2026-10-17T17:06:07
+50133231,12,Codex Desktop continuously generates Crashpad pending dumps,https://github.com/openai/codex/issues/25921,github.com,108,36,AIorNot,2026-10-17T17:45:08
+50097257,13,Custom server to revive neato bots,https://github.com/vacuula/vacuula,github.com,20,1,matttah,2026-10-14T23:48:38
+50122878,14,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,527,120,speckx,2026-10-16T19:01:17
+50131006,15,Show HN: High-quality duck audio synthesizer,https://celphase.github.io/duck-pond/,celphase.github.io,106,27,celphase,2026-10-17T13:28:46
+50090927,16,Types of types: Haskell's Kind system,https://thunk.blog/posts/types-of-types-haskell-kind-system/,thunk.blog,70,39,Thom2503,2026-10-14T17:00:31
+50117935,17,Superoptimizing an FPU Emulator,https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/,purplesyringa.moe,8,1,dverlaeckt80,2026-10-16T13:08:32
+50133150,18,I Became a Citizen of Japan,https://www.derekwessman.com/blog-1/natural,derekwessman.com,183,90,luu,2026-10-17T17:36:17
+50131256,19,Solar surpasses nuclear power globally for first time,https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/,pv-magazine.com,522,327,xbmcuser,2026-10-17T14:01:01
+50130379,20,Interactive Linear Programming in the Browser,https://lpviz.net/,lpviz.net,3,0,klamike,2026-10-17T12:06:44
+50131189,21,Show HN: Esp32sim – Run ESP32 firmware in the browser,https://github.com/mikroverk/esp32sim,github.com,142,14,joakimeriksson,2026-10-17T13:51:08
+50127979,22,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,https://llmspeed.dev/,llmspeed.dev,267,78,albinstman,2026-10-17T04:36:53
+50127586,23,Source code of the Estonian online voting system,https://github.com/valimised/ivxv,github.com,187,157,theanonymousone,2026-10-17T03:18:39
+50127572,24,A skeptic's first contact with Kubernetes (2024),https://blog.davidv.dev/posts/first-contact-with-k8s/,blog.davidv.dev,100,55,pmoriarty,2026-10-17T03:16:25
+50101649,25,Laser Fault Injection on a Budget: RP2350 Edition,https://courk.cc/rp2350-challenge-laser,courk.cc,53,15,gregsadetsky,2026-10-15T10:24:16
+50118098,26,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",https://github.com/Kapendev/parin,github.com,56,14,Kapendev,2026-10-16T13:22:49
+50132839,27,Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers,https://www.artie.com/careers,artie.com,0,0,,2026-10-17T17:02:50
+50093006,28,Each step of decoding a PNG (2022),https://iter.ca/post/png/,iter.ca,28,5,jxmorris12,2026-10-14T18:53:00
+50119315,29,Rendering pretty sky in Around The World game,https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/,frozenfractal.com,137,10,ibobev,2026-10-16T15:06:43
+50094887,30,Vintage Cassettes: 1963-2010,http://vintagecassettes.com/,vintagecassettes.com,60,9,austinallegro,2026-10-14T20:41:36
+50134617,31,Chrome and Edge are removing XSLT: what breaks and what does not,https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/,doctor-seo.net,103,114,croes,2026-10-17T20:07:33
+50135379,32,JDK 28,https://openjdk.org/projects/jdk/28/,openjdk.org,91,35,ejboy,2026-10-17T21:37:07
+50133401,33,OpenCode Hacked: User credentials leaked,https://twitter.com/opencode/status/2111516673953935833,twitter.com,819,152,pranshuchittora,2026-10-17T18:01:41
+50130079,34,The future of programming (1982),https://dl.acm.org/doi/10.1145/358453.358459,dl.acm.org,62,17,vismit2000,2026-10-17T11:20:52
+50126384,35,Show HN: Things to Do API,https://thingstodoapi.com/,thingstodoapi.com,40,23,invalidmonk,2026-10-16T23:58:34
+50089577,36,Tell HN: Remember to migrate away from .name domain,https://news.ycombinator.com/item?id=50089577,news.ycombinator.com (Ask/Show HN),142,88,nikanj,2026-10-14T15:49:31
+50133830,37,Microsoft and CMU team up to train early career software engineers,https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise,cs.cmu.edu,64,75,azhenley,2026-10-17T18:45:07
+50134211,38,The math that OpenAI keeps for itself,https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself,newsletter.danielpaleka.com,28,9,dpaleka,2026-10-17T19:22:52
+50112657,39,Tesla Roadster,https://www.tesla.com/roadster,tesla.com,1610,2985,shekhar101,2026-10-16T01:32:45
+50129947,40,MapQuest will now show you where Flock cameras are in your neighborhood,https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/,engadget.com,288,53,bookofjoe,2026-10-17T10:59:31
+50132950,41,Development statistics for the 7.2 kernel,https://lwn.net/Articles/1088776/,lwn.net,127,104,farlight,2026-10-17T17:14:12
+50082358,42,A Tudor life in the time of plague (2020),https://www.historytoday.com/archive/history-matters/tudor-life-time-plague,historytoday.com,49,3,pepys,2026-10-14T04:23:25
+50122800,43,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,1027,379,ahlCVA,2026-10-16T18:55:59
+50119751,44,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",https://adepts.of0x.cc/eufy-homestation2-firmware/,adepts.of0x.cc,86,6,michidk,2026-10-16T15:38:28
+50088767,45,0/1 Knapsack Problem in PyTorch,https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg,jedrzej.maczan.pl,48,6,yu3zhou4,2026-10-14T15:04:33
+50123580,46,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,208,57,gmays,2026-10-16T19:47:13
+50116213,47,Processing my father's death by climbing in his footsteps,https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html,nytimes.com,10,0,elemeno,2026-10-16T09:35:36
+50122034,48,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,273,248,7402,2026-10-16T18:06:17
+50121506,49,The First Candid,https://www.newyorker.com/magazine/2026/10/19/the-first-candid,newyorker.com,43,8,Thevet,2026-10-16T17:28:19
+50106747,50,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,paperinstruments.com,371,107,i_rush_carriers,2026-10-15T17:06:01
+50120224,51,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,320,210,farlight,2026-10-16T16:12:02
+50115354,52,The history of development of Norton Commander (2011),https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml,softpanorama.org,75,24,Michelangelo11,2026-10-16T07:41:36
+50103255,53,Intuitive concurrent programming in any language,https://www.lf-lang.org/,lf-lang.org,130,35,mpweiher,2026-10-15T13:18:44
+50129274,54,"""Tame"" boar and deer are instinctively adapting to the wolf in the Netherlands",https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf,nos.nl,55,94,felipevb,2026-10-17T09:08:16
+50121939,55,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,172,36,pretext,2026-10-16T18:00:18
+50133736,56,Pattern matching beats narrative reasoning,https://blog.scottstevenson.net/p/pattern-matching-beats-narrative,blog.scottstevenson.net,49,30,tosh,2026-10-17T18:34:13
+50117746,57,I love software rendering,https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/,jamesfmackenzie.com,370,230,speckx,2026-10-16T12:52:08
+50076089,58,Monte-Carlo Simulations,https://eli.thegreenplace.net/2026/monte-carlo-simulations/,eli.thegreenplace.net,171,38,ibobev,2026-10-13T18:11:46
+50100640,59,What changes when your search index lives on S3?,https://infino.ai/blog/search-index-on-s3/,infino.ai,24,13,tatvamasi,2026-10-15T07:55:34
+50121179,60,90% of US working hours are spent on tasks not covered well by AI benchmarks,https://www.mercor.com/research/labor-index/benchmark-map/,mercor.com,599,549,speckx,2026-10-16T17:08:38
