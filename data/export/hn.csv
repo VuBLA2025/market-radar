@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50142573,1,Someone behind the software,https://karrisaarinen.com/posts/someone-behind-the-software/,karrisaarinen.com,195,72,tosh,2026-10-18T16:32:00
-50144066,2,Free Pascal compiler now supports dynamic packages,https://www.getlazarus.org/dynamic/,getlazarus.org,55,12,sysrpl,2026-10-18T18:48:04
-50141076,3,RepRapMicron,https://github.com/VikOlliver/RepRapMicron/wiki,github.com,288,44,RobotToaster,2026-10-18T13:48:48
-50143536,4,PalmOS Lemmings,https://github.com/ardiri/palmos-lemmings,github.com,51,9,memalign,2026-10-18T17:56:59
-50138531,5,DeepSeek search and fetch – $0.75 per 1000 successful requests,https://api-docs.deepseek.com/guides/search/,api-docs.deepseek.com,496,241,fagnerbrack,2026-10-18T06:50:36
-50096110,6,SIGSALY: Churchill's top secret hotline to the president,https://www.iwm.org.uk/history/iwm/cwr/telephone,iwm.org.uk,81,19,stmw,2026-10-14T22:07:47
-50142449,7,The Intel 8087 chip: floating-point addition and subtraction,https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html,righto.com,70,17,pwg,2026-10-18T16:20:27
-50136979,8,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky,sciencealert.com,30,11,gmays,2026-10-18T01:38:08
-50140769,9,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,https://legendofhyrule.com/,legendofhyrule.com,136,75,jsomau,2026-10-18T13:06:54
-50131053,10,Developing for Debugging (2025),https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/,davepacheco.net,8,0,mpweiher,2026-10-17T13:34:43
-50140001,11,Open MicroManipulator – A sub-micrometer 3D motion control plattform,https://github.com/0x23/MicroManipulatorStepper,github.com,157,12,_Microft,2026-10-18T11:16:22
-50136017,12,Beyond Tetris: The other games of Alexey Pajitnov [video],https://www.youtube.com/watch?v=QH_LPimUJMs,youtube.com,40,0,zdw,2026-10-17T23:08:30
-50142866,13,Namecheap just seized and disabled all my domains,https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/,reddit.com,226,120,sashk,2026-10-18T16:56:56
-50093020,14,I electrified my push scooter with a power drill,https://eddieabbondanz.io/post/shop/drill-powered-scooter/,eddieabbondanz.io,75,30,speckx,2026-10-14T18:53:52
-50141579,15,Java sealed classes and exhaustive pattern matching,https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/,neilmadden.blog,107,78,hnisjafx40,2026-10-18T14:47:37
-50122058,16,"One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/,quentinkaiser.be,4,2,zoobab,2026-10-16T18:07:44
-50137620,17,How the Elizabeth Holmes documentary “You Can See Everything” is deceiving,https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything,readtheprofile.com,330,450,MaysonL,2026-10-18T03:19:49
-50139067,18,Parser Combinators,https://t3.at/blog/2026-10-17-parser-combinators/,t3.at,201,75,schindlabua,2026-10-18T08:19:53
-50141436,19,Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN,https://ranet3.com/,ranet3.com,19,3,StepBroBD,2026-10-18T14:31:52
-50119819,20,CKKS – Addition and Multiplication,https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/,jeremykun.com,9,0,ibobev,2026-10-16T15:43:46
-50129060,21,Geographical Fun: Being Humourous Outlines of Various Countries (1868),https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/,publicdomainreview.org,8,0,Thevet,2026-10-17T08:24:23
-50144144,22,Tiny Brutalism – Thanks to HN it's on Steam,https://store.steampowered.com/app/5426130/Tiny_Brutalism/,store.steampowered.com,35,3,MatiErnst,2026-10-18T18:59:09
-50137950,23,Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping,https://sphinx-six-theta.vercel.app/,sphinx-six-theta.vercel.app,231,76,critiquebrowser,2026-10-18T04:33:49
-50124730,24,Teal – A statically-typed dialect of Lua,https://teal-language.org/,teal-language.org,144,62,Lyngbakr,2026-10-16T21:07:24
-50139692,25,Legal experts warn Meta's new terms still grant broad scraping permissions,https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/,niemanlab.org,210,58,DeepLogin,2026-10-18T10:21:51
-50108165,26,"Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",http://www.ibiblio.org/eldritch/nhb/paperc/intro.html,ibiblio.org,25,6,Eridanus2,2026-10-15T18:34:09
-50141681,27,Will it be a golden age or a dark age for mathematics (and science)?,https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/,terrytao.wordpress.com,108,144,smilelamp,2026-10-18T15:00:40
-50139998,28,The Brain Sandwich,https://terriblesoftware.org/2026/10/02/the-brain-sandwich/,terriblesoftware.org,60,36,keyle,2026-10-18T11:15:37
-50141024,29,The Electronic Disturbance Theater and Electronic Civil Disobedience (1998),https://www.thing.net/~rdom/ecd/EDTECD.html,thing.net,29,9,jruohonen,2026-10-18T13:41:06
-50141909,30,macOS 15.8.2 Breaks OpenGL,https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550,developer.apple.com,224,220,Audiophilip,2026-10-18T15:26:06
-50143876,31,CFPB Opens Debanking Investigation into Nine Large National Banks,https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/,forbes.com,24,9,iamnothere,2026-10-18T18:26:40
-50144005,32,Florida's HOAs and condo associations are making the housing crisis worse,https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html,hoaspy.com,113,185,lovewins,2026-10-18T18:40:16
-50093081,33,Hatching (Heraldry),https://en.wikipedia.org/wiki/Hatching_(heraldry),en.wikipedia.org,71,22,theanonymousone,2026-10-14T18:57:57
-50122671,34,Regex visualized as 3D marble run,https://www.regexmarblerun.com/,regexmarblerun.com,85,32,seizethecheese,2026-10-16T18:48:48
-50114758,35,Lean now ships with verified kernels,https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/,leodemoura.github.io,194,74,matt_d,2026-10-16T06:16:13
-50143132,36,Mitos editor is a fork of Helix,https://mitos.computer/,mitos.computer,48,47,ambigious7777,2026-10-18T17:19:34
-50122878,37,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,616,140,speckx,2026-10-16T19:01:17
-50114061,38,Chirp Pong – uses microphones and audio for networked game play,https://simonwillison.net/2026/Oct/15/chirp-pong/,simonwillison.net,26,14,havaloc,2026-10-16T04:25:02
-50139636,39,The Public Pays to Produce Research. Shareholders Collect the Return,https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/,sparcopen.org,33,20,jruohonen,2026-10-18T10:10:03
-50102480,40,A History of Curves and Surfaces in Computer Aided Geometric Design [pdf],https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf,math.pku.edu.cn,29,5,mbustamanter,2026-10-15T12:06:38
-50126253,41,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,536,115,alkyon,2026-10-16T23:38:27
-50100366,42,"The Commodore 64 hardware simulator: break chips and pins, see the results",https://github.com/antirez/c64-hw-simulator,github.com,227,34,antirez,2026-10-15T07:18:14
-50140784,43,Hyper Optimizing Kimi K3 in vLLM,https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel,vllm.ai,15,0,torutofu,2026-10-18T13:08:50
-50139083,44,OpenCode has a security breach last that impacted 1.4% of console users,https://twitter.com/opencode/status/2111519637049319818,twitter.com,38,21,notmine1337,2026-10-18T08:22:11
-50145051,45,Are we sleepwalking into World War III?,https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729,ft.com,5,3,themgt,2026-10-18T20:16:59
-50140462,46,How Far Will AI Assistants Go for a Refund They Can't Get?,https://www.vals.ai/blogs/impossible-refund,vals.ai,71,75,DeepLogin,2026-10-18T12:22:58
-50110081,47,Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo,https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo,nltimes.nl,62,16,jacquesm,2026-10-15T20:55:40
-50130379,48,Interactive Linear Programming in the Browser,https://lpviz.net/,lpviz.net,72,12,klamike,2026-10-17T12:06:44
-50106792,49,Fun Extending the C Preprocessor,https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html,davidpriver.com,52,28,david2ndaccount,2026-10-15T17:08:26
-50098485,50,Lorenz and Little: How Much Does Your Tail Cost?,https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html,brooker.co.za,26,2,porridgeraisin,2026-10-15T02:39:37
-50133231,51,Codex Desktop continuously generates Crashpad pending dumps,https://github.com/openai/codex/issues/25921,github.com,166,80,AIorNot,2026-10-17T17:45:08
-50137820,52,Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5,https://tkgally.github.io/500-clocks/,tkgally.github.io,59,24,tkgally,2026-10-18T04:04:58
-50132839,53,Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers,https://www.artie.com/careers,artie.com,0,0,,2026-10-17T17:02:50
-50132870,54,Gold is now the top U.S. export,https://www.numismaticnews.net/gold-now-top-u-s-export,numismaticnews.net,401,218,iamnothere,2026-10-17T17:06:07
-50129045,55,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,huggingface.co,931,700,theykk,2026-10-17T08:21:25
-50131006,56,Show HN: High-quality duck audio synthesizer,https://celphase.github.io/duck-pond/,celphase.github.io,164,43,celphase,2026-10-17T13:28:46
-50136536,57,NY announces game ownership bill requiring ownership rather than licensing,https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends,tomshardware.com,412,188,guiambros,2026-10-18T00:14:22
-50126312,58,Dam removals are bringing fish back across the northeastern United States,https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/,smithsonianmag.com,347,88,sohkamyung,2026-10-16T23:47:31
-50132193,59,Pele – Mermaid diagrams as themeable SVG,https://pele.run/,pele.run,560,57,dchest,2026-10-17T15:55:09
-50131189,60,Show HN: Esp32sim – Run ESP32 firmware in the browser,https://github.com/mikroverk/esp32sim,github.com,189,39,joakimeriksson,2026-10-17T13:51:08
+50145337,1,"Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",https://arxiv.org/abs/2610.18861,arxiv.org,285,157,allinonai,2026-10-18T20:48:14
+50146625,2,William Gibson and the trademarking of cyberspace,https://colo.to/cyberspace.html,colo.to,107,21,Eric_Gullichsen,2026-10-18T23:37:57
+50136150,3,There's never been a better time to go into math (by: 3blue1brown) [video],https://www.youtube.com/watch?v=LKrwhjOI8Nc,youtube.com,252,286,mdp2021,2026-10-17T23:26:35
+50147492,4,Superlite: A Faster Alternatie to Superpowers,https://contextfirst.blog/superlite-hand-an-agent-a-spec/,contextfirst.blog,28,12,iheatuchriswogu,2026-10-19T02:01:16
+50142573,5,Someone behind the software,https://karrisaarinen.com/posts/someone-behind-the-software/,karrisaarinen.com,369,144,tosh,2026-10-18T16:32:00
+50111537,6,Laptop Based on 6502 CPU,https://www.maddox.pro/?p=448,maddox.pro,65,25,nanochess,2026-10-15T22:56:23
+50146624,7,How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?,https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base,csis.org,41,25,gmays,2026-10-18T23:37:54
+50125551,8,The DNS Museum,https://dns.museum,dns.museum,30,2,zdw,2026-10-16T22:21:34
+50141076,9,RepRapMicron,https://github.com/VikOlliver/RepRapMicron/wiki,github.com,352,56,RobotToaster,2026-10-18T13:48:48
+50136979,10,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky,sciencealert.com,167,104,gmays,2026-10-18T01:38:08
+50144066,11,Free Pascal compiler now supports dynamic packages,https://www.getlazarus.org/dynamic/,getlazarus.org,132,28,sysrpl,2026-10-18T18:48:04
+50145715,12,Show HN: WhatsApp MCP running free on Cloudflare,https://github.com/finereli/whatsapp-mcp,github.com,62,38,zoozla,2026-10-18T21:36:10
+50145507,13,"If you don't run your own LLM proxy, how do you know whats going on?",https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/,jrdsgl.com,83,65,amrrs,2026-10-18T21:09:12
+50143536,14,PalmOS Lemmings,https://github.com/ardiri/palmos-lemmings,github.com,106,24,memalign,2026-10-18T17:56:59
+50135762,15,I built a programming language that LLMs can't use,https://blog.picheta.me/post/killswitch-lang/,blog.picheta.me,119,94,dom96,2026-10-17T22:26:47
+50122058,16,"One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/,quentinkaiser.be,61,9,zoobab,2026-10-16T18:07:44
+50140383,17,A new way to think about borrow checking (in reverse),https://verdagon.dev/blog/reverse-borrow-checking,verdagon.dev,35,4,verdagon,2026-10-18T12:11:13
+50098148,18,16-bit fully functional DIY magnetic core memory,https://www.youtube.com/watch?v=OJ1WYyO2jdY,youtube.com,47,18,oliculipolicula,2026-10-15T01:51:02
+50123123,19,"""Traditional, but Puzzling""",https://unsung.aresluna.org/traditional-but-puzzling/,unsung.aresluna.org,30,5,colinprince,2026-10-16T19:17:23
+50147455,20,Footage of the Flock search that a judge ruled was uncosntitutional,https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/,404media.co,58,18,anigbrowl,2026-10-19T01:55:03
+50141579,21,Java sealed classes and exhaustive pattern matching,https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/,neilmadden.blog,151,106,hnisjafx40,2026-10-18T14:47:37
+50118165,22,"""I'm on a war footing"": Terry Tao and the crisis in math",https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html,nytimes.com,130,217,vinipolicena,2026-10-16T13:30:20
+50107843,23,Lombok Is Still Relevant in the Age of Java Records,https://swaranga.dev/posts/on-lombok/,swaranga.dev,7,4,swaranga,2026-10-15T18:15:23
+50146966,24,Sanity's Edge – A voice BBS from 1994,https://sanitys-edge.shouden.us,sanitys-edge.shouden.us,13,0,indigodaddy,2026-10-19T00:30:34
+50121506,25,The First Candid,https://www.newyorker.com/magazine/2026/10/19/the-first-candid,newyorker.com,49,12,Thevet,2026-10-16T17:28:19
+50142449,26,The Intel 8087 chip: floating-point addition and subtraction,https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html,righto.com,96,33,pwg,2026-10-18T16:20:27
+50140001,27,Open MicroManipulator – A sub-micrometer 3D motion control plattform,https://github.com/0x23/MicroManipulatorStepper,github.com,180,14,_Microft,2026-10-18T11:16:22
+50142866,28,Namecheap just seized and disabled all my domains,https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/,reddit.com,506,255,sashk,2026-10-18T16:56:56
+50096110,29,SIGSALY: Churchill's top secret hotline to the president,https://www.iwm.org.uk/history/iwm/cwr/telephone,iwm.org.uk,121,43,stmw,2026-10-14T22:07:47
+50093020,30,I electrified my push scooter with a power drill,https://eddieabbondanz.io/post/shop/drill-powered-scooter/,eddieabbondanz.io,163,55,speckx,2026-10-14T18:53:52
+50139067,31,Parser Combinators,https://t3.at/blog/2026-10-17-parser-combinators/,t3.at,229,81,schindlabua,2026-10-18T08:19:53
+50090927,32,Types of types: Haskell's Kind system,https://thunk.blog/posts/types-of-types-haskell-kind-system/,thunk.blog,109,75,Thom2503,2026-10-14T17:00:31
+50102932,33,Faster command recall with substring search,https://www.dantleech.com/blog/2026/10/15/faster-command-recall-with-substring-search./,dantleech.com,4,1,speckx,2026-10-15T12:52:54
+50144175,34,Personal software factories are a waste of time,https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/,peterp.me,69,66,thegreatpeter,2026-10-18T19:02:11
+50147233,35,Starcraft: Ashfall,https://starcraft-shooter-2026.pages.dev/,starcraft-shooter-2026.pages.dev,35,16,debo_,2026-10-19T01:18:02
+50131053,36,Developing for Debugging (2025),https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/,davepacheco.net,33,0,mpweiher,2026-10-17T13:34:43
+50140769,37,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,https://legendofhyrule.com/,legendofhyrule.com,172,105,jsomau,2026-10-18T13:06:54
+50138531,38,DeepSeek search and fetch – $0.75 per 1000 successful requests,https://api-docs.deepseek.com/guides/search/,api-docs.deepseek.com,560,263,fagnerbrack,2026-10-18T06:50:36
+50124730,39,Teal – A statically-typed dialect of Lua,https://teal-language.org/,teal-language.org,170,68,Lyngbakr,2026-10-16T21:07:24
+50136017,40,Beyond Tetris: The other games of Alexey Pajitnov [video],https://www.youtube.com/watch?v=QH_LPimUJMs,youtube.com,60,6,zdw,2026-10-17T23:08:30
+50144005,41,Florida's HOAs and condo associations are making the housing crisis worse,https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html,hoaspy.com,171,324,lovewins,2026-10-18T18:40:16
+50139692,42,Legal experts warn Meta's new terms still grant broad scraping permissions,https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/,niemanlab.org,222,62,DeepLogin,2026-10-18T10:21:51
+50139998,43,The Brain Sandwich,https://terriblesoftware.org/2026/10/02/the-brain-sandwich/,terriblesoftware.org,84,50,keyle,2026-10-18T11:15:37
+50147462,44,"Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas",https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/,simpleflying.com,10,9,Stratoscope,2026-10-19T01:56:39
+50145295,45,Netflix vmaf: Perceptual video quality assessment based on multi-method fusion,https://github.com/Netflix/vmaf,github.com,21,8,tosh,2026-10-18T20:43:40
+50122878,46,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,622,142,speckx,2026-10-16T19:01:17
+50146286,47,How RC2's π table was made,https://khalidhamadeh.com/writing/rc2-pi-table,khalidhamadeh.com,6,1,KhalidH,2026-10-18T22:48:07
+50146493,48,OpenFlow – Ultimate Agent Orchestration,https://github.com/SeeRay11/OpenFlow,github.com,7,0,searay112023,2026-10-18T23:18:10
+50108165,49,"Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",http://www.ibiblio.org/eldritch/nhb/paperc/intro.html,ibiblio.org,30,8,Eridanus2,2026-10-15T18:34:09
+50139636,50,The Public Pays to Produce Research. Shareholders Collect the Return,https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/,sparcopen.org,53,26,jruohonen,2026-10-18T10:10:03
+50122671,51,Regex visualized as 3D marble run,https://www.regexmarblerun.com/,regexmarblerun.com,92,35,seizethecheese,2026-10-16T18:48:48
+50141024,52,The Electronic Disturbance Theater and Electronic Civil Disobedience (1998),https://www.thing.net/~rdom/ecd/EDTECD.html,thing.net,36,10,jruohonen,2026-10-18T13:41:06
+50141681,53,Will it be a golden age or a dark age for mathematics (and science)?,https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/,terrytao.wordpress.com,133,164,smilelamp,2026-10-18T15:00:40
+50137620,54,The Elizabeth Holmes documentary “You Can See Everything” is deceiving,https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything,readtheprofile.com,373,538,MaysonL,2026-10-18T03:19:49
+50093081,55,Hatching (Heraldry),https://en.wikipedia.org/wiki/Hatching_(heraldry),en.wikipedia.org,75,25,theanonymousone,2026-10-14T18:57:57
+50143132,56,Mitos editor is a fork of Helix,https://mitos.computer/,mitos.computer,67,55,ambigious7777,2026-10-18T17:19:34
+50146792,57,Constructors Shouldn't Throw,https://t3.at/blog/2025-07-20-constructors-shouldnt-throw/,t3.at,3,10,jcbhmr,2026-10-19T00:01:23
+50126253,58,Bleached corals thrive within days when touching healthy neighbour,https://www.nature.com/articles/d41586-026-03266-x,nature.com,546,116,alkyon,2026-10-16T23:38:27
+50145628,59,Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux,https://github.com/omnipty-terminal/omnipty,github.com,14,2,bobbycoleman-de,2026-10-18T21:24:13
+50141436,60,Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN,https://ranet3.com/,ranet3.com,28,5,StepBroBD,2026-10-18T14:31:52
