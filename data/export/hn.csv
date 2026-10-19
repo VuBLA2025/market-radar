@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50150750,1,Documents: Police officer gave her Flock login to her ICE agent husband,https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816,wjcl.com,328,160,DeepLogin,2026-10-19T10:45:14
-50149392,2,Linux 7.3 Released,https://lwn.net/Articles/1101143/,lwn.net,368,161,cjd8,2026-10-19T07:23:57
-50150434,3,Timestral: Mistral release time-series foundation models,https://mistral.ai/news/timestral/,mistral.ai,177,31,groar,2026-10-19T09:59:32
-50151928,4,Show HN: Qwen3-4B with the AI writing tics trained out,https://100toolkit.com/blog/deslop-model/,100toolkit.com,25,8,erikkannike,2026-10-19T13:00:47
-50150809,5,Let's Encrypt is adding two additional remote perspectives for domain validation,https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166,community.letsencrypt.org,65,17,gslin,2026-10-19T10:53:39
-50150935,6,ESA's Hera Will View Asteroid Scars from DART's Strike,https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous,spectrum.ieee.org,30,0,rbanffy,2026-10-19T11:12:02
-50150927,7,Alternatives to Animal Testing Are Finally Taking Off,https://spectrum.ieee.org/alternatives-to-animal-testing,spectrum.ieee.org,55,8,rbanffy,2026-10-19T11:10:54
-50124811,8,Gdynia and the Dream of a Maritime Poland,https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/,engelsbergideas.com,44,10,lermontov,2026-10-16T21:13:08
-50151390,9,"Harness Engineering 101: The LLM is the brain, the harness is the body",https://github.com/IsuruMaduranga/harness-engineering-101,github.com,59,29,isuruwijesiri,2026-10-19T12:07:41
-50145337,10,"Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",https://arxiv.org/abs/2610.18861,arxiv.org,449,218,allinonai,2026-10-18T20:48:14
-50104874,11,How to Train Your Robot,https://www.construction-physics.com/p/how-to-train-your-robot,construction-physics.com,84,25,crescit_eundo,2026-10-15T15:13:21
-50136150,12,There's never been a better time to go into math (by: 3blue1brown) [video],https://www.youtube.com/watch?v=LKrwhjOI8Nc,youtube.com,434,545,mdp2021,2026-10-17T23:26:35
-50146625,13,William Gibson and the trademarking of cyberspace,https://colo.to/cyberspace.html,colo.to,222,98,Eric_Gullichsen,2026-10-18T23:37:57
-50131315,14,Rabbits were a medieval royal luxury in England until the Black Death,https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html,phys.org,107,104,samizdis,2026-10-17T14:07:36
-50145507,15,"If you don't run your own LLM proxy, how do you know whats going on?",https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/,jrdsgl.com,219,156,amrrs,2026-10-18T21:09:12
-50148855,16,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",https://crystl.dev/guides/tmux-for-ai-agents/,crystl.dev,81,50,ankitg12,2026-10-19T05:55:31
-50142573,17,Someone behind the software,https://karrisaarinen.com/posts/someone-behind-the-software/,karrisaarinen.com,490,176,tosh,2026-10-18T16:32:00
-50136979,18,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky,sciencealert.com,283,166,gmays,2026-10-18T01:38:08
-50111537,19,Laptop Based on 6502 CPU,https://www.maddox.pro/?p=448,maddox.pro,162,78,nanochess,2026-10-15T22:56:23
-50141076,20,RepRapMicron,https://github.com/VikOlliver/RepRapMicron/wiki,github.com,414,66,RobotToaster,2026-10-18T13:48:48
-50132906,21,Tennyson's Faith: A Nobler Type,https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/tennysons-faith,hedgehogreview.com,5,1,prismatic,2026-10-17T17:09:47
-50146624,22,How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?,https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base,csis.org,99,119,gmays,2026-10-18T23:37:54
-50125551,23,The DNS Museum,https://dns.museum,dns.museum,101,12,zdw,2026-10-16T22:21:34
-50147492,24,Superlite: A Faster Alternatie to Superpowers,https://contextfirst.blog/superlite-hand-an-agent-a-spec/,contextfirst.blog,114,54,iheatuchriswogu,2026-10-19T02:01:16
-50144066,25,Free Pascal compiler now supports dynamic packages,https://www.getlazarus.org/dynamic/,getlazarus.org,171,44,sysrpl,2026-10-18T18:48:04
-50145715,26,Show HN: WhatsApp MCP running free on Cloudflare,https://github.com/finereli/whatsapp-mcp,github.com,127,70,zoozla,2026-10-18T21:36:10
-50135762,27,I built a programming language that LLMs can't use,https://blog.picheta.me/post/killswitch-lang/,blog.picheta.me,235,175,dom96,2026-10-17T22:26:47
-50143536,28,PalmOS Lemmings,https://github.com/ardiri/palmos-lemmings,github.com,138,33,memalign,2026-10-18T17:56:59
-50141436,29,Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN,https://ranet3.com/,ranet3.com,36,9,StepBroBD,2026-10-18T14:31:52
-50151059,30,Harness2 by Google Research – Recursive Agent Harnessing,https://github.com/google-research/harness2,github.com,13,0,irthomasthomas,2026-10-19T11:28:45
-50140383,31,A new way to think about borrow checking (in reverse),https://verdagon.dev/blog/reverse-borrow-checking,verdagon.dev,109,11,verdagon,2026-10-18T12:11:13
-50141579,32,Java sealed classes and exhaustive pattern matching,https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/,neilmadden.blog,180,141,hnisjafx40,2026-10-18T14:47:37
-50112204,33,HOL Light Tutorial,https://hol-light.github.io/tutorial/HTML/tutorial.html,hol-light.github.io,10,3,stmonty,2026-10-16T00:33:14
-50122058,34,"One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/,quentinkaiser.be,88,22,zoobab,2026-10-16T18:07:44
-50108297,35,How Postgres DELETE can actually scale,https://www.dbos.dev/blog/scaling-deletions-in-postgres,dbos.dev,24,9,KraftyOne,2026-10-15T18:42:57
-50140001,36,Open MicroManipulator – A sub-micrometer 3D motion control plattform,https://github.com/0x23/MicroManipulatorStepper,github.com,210,17,_Microft,2026-10-18T11:16:22
-50151922,37,8 in 10 Americans oppose live-streaming execution,https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/,washingtonpost.com,20,18,geox,2026-10-19T13:00:29
-50109546,38,Lant – The Forgotten Resource,https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/,sites.udel.edu,20,3,kreyenborgi,2026-10-15T20:09:26
-50141909,39,macOS 15.8.2 Breaks OpenGL,https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550,developer.apple.com,276,308,Audiophilip,2026-10-18T15:26:06
-50140769,40,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,https://legendofhyrule.com/,legendofhyrule.com,200,116,jsomau,2026-10-18T13:06:54
-50142449,41,The Intel 8087 chip: floating-point addition and subtraction,https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html,righto.com,114,35,pwg,2026-10-18T16:20:27
-50139067,42,Parser Combinators,https://t3.at/blog/2026-10-17-parser-combinators/,t3.at,241,85,schindlabua,2026-10-18T08:19:53
-50142866,43,Namecheap just seized and disabled all my domains,https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/,reddit.com,609,314,sashk,2026-10-18T16:56:56
-50118165,44,"""I'm on a war footing"": Terry Tao and the crisis in math",https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html,nytimes.com,201,439,vinipolicena,2026-10-16T13:30:20
-50148452,45,DeepSeek V4.1 Flash 1017 (Max),https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017,artificialanalysis.ai,167,65,theanonymousone,2026-10-19T04:41:46
-50090927,46,Types of types: Haskell's Kind system,https://thunk.blog/posts/types-of-types-haskell-kind-system/,thunk.blog,113,78,Thom2503,2026-10-14T17:00:31
-50138531,47,DeepSeek search and fetch – $0.75 per 1000 successful requests,https://api-docs.deepseek.com/guides/search/,api-docs.deepseek.com,581,272,fagnerbrack,2026-10-18T06:50:36
-50093020,48,I electrified my push scooter with a power drill,https://eddieabbondanz.io/post/shop/drill-powered-scooter/,eddieabbondanz.io,188,59,speckx,2026-10-14T18:53:52
-50096110,49,SIGSALY: Churchill's top secret hotline to the president,https://www.iwm.org.uk/history/iwm/cwr/telephone,iwm.org.uk,130,44,stmw,2026-10-14T22:07:47
-50147760,50,The Annotated VT100 Firmware,https://vt100.net/dec/vt100/rom/,vt100.net,17,2,Aleksandr_NFA,2026-10-19T02:40:04
-50122878,51,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,639,142,speckx,2026-10-16T19:01:17
-50147233,52,Starcraft: Ashfall,https://starcraft-shooter-2026.pages.dev/,starcraft-shooter-2026.pages.dev,57,22,debo_,2026-10-19T01:18:02
-50124730,53,Teal – A statically-typed dialect of Lua,https://teal-language.org/,teal-language.org,173,71,Lyngbakr,2026-10-16T21:07:24
-50098148,54,16-bit fully functional DIY magnetic core memory,https://www.youtube.com/watch?v=OJ1WYyO2jdY,youtube.com,61,20,oliculipolicula,2026-10-15T01:51:02
-50147455,55,Footage of the Flock search that a judge ruled was uncosntitutional,https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/,404media.co,122,59,anigbrowl,2026-10-19T01:55:03
-50151036,56,Ask HN: How to deal with shipping AI-written code you don't understand?,https://news.ycombinator.com/item?id=50151036,news.ycombinator.com (Ask/Show HN),5,11,rzk,2026-10-19T11:24:34
-50131053,57,Developing for Debugging (2025),https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/,davepacheco.net,43,0,mpweiher,2026-10-17T13:34:43
-50140462,58,How Far Will AI Assistants Go for a Refund They Can't Get?,https://www.vals.ai/blogs/impossible-refund,vals.ai,91,111,DeepLogin,2026-10-18T12:22:58
-50136017,59,Beyond Tetris: The other games of Alexey Pajitnov [video],https://www.youtube.com/watch?v=QH_LPimUJMs,youtube.com,68,6,zdw,2026-10-17T23:08:30
-50121506,60,The First Candid,https://www.newyorker.com/magazine/2026/10/19/the-first-candid,newyorker.com,50,12,Thevet,2026-10-16T17:28:19
+50158100,1,Putting Linux on my RTX spark laptop because I don't have a Microsoft account,https://josie.lol/blog/linux-rtx-spark,josie.lol,103,39,pfeifferj,2026-10-19T21:08:18
+50154540,2,MiniMax M3.1 Flash,https://www.minimax.io/blog/minimax-m31f,minimax.io,310,128,jtg,2026-10-19T16:39:09
+50150089,3,I built a drone with only one motor [video],https://www.youtube.com/watch?v=Ndftcft6XhU,youtube.com,268,48,hakonjdjohnsen,2026-10-19T09:05:07
+50156206,4,The reverts will continue until morale improves,http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves,peter.eisentraut.org,149,22,hans_castorp,2026-10-19T18:42:32
+50152307,5,Wine ported to OpenBSD,https://marc.info/?l=openbsd-ports&m=179236125692175,marc.info,467,153,iamnothere,2026-10-19T13:35:34
+50158138,6,OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18,https://bsd.network/@brynet/117407035545900963,bsd.network,30,5,doener,2026-10-19T21:11:45
+50154624,7,Android apps running native on macOS,https://github.com/kksimp/Mac.apk,github.com,211,95,flocked,2026-10-19T16:45:30
+50134472,8,It's still ok to enjoy programming,https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming,chriskiehl.com,362,354,goostavos,2026-10-17T19:53:20
+50136126,9,RuneScape Bench: MMOs for Agents [video],https://www.youtube.com/watch?v=cNm4zyUtWj0,youtube.com,121,49,evakhoury,2026-10-17T23:24:05
+50134359,10,The fire retardant in the seafood chain,https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/,insideclimatenews.org,84,28,gumby,2026-10-17T19:37:54
+50158131,11,Diablo 2 Survivors,https://d2survivors.lol/,d2survivors.lol,19,4,bigwheels,2026-10-19T21:10:57
+50150434,12,Timestral: Mistral's time-series foundation models,https://mistral.ai/news/timestral/,mistral.ai,512,96,groar,2026-10-19T09:59:32
+50147233,13,Starcraft: Ashfall,https://starcraft-shooter-2026.pages.dev/,starcraft-shooter-2026.pages.dev,228,77,debo_,2026-10-19T01:18:02
+50150927,14,Alternatives to animal testing are finally taking off,https://spectrum.ieee.org/alternatives-to-animal-testing,spectrum.ieee.org,292,89,rbanffy,2026-10-19T11:10:54
+50151036,15,Ask HN: How to deal with shipping AI-written code you don't understand?,https://news.ycombinator.com/item?id=50151036,news.ycombinator.com (Ask/Show HN),176,287,rzk,2026-10-19T11:24:34
+50155172,16,Evidence (YC S21) Is Hiring Software Engineers,https://evidence.dev/jobs,evidence.dev,0,0,,2026-10-19T17:21:33
+50147462,17,"Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/,simpleflying.com,83,67,Stratoscope,2026-10-19T01:56:39
+50121834,18,Credit where credit is due,https://thefloatingcontinent.com/blog/credit-is-due/,thefloatingcontinent.com,44,27,evakhoury,2026-10-16T17:53:05
+50154029,19,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,https://news.ycombinator.com/item?id=50154029,news.ycombinator.com (Ask/Show HN),39,18,skull8888888,2026-10-19T16:00:18
+50152976,20,Detecting model weight tampering in GPU memory (Rome attacks),https://stealthium.io/blog/hands-off-detecting-model-weight-tampering,stealthium.io,12,2,rafaeldavidtin,2026-10-19T14:31:27
+50155245,21,Mercury 3: Diffusion at scale,https://www.inceptionlabs.ai/blog/introducing-mercury-3,inceptionlabs.ai,203,79,cmrdporcupine,2026-10-19T17:27:11
+50115703,22,Coconuts in Medieval Britain (2015),https://www.themarysue.com/monty-python-holy-grail-coconuts/,themarysue.com,26,6,wolfi1,2026-10-16T08:28:54
+50129102,23,Galois Finite Fields and the Advanced Encryption Standard (AES),https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html,cs.uaf.edu,72,9,ankitg12,2026-10-17T08:34:31
+50150809,24,Let's Encrypt is adding two additional remote perspectives for domain validation,https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166,community.letsencrypt.org,233,76,gslin,2026-10-19T10:53:39
+50152321,25,Plex vulnerabilities being exploited in the wild to drop a cryptominer,http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html,boredhackerblog.info,123,52,mindracer,2026-10-19T13:36:43
+50147760,26,The Annotated VT100 Firmware (2022),https://vt100.net/dec/vt100/rom/,vt100.net,54,3,Aleksandr_NFA,2026-10-19T02:40:04
+50146417,27,Integer to String Conversion (2014),https://tia.mat.br/posts/2014/06/23/integer_to_string_conversion.html,tia.mat.br,25,0,jstrieb,2026-10-18T23:08:01
+50154518,28,I no longer care to work on any Ruby gems so I've archived all my repositories,https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository,po-ru.com,391,368,phoronixrly,2026-10-19T16:37:10
+50153630,29,CERN and Mistral sign a statement of intent to establish a strategic partnership,https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/,home.cern,291,55,kensai,2026-10-19T15:28:24
+50151376,30,The obscure trust looming over Anthropic's IPO,https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink,wsj.com,122,87,1vuio0pswjnm7,2026-10-19T12:06:03
+50152302,31,Cairn: Open windows into AI-driven cyber operations,https://norforge.com/blog/inside_cairn,norforge.com,26,8,ragu4u,2026-10-19T13:35:12
+50156132,32,Cloud of suspicion lifted from NIST curves,https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/,johndcook.com,12,5,ibobev,2026-10-19T18:36:00
+50151980,33,Show HN: I built a task system to handle the drudgery so I could focus on tasks,https://3anddoneapp.com/try,3anddoneapp.com,43,38,dmayle,2026-10-19T13:07:07
+50150935,34,ESA's Hera Will View Asteroid Scars from DART's Strike,https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous,spectrum.ieee.org,67,7,rbanffy,2026-10-19T11:12:02
+50155647,35,Show HN: Open-source early-reading reader with phonics help,https://github.com/finereli/yarareads,github.com,16,3,zoozla,2026-10-19T17:58:54
+50155907,36,"Introducing Clairic, a new System One class of extraction models",https://blog.cloudflare.com/clairic-extraction-model/,blog.cloudflare.com,33,1,shishy,2026-10-19T18:18:33
+50143154,37,What the heck is /pkg?,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,anderegg.ca,38,13,GavinAnderegg,2026-10-18T17:21:23
+50152541,38,"Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",https://github.com/kividbio/kividb,github.com,61,39,murtazayusuf,2026-10-19T13:53:52
+50153431,39,Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix,https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf,netflixtechblog.com,118,25,tosh,2026-10-19T15:10:20
+50152466,40,Maxwell: A new kind of model that sits between code and hardware,https://heymaxwell.ai/,heymaxwell.ai,39,21,laginimaineb,2026-10-19T13:47:56
+50149392,41,Linux 7.3,https://lwn.net/Articles/1101143/,lwn.net,574,268,cjd8,2026-10-19T07:23:57
+50153934,42,"Degraded availability for GitHub Actions, GitHub Pages and Webhooks",https://www.githubstatus.com/incidents/8tzbpcnl75jp,githubstatus.com,146,119,gateauxd,2026-10-19T15:52:26
+50154147,43,Pentulive (Puppy Live) [video],https://yle.fi/t/18-332106/fi,yle.fi,21,2,NaOH,2026-10-19T16:09:10
+50124811,44,Gdynia and the Dream of a Maritime Poland,https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/,engelsbergideas.com,114,36,lermontov,2026-10-16T21:13:08
+50145507,45,"If you don't run your own LLM proxy, how do you know whats going on?",https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/,jrdsgl.com,292,203,amrrs,2026-10-18T21:09:12
+50158360,46,Hetzner object storage outage since last 10 days in HEL data center,https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3,status.hetzner.com,12,1,rakibtg,2026-10-19T21:33:26
+50131749,47,"A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z,theguardian.com,59,21,Hooke,2026-10-17T15:02:08
+50152970,48,Maybe There Was an Egg Cartel After All,https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411,politico.com,197,125,iamnothere,2026-10-19T14:31:11
+50148855,49,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",https://crystl.dev/guides/tmux-for-ai-agents/,crystl.dev,145,109,ankitg12,2026-10-19T05:55:31
+50154982,50,AI Proved the Quasi-Riemann Hypothesis. What Happens Now?,https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/,quantamagazine.org,12,3,ibobev,2026-10-19T17:09:45
+50136979,51,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky,sciencealert.com,340,206,gmays,2026-10-18T01:38:08
+50156189,52,"The US orders every civilian agency to rip out DeepSeek, even tools built on it",https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/,madrobot.blog,51,18,jacquesm,2026-10-19T18:41:10
+50151928,53,Show HN: Qwen3-4B with the AI writing tics trained out,https://100toolkit.com/blog/deslop-model/,100toolkit.com,144,107,erikkannike,2026-10-19T13:00:47
+50156332,54,Towards Company World Models,https://www.beaconholdings.com/research/towards-company-world-models,beaconholdings.com,21,4,rafaelc,2026-10-19T18:51:09
+50131315,55,Rabbits were a medieval royal luxury in England until the Black Death,https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html,phys.org,135,133,samizdis,2026-10-17T14:07:36
+50146625,56,William Gibson and the trademarking of cyberspace,https://colo.to/cyberspace.html,colo.to,275,121,Eric_Gullichsen,2026-10-18T23:37:57
+50111537,57,Laptop Based on 6502 CPU,https://www.maddox.pro/?p=448,maddox.pro,195,104,nanochess,2026-10-15T22:56:23
+50104874,58,How to Train Your Robot,https://www.construction-physics.com/p/how-to-train-your-robot,construction-physics.com,134,44,crescit_eundo,2026-10-15T15:13:21
+50158341,59,Priest killed by falling crucifix during sermon on fragility of life,https://www.stuff.co.nz/world-news/361048424/priest-killed-falling-crucifix-during-sermon-fragility,stuff.co.nz,4,1,hermitcrab,2026-10-19T21:31:51
+50146624,60,How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?,https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base,csis.org,130,220,gmays,2026-10-18T23:37:54
