@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50158100,1,Putting Linux on my RTX spark laptop because I don't have a Microsoft account,https://josie.lol/blog/linux-rtx-spark,josie.lol,103,39,pfeifferj,2026-10-19T21:08:18
-50154540,2,MiniMax M3.1 Flash,https://www.minimax.io/blog/minimax-m31f,minimax.io,310,128,jtg,2026-10-19T16:39:09
-50150089,3,I built a drone with only one motor [video],https://www.youtube.com/watch?v=Ndftcft6XhU,youtube.com,268,48,hakonjdjohnsen,2026-10-19T09:05:07
-50156206,4,The reverts will continue until morale improves,http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves,peter.eisentraut.org,149,22,hans_castorp,2026-10-19T18:42:32
-50152307,5,Wine ported to OpenBSD,https://marc.info/?l=openbsd-ports&m=179236125692175,marc.info,467,153,iamnothere,2026-10-19T13:35:34
-50158138,6,OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18,https://bsd.network/@brynet/117407035545900963,bsd.network,30,5,doener,2026-10-19T21:11:45
-50154624,7,Android apps running native on macOS,https://github.com/kksimp/Mac.apk,github.com,211,95,flocked,2026-10-19T16:45:30
-50134472,8,It's still ok to enjoy programming,https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming,chriskiehl.com,362,354,goostavos,2026-10-17T19:53:20
-50136126,9,RuneScape Bench: MMOs for Agents [video],https://www.youtube.com/watch?v=cNm4zyUtWj0,youtube.com,121,49,evakhoury,2026-10-17T23:24:05
-50134359,10,The fire retardant in the seafood chain,https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/,insideclimatenews.org,84,28,gumby,2026-10-17T19:37:54
-50158131,11,Diablo 2 Survivors,https://d2survivors.lol/,d2survivors.lol,19,4,bigwheels,2026-10-19T21:10:57
-50150434,12,Timestral: Mistral's time-series foundation models,https://mistral.ai/news/timestral/,mistral.ai,512,96,groar,2026-10-19T09:59:32
-50147233,13,Starcraft: Ashfall,https://starcraft-shooter-2026.pages.dev/,starcraft-shooter-2026.pages.dev,228,77,debo_,2026-10-19T01:18:02
-50150927,14,Alternatives to animal testing are finally taking off,https://spectrum.ieee.org/alternatives-to-animal-testing,spectrum.ieee.org,292,89,rbanffy,2026-10-19T11:10:54
-50151036,15,Ask HN: How to deal with shipping AI-written code you don't understand?,https://news.ycombinator.com/item?id=50151036,news.ycombinator.com (Ask/Show HN),176,287,rzk,2026-10-19T11:24:34
-50155172,16,Evidence (YC S21) Is Hiring Software Engineers,https://evidence.dev/jobs,evidence.dev,0,0,,2026-10-19T17:21:33
-50147462,17,"Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/,simpleflying.com,83,67,Stratoscope,2026-10-19T01:56:39
-50121834,18,Credit where credit is due,https://thefloatingcontinent.com/blog/credit-is-due/,thefloatingcontinent.com,44,27,evakhoury,2026-10-16T17:53:05
-50154029,19,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,https://news.ycombinator.com/item?id=50154029,news.ycombinator.com (Ask/Show HN),39,18,skull8888888,2026-10-19T16:00:18
-50152976,20,Detecting model weight tampering in GPU memory (Rome attacks),https://stealthium.io/blog/hands-off-detecting-model-weight-tampering,stealthium.io,12,2,rafaeldavidtin,2026-10-19T14:31:27
-50155245,21,Mercury 3: Diffusion at scale,https://www.inceptionlabs.ai/blog/introducing-mercury-3,inceptionlabs.ai,203,79,cmrdporcupine,2026-10-19T17:27:11
-50115703,22,Coconuts in Medieval Britain (2015),https://www.themarysue.com/monty-python-holy-grail-coconuts/,themarysue.com,26,6,wolfi1,2026-10-16T08:28:54
-50129102,23,Galois Finite Fields and the Advanced Encryption Standard (AES),https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html,cs.uaf.edu,72,9,ankitg12,2026-10-17T08:34:31
-50150809,24,Let's Encrypt is adding two additional remote perspectives for domain validation,https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166,community.letsencrypt.org,233,76,gslin,2026-10-19T10:53:39
-50152321,25,Plex vulnerabilities being exploited in the wild to drop a cryptominer,http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html,boredhackerblog.info,123,52,mindracer,2026-10-19T13:36:43
-50147760,26,The Annotated VT100 Firmware (2022),https://vt100.net/dec/vt100/rom/,vt100.net,54,3,Aleksandr_NFA,2026-10-19T02:40:04
-50146417,27,Integer to String Conversion (2014),https://tia.mat.br/posts/2014/06/23/integer_to_string_conversion.html,tia.mat.br,25,0,jstrieb,2026-10-18T23:08:01
-50154518,28,I no longer care to work on any Ruby gems so I've archived all my repositories,https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository,po-ru.com,391,368,phoronixrly,2026-10-19T16:37:10
-50153630,29,CERN and Mistral sign a statement of intent to establish a strategic partnership,https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/,home.cern,291,55,kensai,2026-10-19T15:28:24
-50151376,30,The obscure trust looming over Anthropic's IPO,https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink,wsj.com,122,87,1vuio0pswjnm7,2026-10-19T12:06:03
-50152302,31,Cairn: Open windows into AI-driven cyber operations,https://norforge.com/blog/inside_cairn,norforge.com,26,8,ragu4u,2026-10-19T13:35:12
-50156132,32,Cloud of suspicion lifted from NIST curves,https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/,johndcook.com,12,5,ibobev,2026-10-19T18:36:00
-50151980,33,Show HN: I built a task system to handle the drudgery so I could focus on tasks,https://3anddoneapp.com/try,3anddoneapp.com,43,38,dmayle,2026-10-19T13:07:07
-50150935,34,ESA's Hera Will View Asteroid Scars from DART's Strike,https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous,spectrum.ieee.org,67,7,rbanffy,2026-10-19T11:12:02
-50155647,35,Show HN: Open-source early-reading reader with phonics help,https://github.com/finereli/yarareads,github.com,16,3,zoozla,2026-10-19T17:58:54
-50155907,36,"Introducing Clairic, a new System One class of extraction models",https://blog.cloudflare.com/clairic-extraction-model/,blog.cloudflare.com,33,1,shishy,2026-10-19T18:18:33
-50143154,37,What the heck is /pkg?,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,anderegg.ca,38,13,GavinAnderegg,2026-10-18T17:21:23
-50152541,38,"Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",https://github.com/kividbio/kividb,github.com,61,39,murtazayusuf,2026-10-19T13:53:52
-50153431,39,Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix,https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf,netflixtechblog.com,118,25,tosh,2026-10-19T15:10:20
-50152466,40,Maxwell: A new kind of model that sits between code and hardware,https://heymaxwell.ai/,heymaxwell.ai,39,21,laginimaineb,2026-10-19T13:47:56
-50149392,41,Linux 7.3,https://lwn.net/Articles/1101143/,lwn.net,574,268,cjd8,2026-10-19T07:23:57
-50153934,42,"Degraded availability for GitHub Actions, GitHub Pages and Webhooks",https://www.githubstatus.com/incidents/8tzbpcnl75jp,githubstatus.com,146,119,gateauxd,2026-10-19T15:52:26
-50154147,43,Pentulive (Puppy Live) [video],https://yle.fi/t/18-332106/fi,yle.fi,21,2,NaOH,2026-10-19T16:09:10
-50124811,44,Gdynia and the Dream of a Maritime Poland,https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/,engelsbergideas.com,114,36,lermontov,2026-10-16T21:13:08
-50145507,45,"If you don't run your own LLM proxy, how do you know whats going on?",https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/,jrdsgl.com,292,203,amrrs,2026-10-18T21:09:12
-50158360,46,Hetzner object storage outage since last 10 days in HEL data center,https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3,status.hetzner.com,12,1,rakibtg,2026-10-19T21:33:26
-50131749,47,"A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z,theguardian.com,59,21,Hooke,2026-10-17T15:02:08
-50152970,48,Maybe There Was an Egg Cartel After All,https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411,politico.com,197,125,iamnothere,2026-10-19T14:31:11
-50148855,49,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",https://crystl.dev/guides/tmux-for-ai-agents/,crystl.dev,145,109,ankitg12,2026-10-19T05:55:31
-50154982,50,AI Proved the Quasi-Riemann Hypothesis. What Happens Now?,https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/,quantamagazine.org,12,3,ibobev,2026-10-19T17:09:45
-50136979,51,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky,sciencealert.com,340,206,gmays,2026-10-18T01:38:08
-50156189,52,"The US orders every civilian agency to rip out DeepSeek, even tools built on it",https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/,madrobot.blog,51,18,jacquesm,2026-10-19T18:41:10
-50151928,53,Show HN: Qwen3-4B with the AI writing tics trained out,https://100toolkit.com/blog/deslop-model/,100toolkit.com,144,107,erikkannike,2026-10-19T13:00:47
-50156332,54,Towards Company World Models,https://www.beaconholdings.com/research/towards-company-world-models,beaconholdings.com,21,4,rafaelc,2026-10-19T18:51:09
-50131315,55,Rabbits were a medieval royal luxury in England until the Black Death,https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html,phys.org,135,133,samizdis,2026-10-17T14:07:36
-50146625,56,William Gibson and the trademarking of cyberspace,https://colo.to/cyberspace.html,colo.to,275,121,Eric_Gullichsen,2026-10-18T23:37:57
-50111537,57,Laptop Based on 6502 CPU,https://www.maddox.pro/?p=448,maddox.pro,195,104,nanochess,2026-10-15T22:56:23
-50104874,58,How to Train Your Robot,https://www.construction-physics.com/p/how-to-train-your-robot,construction-physics.com,134,44,crescit_eundo,2026-10-15T15:13:21
-50158341,59,Priest killed by falling crucifix during sermon on fragility of life,https://www.stuff.co.nz/world-news/361048424/priest-killed-falling-crucifix-during-sermon-fragility,stuff.co.nz,4,1,hermitcrab,2026-10-19T21:31:51
-50146624,60,How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?,https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base,csis.org,130,220,gmays,2026-10-18T23:37:54
+50160494,1,OpenBSD 8.0,https://www.openbsd.org/80.html,openbsd.org,91,27,privong,2026-10-20T02:06:40
+50159341,2,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions,redact.dev,150,22,ds,2026-10-19T23:22:18
+50154540,3,MiniMax M3.1 Flash,https://www.minimax.io/blog/minimax-m31f,minimax.io,420,181,jtg,2026-10-19T16:39:09
+50160877,4,Go will reject certificate chains containing eight distrusted SPKIs,https://github.com/golang/go/issues/82345,github.com,31,12,mendym,2026-10-20T03:05:07
+50150089,5,I built a drone with only one motor [video],https://www.youtube.com/watch?v=Ndftcft6XhU,youtube.com,459,99,hakonjdjohnsen,2026-10-19T09:05:07
+50140584,6,Weball: Play Katamari on Websites,https://www.funwithcomputervision.com/weball/,funwithcomputervision.com,132,10,croes,2026-10-18T12:39:56
+50154244,7,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,reuters.com,96,94,cmrdporcupine,2026-10-19T16:16:46
+50152307,8,Wine ported to OpenBSD,https://marc.info/?l=openbsd-ports&m=179236125692175,marc.info,532,177,iamnothere,2026-10-19T13:35:34
+50161207,9,U.S. Supreme Court to review 1868 federal ban on home distilling of liquor,https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/,staradvertiser.com,7,0,Jimmc414,2026-10-20T04:02:26
+50134472,10,It's still ok to enjoy programming,https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming,chriskiehl.com,511,473,goostavos,2026-10-17T19:53:20
+50158942,11,An ad-free Android TV,https://cretezy.com/2026/ad-free-android-tv,cretezy.com,86,28,CraftThatBlock,2026-10-19T22:32:37
+50158138,12,OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18,https://bsd.network/@brynet/117407035545900963,bsd.network,124,28,doener,2026-10-19T21:11:45
+50153664,13,Ukraine claims first drone evacuation of wounded soldier,https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310,nbcnews.com,182,139,yzydserd,2026-10-19T15:31:34
+50136126,14,RuneScape Bench: MMOs for Agents [video],https://www.youtube.com/watch?v=cNm4zyUtWj0,youtube.com,174,66,evakhoury,2026-10-17T23:24:05
+50160419,15,"OpenBSD 8.0: released Oct 20, 2026",https://marc.info/?l=openbsd-misc&m=179245849770356&w=2,marc.info,23,2,erikschoster,2026-10-20T01:53:51
+50135177,16,Porting video games to VHS,https://gardinerbryant.com/what-if-video-games-came-on-vhs/,gardinerbryant.com,21,14,Kate0CoolLibby,2026-10-17T21:12:16
+50154624,17,Android apps running native on macOS,https://github.com/kksimp/Mac.apk,github.com,287,155,flocked,2026-10-19T16:45:30
+50134809,18,How Do Fungi Keep the Planet Healthy?,https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/,quantamagazine.org,21,3,marojejian,2026-10-17T20:27:22
+50157865,19,One Hash Bloom Filters,https://calabro.io/ohbf,calabro.io,74,10,jcalabro,2026-10-19T20:50:08
+50147233,20,Starcraft: Ashfall,https://starcraft-shooter-2026.pages.dev/,starcraft-shooter-2026.pages.dev,380,116,debo_,2026-10-19T01:18:02
+50137754,21,The ovary doesn't retire after menopause,https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08,news.northwestern.edu,50,5,gmays,2026-10-18T03:48:10
+50159616,22,France's supermarket fridges were vulnerable online for months,https://ipinfo.io/blog/france-fridges-hack,ipinfo.io,83,67,emot,2026-10-20T00:00:49
+50160135,23,Developing Taste,https://emilkowal.ski/ui/developing-taste,emilkowal.ski,23,16,cat-whisperer,2026-10-20T01:12:03
+50138000,24,Refurb weekend II: Alpha Micro Eagle 300 and friends,http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html,oldvcr.blogspot.com,7,0,classichasclass,2026-10-18T04:48:47
+50151036,25,Ask HN: How to deal with shipping AI-written code you don't understand?,https://news.ycombinator.com/item?id=50151036,news.ycombinator.com (Ask/Show HN),331,477,rzk,2026-10-19T11:24:34
+50158100,26,Putting Linux on my RTX Spark laptop because I don't have a Microsoft account,https://josie.lol/blog/linux-rtx-spark,josie.lol,206,99,pfeifferj,2026-10-19T21:08:18
+50134359,27,The fire retardant in the seafood chain,https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/,insideclimatenews.org,128,41,gumby,2026-10-17T19:37:54
+50131997,28,Triplet of 'Ghostly' Galaxies Hints at What Dark Matter Is – and Isn't,https://news.ycombinator.com/item?id=50131997,news.ycombinator.com (Ask/Show HN),13,2,gumby,2026-10-17T15:33:12
+50155172,29,Evidence (YC S21) Is Hiring Software Engineers,https://evidence.dev/jobs,evidence.dev,0,0,,2026-10-19T17:21:33
+50153225,30,Agentic Monitoring,https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/,benjamincongdon.me,71,3,bcongdon,2026-10-19T14:52:04
+50152321,31,Plex vulnerabilities being exploited in the wild to drop a cryptominer,http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html,boredhackerblog.info,175,87,mindracer,2026-10-19T13:36:43
+50121834,32,Credit where credit is due,https://thefloatingcontinent.com/blog/credit-is-due/,thefloatingcontinent.com,70,45,evakhoury,2026-10-16T17:53:05
+50160198,33,Show HN: Lights-on software factory boilerplate for Claude Code,https://github.com/gojko/lights-on-software-factory,github.com,7,0,gojkoa,2026-10-20T01:22:00
+50154029,34,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,https://news.ycombinator.com/item?id=50154029,news.ycombinator.com (Ask/Show HN),49,23,skull8888888,2026-10-19T16:00:18
+50159245,35,"“bonsoir, Elliot”: How abliterated models can get you pwned",https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned,projectdiscovery.io,70,45,chatmasta,2026-10-19T23:08:52
+50156206,36,The reverts will continue until morale improves,http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves,peter.eisentraut.org,208,40,hans_castorp,2026-10-19T18:42:32
+50147760,37,The Annotated VT100 Firmware (2022),https://vt100.net/dec/vt100/rom/,vt100.net,70,3,Aleksandr_NFA,2026-10-19T02:40:04
+50160110,38,Show HN: A legal assistant that refuses to cite law it can't verify,https://ailegal.legal/,ailegal.legal,8,2,vnutrivas,2026-10-20T01:09:05
+50153630,39,CERN and Mistral sign a statement of intent to establish a strategic partnership,https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/,home.cern,326,57,kensai,2026-10-19T15:28:24
+50155245,40,Mercury 3: Diffusion at scale,https://www.inceptionlabs.ai/blog/introducing-mercury-3,inceptionlabs.ai,232,85,cmrdporcupine,2026-10-19T17:27:11
+50158408,41,Drupal is now light-years ahead of its reputation,https://dri.es/state-of-drupal-presentation-september-2026,dri.es,31,33,scottfalconer,2026-10-19T21:38:02
+50150434,42,Timestral: Mistral's time-series foundation models,https://mistral.ai/news/timestral/,mistral.ai,566,105,groar,2026-10-19T09:59:32
+50129102,43,Galois Finite Fields and the Advanced Encryption Standard (AES),https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html,cs.uaf.edu,84,11,ankitg12,2026-10-17T08:34:31
+50147462,44,"Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/,simpleflying.com,117,97,Stratoscope,2026-10-19T01:56:39
+50150927,45,Alternatives to animal testing are finally taking off,https://spectrum.ieee.org/alternatives-to-animal-testing,spectrum.ieee.org,332,99,rbanffy,2026-10-19T11:10:54
+50159119,46,GridFTP: A Brief History of Fast File Transfer (2024),https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer,globus.org,9,1,QuantumNomad_,2026-10-19T22:53:38
+50156744,47,The End of Rationing,https://sanketsaurav.com/writing/end-of-rationing,sanketsaurav.com,45,42,sanketsaurav,2026-10-19T19:19:33
+50153531,48,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,albertodenia.com,24,9,albertodenia,2026-10-19T15:19:45
+50151376,49,The obscure trust looming over Anthropic's IPO,https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink,wsj.com,135,115,1vuio0pswjnm7,2026-10-19T12:06:03
+50152976,50,Detecting model weight tampering in GPU memory (Rome attacks),https://stealthium.io/blog/hands-off-detecting-model-weight-tampering,stealthium.io,18,1,rafaeldavidtin,2026-10-19T14:31:27
+50146417,51,Integer to String Conversion (2014),https://tia.mat.br/posts/2014/06/23/integer_to_string_conversion.html,tia.mat.br,26,0,jstrieb,2026-10-18T23:08:01
+50154518,52,I no longer care to work on any Ruby gems so I've archived all my repositories,https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository,po-ru.com,441,426,phoronixrly,2026-10-19T16:37:10
+50150935,53,ESA's Hera Will View Asteroid Scars from DART's Strike,https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous,spectrum.ieee.org,68,7,rbanffy,2026-10-19T11:12:02
+50158340,54,The Maya Collapse Was Blamed on Drought. The Full Story Is More Complicated,https://www.washingtonpost.com/world/2026/10/19/maya-collapse-was-blamed-drought-full-story-is-more-complicated/,washingtonpost.com,15,3,Hooke,2026-10-19T21:31:50
+50149392,55,Linux 7.3,https://lwn.net/Articles/1101143/,lwn.net,595,278,cjd8,2026-10-19T07:23:57
+50158684,56,Show HN: RoadRash ported to Three.js to run in the browser,https://roadrash.pages.dev,roadrash.pages.dev,18,5,olucurious,2026-10-19T22:01:54
+50157233,57,Terminal Bench 4 Is Saturated,https://preferencemodel.com/blog/terminal-bench-4-is-saturated/,preferencemodel.com,14,0,nharada,2026-10-19T19:55:04
+50151980,58,Show HN: I built a task system to handle the drudgery so I could focus on tasks,https://3anddoneapp.com/try,3anddoneapp.com,50,49,dmayle,2026-10-19T13:07:07
+50156132,59,Cloud of suspicion lifted from NIST curves,https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/,johndcook.com,21,13,ibobev,2026-10-19T18:36:00
+50148855,60,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",https://crystl.dev/guides/tmux-for-ai-agents/,crystl.dev,153,116,ankitg12,2026-10-19T05:55:31
