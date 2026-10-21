@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50170593,1,"SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,334,175,pcai,2026-10-20T18:29:09
-50168396,2,Voxtral 3,https://mistral.ai/news/voxtral-3/,mistral.ai,436,121,ilreb,2026-10-20T16:02:07
-50163277,3,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2033,795,ggcr,2026-10-20T09:08:54
-50169053,4,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",https://github.com/google-pytorch/torch_tpu,github.com,203,48,ilreb,2026-10-20T16:40:24
-50169707,5,What shall I teach my son?,https://stevekrouse.com/ends,stevekrouse.com,144,234,Curiositry,2026-10-20T17:25:07
-50108717,6,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md,github.com,96,35,dhorthy,2026-10-15T19:09:34
-50165208,7,Apple broke an essential presentation feature of iPads,https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/,teddysvoronos.com,427,234,evanb,2026-10-20T12:17:28
-50167028,8,Ofcom concedes defeat in 4chan case,https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/,prestonbyrne.com,271,178,iamnothere,2026-10-20T14:30:31
-50171771,9,On AI writing,https://www.bolkunov.com/p/on-ai-writing,bolkunov.com,50,12,dbolkunov,2026-10-20T19:55:11
-50152886,10,"Meta's GB{2,3}00 Cluster",https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/,engineering.fb.com,25,2,stokedmartin,2026-10-19T14:23:55
-50166579,11,EMudhra Intermediate CA Compromise,https://emudhra.we-have-a-problem.com/,emudhra.we-have-a-problem.com,488,264,galadran,2026-10-20T13:58:33
-50165953,12,Tsrs: A Port of TypeScript to Rust,https://blog.cloudflare.com/typescript-rust-port/,blog.cloudflare.com,297,139,hnisjafx40,2026-10-20T13:18:07
-50168357,13,"Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery,e360.yale.edu,113,60,speckx,2026-10-20T15:59:06
-50166257,14,How I got over 300 Tor exit nodes removed,https://kaba.cx/posts/20261020_Tor/,kaba.cx,275,68,kabakabakaba,2026-10-20T13:39:24
-50170021,15,Claude designed protein binders against scorpion neurotoxins,https://www.anthropic.com/research/claude-scorpion-toxin-binder-design,anthropic.com,56,26,artninja1988,2026-10-20T17:48:29
-50168096,16,IKEA – 3D Guide,https://sael.net/flatpack/,sael.net,112,32,punnerud,2026-10-20T15:42:45
-50163961,17,Google Cloud outage affects almost all banking and other operations in Europe,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,neowin.net,282,142,paweladamczuk,2026-10-20T10:26:02
-50165904,18,Jepsen: Orkes Conductor 5.3.2,https://jepsen.io/analyses/orkes-conductor-5.3.2,jepsen.io,42,1,aphyr,2026-10-20T13:14:39
-50138490,19,JAXA is about to perform a Phobos sample return mission,https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon,science.org,70,12,Muhammad523,2026-10-18T06:40:55
-50128197,20,Archive of Our Own,https://archiveofourown.org/,archiveofourown.org,79,18,debo_,2026-10-17T05:23:14
-50147034,21,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,flatwaterfreepress.org,78,47,NaOH,2026-10-19T00:43:01
-50166794,22,My Friend Bob Cringely,https://tyma.com/my-cringe-story/,tyma.com,142,38,zinxq,2026-10-20T14:13:49
-50167536,23,Facebook Pages require paid subscription to post more than two links per month,https://mastodon.gamedev.place/@AshleyGullen/117473851565913919,mastodon.gamedev.place,383,335,AshleysBrain,2026-10-20T15:06:08
-50167583,24,Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins,https://news.ycombinator.com/item?id=50167583,news.ycombinator.com (Ask/Show HN),33,14,Andydy25,2026-10-20T15:09:29
-50164991,25,Hazel (YC W24) Is Hiring,https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci,ycombinator.com,0,0,,2026-10-20T12:00:32
-50166502,26,2026 is an exciting year for the Rust compiler (and me),https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/,yoyo-code.com,135,56,panstromek,2026-10-20T13:53:48
-50162177,27,MicroG: Free-libre re-implementation of Google's proprietary Android user space,https://github.com/microg/GmsCore/wiki,github.com,358,77,theanonymousone,2026-10-20T06:37:07
-50165801,28,"Publish fake stats, get cited in LLMs",https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web,peec.ai,297,169,robtherobber,2026-10-20T13:06:22
-50141581,29,Nordwand Mono – A monospace font for coders and adventurers,https://github.com/tywr/Nordwand-Mono,github.com,525,147,noriax86,2026-10-18T14:48:01
-50170917,30,Academics have a duty to defend open knowledge systems like Wikipedia,https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/,blogs.lse.ac.uk,21,4,jruohonen,2026-10-20T18:51:40
-50165484,31,NixOS is making me less afraid,https://entropicthoughts.com/nixos-is-making-me-less-afraid,entropicthoughts.com,153,99,ibobev,2026-10-20T12:43:05
-50154244,32,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,reuters.com,546,490,cmrdporcupine,2026-10-19T16:16:46
-50171793,33,Subaru is killing off gas cars and will only sell EVs in Europe,https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs/,electrek.co,41,14,toomuchtodo,2026-10-20T19:56:53
-50161144,34,Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces,https://rouler.io/,rouler.io,15,4,brndnbuilds,2026-10-20T03:51:43
-50171966,35,Anthropic logged net loss of over $80B in first half of 2026,https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/,reuters.com,52,18,throwa356262,2026-10-20T20:09:46
-50172246,36,Judge Orders Meta to Name Employees Who Approved Torrenting,https://torrentfreak.com/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-and-libgen/,torrentfreak.com,21,5,franczesko,2026-10-20T20:32:11
-50131997,37,Triplet of 'ghostly' galaxies hints at what dark matter is and isn't,https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/,quantamagazine.org,86,64,gumby,2026-10-17T15:33:12
-50167732,38,Why do we have so many meetings?,https://www.nber.org/papers/w35706,nber.org,77,124,ilamont,2026-10-20T15:19:19
-50167604,39,Show HN: Penmentor – Claude marks up your handwritten math like a teacher,https://github.com/AbdullahAlhariri/penmentor,github.com,45,4,abdullahalharir,2026-10-20T15:10:54
-50171986,40,The Internet goes on high alert after discovery of 8 compromised TLS certs,https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/,arstechnica.com,15,1,hackdna,2026-10-20T20:11:25
-50158942,41,An ad-free Android TV,https://cretezy.com/2026/ad-free-android-tv,cretezy.com,374,162,CraftThatBlock,2026-10-19T22:32:37
-50172713,42,Private Key Compromise of EMudhra Intermediate Certificates,https://bugzilla.mozilla.org/show_bug.cgi?id=2083449,bugzilla.mozilla.org,7,1,donohoe,2026-10-20T21:09:41
-50132198,43,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,k.sosnierz.me,153,30,birdculture,2026-10-17T15:55:43
-50156469,44,Show HN: RawLink – Building a VPN protocol from scratch,https://github.com/zolagonano/RawLink,github.com,12,0,znano,2026-10-19T18:59:50
-50169506,45,Benchmarking Bot Detection Systems Against Modern AI Agents in 2026,https://research.poh.org/bot-benchmarking-2026/,research.poh.org,8,0,mdahardy,2026-10-20T17:10:31
-50140111,46,Restoration of Retinal Regenerative Potential (2025),https://www.nature.com/articles/s41467-025-58290-8,nature.com,108,4,Kaibeezy,2026-10-18T11:32:38
-50159341,47,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions,redact.dev,704,205,ds,2026-10-19T23:22:18
-50159245,48,How abliterated models can get you pwned,https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned,projectdiscovery.io,223,130,chatmasta,2026-10-19T23:08:52
-50159616,49,France's supermarket fridges were vulnerable online for months,https://ipinfo.io/blog/france-fridges-hack,ipinfo.io,233,215,emot,2026-10-20T00:00:49
-50167657,50,Show HN: Clerkenwell – A Handwritten Clojure Notebook,https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html,handwritten.danieljanus.pl,16,1,nathell,2026-10-20T15:14:14
-50120748,51,There Are over 1M New York City Street Signs. Here's How They Are Made.,https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html,nytimes.com,66,28,bookofjoe,2026-10-16T16:42:48
-50160494,52,OpenBSD 8.0,https://www.openbsd.org/80.html,openbsd.org,458,153,privong,2026-10-20T02:06:40
-50136126,53,RuneScape Bench: MMOs for Agents [video],https://www.youtube.com/watch?v=cNm4zyUtWj0,youtube.com,239,80,evakhoury,2026-10-17T23:24:05
-50165276,54,"Demographic ""doomsday"" misses the mark",https://www.science.org/doi/10.1126/science.ael8752,science.org,63,124,YeGoblynQueenne,2026-10-20T12:22:28
-50168983,55,Gemini 4 Argon is now available for everyone,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/,blog.google,12,3,ulrischa,2026-10-20T16:36:24
-50172793,56,How to Migrate from Gmail to Proton Mail,https://proton.me/support/switch-from-gmail-to-proton,proton.me,5,0,simonebrunozzi,2026-10-20T21:16:37
-50166062,57,Computer Chips Are the Most Magnificent Things Humanity Has Ever Made,https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made,newyorker.com,15,0,simonebrunozzi,2026-10-20T13:25:57
-50169439,58,Gradium open-sourced its on-device TTS,https://gradium.ai/phonon,gradium.ai,10,1,IsaacZerh,2026-10-20T17:06:22
-50152466,59,Maxwell: A new kind of model that sits between code and hardware,https://heymaxwell.ai/,heymaxwell.ai,126,60,laginimaineb,2026-10-19T13:47:56
-50157865,60,One Hash Bloom Filters,https://calabro.io/ohbf,calabro.io,144,14,jcalabro,2026-10-19T20:50:08
+50175070,1,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,joshwcomeau.com,124,40,soheilpro,2026-10-21T01:47:28
+50170593,2,"Show HN: SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,661,344,pcai,2026-10-20T18:29:09
+50175185,3,"In Hilbert space, all things are quantumly possible",https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/,quantamagazine.org,44,17,unprovable,2026-10-21T02:04:15
+50173487,4,Feds suspect ransom negotiator ran ShinyHunters extortion site,https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/,krebsonsecurity.com,141,56,Bender,2026-10-20T22:21:05
+50168396,5,Voxtral 3,https://mistral.ai/news/voxtral-3/,mistral.ai,571,147,ilreb,2026-10-20T16:02:07
+50173891,6,The Other Epidemic: Trying to get off benzodiazepines,https://www.thebeliever.net/the-other-epidemic/,thebeliever.net,121,82,gaplong,2026-10-20T23:04:09
+50166579,7,eMudhra intermediate CA compromise,https://emudhra.we-have-a-problem.com/,emudhra.we-have-a-problem.com,767,360,galadran,2026-10-20T13:58:33
+50175059,8,Good type against all odds,https://unsung.aresluna.org/good-type-against-all-odds/,unsung.aresluna.org,55,8,firloop,2026-10-21T01:45:07
+50174687,9,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,arstechnica.com,37,3,gumby,2026-10-21T00:45:59
+50169053,10,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",https://github.com/google-pytorch/torch_tpu,github.com,295,66,ilreb,2026-10-20T16:40:24
+50169707,11,What shall I teach my son?,https://stevekrouse.com/ends,stevekrouse.com,325,394,Curiositry,2026-10-20T17:25:07
+50151771,12,Borrow Checking Zero-Cost Cyclic Mutability,https://antelang.org/blog/safe_cyclic_mutability/,antelang.org,12,0,jfecher,2026-10-19T12:47:42
+50172041,13,Upcoming critical PHP security release,https://news-web.php.net/php.announce/509,news-web.php.net,300,105,xd,2026-10-20T20:15:50
+50108717,14,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md,github.com,213,88,dhorthy,2026-10-15T19:09:34
+50147799,15,ZX Spectrum Next Laptop,https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2,dorchester3d.com,20,1,utopcell,2026-10-19T02:48:11
+50165208,16,Apple broke an essential presentation feature of iPads,https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/,teddysvoronos.com,523,266,evanb,2026-10-20T12:17:28
+50163277,17,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2186,848,ggcr,2026-10-20T09:08:54
+50167028,18,Ofcom concedes defeat in 4chan case,https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/,prestonbyrne.com,358,265,iamnothere,2026-10-20T14:30:31
+50143360,19,"To Make, or to Buy: The Economics of Decision Models",https://pncnmnp.github.io/blogs/economics-decision-models.html,pncnmnp.github.io,23,1,pncnmnp,2026-10-18T17:40:56
+50165953,20,Tsrs: A Port of TypeScript to Rust,https://blog.cloudflare.com/typescript-rust-port/,blog.cloudflare.com,375,183,hnisjafx40,2026-10-20T13:18:07
+50168357,21,"Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery,e360.yale.edu,231,139,speckx,2026-10-20T15:59:06
+50163961,22,Google Cloud outage affects almost all banking and other operations in Europe,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,neowin.net,358,182,paweladamczuk,2026-10-20T10:26:02
+50169955,23,Advanced coding in low-resource programming languages,https://openai.com/index/low-resource-programming-languages/,openai.com,53,67,sumnole,2026-10-20T17:43:11
+50173716,24,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,fulcrumsec.vg,71,9,swyx,2026-10-20T22:45:39
+50169506,25,Benchmarking Bot Detection Systems Against Modern AI Agents in 2026,https://research.poh.org/bot-benchmarking-2026/,research.poh.org,36,2,mdahardy,2026-10-20T17:10:31
+50139728,26,Making Solar Panels with a Microwave [video],https://www.youtube.com/watch?v=zcWkApGjyGM,youtube.com,55,8,jackdoe,2026-10-18T10:25:07
+50166257,27,How I got over 300 Tor exit nodes removed,https://kaba.cx/posts/20261020_Tor/,kaba.cx,344,86,kabakabakaba,2026-10-20T13:39:24
+50168096,28,IKEA – 3D Guide,https://sael.net/flatpack/,sael.net,165,60,punnerud,2026-10-20T15:42:45
+50143154,29,What the heck is /pkg?,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,anderegg.ca,73,16,GavinAnderegg,2026-10-18T17:21:23
+50166794,30,My Friend Bob Cringely,https://tyma.com/my-cringe-story/,tyma.com,185,51,zinxq,2026-10-20T14:13:49
+50138490,31,JAXA is about to perform a Phobos sample return mission,https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon,science.org,104,22,Muhammad523,2026-10-18T06:40:55
+50166502,32,2026 is an exciting year for the Rust compiler (and me),https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/,yoyo-code.com,175,84,panstromek,2026-10-20T13:53:48
+50147034,33,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,flatwaterfreepress.org,94,54,NaOH,2026-10-19T00:43:01
+50152886,34,"Meta's GB{2,3}00 Cluster",https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/,engineering.fb.com,79,32,stokedmartin,2026-10-19T14:23:55
+50167583,35,Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins,https://news.ycombinator.com/item?id=50167583,news.ycombinator.com (Ask/Show HN),46,19,Andydy25,2026-10-20T15:09:29
+50170917,36,Academics have a duty to defend open knowledge systems like Wikipedia,https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/,blogs.lse.ac.uk,176,109,jruohonen,2026-10-20T18:51:40
+50175057,37,Learning to live with Waymos,https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird,newyorker.com,33,70,njrc,2026-10-21T01:44:34
+50164991,38,Hazel (YC W24) Is Hiring,https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci,ycombinator.com,0,0,,2026-10-20T12:00:32
+50131997,39,Triplet of 'ghostly' galaxies hints at what dark matter is and isn't,https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/,quantamagazine.org,96,73,gumby,2026-10-17T15:33:12
+50167536,40,Facebook Pages require paid subscription to post more than two links per month,https://mastodon.gamedev.place/@AshleyGullen/117473851565913919,mastodon.gamedev.place,428,385,AshleysBrain,2026-10-20T15:06:08
+50156779,41,Show HN: Dovepass – can I legally fly a drone along this exact path in SF?,https://dovepass.com,dovepass.com,17,3,nimitmehra,2026-10-19T19:21:56
+50165801,42,"Publish fake stats, get cited in LLMs",https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web,peec.ai,330,192,robtherobber,2026-10-20T13:06:22
+50165484,43,NixOS is making me less afraid,https://entropicthoughts.com/nixos-is-making-me-less-afraid,entropicthoughts.com,175,117,ibobev,2026-10-20T12:43:05
+50175496,44,Google's servers can scan what you copy in Chrome for unsafe content,https://www.neowin.net/news/google-can-now-monitor-your-clipboard-in-chrome-to-check-if-you-copied-safe-content/,neowin.net,16,3,bundie,2026-10-21T02:52:58
+50128197,45,Archive of Our Own,https://archiveofourown.org/,archiveofourown.org,113,24,debo_,2026-10-17T05:23:14
+50174317,46,LabRobotBench v0.1: Benchmarking wet lab robotics,https://gamowlabs.com/lab-robot-bench-v0-1,gamowlabs.com,11,1,wardbradt,2026-10-20T23:55:03
+50170021,47,Claude designed protein binders against scorpion neurotoxins,https://www.anthropic.com/research/claude-scorpion-toxin-binder-design,anthropic.com,102,64,artninja1988,2026-10-20T17:48:29
+50158942,48,An ad-free Android TV,https://cretezy.com/2026/ad-free-android-tv,cretezy.com,399,171,CraftThatBlock,2026-10-19T22:32:37
+50149609,49,Shipping a LaTeX Compiler Behind an Edge App,https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app,bhargav.dev,11,5,brgv,2026-10-19T07:59:50
+50173907,50,SCOTUS couldn't take up a copyright case because four justices have book deals,https://news.bloomberglaw.com/ip-law/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum,news.bloomberglaw.com,46,3,pessimizer,2026-10-20T23:05:39
+50165904,51,Jepsen: Orkes Conductor 5.3.2,https://jepsen.io/analyses/orkes-conductor-5.3.2,jepsen.io,55,2,aphyr,2026-10-20T13:14:39
+50171966,52,Anthropic logged net loss of over $80B in first half of 2026,https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/,reuters.com,130,58,throwa356262,2026-10-20T20:09:46
+50162177,53,MicroG: Free-libre re-implementation of Google's proprietary Android user space,https://github.com/microg/GmsCore/wiki,github.com,392,111,theanonymousone,2026-10-20T06:37:07
+50167732,54,Why do we have so many meetings?,https://www.nber.org/papers/w35706,nber.org,96,145,ilamont,2026-10-20T15:19:19
+50161144,55,Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces,https://rouler.io/,rouler.io,22,6,brndnbuilds,2026-10-20T03:51:43
+50173547,56,Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful,https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful,eff.org,54,7,hn_acker,2026-10-20T22:26:40
+50132198,57,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,k.sosnierz.me,164,31,birdculture,2026-10-17T15:55:43
+50174799,58,People sick of being spied on by their smart TV,https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy,theguardian.com,29,3,rectang,2026-10-21T01:00:28
+50171528,59,Upcoming Critical PHP Security Release,https://www.php.net/archive/2026.php,php.net,111,17,choult,2026-10-20T19:34:03
+50141581,60,Nordwand Mono – A monospace font for coders and adventurers,https://github.com/tywr/Nordwand-Mono,github.com,546,155,noriax86,2026-10-18T14:48:01
