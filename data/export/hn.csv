@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50177916,1,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,scotthelme.co.uk,242,104,hkc,2026-10-21T09:08:08
-50178455,2,Whatever Happened to Fire Escapes,https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes,practical.engineering,36,16,sohkamyung,2026-10-21T10:14:43
-50177911,3,The 1.5°C goal of the Paris Agreement is no longer viable,https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/,unric.org,364,393,velo_aprx,2026-10-21T09:07:49
-50175070,4,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,joshwcomeau.com,420,171,soheilpro,2026-10-21T01:47:28
-50158314,5,Does Ruby on Rails still make sense?,https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/,tech.dirkjonker.nl,30,22,dajonker,2026-10-19T21:29:58
-50179455,6,"9 Mothers (YC P26) Is Hiring in Austin, TX",https://9mothers.com/careers,9mothers.com,0,0,,2026-10-21T12:00:24
-50172041,7,Upcoming critical PHP security release (CVE-2026-109618 / -109619),https://news-web.php.net/php.announce/509,news-web.php.net,1082,443,xd,2026-10-20T20:15:50
-50170593,8,"Show HN: SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,825,385,pcai,2026-10-20T18:29:09
-50150214,9,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,pagetable.com,39,10,frizlab,2026-10-19T09:21:34
-50174687,10,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,arstechnica.com,210,97,gumby,2026-10-21T00:45:59
-50149861,11,The Decoherence Trap,https://maevyn.codes/decoherence,maevyn.codes,65,20,cassianoleal,2026-10-19T08:35:44
-50166579,12,eMudhra intermediate CA compromise,https://emudhra.we-have-a-problem.com/,emudhra.we-have-a-problem.com,1023,415,galadran,2026-10-20T13:58:33
-50168396,13,Voxtral 3,https://mistral.ai/news/voxtral-3/,mistral.ai,704,173,ilreb,2026-10-20T16:02:07
-50173487,14,Feds suspect ransom negotiator ran ShinyHunters extortion site,https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/,krebsonsecurity.com,219,101,Bender,2026-10-20T22:21:05
-50175059,15,Good type against all odds,https://unsung.aresluna.org/good-type-against-all-odds/,unsung.aresluna.org,142,12,firloop,2026-10-21T01:45:07
-50175185,16,"In Hilbert space, all things are quantumly possible",https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/,quantamagazine.org,104,58,unprovable,2026-10-21T02:04:15
-50173891,17,The Other Epidemic: Trying to get off benzodiazepines,https://www.thebeliever.net/the-other-epidemic/,thebeliever.net,210,160,gaplong,2026-10-20T23:04:09
-50151447,18,Bonanza of new dates rewrites the history of the Inca,https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca,science.org,20,4,pseudolus,2026-10-19T12:13:36
-50147799,19,ZX Spectrum Next Laptop,https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2,dorchester3d.com,96,16,utopcell,2026-10-19T02:48:11
-50175510,20,C# now beats Rust on WASM size,https://github.com/zion-sati/NetWasm,github.com,97,34,sumnole,2026-10-21T02:53:47
-50169053,21,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",https://github.com/google-pytorch/torch_tpu,github.com,351,73,ilreb,2026-10-20T16:40:24
-50175779,22,Using Claude to reduce the attack surface of code,https://www.anthropic.com/research/attack-surface-reduction,anthropic.com,69,28,dnw,2026-10-21T03:36:43
-50169707,23,What shall I teach my son?,https://stevekrouse.com/ends,stevekrouse.com,416,491,Curiositry,2026-10-20T17:25:07
-50165208,24,Apple broke an essential presentation feature of iPads,https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/,teddysvoronos.com,569,276,evanb,2026-10-20T12:17:28
-50108717,25,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md,github.com,273,109,dhorthy,2026-10-15T19:09:34
-50163277,26,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2263,866,ggcr,2026-10-20T09:08:54
-50148845,27,Composite objects and C++26 the std:polymorphic type,https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/,mariusbancila.ro,33,29,jandeboevrie,2026-10-19T05:54:43
-50165215,28,Four Years with Decker,https://beyondloom.com/blog/fouryearsdecker.html,beyondloom.com,45,8,ibobev,2026-10-20T12:18:02
-50167028,29,Ofcom concedes defeat in 4chan case,https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/,prestonbyrne.com,405,318,iamnothere,2026-10-20T14:30:31
-50168357,30,"Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery,e360.yale.edu,289,165,speckx,2026-10-20T15:59:06
-50165953,31,Tsrs: A Port of TypeScript to Rust,https://blog.cloudflare.com/typescript-rust-port/,blog.cloudflare.com,420,205,hnisjafx40,2026-10-20T13:18:07
-50176298,32,Battlezone Online: BZFlag in the Browser,https://github.com/timriker/bzo,github.com,34,25,indigodaddy,2026-10-21T05:05:19
-50151771,33,Borrow Checking Zero-Cost Cyclic Mutability,https://antelang.org/blog/safe_cyclic_mutability/,antelang.org,36,2,jfecher,2026-10-19T12:47:42
-50176301,34,Pillowfort Is Closing,https://www.pillowfort.social/posts/8413273,pillowfort.social,50,27,BrenBarn,2026-10-21T05:05:37
-50177734,35,Finland Buying a Million Landmines,https://yle.fi/a/74-20252139,yle.fi,16,6,vrganj,2026-10-21T08:43:25
-50143360,36,"To Make, or to Buy: The Economics of Decision Models",https://pncnmnp.github.io/blogs/economics-decision-models.html,pncnmnp.github.io,54,2,pncnmnp,2026-10-18T17:40:56
-50169955,37,Advanced coding in low-resource programming languages,https://openai.com/index/low-resource-programming-languages/,openai.com,83,92,sumnole,2026-10-20T17:43:11
-50179131,38,25years of CrimeStoppers Tips to Police Leaked,https://www.cbc.ca/news/investigates/canadian-crime-stoppers-tips-leaked-hack-investigation-9.7388820,cbc.ca,7,0,sandworm101,2026-10-21T11:29:49
-50175882,39,Setting Up SSH Keys on macOS with Touch ID,https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/,nmattia.com,65,40,civilchaos,2026-10-21T03:51:25
-50166257,40,How I got over 300 Tor exit nodes removed,https://kaba.cx/posts/20261020_Tor/,kaba.cx,372,96,kabakabakaba,2026-10-20T13:39:24
-50168096,41,IKEA – 3D Guide,https://sael.net/flatpack/,sael.net,187,65,punnerud,2026-10-20T15:42:45
-50139728,42,Making Solar Panels with a Microwave [video],https://www.youtube.com/watch?v=zcWkApGjyGM,youtube.com,74,9,jackdoe,2026-10-18T10:25:07
-50166794,43,My Friend Bob Cringely,https://tyma.com/my-cringe-story/,tyma.com,200,51,zinxq,2026-10-20T14:13:49
-50166502,44,2026 is an exciting year for the Rust compiler (and me),https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/,yoyo-code.com,185,96,panstromek,2026-10-20T13:53:48
-50138490,45,JAXA is about to perform a Phobos sample return mission,https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon,science.org,118,29,Muhammad523,2026-10-18T06:40:55
-50147034,46,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,flatwaterfreepress.org,100,58,NaOH,2026-10-19T00:43:01
-50173716,47,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,fulcrumsec.vg,126,15,swyx,2026-10-20T22:45:39
-50167583,48,Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins,https://news.ycombinator.com/item?id=50167583,news.ycombinator.com (Ask/Show HN),50,20,Andydy25,2026-10-20T15:09:29
-50169506,49,Benchmarking Bot Detection Systems Against Modern AI Agents in 2026,https://research.poh.org/bot-benchmarking-2026/,research.poh.org,47,7,mdahardy,2026-10-20T17:10:31
-50152886,50,"Meta's GB{2,3}00 Cluster",https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/,engineering.fb.com,87,37,stokedmartin,2026-10-19T14:23:55
-50165801,51,"Publish fake stats, get cited in LLMs",https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web,peec.ai,345,199,robtherobber,2026-10-20T13:06:22
-50131997,52,Triplet of 'ghostly' galaxies hints at what dark matter is and isn't,https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/,quantamagazine.org,99,86,gumby,2026-10-17T15:33:12
-50167536,53,Facebook Pages require paid subscription to post more than two links per month,https://mastodon.gamedev.place/@AshleyGullen/117473851565913919,mastodon.gamedev.place,448,392,AshleysBrain,2026-10-20T15:06:08
-50170917,54,Academics have a duty to defend open knowledge systems like Wikipedia,https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/,blogs.lse.ac.uk,206,123,jruohonen,2026-10-20T18:51:40
-50158942,55,An ad-free Android TV,https://cretezy.com/2026/ad-free-android-tv,cretezy.com,415,180,CraftThatBlock,2026-10-19T22:32:37
-50143154,56,What the heck is /pkg?,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,anderegg.ca,77,17,GavinAnderegg,2026-10-18T17:21:23
-50165484,57,NixOS is making me less afraid,https://entropicthoughts.com/nixos-is-making-me-less-afraid,entropicthoughts.com,185,121,ibobev,2026-10-20T12:43:05
-50163961,58,Google Cloud outage affects almost all banking and other operations in Europe,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,neowin.net,391,196,paweladamczuk,2026-10-20T10:26:02
-50170021,59,Claude designed protein binders against scorpion neurotoxins,https://www.anthropic.com/research/claude-scorpion-toxin-binder-design,anthropic.com,108,69,artninja1988,2026-10-20T17:48:29
-50128197,60,Archive of Our Own,https://archiveofourown.org/,archiveofourown.org,127,28,debo_,2026-10-17T05:23:14
+50180873,1,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,github.com,711,286,tuyuri,2026-10-21T13:45:33
+50182987,2,"Today's PHP Security Release, and How We're Strengthening PHP Security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,thephp.foundation,175,92,ejohnso49,2026-10-21T15:48:56
+50181114,3,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,safedep.io,158,60,abhisek,2026-10-21T14:00:26
+50181136,4,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,duckdb.org,222,25,nnx,2026-10-21T14:01:22
+50181175,5,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,openai.com,145,79,nr378,2026-10-21T14:03:43
+50182526,6,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,apnews.com,72,43,surprisetalk,2026-10-21T15:20:04
+50177916,7,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,scotthelme.co.uk,630,280,hkc,2026-10-21T09:08:08
+50183727,8,Rust off Rails: The opinionated web stack for the AI era,https://rustoffrails.org/,rustoffrails.org,21,15,mike1o1,2026-10-21T16:34:16
+50162044,9,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,bbc.com,39,3,bryanrasmussen,2026-10-20T06:20:54
+50181326,10,Cloudflare deploys protections against php2shell vulnerability,https://blog.cloudflare.com/php-vulnerabilities-waf-protection/,blog.cloudflare.com,73,7,Maxious,2026-10-21T14:11:14
+50180836,11,PHP2Shell: AI uncovers critical RCE in PHP,https://www.wiz.io/blog/php2shell-php-rce,wiz.io,378,136,danlark1,2026-10-21T13:43:19
+50180752,12,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,openai.com,63,18,raahelb,2026-10-21T13:37:00
+50158408,13,Drupal is now light-years ahead of its reputation,https://dri.es/state-of-drupal-presentation-september-2026,dri.es,51,72,scottfalconer,2026-10-19T21:38:02
+50183311,14,What I learned from six months of being stupid on purpose,https://wvez.org/blog/learning-to-be-stupid/,wvez.org,30,16,wvez22,2026-10-21T16:06:56
+50183280,15,Your MCU Likely Escaped the eMudhra Intermediate CA Compromise,https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/,danielmangum.com,16,4,hasheddan,2026-10-21T16:05:05
+50176908,16,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,alterauth.com,16,12,simfinii,2026-10-21T06:42:12
+50179455,17,"9 Mothers (YC P26) Is Hiring in Austin, TX",https://9mothers.com/careers,9mothers.com,0,0,,2026-10-21T12:00:24
+50180079,18,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,openai.com,51,3,armcat,2026-10-21T12:53:11
+50142296,19,Trials and Tribulations of Native Lua Compilation,https://samyeyo.github.io/clx/blog.html,samyeyo.github.io,5,1,_samt_,2026-10-18T16:06:43
+50175070,20,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,joshwcomeau.com,558,233,soheilpro,2026-10-21T01:47:28
+50155751,21,C++ futures part 1: The mental model,https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/,devblogs.microsoft.com,35,9,ibobev,2026-10-19T18:05:53
+50155099,22,Show HN: ULDA – Client-side encryption with a simple JavaScript API,https://demo.ulda.io/,demo.ulda.io,6,1,nonsence,2026-10-19T17:16:31
+50181137,23,The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck,https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/,techdirt.com,405,335,robtherobber,2026-10-21T14:01:25
+50183512,24,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs,oist.jp,5,0,giuliomagnifico,2026-10-21T16:20:37
+50150214,25,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,pagetable.com,144,54,frizlab,2026-10-19T09:21:34
+50180039,26,Show HN: Sumi.css – CSS Framework,https://github.com/vladocar/Sumi.css,github.com,41,9,bepero,2026-10-21T12:50:33
+50174687,27,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,arstechnica.com,320,146,gumby,2026-10-21T00:45:59
+50178455,28,Whatever Happened to Fire Escapes,https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes,practical.engineering,155,118,sohkamyung,2026-10-21T10:14:43
+50149861,29,The Decoherence Trap,https://maevyn.codes/decoherence,maevyn.codes,142,58,cassianoleal,2026-10-19T08:35:44
+50183253,30,"AI agent fixed the bug, but what else did it change?",https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/,blog.trailofbits.com,15,1,tob_scott_a,2026-10-21T16:03:32
+50151175,31,The Lucrative World of Literary Scams,https://www.thedial.world/articles/news/ai-book-scams,thedial.world,52,6,samclemens,2026-10-19T11:43:35
+50172660,32,The phenomena that brighten dawn and dusk (2016),https://www.colorado.edu/asmagazine-archive/node/2039,colorado.edu,5,0,NaOH,2026-10-20T21:05:16
+50173487,33,Feds suspect ransom negotiator ran ShinyHunters extortion site,https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/,krebsonsecurity.com,255,130,Bender,2026-10-20T22:21:05
+50182130,34,Delays for Pull Requests and Webhook deliveries,https://www.githubstatus.com/incidents/nms1dpzmh9d9,githubstatus.com,51,12,bearsyankees,2026-10-21T14:56:57
+50180444,35,Most advice is right for the person giving it,https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/,coached.com,127,116,rohanm93,2026-10-21T13:17:33
+50179828,36,Dutch National Cyber Security Center is Offline because it uses PHP,https://www.ncsc.nl/actueel,ncsc.nl,247,86,jacquesm,2026-10-21T12:31:28
+50173891,37,The Other Epidemic: Trying to get off benzodiazepines,https://www.thebeliever.net/the-other-epidemic/,thebeliever.net,272,220,gaplong,2026-10-20T23:04:09
+50175059,38,Good type against all odds,https://unsung.aresluna.org/good-type-against-all-odds/,unsung.aresluna.org,184,18,firloop,2026-10-21T01:45:07
+50175185,39,"In Hilbert space, all things are quantumly possible",https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/,quantamagazine.org,134,70,unprovable,2026-10-21T02:04:15
+50183597,40,Ask HN: How can you retrain in a field requiring expensive equipment?,https://news.ycombinator.com/item?id=50183597,news.ycombinator.com (Ask/Show HN),8,2,masterchief166,2026-10-21T16:25:26
+50173956,41,Cities Across the World Sinking from Groundwater Depletion: It Can Be Reversed,https://cleantechnica.com/2026/10/20/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed/,cleantechnica.com,9,0,gumby,2026-10-20T23:11:46
+50163277,42,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2288,875,ggcr,2026-10-20T09:08:54
+50175779,43,Using Claude to reduce the attack surface of code,https://www.anthropic.com/research/attack-surface-reduction,anthropic.com,113,74,dnw,2026-10-21T03:36:43
+50147799,44,ZX Spectrum Next Laptop,https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2,dorchester3d.com,117,24,utopcell,2026-10-19T02:48:11
+50179857,45,LayerFS: The filesystem for AI coding agents,https://layerfs.ai/,layerfs.ai,62,32,l2dy,2026-10-21T12:34:46
+50181486,46,"What the PHP2Shell rumors got wrong, from inside the PHP security team",https://daubois.dev/blog/cve-2026-109618-php2shell-rumors/,daubois.dev,5,0,amvalex,2026-10-21T14:20:15
+50172041,47,Upcoming critical PHP security release (CVE-2026-109618 / -109619),https://news-web.php.net/php.announce/509,news-web.php.net,1465,628,xd,2026-10-20T20:15:50
+50170593,48,"Show HN: SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,884,403,pcai,2026-10-20T18:29:09
+50151447,49,Bonanza of new dates rewrites the history of the Inca,https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca,science.org,30,6,pseudolus,2026-10-19T12:13:36
+50175510,50,C# now beats Rust on WASM size,https://github.com/zion-sati/NetWasm,github.com,149,82,sumnole,2026-10-21T02:53:47
+50166579,51,eMudhra intermediate CA compromise,https://emudhra.we-have-a-problem.com/,emudhra.we-have-a-problem.com,1160,448,galadran,2026-10-20T13:58:33
+50175882,52,Setting Up SSH Keys on macOS with Touch ID,https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/,nmattia.com,80,43,civilchaos,2026-10-21T03:51:25
+50148845,53,Composite objects and C++26 the std:polymorphic type,https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/,mariusbancila.ro,40,31,jandeboevrie,2026-10-19T05:54:43
+50168396,54,Voxtral 3,https://mistral.ai/news/voxtral-3/,mistral.ai,750,194,ilreb,2026-10-20T16:02:07
+50165215,55,Four Years with Decker,https://beyondloom.com/blog/fouryearsdecker.html,beyondloom.com,55,16,ibobev,2026-10-20T12:18:02
+50181794,56,Someone Opened a CashApp in Her Name. She Faces Years in Prison,https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/,404media.co,22,1,Frieren,2026-10-21T14:37:47
+50140768,57,A page looks innocent: the algorithms behind a typeset page,https://news.speedata.de/2026/10/18/anatomy-of-a-page/,news.speedata.de,16,2,patrickg,2026-10-18T13:06:54
+50182358,58,AI has 'potential' to turn script kiddies into sophisticated attackers,https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297,theregister.com,11,0,Bender,2026-10-21T15:10:50
+50169955,59,Advanced coding in low-resource programming languages,https://openai.com/index/low-resource-programming-languages/,openai.com,92,94,sumnole,2026-10-20T17:43:11
+50166257,60,How I got over 300 Tor exit nodes removed,https://kaba.cx/posts/20261020_Tor/,kaba.cx,385,99,kabakabakaba,2026-10-20T13:39:24
