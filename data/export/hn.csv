@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50175070,1,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,joshwcomeau.com,124,40,soheilpro,2026-10-21T01:47:28
-50170593,2,"Show HN: SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,661,344,pcai,2026-10-20T18:29:09
-50175185,3,"In Hilbert space, all things are quantumly possible",https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/,quantamagazine.org,44,17,unprovable,2026-10-21T02:04:15
-50173487,4,Feds suspect ransom negotiator ran ShinyHunters extortion site,https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/,krebsonsecurity.com,141,56,Bender,2026-10-20T22:21:05
-50168396,5,Voxtral 3,https://mistral.ai/news/voxtral-3/,mistral.ai,571,147,ilreb,2026-10-20T16:02:07
-50173891,6,The Other Epidemic: Trying to get off benzodiazepines,https://www.thebeliever.net/the-other-epidemic/,thebeliever.net,121,82,gaplong,2026-10-20T23:04:09
-50166579,7,eMudhra intermediate CA compromise,https://emudhra.we-have-a-problem.com/,emudhra.we-have-a-problem.com,767,360,galadran,2026-10-20T13:58:33
-50175059,8,Good type against all odds,https://unsung.aresluna.org/good-type-against-all-odds/,unsung.aresluna.org,55,8,firloop,2026-10-21T01:45:07
-50174687,9,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,arstechnica.com,37,3,gumby,2026-10-21T00:45:59
-50169053,10,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",https://github.com/google-pytorch/torch_tpu,github.com,295,66,ilreb,2026-10-20T16:40:24
-50169707,11,What shall I teach my son?,https://stevekrouse.com/ends,stevekrouse.com,325,394,Curiositry,2026-10-20T17:25:07
-50151771,12,Borrow Checking Zero-Cost Cyclic Mutability,https://antelang.org/blog/safe_cyclic_mutability/,antelang.org,12,0,jfecher,2026-10-19T12:47:42
-50172041,13,Upcoming critical PHP security release,https://news-web.php.net/php.announce/509,news-web.php.net,300,105,xd,2026-10-20T20:15:50
-50108717,14,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md,github.com,213,88,dhorthy,2026-10-15T19:09:34
-50147799,15,ZX Spectrum Next Laptop,https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2,dorchester3d.com,20,1,utopcell,2026-10-19T02:48:11
-50165208,16,Apple broke an essential presentation feature of iPads,https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/,teddysvoronos.com,523,266,evanb,2026-10-20T12:17:28
-50163277,17,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2186,848,ggcr,2026-10-20T09:08:54
-50167028,18,Ofcom concedes defeat in 4chan case,https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/,prestonbyrne.com,358,265,iamnothere,2026-10-20T14:30:31
-50143360,19,"To Make, or to Buy: The Economics of Decision Models",https://pncnmnp.github.io/blogs/economics-decision-models.html,pncnmnp.github.io,23,1,pncnmnp,2026-10-18T17:40:56
-50165953,20,Tsrs: A Port of TypeScript to Rust,https://blog.cloudflare.com/typescript-rust-port/,blog.cloudflare.com,375,183,hnisjafx40,2026-10-20T13:18:07
-50168357,21,"Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery,e360.yale.edu,231,139,speckx,2026-10-20T15:59:06
-50163961,22,Google Cloud outage affects almost all banking and other operations in Europe,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,neowin.net,358,182,paweladamczuk,2026-10-20T10:26:02
-50169955,23,Advanced coding in low-resource programming languages,https://openai.com/index/low-resource-programming-languages/,openai.com,53,67,sumnole,2026-10-20T17:43:11
-50173716,24,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,fulcrumsec.vg,71,9,swyx,2026-10-20T22:45:39
-50169506,25,Benchmarking Bot Detection Systems Against Modern AI Agents in 2026,https://research.poh.org/bot-benchmarking-2026/,research.poh.org,36,2,mdahardy,2026-10-20T17:10:31
-50139728,26,Making Solar Panels with a Microwave [video],https://www.youtube.com/watch?v=zcWkApGjyGM,youtube.com,55,8,jackdoe,2026-10-18T10:25:07
-50166257,27,How I got over 300 Tor exit nodes removed,https://kaba.cx/posts/20261020_Tor/,kaba.cx,344,86,kabakabakaba,2026-10-20T13:39:24
-50168096,28,IKEA – 3D Guide,https://sael.net/flatpack/,sael.net,165,60,punnerud,2026-10-20T15:42:45
-50143154,29,What the heck is /pkg?,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,anderegg.ca,73,16,GavinAnderegg,2026-10-18T17:21:23
-50166794,30,My Friend Bob Cringely,https://tyma.com/my-cringe-story/,tyma.com,185,51,zinxq,2026-10-20T14:13:49
-50138490,31,JAXA is about to perform a Phobos sample return mission,https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon,science.org,104,22,Muhammad523,2026-10-18T06:40:55
-50166502,32,2026 is an exciting year for the Rust compiler (and me),https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/,yoyo-code.com,175,84,panstromek,2026-10-20T13:53:48
-50147034,33,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,flatwaterfreepress.org,94,54,NaOH,2026-10-19T00:43:01
-50152886,34,"Meta's GB{2,3}00 Cluster",https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/,engineering.fb.com,79,32,stokedmartin,2026-10-19T14:23:55
-50167583,35,Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins,https://news.ycombinator.com/item?id=50167583,news.ycombinator.com (Ask/Show HN),46,19,Andydy25,2026-10-20T15:09:29
-50170917,36,Academics have a duty to defend open knowledge systems like Wikipedia,https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/,blogs.lse.ac.uk,176,109,jruohonen,2026-10-20T18:51:40
-50175057,37,Learning to live with Waymos,https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird,newyorker.com,33,70,njrc,2026-10-21T01:44:34
-50164991,38,Hazel (YC W24) Is Hiring,https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci,ycombinator.com,0,0,,2026-10-20T12:00:32
-50131997,39,Triplet of 'ghostly' galaxies hints at what dark matter is and isn't,https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/,quantamagazine.org,96,73,gumby,2026-10-17T15:33:12
-50167536,40,Facebook Pages require paid subscription to post more than two links per month,https://mastodon.gamedev.place/@AshleyGullen/117473851565913919,mastodon.gamedev.place,428,385,AshleysBrain,2026-10-20T15:06:08
-50156779,41,Show HN: Dovepass – can I legally fly a drone along this exact path in SF?,https://dovepass.com,dovepass.com,17,3,nimitmehra,2026-10-19T19:21:56
-50165801,42,"Publish fake stats, get cited in LLMs",https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web,peec.ai,330,192,robtherobber,2026-10-20T13:06:22
-50165484,43,NixOS is making me less afraid,https://entropicthoughts.com/nixos-is-making-me-less-afraid,entropicthoughts.com,175,117,ibobev,2026-10-20T12:43:05
-50175496,44,Google's servers can scan what you copy in Chrome for unsafe content,https://www.neowin.net/news/google-can-now-monitor-your-clipboard-in-chrome-to-check-if-you-copied-safe-content/,neowin.net,16,3,bundie,2026-10-21T02:52:58
-50128197,45,Archive of Our Own,https://archiveofourown.org/,archiveofourown.org,113,24,debo_,2026-10-17T05:23:14
-50174317,46,LabRobotBench v0.1: Benchmarking wet lab robotics,https://gamowlabs.com/lab-robot-bench-v0-1,gamowlabs.com,11,1,wardbradt,2026-10-20T23:55:03
-50170021,47,Claude designed protein binders against scorpion neurotoxins,https://www.anthropic.com/research/claude-scorpion-toxin-binder-design,anthropic.com,102,64,artninja1988,2026-10-20T17:48:29
-50158942,48,An ad-free Android TV,https://cretezy.com/2026/ad-free-android-tv,cretezy.com,399,171,CraftThatBlock,2026-10-19T22:32:37
-50149609,49,Shipping a LaTeX Compiler Behind an Edge App,https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app,bhargav.dev,11,5,brgv,2026-10-19T07:59:50
-50173907,50,SCOTUS couldn't take up a copyright case because four justices have book deals,https://news.bloomberglaw.com/ip-law/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum,news.bloomberglaw.com,46,3,pessimizer,2026-10-20T23:05:39
-50165904,51,Jepsen: Orkes Conductor 5.3.2,https://jepsen.io/analyses/orkes-conductor-5.3.2,jepsen.io,55,2,aphyr,2026-10-20T13:14:39
-50171966,52,Anthropic logged net loss of over $80B in first half of 2026,https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/,reuters.com,130,58,throwa356262,2026-10-20T20:09:46
-50162177,53,MicroG: Free-libre re-implementation of Google's proprietary Android user space,https://github.com/microg/GmsCore/wiki,github.com,392,111,theanonymousone,2026-10-20T06:37:07
-50167732,54,Why do we have so many meetings?,https://www.nber.org/papers/w35706,nber.org,96,145,ilamont,2026-10-20T15:19:19
-50161144,55,Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces,https://rouler.io/,rouler.io,22,6,brndnbuilds,2026-10-20T03:51:43
-50173547,56,Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful,https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful,eff.org,54,7,hn_acker,2026-10-20T22:26:40
-50132198,57,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,k.sosnierz.me,164,31,birdculture,2026-10-17T15:55:43
-50174799,58,People sick of being spied on by their smart TV,https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy,theguardian.com,29,3,rectang,2026-10-21T01:00:28
-50171528,59,Upcoming Critical PHP Security Release,https://www.php.net/archive/2026.php,php.net,111,17,choult,2026-10-20T19:34:03
-50141581,60,Nordwand Mono – A monospace font for coders and adventurers,https://github.com/tywr/Nordwand-Mono,github.com,546,155,noriax86,2026-10-18T14:48:01
+50177916,1,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,scotthelme.co.uk,242,104,hkc,2026-10-21T09:08:08
+50178455,2,Whatever Happened to Fire Escapes,https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes,practical.engineering,36,16,sohkamyung,2026-10-21T10:14:43
+50177911,3,The 1.5°C goal of the Paris Agreement is no longer viable,https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/,unric.org,364,393,velo_aprx,2026-10-21T09:07:49
+50175070,4,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,joshwcomeau.com,420,171,soheilpro,2026-10-21T01:47:28
+50158314,5,Does Ruby on Rails still make sense?,https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/,tech.dirkjonker.nl,30,22,dajonker,2026-10-19T21:29:58
+50179455,6,"9 Mothers (YC P26) Is Hiring in Austin, TX",https://9mothers.com/careers,9mothers.com,0,0,,2026-10-21T12:00:24
+50172041,7,Upcoming critical PHP security release (CVE-2026-109618 / -109619),https://news-web.php.net/php.announce/509,news-web.php.net,1082,443,xd,2026-10-20T20:15:50
+50170593,8,"Show HN: SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,825,385,pcai,2026-10-20T18:29:09
+50150214,9,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,pagetable.com,39,10,frizlab,2026-10-19T09:21:34
+50174687,10,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,arstechnica.com,210,97,gumby,2026-10-21T00:45:59
+50149861,11,The Decoherence Trap,https://maevyn.codes/decoherence,maevyn.codes,65,20,cassianoleal,2026-10-19T08:35:44
+50166579,12,eMudhra intermediate CA compromise,https://emudhra.we-have-a-problem.com/,emudhra.we-have-a-problem.com,1023,415,galadran,2026-10-20T13:58:33
+50168396,13,Voxtral 3,https://mistral.ai/news/voxtral-3/,mistral.ai,704,173,ilreb,2026-10-20T16:02:07
+50173487,14,Feds suspect ransom negotiator ran ShinyHunters extortion site,https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/,krebsonsecurity.com,219,101,Bender,2026-10-20T22:21:05
+50175059,15,Good type against all odds,https://unsung.aresluna.org/good-type-against-all-odds/,unsung.aresluna.org,142,12,firloop,2026-10-21T01:45:07
+50175185,16,"In Hilbert space, all things are quantumly possible",https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/,quantamagazine.org,104,58,unprovable,2026-10-21T02:04:15
+50173891,17,The Other Epidemic: Trying to get off benzodiazepines,https://www.thebeliever.net/the-other-epidemic/,thebeliever.net,210,160,gaplong,2026-10-20T23:04:09
+50151447,18,Bonanza of new dates rewrites the history of the Inca,https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca,science.org,20,4,pseudolus,2026-10-19T12:13:36
+50147799,19,ZX Spectrum Next Laptop,https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2,dorchester3d.com,96,16,utopcell,2026-10-19T02:48:11
+50175510,20,C# now beats Rust on WASM size,https://github.com/zion-sati/NetWasm,github.com,97,34,sumnole,2026-10-21T02:53:47
+50169053,21,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",https://github.com/google-pytorch/torch_tpu,github.com,351,73,ilreb,2026-10-20T16:40:24
+50175779,22,Using Claude to reduce the attack surface of code,https://www.anthropic.com/research/attack-surface-reduction,anthropic.com,69,28,dnw,2026-10-21T03:36:43
+50169707,23,What shall I teach my son?,https://stevekrouse.com/ends,stevekrouse.com,416,491,Curiositry,2026-10-20T17:25:07
+50165208,24,Apple broke an essential presentation feature of iPads,https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/,teddysvoronos.com,569,276,evanb,2026-10-20T12:17:28
+50108717,25,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md,github.com,273,109,dhorthy,2026-10-15T19:09:34
+50163277,26,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2263,866,ggcr,2026-10-20T09:08:54
+50148845,27,Composite objects and C++26 the std:polymorphic type,https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/,mariusbancila.ro,33,29,jandeboevrie,2026-10-19T05:54:43
+50165215,28,Four Years with Decker,https://beyondloom.com/blog/fouryearsdecker.html,beyondloom.com,45,8,ibobev,2026-10-20T12:18:02
+50167028,29,Ofcom concedes defeat in 4chan case,https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/,prestonbyrne.com,405,318,iamnothere,2026-10-20T14:30:31
+50168357,30,"Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery,e360.yale.edu,289,165,speckx,2026-10-20T15:59:06
+50165953,31,Tsrs: A Port of TypeScript to Rust,https://blog.cloudflare.com/typescript-rust-port/,blog.cloudflare.com,420,205,hnisjafx40,2026-10-20T13:18:07
+50176298,32,Battlezone Online: BZFlag in the Browser,https://github.com/timriker/bzo,github.com,34,25,indigodaddy,2026-10-21T05:05:19
+50151771,33,Borrow Checking Zero-Cost Cyclic Mutability,https://antelang.org/blog/safe_cyclic_mutability/,antelang.org,36,2,jfecher,2026-10-19T12:47:42
+50176301,34,Pillowfort Is Closing,https://www.pillowfort.social/posts/8413273,pillowfort.social,50,27,BrenBarn,2026-10-21T05:05:37
+50177734,35,Finland Buying a Million Landmines,https://yle.fi/a/74-20252139,yle.fi,16,6,vrganj,2026-10-21T08:43:25
+50143360,36,"To Make, or to Buy: The Economics of Decision Models",https://pncnmnp.github.io/blogs/economics-decision-models.html,pncnmnp.github.io,54,2,pncnmnp,2026-10-18T17:40:56
+50169955,37,Advanced coding in low-resource programming languages,https://openai.com/index/low-resource-programming-languages/,openai.com,83,92,sumnole,2026-10-20T17:43:11
+50179131,38,25years of CrimeStoppers Tips to Police Leaked,https://www.cbc.ca/news/investigates/canadian-crime-stoppers-tips-leaked-hack-investigation-9.7388820,cbc.ca,7,0,sandworm101,2026-10-21T11:29:49
+50175882,39,Setting Up SSH Keys on macOS with Touch ID,https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/,nmattia.com,65,40,civilchaos,2026-10-21T03:51:25
+50166257,40,How I got over 300 Tor exit nodes removed,https://kaba.cx/posts/20261020_Tor/,kaba.cx,372,96,kabakabakaba,2026-10-20T13:39:24
+50168096,41,IKEA – 3D Guide,https://sael.net/flatpack/,sael.net,187,65,punnerud,2026-10-20T15:42:45
+50139728,42,Making Solar Panels with a Microwave [video],https://www.youtube.com/watch?v=zcWkApGjyGM,youtube.com,74,9,jackdoe,2026-10-18T10:25:07
+50166794,43,My Friend Bob Cringely,https://tyma.com/my-cringe-story/,tyma.com,200,51,zinxq,2026-10-20T14:13:49
+50166502,44,2026 is an exciting year for the Rust compiler (and me),https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/,yoyo-code.com,185,96,panstromek,2026-10-20T13:53:48
+50138490,45,JAXA is about to perform a Phobos sample return mission,https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon,science.org,118,29,Muhammad523,2026-10-18T06:40:55
+50147034,46,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,flatwaterfreepress.org,100,58,NaOH,2026-10-19T00:43:01
+50173716,47,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,fulcrumsec.vg,126,15,swyx,2026-10-20T22:45:39
+50167583,48,Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins,https://news.ycombinator.com/item?id=50167583,news.ycombinator.com (Ask/Show HN),50,20,Andydy25,2026-10-20T15:09:29
+50169506,49,Benchmarking Bot Detection Systems Against Modern AI Agents in 2026,https://research.poh.org/bot-benchmarking-2026/,research.poh.org,47,7,mdahardy,2026-10-20T17:10:31
+50152886,50,"Meta's GB{2,3}00 Cluster",https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/,engineering.fb.com,87,37,stokedmartin,2026-10-19T14:23:55
+50165801,51,"Publish fake stats, get cited in LLMs",https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web,peec.ai,345,199,robtherobber,2026-10-20T13:06:22
+50131997,52,Triplet of 'ghostly' galaxies hints at what dark matter is and isn't,https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/,quantamagazine.org,99,86,gumby,2026-10-17T15:33:12
+50167536,53,Facebook Pages require paid subscription to post more than two links per month,https://mastodon.gamedev.place/@AshleyGullen/117473851565913919,mastodon.gamedev.place,448,392,AshleysBrain,2026-10-20T15:06:08
+50170917,54,Academics have a duty to defend open knowledge systems like Wikipedia,https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/,blogs.lse.ac.uk,206,123,jruohonen,2026-10-20T18:51:40
+50158942,55,An ad-free Android TV,https://cretezy.com/2026/ad-free-android-tv,cretezy.com,415,180,CraftThatBlock,2026-10-19T22:32:37
+50143154,56,What the heck is /pkg?,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,anderegg.ca,77,17,GavinAnderegg,2026-10-18T17:21:23
+50165484,57,NixOS is making me less afraid,https://entropicthoughts.com/nixos-is-making-me-less-afraid,entropicthoughts.com,185,121,ibobev,2026-10-20T12:43:05
+50163961,58,Google Cloud outage affects almost all banking and other operations in Europe,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,neowin.net,391,196,paweladamczuk,2026-10-20T10:26:02
+50170021,59,Claude designed protein binders against scorpion neurotoxins,https://www.anthropic.com/research/claude-scorpion-toxin-binder-design,anthropic.com,108,69,artninja1988,2026-10-20T17:48:29
+50128197,60,Archive of Our Own,https://archiveofourown.org/,archiveofourown.org,127,28,debo_,2026-10-17T05:23:14
