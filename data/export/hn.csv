@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50182987,1,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,thephp.foundation,530,270,ejohnso49,2026-10-21T15:48:56
-50185869,2,GitLab Critical Patch Release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,docs.gitlab.com,132,27,artooro,2026-10-21T19:01:12
-50161346,3,No More Icons in Every Menu by Default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,blog.jim-nielsen.com,29,12,riffraff,2026-10-20T04:27:08
-50181114,4,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,safedep.io,355,118,abhisek,2026-10-21T14:00:26
-50187708,5,AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days,https://github.com/amazonlinux/amazon-linux-2023/issues/1148,github.com,18,4,hayd,2026-10-21T21:12:59
-50159726,6,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,windowslatest.com,88,55,khalidkhair,2026-10-20T00:14:03
-50177916,7,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,scotthelme.co.uk,774,382,hkc,2026-10-21T09:08:08
-50186037,8,Claude Duet,https://claude.com/product/claude-duet,claude.com,201,175,kuberwastaken,2026-10-21T19:14:01
-50181136,9,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,duckdb.org,329,37,nnx,2026-10-21T14:01:22
-50184820,10,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,cnbc.com,214,121,cbg0,2026-10-21T17:45:13
-50184586,11,EA is shutting down BioWare,https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware,theverge.com,404,246,aaronbrethorst,2026-10-21T17:29:33
-50162044,12,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,bbc.com,126,23,bryanrasmussen,2026-10-20T06:20:54
-50181175,13,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,openai.com,204,132,nr378,2026-10-21T14:03:43
-50186010,14,Google's Rust Style Guide,https://google.github.io/styleguide/rustguide.html,google.github.io,105,78,kaycebasques,2026-10-21T19:11:57
-50183512,15,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs,oist.jp,78,19,giuliomagnifico,2026-10-21T16:20:37
-50182526,16,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,apnews.com,149,79,surprisetalk,2026-10-21T15:20:04
-50180079,17,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,openai.com,185,85,armcat,2026-10-21T12:53:11
-50180873,18,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,github.com,926,520,tuyuri,2026-10-21T13:45:33
-50186129,19,Mistral Large 4,https://mistral.ai/news/mistral-large-4/,mistral.ai,310,90,funnym0nk3y,2026-10-21T19:20:55
-50180752,20,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,openai.com,115,62,raahelb,2026-10-21T13:37:00
-50166706,21,A Place Among the Fiddlers,https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/,longreads.com,11,0,gmays,2026-10-20T14:08:33
-50185814,22,Potential third critical PHP CVE,https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027,elk.zone,40,13,mpaepper,2026-10-21T18:57:52
-50185630,23,Canary Tokens,https://canarytokens.org/,canarytokens.org,87,18,wiradikusuma,2026-10-21T18:45:04
-50158408,24,Drupal is now light-years ahead of its reputation,https://dri.es/state-of-drupal-presentation-september-2026,dri.es,101,104,scottfalconer,2026-10-19T21:38:02
-50183344,25,The bridge to agent-scale Git infrastructure,https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/,github.blog,42,10,Klaster_1,2026-10-21T16:09:28
-50179455,26,"9 Mothers (YC P26) Is Hiring in Austin, TX",https://9mothers.com/careers,9mothers.com,0,0,,2026-10-21T12:00:24
-50183280,27,Your MCU likely escaped the eMudhra intermediate CA compromise,https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/,danielmangum.com,47,22,hasheddan,2026-10-21T16:05:05
-50186455,28,Claude Duet,https://claude.com/resources/articles/claude-duet,claude.com,24,6,zaevlad,2026-10-21T19:40:18
-50150214,29,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,pagetable.com,193,82,frizlab,2026-10-19T09:21:34
-50186043,30,Google staff resign in backlash over its AI contracts with military,https://www.bbc.com/news/articles/cmreyvepnv0po,bbc.com,54,2,saikatsg,2026-10-21T19:14:21
-50182960,31,Show HN: I told people I'm a convicted felon after 20 years of hiding it,https://buford.bg/,buford.bg,68,39,buf,2026-10-21T15:46:43
-50155751,32,C++ futures part 1: The mental model,https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/,devblogs.microsoft.com,59,12,ibobev,2026-10-19T18:05:53
-50142296,33,Trials and Tribulations of Native Lua Compilation,https://samyeyo.github.io/clx/blog.html,samyeyo.github.io,21,4,_samt_,2026-10-18T16:06:43
-50180039,34,Show HN: Sumi.css – CSS Framework,https://github.com/vladocar/Sumi.css,github.com,68,18,bepero,2026-10-21T12:50:33
-50186318,35,Plex laid off the whole player team,https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5,forums.plex.tv,96,68,zzyzxd,2026-10-21T19:32:10
-50149861,36,The Decoherence Trap,https://maevyn.codes/decoherence,maevyn.codes,173,81,cassianoleal,2026-10-19T08:35:44
-50178455,37,Whatever Happened to Fire Escapes,https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes,practical.engineering,181,140,sohkamyung,2026-10-21T10:14:43
-50155099,38,Show HN: ULDA – Client-side encryption with a simple JavaScript API,https://demo.ulda.io/,demo.ulda.io,18,3,nonsence,2026-10-19T17:16:31
-50181486,39,"What the PHP2Shell rumors got wrong, from inside the PHP security team",https://daubois.dev/blog/cve-2026-109618-php2shell-rumors/,daubois.dev,18,1,amvalex,2026-10-21T14:20:15
-50185218,40,Meta fined $25B for 'lies' over user data privacy,https://www.bbc.com/news/articles/cqdr8zxrr3dxo,bbc.com,38,1,jethronethro,2026-10-21T18:14:39
-50185640,41,gocryptfs: Encrypted overlay filesystem written in Go,https://github.com/rfjakob/gocryptfs,github.com,6,0,cl3misch,2026-10-21T18:45:42
-50186518,42,After automation: Solo founding will be the default,https://every.to/thesis-statements/julian-weisser,every.to,41,49,rmason,2026-10-21T19:44:49
-50187077,43,Israeli military conducts operation near Iran's border,https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border,axios.com,13,1,ciconia,2026-10-21T20:21:45
-50151175,44,The Lucrative World of Literary Scams,https://www.thedial.world/articles/news/ai-book-scams,thedial.world,67,13,samclemens,2026-10-19T11:43:35
-50175059,45,Good type against all odds,https://unsung.aresluna.org/good-type-against-all-odds/,unsung.aresluna.org,194,20,firloop,2026-10-21T01:45:07
-50186842,46,CDC Ignored Request from States to Validate a New Measles Test,https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html,nytimes.com,27,0,gumby,2026-10-21T20:04:57
-50163277,47,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2298,881,ggcr,2026-10-20T09:08:54
-50184635,48,Hertzon: Open-Source 3D Full-Wave FEM Solver,https://github.com/c8501024/Hertzon,github.com,6,3,sasvari,2026-10-21T17:32:40
-50175185,49,"In Hilbert space, all things are quantumly possible",https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/,quantamagazine.org,140,72,unprovable,2026-10-21T02:04:15
-50183253,50,"AI agent fixed the bug, but what else did it change?",https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/,blog.trailofbits.com,42,5,tob_scott_a,2026-10-21T16:03:32
-50185045,51,The compiler was supposed to end programming too,https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/,hrih.si,88,124,theanonymousone,2026-10-21T18:00:51
-50185902,52,Texas Continued Data Center Permitting After the Governor's Pause,https://fractracker.org/2026/10/texas-data-center-permits-after-governor-halt/,fractracker.org,5,0,DeepLogin,2026-10-21T19:03:23
-50185083,53,Presented by Stripe,https://stratechery.com/2026/presented-by-stripe/,stratechery.com,13,5,tangled,2026-10-21T18:04:02
-50175070,54,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,joshwcomeau.com,582,257,soheilpro,2026-10-21T01:47:28
-50147799,55,ZX Spectrum Next Laptop,https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2,dorchester3d.com,121,25,utopcell,2026-10-19T02:48:11
-50180836,56,PHP2Shell: AI uncovers critical RCE in PHP,https://www.wiz.io/blog/php2shell-php-rce,wiz.io,422,167,danlark1,2026-10-21T13:43:19
-50172660,57,The phenomena that brighten dawn and dusk (2016),https://www.colorado.edu/asmagazine-archive/node/2039,colorado.edu,10,1,NaOH,2026-10-20T21:05:16
-50174687,58,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,arstechnica.com,378,159,gumby,2026-10-21T00:45:59
-50175779,59,Using Claude to reduce the attack surface of code,https://www.anthropic.com/research/attack-surface-reduction,anthropic.com,127,84,dnw,2026-10-21T03:36:43
-50170593,60,"Show HN: SimCity, but with Permits",https://permit.petercai.com/,permit.petercai.com,903,408,pcai,2026-10-20T18:29:09
+50190455,1,The recently proposed o(n log n) integer multiplication algorithm [pdf],https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,web.maths.unsw.edu.au,68,30,craigcitro,2026-10-22T02:30:52
+50188948,2,There isn't an easy exploit for this PHP vulnerability,https://eliastaylor.com/noexploit/,eliastaylor.com,306,147,zkldi,2026-10-21T23:13:27
+50186010,3,Rust Style Guide,https://google.github.io/styleguide/rustguide.html,google.github.io,256,138,kaycebasques,2026-10-21T19:11:57
+50185869,4,GitLab critical patch release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,docs.gitlab.com,285,70,artooro,2026-10-21T19:01:12
+50188228,5,Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,blog.railway.com,378,222,passenger,2026-10-21T21:58:03
+50181114,6,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,safedep.io,466,158,abhisek,2026-10-21T14:00:26
+50190959,7,I can't believe PowerShell is good,https://www.spacebar.news/powershell-is-actually-good/,spacebar.news,16,5,corbindavenport,2026-10-22T03:47:37
+50176082,8,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,rumple.github.io,33,25,jimauthors,2026-10-21T04:27:51
+50189232,9,mitmproxy adds --emudhra option,https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b,github.com,351,94,ahlCVA,2026-10-21T23:51:37
+50161346,10,No more icons in every menu by default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,blog.jim-nielsen.com,230,157,riffraff,2026-10-20T04:27:08
+50154100,11,Chain of Thought for Humans,https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/,boristhebrave.com,60,27,ibobev,2026-10-19T16:06:22
+50166590,12,Beyond the &,https://lwn.net/Articles/1096028/,lwn.net,35,0,PaulHoule,2026-10-20T13:59:11
+50184820,13,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,cnbc.com,453,284,cbg0,2026-10-21T17:45:13
+50190334,14,LLM agents play Pokemon showdown,https://olivergrabner.com/research/pokemon/,olivergrabner.com,21,11,grabnero,2026-10-22T02:13:48
+50183892,15,Show HN: Omnara – Open-source alternative to Claude Managed Agents,https://github.com/omnara-ai/omnara,github.com,47,13,kmansm27,2026-10-21T16:44:53
+50173716,16,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,fulcrumsec.vg,274,37,swyx,2026-10-20T22:45:39
+50162044,17,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,bbc.com,176,34,bryanrasmussen,2026-10-20T06:20:54
+50153531,18,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,albertodenia.com,133,68,albertodenia,2026-10-19T15:19:45
+50182987,19,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,thephp.foundation,702,346,ejohnso49,2026-10-21T15:48:56
+50180079,20,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,openai.com,263,110,armcat,2026-10-21T12:53:11
+50160988,21,"Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",https://www.jhiblog.org/2026/10/19/clockwork-metaphors/,jhiblog.org,5,0,benbreen,2026-10-20T03:25:47
+50181136,22,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,duckdb.org,386,49,nnx,2026-10-21T14:01:22
+50188614,23,Postgres recovery_prefetch can cause outages,https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/,ardentperf.com,12,0,plaur782,2026-10-21T22:33:08
+50181175,24,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,openai.com,245,165,nr378,2026-10-21T14:03:43
+50159726,25,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,windowslatest.com,161,102,khalidkhair,2026-10-20T00:14:03
+50182526,26,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,apnews.com,180,90,surprisetalk,2026-10-21T15:20:04
+50184586,27,EA is shutting down BioWare,https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware,theverge.com,581,350,aaronbrethorst,2026-10-21T17:29:33
+50176908,28,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,alterauth.com,57,25,simfinii,2026-10-21T06:42:12
+50180873,29,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,github.com,989,534,tuyuri,2026-10-21T13:45:33
+50177916,30,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,scotthelme.co.uk,862,411,hkc,2026-10-21T09:08:08
+50180752,31,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,openai.com,138,86,raahelb,2026-10-21T13:37:00
+50183512,32,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs,oist.jp,106,44,giuliomagnifico,2026-10-21T16:20:37
+50180799,33,I reverse engineered a board game,https://wuemeli.com/blog/reversing-hitster-game/,wuemeli.com,12,1,wuemeli,2026-10-21T13:40:31
+50190357,34,"Claude Now Works with Google Docs, Sheets, and Slides",https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides,claude.com,5,0,gmays,2026-10-22T02:17:58
+50186037,35,Claude Duet,https://claude.com/product/claude-duet,claude.com,339,306,kuberwastaken,2026-10-21T19:14:01
+50190168,36,Epic Games Inc v Apple Inc,https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552,judgments.fedcourt.gov.au,127,87,Mayzie,2026-10-22T01:52:03
+50181326,37,Cloudflare deploys protections against php2shell vulnerability,https://blog.cloudflare.com/php-vulnerabilities-waf-protection/,blog.cloudflare.com,102,15,Maxious,2026-10-21T14:11:14
+50189278,38,When Do We Become the Person We Ought to Be?,https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought,graphsaboutreligion.com,24,25,toomuchtodo,2026-10-21T23:57:41
+50179455,39,"9 Mothers (YC P26) Is Hiring in Austin, TX",https://9mothers.com/careers,9mothers.com,0,0,,2026-10-21T12:00:24
+50158408,40,Drupal is now light-years ahead of its reputation,https://dri.es/state-of-drupal-presentation-september-2026,dri.es,115,119,scottfalconer,2026-10-19T21:38:02
+50150214,41,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,pagetable.com,212,90,frizlab,2026-10-19T09:21:34
+50187708,42,PHP web runtimes (CVE-2026-109618 and CVE-2026-109619),https://aws.amazon.com/security/security-bulletins/2026-143-aws/,aws.amazon.com,113,26,hayd,2026-10-21T21:12:59
+50186455,43,Claude Duet,https://claude.com/resources/articles/claude-duet,claude.com,66,7,zaevlad,2026-10-21T19:40:18
+50183344,44,The bridge to agent-scale Git infrastructure,https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/,github.blog,59,15,Klaster_1,2026-10-21T16:09:28
+50185630,45,Canary Tokens,https://canarytokens.org/,canarytokens.org,137,22,wiradikusuma,2026-10-21T18:45:04
+50188612,46,Qpack amplification attacks against HTTP/3 servers,https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers,foxio.io,21,3,kozika,2026-10-21T22:32:45
+50183280,47,Your MCU likely escaped the eMudhra intermediate CA compromise,https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/,danielmangum.com,57,24,hasheddan,2026-10-21T16:05:05
+50152847,48,The Rise and Fall of the Plasma Screen,https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen,construction-physics.com,43,25,surprisetalk,2026-10-19T14:20:04
+50189801,49,Tesla profits drop 43% in Q3,https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/,arstechnica.com,43,8,throw0101a,2026-10-22T01:02:23
+50187659,50,CleanFrame: A quieter home screen for Samsung The Frame,https://github.com/nthnclrk/CleanFrame,github.com,20,4,ingve,2026-10-21T21:08:59
+50168142,51,"Show HN: AI-built browser games, collected in one place",https://playgroundarcade.com/,playgroundarcade.com,21,1,richleigh,2026-10-20T15:45:56
+50189175,52,Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed,https://bloffy.co/en,bloffy.co,16,14,textlanes33,2026-10-21T23:41:35
+50185902,53,Texas Continued Data Center Permitting After the Governor's Pause,https://fractracker.org/2026/10/texas-data-center-permits-after-governor-halt/,fractracker.org,27,2,DeepLogin,2026-10-21T19:03:23
+50155751,54,C++ futures part 1: The mental model,https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/,devblogs.microsoft.com,65,15,ibobev,2026-10-19T18:05:53
+50163277,55,DeepInfer: High-performance inference framework for DeepSeek models,https://github.com/deepseek-ai/DeepInfer,github.com,2306,885,ggcr,2026-10-20T09:08:54
+50189150,56,Airbnb bans making guests do dishes and take out the trash,https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update,theverge.com,150,137,babelfish,2026-10-21T23:38:32
+50190994,57,Learn Calculus by Coding in Python – Ed Pratowski (2025),https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/,freecodecamp.org,5,0,the-mitr,2026-10-22T03:54:35
+50185814,58,Potential third critical PHP CVE,https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027,elk.zone,64,16,mpaepper,2026-10-21T18:57:52
+50180039,59,Show HN: Sumi.css – CSS Framework,https://github.com/vladocar/Sumi.css,github.com,81,20,bepero,2026-10-21T12:50:33
+50166706,60,A Place Among the Fiddlers,https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/,longreads.com,26,2,gmays,2026-10-20T14:08:33
