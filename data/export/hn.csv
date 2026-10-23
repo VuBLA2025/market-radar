@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50195959,1,Quad9 (DNS Resolver) to Exit France,https://quad9.net/news/blog/au-revoir-france/,quad9.net,795,297,farrokhi,2026-10-22T14:32:38
-50198675,2,"OpenShell – A safe, private runtime for fleets of autonomous AI agents",https://github.com/NVIDIA/OpenShell,github.com,209,108,niemandhier,2026-10-22T17:44:06
-50197404,3,Getting ready to operate GNU Taler in Germany,https://www.taler.net/en/news/2026-13.html,taler.net,169,57,dewey,2026-10-22T16:14:31
-50196718,4,Show HN: Run full iOS 16.5 firmware on Android Devices,https://github.com/oosexgang/hackios-xnu-kernel,github.com,260,89,aghuang,2026-10-22T15:26:22
-50194833,5,Woman faces six years in prison over Cash App account she never opened,https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html,techspot.com,318,300,oidar,2026-10-22T13:11:00
-50199230,6,AI and the Enclosure of the Scientific Commons,https://arxiv.org/abs/2610.27251,arxiv.org,69,31,jrepinc,2026-10-22T18:28:16
-50199290,7,Show HN: UI micro interactions prompts for AI,https://www.typeui.sh/micro-interactions,typeui.sh,55,24,elwingo1,2026-10-22T18:32:57
-50199389,8,Hedra is a 3D open world game I wrote from scratch while in highschool,https://github.com/maxilevi/project-hedra/tree/pre-ai,github.com,71,16,maxilevi,2026-10-22T18:44:36
-50197313,9,"Every AI model has the same ""controversial"" take on humans",https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans,modelcompare.ai,97,133,rakannimer,2026-10-22T16:08:00
-50150163,10,What Is Gridifcation,https://musicalform.substack.com/p/what-is-gridifcation,musicalform.substack.com,363,179,gumby,2026-10-19T09:13:12
-50195110,11,eMudhra to exit global SSL/TLS certificate business,https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business,emudhra.com,851,587,bo0tzz,2026-10-22T13:33:39
-50192536,12,Jailbreaking the Switch 2,https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/,pepsipu.com,641,229,ledoge,2026-10-22T08:01:52
-50193416,13,Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.,https://news.ycombinator.com/item?id=50193416,news.ycombinator.com (Ask/Show HN),238,87,petecooper,2026-10-22T10:11:44
-50197601,14,A farewell to Arc browser,https://arc.net/,arc.net,194,168,suhdonghwi,2026-10-22T16:27:47
-50167267,15,Solving the 1950 cipher meant to test life after death,https://creilly11235.github.io/wood-cryptogram-1950/,creilly11235.github.io,6,1,creilly11235,2026-10-20T14:48:34
-50194009,16,Xbox wants you to pay 24 to 40 cents per hour to stream games you bought,https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/,arstechnica.com,126,156,entryleveljobsc,2026-10-22T11:42:03
-50172984,17,Show HN: Turn regular JavaScript into a neural net,https://chenglou.me/handwired/,chenglou.me,23,8,chenglou,2026-10-20T21:32:23
-50172660,18,The phenomena that brighten dawn and dusk (2016),https://www.colorado.edu/asmagazine-archive/node/2039,colorado.edu,15,1,NaOH,2026-10-20T21:05:16
-50195543,19,What’s getting pwned right now,https://pwn.watch/,pwn.watch,305,143,mrkd,2026-10-22T14:08:12
-50198940,20,AI analysis of CT scans finds 42.9% of patients have coronary inflammation,https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients,biograph.com,59,32,brandonb,2026-10-22T18:02:54
-50193170,21,Faster than earcut: triangulating 3.7M map polygons in 489 ms,https://globus.software/blog/2026/10/16/cutting-map-polygons/,globus.software,187,36,molind,2026-10-22T09:31:18
-50199232,22,Award-winning AI literature,https://jamesyu.org/award-winning-ai-literature/,jamesyu.org,45,47,jamesjyu,2026-10-22T18:28:26
-50154109,23,Dungeon Generation in the Gnomish Mines of NetHack,https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/,boristhebrave.com,97,11,ibobev,2026-10-19T16:06:40
-50180257,24,Show HN: Uberblok – an interactive museum of ZFS internals,https://uberblok.storagebits.workers.dev/,uberblok.storagebits.workers.dev,59,19,storagebits,2026-10-21T13:04:25
-50197450,25,Mini brain organoids ‘reading’ Braille key step towards biohybrid computing,https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence,frontiersin.org,27,21,CharlesW,2026-10-22T16:16:45
-50198936,26,Show HN: agent-usage-guard – a Claude Code mod to protect your usage window,https://github.com/rbartoli/agent-usage-guard,github.com,17,7,zzyyxx332211,2026-10-22T18:02:38
-50199757,27,A complete bypass of eMudhra’s 1FA OTP login system,https://mastodon.catgirl.cloud/@49016/117475976434068995,mastodon.catgirl.cloud,123,36,tensegrist,2026-10-22T19:14:01
-50194522,28,The Last Museum: Semantic search across 5.8M artworks from major museums,https://lastmuseum.com/,lastmuseum.com,91,27,surprisetalk,2026-10-22T12:40:04
-50157456,29,Startup taps underwater volcano as energy source in “proof point” test,https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,arstechnica.com,117,47,wffurr,2026-10-19T20:12:49
-50200997,30,"Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",https://news.ycombinator.com/item?id=50200997,news.ycombinator.com (Ask/Show HN),17,5,ex-aws-dude,2026-10-22T21:03:55
-50200997,31,"Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",https://news.ycombinator.com/item?id=50200997,news.ycombinator.com (Ask/Show HN),18,5,ex-aws-dude,2026-10-22T21:03:55
-50195873,32,MPs moving to restrict gambling ads in Canada,https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888,cbc.ca,213,109,Teever,2026-10-22T14:26:40
-50199349,33,"Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",https://3d.camilleworld.com/play/,3d.camilleworld.com,11,2,suejunghuh0,2026-10-22T18:39:39
-50188228,34,Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,blog.railway.com,580,330,passenger,2026-10-21T21:58:03
-50190455,35,The recently proposed o(n log n) integer multiplication algorithm [pdf],https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,web.maths.unsw.edu.au,298,273,craigcitro,2026-10-22T02:30:52
-50144727,36,VMMouse for NT 3.x: QEMU/VMware mouse integration driver,https://github.com/rhargreaves/vmmouse-nt3,github.com,45,9,kiyouta,2026-10-18T19:50:11
-50186037,37,Claude Duet,https://claude.com/product/claude-duet,claude.com,544,507,kuberwastaken,2026-10-21T19:14:01
-50161346,38,No more icons in every menu by default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,blog.jim-nielsen.com,464,266,riffraff,2026-10-20T04:27:08
-50200592,39,Portal Texas Used to 'Rubber Stamp' Data Centers Down After 404 Media Reporting,https://www.404media.co/texas-commission-on-environmental-quality-portal-down/,404media.co,8,1,cdrnsf,2026-10-22T20:29:40
-50154147,40,Pentulive (Puppy Live) [video],https://yle.fi/t/18-332106/fi,yle.fi,65,9,NaOH,2026-10-19T16:09:10
-50194938,41,Crystal 1.22,https://crystal-lang.org/2026/10/12/1.22.0-released/,crystal-lang.org,165,83,ksec,2026-10-22T13:20:13
-50198931,42,Introducing Amutable Foundations,https://amutable.com/blog/introducing-amutable-foundations,amutable.com,12,0,ahlCVA,2026-10-22T18:02:09
-50176082,43,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,rumple.github.io,196,98,jimauthors,2026-10-21T04:27:51
-50185869,44,GitLab critical patch release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,docs.gitlab.com,401,91,artooro,2026-10-21T19:01:12
-50157316,45,Eigenmoon: linear algebra puzzles by moonlight,https://eigenmoon.vercel.app/,eigenmoon.vercel.app,63,16,jessicarumbelow,2026-10-19T20:02:03
-50186010,46,Rust Style Guide,https://google.github.io/styleguide/rustguide.html,google.github.io,373,244,kaycebasques,2026-10-21T19:11:57
-50156779,47,Show HN: Dovepass – can I legally fly a drone along this exact path in SF?,https://dovepass.com,dovepass.com,28,8,nimitmehra,2026-10-19T19:21:56
-50194070,48,Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure,https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/,aws.amazon.com,246,88,cubefox,2026-10-22T11:50:36
-50200843,49,"Most Americans Say AI Is Bad for Society, Oppose More Data Centers",https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085,abcnews.com,9,1,karakoram,2026-10-22T20:51:23
-50198995,50,Iceye and Nokia partner with Ukraine to develop satcom capability,https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability,iceye.com,27,0,cl-coder,2026-10-22T18:09:10
-50193804,51,Several Linux kernel vulnerabilities accidentally posted to public mailing list,https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities,phoronix.com,237,84,mrkn1,2026-10-22T11:12:37
-50162044,52,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,bbc.com,264,61,bryanrasmussen,2026-10-20T06:20:54
-50164611,53,Templates for Woven Christmas Hearts,https://juleflet.dk/en/,juleflet.dk,11,1,soegaard,2026-10-20T11:24:10
-50184820,54,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,cnbc.com,668,409,cbg0,2026-10-21T17:45:13
-50173944,55,The painter behind Manhattan’s Gilded Age interiors,https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/,engelsbergideas.com,48,6,hoffmannesque,2026-10-20T23:09:43
-50153531,56,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,albertodenia.com,247,167,albertodenia,2026-10-19T15:19:45
-50155616,57,A robot I didn't expect to build,https://spectrum.ieee.org/agility-robotics-digit-5-redesign,spectrum.ieee.org,65,52,bojackh,2026-10-19T17:57:18
-50191507,58,OpenAI CLI,https://github.com/openai/openai-cli,github.com,225,109,armcat,2026-10-22T05:23:11
-50160241,59,What Is the Karakoram Anomaly?,https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real,nsidc.org,78,24,thunderbong,2026-10-20T01:26:53
-50181136,60,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,duckdb.org,452,62,nnx,2026-10-21T14:01:22
+50202681,1,Docker is weird,https://codeandcake.dev/posts/2026-10-22-docker-is-weird,codeandcake.dev,259,133,psxuaw,2026-10-22T23:45:56
+50202217,2,LLMs are making formal software verification feasible at a much larger scale,https://www.anthropic.com/research/formal-verification,anthropic.com,217,120,johnbender,2026-10-22T22:54:43
+50195959,3,Quad9 (DNS Resolver) to Exit France,https://quad9.net/news/blog/au-revoir-france/,quad9.net,1073,383,farrokhi,2026-10-22T14:32:38
+50173516,4,Mortality Among People with Attention-Deficit/Hyperactivity Disorder,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472,jamanetwork.com,59,29,gumby,2026-10-20T22:24:23
+50162431,5,The Secret Life of Circuits is now in stock everywhere,https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now,blog.coredump.cx,65,14,surprisetalk,2026-10-20T07:15:12
+50194833,6,Woman charged with computer fraud due to scam CashApp account being in her name,https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/,404media.co,596,592,oidar,2026-10-22T13:11:00
+50204125,7,"Median product ""lifespan"" has fallen from ~4y down to ~1.5y",https://news.ycombinator.com/item?id=50204125,news.ycombinator.com (Ask/Show HN),13,3,stanislavb,2026-10-23T03:20:38
+50198675,8,"OpenShell – A safe, private runtime for fleets of autonomous AI agents",https://github.com/NVIDIA/OpenShell,github.com,342,181,niemandhier,2026-10-22T17:44:06
+50197313,9,"Every AI model has the same ""controversial"" take on humans",https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans,modelcompare.ai,303,348,rakannimer,2026-10-22T16:08:00
+50202762,10,Jank – The native Clojure dialect with seamless C++ interop,https://jank-lang.org/,jank-lang.org,47,2,giancarlostoro,2026-10-22T23:56:36
+50196718,11,Run full iOS 16.5 firmware on Android Devices,https://github.com/oosexgang/hackios-xnu-kernel,github.com,361,133,aghuang,2026-10-22T15:26:22
+50197404,12,Getting ready to operate GNU Taler in Germany,https://www.taler.net/en/news/2026-13.html,taler.net,244,98,dewey,2026-10-22T16:14:31
+50202671,13,AI compute is the new oil–and needs a new market,https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market,economist.com,38,34,ijidak,2026-10-22T23:45:16
+50150163,14,What Is Gridifcation,https://musicalform.substack.com/p/what-is-gridifcation,musicalform.substack.com,430,207,gumby,2026-10-19T09:13:12
+50166272,15,Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It,https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep,idiallo.com,17,9,surprisetalk,2026-10-20T13:40:04
+50193416,16,Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.,https://news.ycombinator.com/item?id=50193416,news.ycombinator.com (Ask/Show HN),452,187,petecooper,2026-10-22T10:11:44
+50199389,17,Hedra is a 3D open world game I wrote from scratch while in highschool,https://github.com/maxilevi/project-hedra/tree/pre-ai,github.com,166,31,maxilevi,2026-10-22T18:44:36
+50195110,18,eMudhra to exit global SSL/TLS certificate business,https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business,emudhra.com,986,659,bo0tzz,2026-10-22T13:33:39
+50194009,19,Xbox wants you to pay 24 to 40 cents per hour to stream games you bought,https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/,arstechnica.com,256,229,entryleveljobsc,2026-10-22T11:42:03
+50203161,20,"The foolishness of ""natural language programming"" (1978)",https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html,cs.utexas.edu,74,58,xiaoyu2006,2026-10-23T00:52:01
+50203759,21,This I Believe,https://www.awakin.org/v2/read/view.php?tid=468,awakin.org,14,1,ctoth,2026-10-23T02:19:38
+50202766,22,Mapping the Northern Sky,https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/,maps.com,26,10,tmseidman,2026-10-22T23:56:39
+50201414,23,Railpass,https://train.samismith.com/,train.samismith.com,72,23,CharlesW,2026-10-22T21:38:32
+50199230,24,AI and the Enclosure of the Scientific Commons,https://arxiv.org/abs/2610.27251,arxiv.org,126,74,jrepinc,2026-10-22T18:28:16
+50180257,25,Show HN: Uberblok – an interactive museum of ZFS internals,https://uberblok.storagebits.workers.dev/,uberblok.storagebits.workers.dev,98,23,storagebits,2026-10-21T13:04:25
+50154109,26,Dungeon Generation in the Gnomish Mines of NetHack,https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/,boristhebrave.com,135,17,ibobev,2026-10-19T16:06:40
+50193170,27,Faster than earcut: triangulating 3.7M map polygons in 489 ms,https://globus.software/blog/2026/10/16/cutting-map-polygons/,globus.software,210,39,molind,2026-10-22T09:31:18
+50166604,28,How to Design Flowers,https://www.asimov.press/p/flowers,asimov.press,24,2,surprisetalk,2026-10-20T14:00:07
+50150681,29,Speeding up code review with `small-change`,https://lethain.com/small-changes/,lethain.com,35,20,alexmolas,2026-10-19T10:35:14
+50192536,30,Jailbreaking the Switch 2,https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/,pepsipu.com,757,265,ledoge,2026-10-22T08:01:52
+50157456,31,Startup taps underwater volcano as energy source in “proof point” test,https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,arstechnica.com,132,56,wffurr,2026-10-19T20:12:49
+50197601,32,A farewell to Arc browser,https://arc.net/,arc.net,254,220,suhdonghwi,2026-10-22T16:27:47
+50190363,33,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,simedw.com,514,159,alphax314,2026-10-22T02:18:41
+50195543,34,What’s getting pwned right now,https://pwn.watch/,pwn.watch,356,164,mrkd,2026-10-22T14:08:12
+50194522,35,The Last Museum: Semantic search across 5.8M artworks from major museums,https://lastmuseum.com/,lastmuseum.com,114,30,surprisetalk,2026-10-22T12:40:04
+50172660,36,The phenomena that brighten dawn and dusk (2016),https://www.colorado.edu/asmagazine-archive/node/2039,colorado.edu,30,2,NaOH,2026-10-20T21:05:16
+50168850,37,Color Names,https://names.color.pizza,names.color.pizza,28,3,akkartik,2026-10-20T16:27:56
+50195873,38,MPs moving to restrict gambling ads in Canada,https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888,cbc.ca,242,123,Teever,2026-10-22T14:26:40
+50144727,39,VMMouse for NT 3.x: QEMU/VMware mouse integration driver,https://github.com/rhargreaves/vmmouse-nt3,github.com,51,9,kiyouta,2026-10-18T19:50:11
+50176082,40,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,rumple.github.io,203,100,jimauthors,2026-10-21T04:27:51
+50172984,41,Show HN: Turn regular JavaScript into a neural net,https://chenglou.me/handwired/,chenglou.me,38,11,chenglou,2026-10-20T21:32:23
+50198940,42,AI analysis of CT scans finds 42.9% of patients have coronary inflammation,https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients,biograph.com,81,41,brandonb,2026-10-22T18:02:54
+50204438,43,We're addicted to social media. How do we get sober?,https://www.scientificamerican.com/article/were-addicted-to-social-media-how-do-we-get-sober/,scientificamerican.com,6,5,jestinjoy1,2026-10-23T04:13:46
+50202912,44,Never-Before-Seen Images Reveal Damage at U.S. Bases in Middle East,https://meidasnews.com/news/so-much-worse-than-people-realize-never-before-seen-images-reveal-damage-at-u-s-bases-as-troops-describe-being-abandoned,meidasnews.com,33,1,slowin,2026-10-23T00:16:10
+50198936,45,Show HN: agent-usage-guard – a Claude Code mod to protect your usage window,https://github.com/rbartoli/agent-usage-guard,github.com,22,9,zzyyxx332211,2026-10-22T18:02:38
+50199232,46,Award-winning AI literature,https://jamesyu.org/award-winning-ai-literature/,jamesyu.org,59,66,jamesjyu,2026-10-22T18:28:26
+50202609,47,UN says breaching 1.5C warming limit is 'imminent and unavoidable',https://www.cnn.com/2026/10/21/climate/cop31-un-climate-report-emissions-gap,cnn.com,31,21,dabinat,2026-10-22T23:37:50
+50157316,48,Eigenmoon: linear algebra puzzles by moonlight,https://eigenmoon.vercel.app/,eigenmoon.vercel.app,66,16,jessicarumbelow,2026-10-19T20:02:03
+50153531,49,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,albertodenia.com,248,172,albertodenia,2026-10-19T15:19:45
+50154147,50,Pentulive (Puppy Live) [video],https://yle.fi/t/18-332106/fi,yle.fi,67,9,NaOH,2026-10-19T16:09:10
+50200843,51,"Most Americans Say AI Is Bad for Society, Oppose More Data Centers",https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085,abcnews.com,69,45,karakoram,2026-10-22T20:51:23
+50203248,52,Home Prices Are Starting to Fall in Some Pockets of the U.S.,https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html,nytimes.com,15,2,lxm,2026-10-23T01:06:05
+50194938,53,Crystal 1.22,https://crystal-lang.org/2026/10/12/1.22.0-released/,crystal-lang.org,173,88,ksec,2026-10-22T13:20:13
+50199290,54,Show HN: UI micro interactions prompts for AI,https://www.typeui.sh/micro-interactions,typeui.sh,74,42,elwingo1,2026-10-22T18:32:57
+50194070,55,Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure,https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/,aws.amazon.com,262,96,cubefox,2026-10-22T11:50:36
+50199757,56,A complete bypass of eMudhra’s 1FA OTP login system,https://mastodon.catgirl.cloud/@49016/117475976434068995,mastodon.catgirl.cloud,169,51,tensegrist,2026-10-22T19:14:01
+50188228,57,Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,blog.railway.com,590,334,passenger,2026-10-21T21:58:03
+50201860,58,"Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",https://github.com/Coverage-Cat/consumer-agent-testing-tool,github.com,7,1,botacode,2026-10-22T22:18:40
+50194762,59,Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress,https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/,wordpress.org,10,7,MatthiasNordwig,2026-10-22T13:03:14
+50193804,60,Several Linux kernel vulnerabilities accidentally posted to public mailing list,https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities,phoronix.com,243,87,mrkn1,2026-10-22T11:12:37
