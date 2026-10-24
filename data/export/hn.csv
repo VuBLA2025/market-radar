@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50219666,1,I Don't Understand Quantum Physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,southampton.ac.uk,74,33,rramadass,2026-10-24T09:53:26
-50218430,2,OBS Studio 33,https://github.com/obsproject/obs-studio/releases/tag/33.0.0,github.com,176,54,pentagrama,2026-10-24T04:49:58
-50212065,3,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,kimi.ai,928,551,Jowsey,2026-10-23T16:59:08
-50186450,4,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,scientificamerican.com,67,25,mooreds,2026-10-21T19:40:01
-50211474,5,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,blog.calif.io,903,589,pavel_lishin,2026-10-23T16:21:50
-50217500,6,Twelve years of distributed SQLite,https://philipotoole.com/twelve-years-of-distributed-sqlite/,philipotoole.com,218,32,otoolep,2026-10-24T01:16:58
-50218195,7,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,rtfeldman.com,136,20,stmonty,2026-10-24T03:43:54
-50217495,8,Around a dozen banking apps began specifically permitting GrapheneOS,https://grapheneos.social/@GrapheneOS/117492375462459244,grapheneos.social,132,22,privacyishuman,2026-10-24T01:15:14
-50207910,9,Apple Music 404 Not Found,https://music.apple.com/this-url-doesnt-exist,music.apple.com,782,237,frizlab,2026-10-23T12:28:47
-50194536,10,How to run a city builder on 16 MHz,https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/,larstofus.com,24,7,rex64,2026-10-22T12:40:56
-50202285,11,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1394,236,sohkamyung,2026-10-22T23:01:18
-50171379,12,"A practical guide to AI image generation, from diffusion to agents",https://danielball.com/notes/ai_image_generation.html,danielball.com,106,30,westsmith,2026-10-20T19:22:39
-50172962,13,Bringing uv and ty together,https://astral.sh/blog/uv-ty-integration,astral.sh,166,42,Ravencentric,2026-10-20T21:30:56
-50213925,14,Dessa: Conversation Model trained only on speech,https://block.xyz/dessa,block.xyz,396,145,dsr12,2026-10-23T19:09:54
-50217903,15,Apple Security Research Device,https://security.apple.com/research-device/,security.apple.com,75,26,neom,2026-10-24T02:36:38
-50218633,16,"Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/,reddit.com,185,44,testing22321,2026-10-24T05:49:57
-50202114,17,Canadians are running out of time to oppose Bill C-22,https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill,eff.org,419,224,hn_acker,2026-10-22T22:43:19
-50215530,18,CVE Tracker,https://cve.0xosprey.com/,cve.0xosprey.com,172,67,Group_B,2026-10-23T21:21:47
-50169499,19,The Real Kevin Bacon,https://pudding.cool/2026/10/kevin-bacon/,pudding.cool,317,79,xnx,2026-10-20T17:10:05
-50175732,20,"The Best Monopoly Strategy, Tested on 300M Games [video]",https://www.youtube.com/watch?v=S_2eVAaw1UM,youtube.com,28,24,zdw,2026-10-21T03:30:11
-50219177,21,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497,aikido.dev,15,3,theanonymousone,2026-10-24T08:06:39
-50191250,22,The Chalk and the Airplane,https://unintendedconsequenc.es/chalk-and-the-airplane/,unintendedconsequenc.es,3,0,paulorlando,2026-10-22T04:41:58
-50176544,23,C vs. C#: racing VLC's Gaussian blur,https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/,martinfinkel.com,85,23,martz,2026-10-21T05:48:12
-50217946,24,How Block Blast harvests its players for ad money,https://ayoships.com/breakdowns/block-blast,ayoships.com,56,23,motionlessveloc,2026-10-24T02:43:43
-50193677,25,The Quake Fan who built the map editor everybody uses,https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses,funcarena.com,123,14,klaussilveira,2026-10-22T10:55:22
-50212507,26,Air Purifiers as White Noise Machines,https://www.jefftk.com/p/air-purifiers-as-white-noise-machines,jefftk.com,137,124,luu,2026-10-23T17:28:36
-50215828,27,One Man's Pan Am 747 Replica [video],https://www.youtube.com/watch?v=vAFwHGGfPz4,youtube.com,38,2,Teever,2026-10-23T21:46:51
-50214373,28,"Show HN: Corgi, a helpful {agent, terminal} multiplexer",https://corgi.computer/,corgi.computer,89,24,eiopa,2026-10-23T19:46:38
-50220145,29,Node.js Vulnerability Blog,https://nodejs.org/en/blog/vulnerability,nodejs.org,3,0,Brysonbw,2026-10-24T11:08:47
-50168075,30,Rise of collagen-eating microbes may help explain gaps in the fossil record,https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record,cam.ac.uk,52,4,gmays,2026-10-20T15:41:28
-50211746,31,UUIDv7: Timestamps aren’t time-ordered and other oddities,https://alexsci.com/blog/uuidv7-is-weird/,alexsci.com,150,121,ibobev,2026-10-23T16:39:45
-50211719,32,How is music possible,https://www.henrikkarlsson.xyz/p/music,henrikkarlsson.xyz,136,89,rafaelc,2026-10-23T16:38:17
-50182510,33,"The past, present, and future share a show floor at Pinball Expo 2026",https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/,arstechnica.com,33,7,civicpivot,2026-10-21T15:19:28
-50207115,34,Is this the new cyber normal?,https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/,drew.silcock.dev,175,206,drewsberry,2026-10-23T11:04:53
-50185715,35,A Cocktail Party in the Street: An Interview with Alan Stillman (2010),https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/,ediblegeography.com,7,1,NaOH,2026-10-21T18:49:51
-50190363,36,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,simedw.com,626,186,alphax314,2026-10-22T02:18:41
-50177554,37,A Bicycle Journey Across Brazil to Find a Vanishing Savanna,https://e360.yale.edu/features/2026-film-contest-second-place-cerrado,e360.yale.edu,48,10,throwaway2037,2026-10-21T08:17:35
-50216791,38,"Evolving Threat: http2shell is an RCE in Node, Python, and more",https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8,nitter.click,168,88,cowlevel,2026-10-23T23:30:17
-50212124,39,Animations for System Builders,https://brooker.co.za/blog/2026/10/23/animations.html,brooker.co.za,59,3,KraftyOne,2026-10-23T17:02:24
-50217683,40,Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques,https://www.sciencedaily.com/releases/2026/10/261018084421.htm,sciencedaily.com,106,23,amichail,2026-10-24T01:53:10
-50219588,41,US-Israeli browser startup valued at $6.4B,https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/,timesofisrael.com,4,2,wow_Something,2026-10-24T09:38:42
-50213791,42,DNS: A Replacement for Finger,https://altchan.org/sh/42,altchan.org,45,31,Bender,2026-10-23T19:00:04
-50214325,43,"Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",https://rune.build/blog/rune-1-3-release,rune.build,53,17,ernestrc,2026-10-23T19:42:01
-50214983,44,A whirlwind tour of systemd-nspawn containers (2025),https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/,quantum5.ca,47,9,ibobev,2026-10-23T20:37:12
-50218743,45,That AI Temptation,https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation,tbray.org,4,1,robin_reala,2026-10-24T06:18:39
-50211084,46,Reforming English Spelling,https://blog.oup.com/2026/10/reforming-english-spelling/,blog.oup.com,43,105,jruohonen,2026-10-23T15:56:06
-50202746,47,Show HN: Impossible Machines: declaratively program the physical world,https://www.impossiblemachines.xyz,impossiblemachines.xyz,76,17,bhaprayan,2026-10-22T23:54:28
-50202681,48,Docker is weird,https://codeandcake.dev/posts/2026-10-22-docker-is-weird,codeandcake.dev,844,360,psxuaw,2026-10-22T23:45:56
-50205320,49,Show HN: Swurf – Swipe through the real web,https://swurf.org/,swurf.org,72,34,webtjb096,2026-10-23T06:54:52
-50214416,50,Securing our frontier model training environment,https://openai.com/index/securing-our-frontier-model-training-environment/,openai.com,106,107,pretext,2026-10-23T19:50:56
-50201445,51,How does Fable 5.1 hide messages in images?,https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images,lesswrong.com,201,73,gmays,2026-10-22T21:41:13
-50217600,52,"Password, Please: Border Searches of Laptops, Phones Up 32% This Year",https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213,gizmodo.com,47,5,gumby,2026-10-24T01:37:28
-50218277,53,Indian government sites are serving revoked eMudhra certificates,https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/,captnemo.in,27,16,adityaathalye,2026-10-24T04:05:02
-50218141,54,CowAgent – Open-Source Super AI Assistant,https://cowagent.ai/en/,cowagent.ai,8,2,ankitg12,2026-10-24T03:32:47
-50202762,55,Jank – The native Clojure dialect with seamless C++ interop,https://jank-lang.org/,jank-lang.org,180,47,giancarlostoro,2026-10-22T23:56:36
-50214994,56,No Source Code? No Problem,https://queue.acm.org/doi/10.1145/945131.945155,queue.acm.org,51,38,ibobev,2026-10-23T20:38:06
-50199684,57,LISP Comes of Age (1980),https://microship.com/lisp-comes-of-age/,microship.com,68,18,so-cal-schemer,2026-10-22T19:08:09
-50209907,58,Gemma-4-26B-A4B with 39-69% less thinking at same accuracy,https://bottlecapai.com/post/thinkingcap-gemma-4-26b/,bottlecapai.com,116,32,armcat,2026-10-23T14:43:02
-50210935,59,Moreutils: The utilities package every Unix/Linux/Mac OS developer should know,https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/,rentes.github.io,31,6,jcbhmr,2026-10-23T15:46:55
-50203759,60,This I Believe (1952),https://www.awakin.org/v2/read/view.php?tid=468,awakin.org,151,85,ctoth,2026-10-23T02:19:38
+50222133,1,FreeDNS,https://freedns.afraid.org/,freedns.afraid.org,35,3,esher,2026-10-24T15:20:01
+50192975,2,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,https://www.infoq.com/news/2026/10/tornadovm-7-gpu/,infoq.com,48,6,pjmlp,2026-10-22T09:01:10
+50218430,3,OBS Studio 33,https://github.com/obsproject/obs-studio/releases/tag/33.0.0,github.com,334,111,pentagrama,2026-10-24T04:49:58
+50217495,4,Around a dozen banking apps began specifically permitting GrapheneOS,https://grapheneos.social/@GrapheneOS/117492375462459244,grapheneos.social,422,144,privacyishuman,2026-10-24T01:15:14
+50219177,5,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497,aikido.dev,144,70,theanonymousone,2026-10-24T08:06:39
+50212065,6,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,kimi.ai,1013,613,Jowsey,2026-10-23T16:59:08
+50186450,7,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,scientificamerican.com,174,59,mooreds,2026-10-21T19:40:01
+50219666,8,I Don't Understand Quantum Physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,southampton.ac.uk,191,134,rramadass,2026-10-24T09:53:26
+50211474,9,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,blog.calif.io,1009,633,pavel_lishin,2026-10-23T16:21:50
+50181106,10,Appreciating the beauty of all your body's scars and scratches,https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/,1000awesomethings.com,52,32,surprisetalk,2026-10-21T14:00:08
+50217500,11,Twelve years of distributed SQLite,https://philipotoole.com/twelve-years-of-distributed-sqlite/,philipotoole.com,299,45,otoolep,2026-10-24T01:16:58
+50219700,12,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,https://github.com/Zagitta/gpu-unlock,github.com,44,25,fragebogen,2026-10-24T09:58:27
+50202285,13,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1470,238,sohkamyung,2026-10-22T23:01:18
+50207910,14,Apple Music 404 Not Found,https://music.apple.com/this-url-doesnt-exist,music.apple.com,854,248,frizlab,2026-10-23T12:28:47
+50194536,15,How to run a city builder on 16 MHz,https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/,larstofus.com,62,16,rex64,2026-10-22T12:40:56
+50218195,16,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,rtfeldman.com,194,49,stmonty,2026-10-24T03:43:54
+50171379,17,"A practical guide to AI image generation, from diffusion to agents",https://danielball.com/notes/ai_image_generation.html,danielball.com,188,53,westsmith,2026-10-20T19:22:39
+50172962,18,Bringing uv and ty together,https://astral.sh/blog/uv-ty-integration,astral.sh,229,75,Ravencentric,2026-10-20T21:30:56
+50195535,19,Parsing EDIFACT in Python with syntax trees,https://github.com/AmadeusITGroup/Edison,github.com,3,1,alexprengere,2026-10-22T14:07:48
+50220042,20,Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706,https://gitlab.com/c4psu13/mali-pagecache-root,gitlab.com,24,4,t20n,2026-10-24T10:51:35
+50213925,21,Dessa: Conversation Model trained only on speech,https://block.xyz/dessa,block.xyz,441,166,dsr12,2026-10-23T19:09:54
+50202114,22,Canadians are running out of time to oppose Bill C-22,https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill,eff.org,474,245,hn_acker,2026-10-22T22:43:19
+50180251,23,Tiling Noise – Procedural GPU Patterns,https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/,catlikecoding.com,22,1,ibobev,2026-10-21T13:04:07
+50191250,24,The Chalk and the Airplane,https://unintendedconsequenc.es/chalk-and-the-airplane/,unintendedconsequenc.es,23,7,paulorlando,2026-10-22T04:41:58
+50220204,25,AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist,https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/,torrentfreak.com,72,27,TangerineDream,2026-10-24T11:18:54
+50218633,26,"Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/,reddit.com,394,138,testing22321,2026-10-24T05:49:57
+50217903,27,Apple Security Research Device,https://security.apple.com/research-device/,security.apple.com,118,59,neom,2026-10-24T02:36:38
+50169499,28,The Real Kevin Bacon,https://pudding.cool/2026/10/kevin-bacon/,pudding.cool,344,88,xnx,2026-10-20T17:10:05
+50215530,29,CVE Tracker,https://cve.0xosprey.com/,cve.0xosprey.com,201,70,Group_B,2026-10-23T21:21:47
+50176544,30,C vs. C#: racing VLC's Gaussian blur,https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/,martinfinkel.com,117,39,martz,2026-10-21T05:48:12
+50217946,31,How Block Blast harvests its players for ad money,https://ayoships.com/breakdowns/block-blast,ayoships.com,89,40,motionlessveloc,2026-10-24T02:43:43
+50193677,32,The Quake Fan who built the map editor everybody uses,https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses,funcarena.com,170,21,klaussilveira,2026-10-22T10:55:22
+50214373,33,"Show HN: Corgi, a helpful {agent, terminal} multiplexer",https://corgi.computer/,corgi.computer,115,32,eiopa,2026-10-23T19:46:38
+50212507,34,Air Purifiers as White Noise Machines,https://www.jefftk.com/p/air-purifiers-as-white-noise-machines,jefftk.com,155,146,luu,2026-10-23T17:28:36
+50220913,35,Elon Musk Just Gave Europe a Reason to Replace American Technology,https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/,steveblank.com,298,323,sblank,2026-10-24T13:09:28
+50175732,36,"The Best Monopoly Strategy, Tested on 300M Games [video]",https://www.youtube.com/watch?v=S_2eVAaw1UM,youtube.com,45,39,zdw,2026-10-21T03:30:11
+50211746,37,UUIDv7: Timestamps aren’t time-ordered and other oddities,https://alexsci.com/blog/uuidv7-is-weird/,alexsci.com,163,133,ibobev,2026-10-23T16:39:45
+50215828,38,One Man's Pan Am 747 Replica [video],https://www.youtube.com/watch?v=vAFwHGGfPz4,youtube.com,51,5,Teever,2026-10-23T21:46:51
+50168075,39,Rise of collagen-eating microbes may help explain gaps in the fossil record,https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record,cam.ac.uk,66,10,gmays,2026-10-20T15:41:28
+50211719,40,How is music possible,https://www.henrikkarlsson.xyz/p/music,henrikkarlsson.xyz,150,95,rafaelc,2026-10-23T16:38:17
+50221218,41,Will a macaque eat a grape sitting on a pile of poo? A study on germophobia,https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak,npr.org,10,1,pseudolus,2026-10-24T13:52:01
+50182510,42,"The past, present, and future share a show floor at Pinball Expo 2026",https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/,arstechnica.com,45,9,civicpivot,2026-10-21T15:19:28
+50190363,43,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,simedw.com,630,187,alphax314,2026-10-22T02:18:41
+50207115,44,Is this the new cyber normal?,https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/,drew.silcock.dev,184,214,drewsberry,2026-10-23T11:04:53
+50177554,45,A Bicycle Journey Across Brazil to Find a Vanishing Savanna,https://e360.yale.edu/features/2026-film-contest-second-place-cerrado,e360.yale.edu,50,12,throwaway2037,2026-10-21T08:17:35
+50212124,46,Animations for System Builders,https://brooker.co.za/blog/2026/10/23/animations.html,brooker.co.za,64,3,KraftyOne,2026-10-23T17:02:24
+50213791,47,DNS: A Replacement for Finger,https://altchan.org/sh/42,altchan.org,51,33,Bender,2026-10-23T19:00:04
+50202681,48,Docker is weird,https://codeandcake.dev/posts/2026-10-22-docker-is-weird,codeandcake.dev,852,364,psxuaw,2026-10-22T23:45:56
+50214325,49,"Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",https://rune.build/blog/rune-1-3-release,rune.build,57,21,ernestrc,2026-10-23T19:42:01
+50214983,50,A whirlwind tour of systemd-nspawn containers (2025),https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/,quantum5.ca,54,9,ibobev,2026-10-23T20:37:12
+50216791,51,"Evolving Threat: http2shell is an RCE in Node, Python, and more",https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8,nitter.click,177,94,cowlevel,2026-10-23T23:30:17
+50217683,52,Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques,https://www.sciencedaily.com/releases/2026/10/261018084421.htm,sciencedaily.com,121,26,amichail,2026-10-24T01:53:10
+50202746,53,Show HN: Impossible Machines: declaratively program the physical world,https://www.impossiblemachines.xyz,impossiblemachines.xyz,78,17,bhaprayan,2026-10-22T23:54:28
+50185715,54,A Cocktail Party in the Street: An Interview with Alan Stillman (2010),https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/,ediblegeography.com,11,1,NaOH,2026-10-21T18:49:51
+50211084,55,Reforming English Spelling,https://blog.oup.com/2026/10/reforming-english-spelling/,blog.oup.com,47,107,jruohonen,2026-10-23T15:56:06
+50201445,56,How does Fable 5.1 hide messages in images?,https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images,lesswrong.com,206,73,gmays,2026-10-22T21:41:13
+50220966,57,Scientists Are Making Concrete with Human Poop – and It Gets 42% Stronger,https://www.sciencealert.com/scientists-are-making-concrete-with-human-poop-and-it-gets-42-stronger,sciencealert.com,6,1,ghost-pooper,2026-10-24T13:16:43
+50205320,58,Show HN: Swurf – Swipe through the real web,https://swurf.org/,swurf.org,72,35,webtjb096,2026-10-23T06:54:52
+50221213,59,2k Boeing 737s Must Get Tail Inspections After Jets Pitched Up&Down Mid-Flight,https://simpleflying.com/nearly-2000-boeing-737-tail-inspections-faa/,simpleflying.com,4,3,firesteelrain,2026-10-24T13:51:17
+50217600,60,"Password, Please: Border Searches of Laptops, Phones Up 32% This Year",https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213,gizmodo.com,75,11,gumby,2026-10-24T01:37:28
