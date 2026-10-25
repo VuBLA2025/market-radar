@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50229587,1,Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism,https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order,panamericandispatch.org,222,145,vrganj,2026-10-25T09:00:40
-50225695,2,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,466,411,ltratt,2026-10-24T21:47:31
-50227356,3,Cerebras Deploys Trillion-Parameter AI Models,https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras,cerebras.ai,197,64,gmays,2026-10-25T01:33:49
-50230181,4,Samsung running a TensorFlow lite model on 960x540 image to track you,https://twitter.com/mike64_t/status/2114150399406202896,twitter.com,31,11,mashally,2026-10-25T10:42:01
-50193936,5,How Japanese Dried Bonito Is Made,https://kottke.org/26/10/how-japanese-dried-bonito-is-made,kottke.org,57,21,bookofjoe,2026-10-22T11:31:03
-50224100,6,The Goose Programming Language,https://aardappel.github.io/goose/,aardappel.github.io,431,264,bobbydigitales,2026-10-24T19:06:55
-50194645,7,Rewriting a Commercial Engine in Jai,https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch,polygonjs.com,33,20,frading,2026-10-22T12:50:43
-50229861,8,France asked ISPs to prepare temporary DNS blocks for major social platforms,https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ,blast-info.fr,79,56,noplay,2026-10-25T09:56:49
-50224210,9,SpeedCrunch 1.1,https://www.speedcrunch.org/,speedcrunch.org,161,29,LordNibbler,2026-10-24T19:19:43
-50225674,10,Small Programs and Languages,https://ratfactor.com/cards/pl-small,ratfactor.com,126,17,andsoitis,2026-10-24T21:44:23
-50197434,11,Reverse engineer of PC-98 Touhou games retires,https://rec98.nmlgc.net/blog/2026-10-05,rec98.nmlgc.net,12,3,mimasama,2026-10-22T16:16:01
-50226577,12,Why Gopher in 2026?,https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt,gopher.muffinlabs.com,83,34,andsoitis,2026-10-24T23:33:19
-50226419,13,"America has lost 200k of jobs in media, film and the arts. How much is AI?",https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class,apricitas.io,380,389,gnabgib,2026-10-24T23:11:54
-50202285,14,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1603,247,sohkamyung,2026-10-22T23:01:18
-50219177,15,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497,aikido.dev,333,158,theanonymousone,2026-10-24T08:06:39
-50219666,16,I don't understand quantum physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,southampton.ac.uk,322,257,rramadass,2026-10-24T09:53:26
-50172432,17,I Built a Stereo Vision Board for Hardware Hackers,https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/,rootkitlabs.com,87,16,machinehum,2026-10-20T20:45:52
-50225663,18,The Importance of Limitations for Creativity and Learning (2023),https://ratfactor.com/cards/limitations,ratfactor.com,81,22,andsoitis,2026-10-24T21:42:47
-50222133,19,FreeDNS,https://freedns.afraid.org/,freedns.afraid.org,302,83,esher,2026-10-24T15:20:01
-50169450,20,Social dynamics of toxic metal industry in medieval Europe,https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829,cambridge.org,55,26,XzetaU8,2026-10-20T17:06:48
-50186289,21,A story of a Figma bug that wasn't a bug at all (2021),https://aresluna.org/this-is-a-story-of-a-figma-bug/,aresluna.org,39,3,jllyhill,2026-10-21T19:30:52
-50219700,22,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,https://github.com/Zagitta/gpu-unlock,github.com,263,73,fragebogen,2026-10-24T09:58:27
-50229827,23,Nikon photography contest winner loses title after scientists spot signs of AI,https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html,techspot.com,10,1,thunderbong,2026-10-25T09:51:17
-50229599,24,Online censorship is crushing indie webcomics,https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463,xtramagazine.com,73,57,Tomte,2026-10-25T09:04:13
-50222525,25,Neural chip decodes interactions between brain regions,https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/,actu.epfl.ch,111,43,giuliomagnifico,2026-10-24T15:57:17
-50222927,26,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",https://de.numista.com/9866,de.numista.com,122,39,schleck8,2026-10-24T16:41:55
-50186450,27,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,scientificamerican.com,313,89,mooreds,2026-10-21T19:40:01
-50223777,28,Bbtree: Fastest Ordered Map,https://bbtree.xiangpeng.systems/post/,bbtree.xiangpeng.systems,120,15,aoli-al,2026-10-24T18:22:14
-50222622,29,Roku developer repositories moved from GitHub to GitLab,https://blog.roku.com/developer/gitlab-move,blog.roku.com,288,203,cxr,2026-10-24T16:06:26
-50176674,30,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",https://pragtical.dev/blog/pragtical-v3140-release,pragtical.dev,19,3,rd07,2026-10-21T06:09:04
-50176674,31,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",https://pragtical.dev/blog/pragtical-v3140-release,pragtical.dev,19,3,rd07,2026-10-21T06:09:04
-50194935,32,In Rainbows,https://hitogata.neocities.org/Rainbows,hitogata.neocities.org,28,8,surprisetalk,2026-10-22T13:20:04
-50224916,33,Show HN: Steal My Bitcoin,https://stealmybitcoin.com/,stealmybitcoin.com,511,311,cloudlandsdev,2026-10-24T20:30:31
-50218195,34,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,rtfeldman.com,271,97,stmonty,2026-10-24T03:43:54
-50171379,35,"A practical guide to AI image generation, from diffusion to agents",https://danielball.com/notes/ai_image_generation.html,danielball.com,274,90,westsmith,2026-10-20T19:22:39
-50212065,36,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,kimi.ai,1066,663,Jowsey,2026-10-23T16:59:08
-50194157,37,Tablesample Picks Rows,https://boringsql.com/posts/tablesample/,boringsql.com,4,0,surprisetalk,2026-10-22T12:00:04
-50223647,38,Why is AI generated language so hard to understand?,https://arxiv.org/abs/2610.29162,arxiv.org,208,171,canjobear,2026-10-24T18:04:57
-50192975,39,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,https://www.infoq.com/news/2026/10/tornadovm-7-gpu/,infoq.com,91,21,pjmlp,2026-10-22T09:01:10
-50211474,40,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,blog.calif.io,1084,693,pavel_lishin,2026-10-23T16:21:50
-50222283,41,Oai-math-revised: a community hub for revising OpenAI's math write-ups,https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/,terrytao.wordpress.com,45,36,tokepi,2026-10-24T15:35:17
-50228167,42,Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness,https://github.com/slee-persis/GVS5H,github.com,165,57,rzk,2026-10-25T03:56:01
-50224422,43,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",https://missileer.watch,missileer.watch,176,115,liotier,2026-10-24T19:43:27
-50215530,44,CVE Tracker,https://cve.0xosprey.com/,cve.0xosprey.com,219,73,Group_B,2026-10-23T21:21:47
-50190363,45,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,simedw.com,644,192,alphax314,2026-10-22T02:18:41
-50171936,46,Symbolic Learning in Python and Julia,https://github.com/astroautomata/PySR,github.com,68,15,alex_hirner,2026-10-20T20:07:35
-50217495,47,Around a dozen banking apps began specifically permitting GrapheneOS,https://grapheneos.social/@GrapheneOS/117492375462459244,grapheneos.social,652,310,privacyishuman,2026-10-24T01:15:14
-50168376,48,Making a VGA Driver in SystemVerilog,https://lukaswerner.com/post/2026-10-20@bottom-up-vga,lukaswerner.com,57,15,derHackerman,2026-10-20T16:00:15
-50188440,49,Reactive Optimizers: rewrite the optimizer's source code during training,https://xingjianbai.com/reactive-optimizers/,xingjianbai.com,30,2,matt_d,2026-10-21T22:17:12
-50180251,50,Tiling Noise – Procedural GPU Patterns,https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/,catlikecoding.com,60,2,ibobev,2026-10-21T13:04:07
-50207910,51,Apple Music 404 Not Found,https://music.apple.com/this-url-doesnt-exist,music.apple.com,921,271,frizlab,2026-10-23T12:28:47
-50218430,52,OBS Studio 33,https://github.com/obsproject/obs-studio/releases/tag/33.0.0,github.com,452,172,pentagrama,2026-10-24T04:49:58
-50176544,53,C vs. C#: racing VLC's Gaussian blur,https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/,martinfinkel.com,131,48,martz,2026-10-21T05:48:12
-50179920,54,"Cecilia Berdichevsky, Clementina expert (1961)",https://en.wikipedia.org/wiki/Cecilia_Berdichevsky,en.wikipedia.org,33,2,fedecaccia,2026-10-21T12:40:46
-50194536,55,How to run a city builder on 16 MHz,https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/,larstofus.com,97,28,rex64,2026-10-22T12:40:56
-50218633,56,Root shell on Samsung TV,https://twitter.com/log4j/status/2113014142600953868?s=46,twitter.com,509,210,testing22321,2026-10-24T05:49:57
-50217903,57,Apple Security Research Device,https://security.apple.com/research-device/,security.apple.com,176,124,neom,2026-10-24T02:36:38
-50225443,58,Making My Blog Readable by AI Agents,https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents,deallocatedobjects.com,21,2,ingve,2026-10-24T21:21:33
-50217500,59,Twelve years of distributed SQLite,https://philipotoole.com/twelve-years-of-distributed-sqlite/,philipotoole.com,375,63,otoolep,2026-10-24T01:16:58
-50211746,60,UUIDv7: Timestamps aren’t time-ordered and other oddities,https://alexsci.com/blog/uuidv7-is-weird/,alexsci.com,177,151,ibobev,2026-10-23T16:39:45
+50232312,1,Show HN: I put employees inside S&P 500 market-cap bubbles,https://bigwhalehunting.com/workforce/,bigwhalehunting.com,72,20,vfxGer,2026-10-25T15:05:39
+50230384,2,fheroes2: A recreation of Heroes of Might and Magic II game engine,https://github.com/ihhub/fheroes2,github.com,132,45,tosh,2026-10-25T11:09:12
+50232035,3,A few thoughts on intensity,https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/,tylerhogge.com,28,16,andsoitis,2026-10-25T14:37:49
+50231349,4,Show HN: Farol – a risk map of a pull request for the person who approves it,https://github.com/winnin/farol,github.com,46,27,ericholiveira,2026-10-25T13:28:06
+50167528,5,Washing machines took decades to catch on,https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/,daily.jstor.org,29,24,herbertl,2026-10-20T15:05:34
+50225695,6,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,589,586,ltratt,2026-10-24T21:47:31
+50227356,7,Cerebras Deploys Trillion-Parameter AI Models,https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras,cerebras.ai,282,95,gmays,2026-10-25T01:33:49
+50231189,8,Samsung TVs look for microphones in your house via Bluetooth and then spy events,https://twitter.com/freddier/status/2114042326758867453,twitter.com,91,24,taubek,2026-10-25T13:11:22
+50195184,9,Bring Back the Cool Save File Screens,https://scabshack.lol/posts/bring-back-the-cool-save-file-screens,scabshack.lol,9,1,surprisetalk,2026-10-22T13:40:05
+50230181,10,Samsung running a TensorFlow lite model on 960x540 image to track you,https://twitter.com/mike64_t/status/2114150399406202896,twitter.com,258,164,mashally,2026-10-25T10:42:01
+50193936,11,How Japanese Dried Bonito Is Made,https://kottke.org/26/10/how-japanese-dried-bonito-is-made,kottke.org,136,36,bookofjoe,2026-10-22T11:31:03
+50224100,12,The Goose Programming Language,https://aardappel.github.io/goose/,aardappel.github.io,510,311,bobbydigitales,2026-10-24T19:06:55
+50197434,13,Reverse engineer of PC-98 Touhou games retires,https://rec98.nmlgc.net/blog/2026-10-05,rec98.nmlgc.net,48,33,mimasama,2026-10-22T16:16:01
+50224210,14,SpeedCrunch 1.1,https://www.speedcrunch.org/,speedcrunch.org,201,40,LordNibbler,2026-10-24T19:19:43
+50233304,15,AI use leads UC Berkeley math professor to see 'no point' in grading homework,https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html,dailycal.org,3,1,romanhn,2026-10-25T16:28:26
+50229827,16,Nikon photography contest winner loses title after scientists spot signs of AI,https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html,techspot.com,91,26,thunderbong,2026-10-25T09:51:17
+50225674,17,Small Programs and Languages,https://ratfactor.com/cards/pl-small,ratfactor.com,162,24,andsoitis,2026-10-24T21:44:23
+50202285,18,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1635,251,sohkamyung,2026-10-22T23:01:18
+50219177,19,"Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",https://broccoli2shell.com/,broccoli2shell.com,365,182,theanonymousone,2026-10-24T08:06:39
+50230917,20,Tool book of a Nuremberg knight from 1505,https://loeffelholz-codex.org/en/,loeffelholz-codex.org,127,66,edwardog,2026-10-25T12:37:54
+50219666,21,I don't understand quantum physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,southampton.ac.uk,353,271,rramadass,2026-10-24T09:53:26
+50226419,22,"America has lost 200k of jobs in media, film and the arts. How much is AI?",https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class,apricitas.io,448,471,gnabgib,2026-10-24T23:11:54
+50172432,23,I Built a Stereo Vision Board for Hardware Hackers,https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/,rootkitlabs.com,115,18,machinehum,2026-10-20T20:45:52
+50225663,24,The Importance of Limitations for Creativity and Learning (2023),https://ratfactor.com/cards/limitations,ratfactor.com,107,33,andsoitis,2026-10-24T21:42:47
+50222133,25,FreeDNS,https://freedns.afraid.org/,freedns.afraid.org,335,88,esher,2026-10-24T15:20:01
+50219700,26,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,https://github.com/Zagitta/gpu-unlock,github.com,308,74,fragebogen,2026-10-24T09:58:27
+50222525,27,Neural chip decodes interactions between brain regions,https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/,actu.epfl.ch,126,46,giuliomagnifico,2026-10-24T15:57:17
+50186450,28,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,scientificamerican.com,334,101,mooreds,2026-10-21T19:40:01
+50169450,29,Social dynamics of toxic metal industry in medieval Europe,https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829,cambridge.org,74,35,XzetaU8,2026-10-20T17:06:48
+50222927,30,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",https://de.numista.com/9866,de.numista.com,132,44,schleck8,2026-10-24T16:41:55
+50186289,31,A story of a Figma bug that wasn't a bug at all (2021),https://aresluna.org/this-is-a-story-of-a-figma-bug/,aresluna.org,61,6,jllyhill,2026-10-21T19:30:52
+50194645,32,Rewriting a Commercial Engine in Jai,https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch,polygonjs.com,60,50,frading,2026-10-22T12:50:43
+50223777,33,Bbtree: Fastest Ordered Map,https://bbtree.xiangpeng.systems/post/,bbtree.xiangpeng.systems,143,17,aoli-al,2026-10-24T18:22:14
+50222622,34,Roku developer repositories moved from GitHub to GitLab,https://blog.roku.com/developer/gitlab-move,blog.roku.com,298,209,cxr,2026-10-24T16:06:26
+50231001,35,Lego collaboration with Daft Punk,https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk,lego.com,57,51,pieterr,2026-10-25T12:48:11
+50176674,36,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",https://pragtical.dev/blog/pragtical-v3140-release,pragtical.dev,26,3,rd07,2026-10-21T06:09:04
+50212065,37,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,kimi.ai,1070,665,Jowsey,2026-10-23T16:59:08
+50223647,38,Why is AI generated language so hard to understand?,https://arxiv.org/abs/2610.29162,arxiv.org,226,181,canjobear,2026-10-24T18:04:57
+50194935,39,In Rainbows,https://hitogata.neocities.org/Rainbows,hitogata.neocities.org,30,9,surprisetalk,2026-10-22T13:20:04
+50199265,40,Radio Days,https://oldster.substack.com/p/radio-days,oldster.substack.com,8,3,NaOH,2026-10-22T18:30:56
+50211474,41,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,blog.calif.io,1091,708,pavel_lishin,2026-10-23T16:21:50
+50224916,42,Show HN: Steal My Bitcoin,https://stealmybitcoin.com/,stealmybitcoin.com,551,352,cloudlandsdev,2026-10-24T20:30:31
+50190363,43,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,simedw.com,645,192,alphax314,2026-10-22T02:18:41
+50192975,44,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,https://www.infoq.com/news/2026/10/tornadovm-7-gpu/,infoq.com,94,21,pjmlp,2026-10-22T09:01:10
+50230995,45,Imagine an AI future where being banned means you are now economically useless,https://twitter.com/boneGPT/status/2114035719853265264,twitter.com,69,58,MrBuddyCasino,2026-10-25T12:47:20
+50226577,46,Why Gopher in 2026?,https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt,gopher.muffinlabs.com,110,71,andsoitis,2026-10-24T23:33:19
+50224422,47,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",https://missileer.watch,missileer.watch,187,121,liotier,2026-10-24T19:43:27
+50217495,48,Around a dozen banking apps began specifically permitting GrapheneOS,https://grapheneos.social/@GrapheneOS/117492375462459244,grapheneos.social,658,319,privacyishuman,2026-10-24T01:15:14
+50225443,49,Making My Blog Readable by AI Agents,https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents,deallocatedobjects.com,28,5,ingve,2026-10-24T21:21:33
+50207910,50,Apple Music 404 Not Found,https://music.apple.com/this-url-doesnt-exist,music.apple.com,926,273,frizlab,2026-10-23T12:28:47
+50171936,51,Symbolic Learning in Python and Julia,https://github.com/astroautomata/PySR,github.com,74,21,alex_hirner,2026-10-20T20:07:35
+50168376,52,Making a VGA Driver in SystemVerilog,https://lukaswerner.com/post/2026-10-20@bottom-up-vga,lukaswerner.com,61,16,derHackerman,2026-10-20T16:00:15
+50180251,53,Tiling Noise – Procedural GPU Patterns,https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/,catlikecoding.com,63,2,ibobev,2026-10-21T13:04:07
+50176544,54,C vs. C#: racing VLC's Gaussian blur,https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/,martinfinkel.com,131,49,martz,2026-10-21T05:48:12
+50218430,55,OBS Studio 33,https://github.com/obsproject/obs-studio/releases/tag/33.0.0,github.com,457,176,pentagrama,2026-10-24T04:49:58
+50194536,56,How to run a city builder on 16 MHz,https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/,larstofus.com,99,29,rex64,2026-10-22T12:40:56
+50217903,57,Apple Security Research Device,https://security.apple.com/research-device/,security.apple.com,181,127,neom,2026-10-24T02:36:38
+50218633,58,Root shell on Samsung TV,https://twitter.com/log4j/status/2113014142600953868?s=46,twitter.com,526,219,testing22321,2026-10-24T05:49:57
+50179920,59,"Cecilia Berdichevsky, Clementina expert (1961)",https://en.wikipedia.org/wiki/Cecilia_Berdichevsky,en.wikipedia.org,35,2,fedecaccia,2026-10-21T12:40:46
+50217500,60,Twelve years of distributed SQLite,https://philipotoole.com/twelve-years-of-distributed-sqlite/,philipotoole.com,377,66,otoolep,2026-10-24T01:16:58
