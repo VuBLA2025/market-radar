@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50242939,1,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,sec.gov,83,30,SiNTEx,2026-10-26T13:04:50
-50240922,2,Switzerland. Block by block. At 1:1 scale,https://blocks.manifold3d.ch/,blocks.manifold3d.ch,266,115,theanonymousone,2026-10-26T08:46:09
-50215997,3,Birdwatching rewires the brain and slows cognitive decline,https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline,bbc.com,168,58,cisc,2026-10-23T22:04:55
-50238708,4,Show HN: TitleArt – Make text like it's 1997,https://titleart.dvy.io/,titleart.dvy.io,293,51,davidbarker,2026-10-26T03:23:57
-50241664,5,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,brennenputh.me,77,67,bagatelle,2026-10-26T10:32:14
-50242870,6,Fixing Tool-Call Accuracy in vLLM,https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm,ubicloud.com,3,0,coffeemug,2026-10-26T12:59:48
-50241924,7,Tasks as Code: Move Your Tickets into the Repository,https://typemill.net/knowledge-hub/tasks-as-code,typemill.net,16,16,trendschau,2026-10-26T11:15:43
-50238763,8,Behind the scenes at the NeXT Computer office,https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry,exhibits.stanford.edu,166,87,Austin_Conlon,2026-10-26T03:31:11
-50200152,9,One of the Greatest Inventions in the History of Human Transport,https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,humantransit.org,16,3,skadamat,2026-10-22T19:52:50
-50238739,10,"PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",https://github.com/KrushnaVardhanReddy/PaperPilot,github.com,179,66,vardhan1237,2026-10-26T03:29:05
-50242734,11,"Peter Thiel, the tech oligarch who believes in the Antichrist",https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html,english.elpais.com,31,6,geox,2026-10-26T12:49:31
-50234474,12,Dolly Parton's Imagination Library,https://imaginationlibrary.com/,imaginationlibrary.com,586,99,jumploops,2026-10-25T18:23:54
-50228115,13,Show HN: A Truly Modular Keyboard,https://github.com/notaroomba/keybytes,github.com,202,67,NotARoomba,2026-10-25T03:47:56
-50197108,14,"Overgrown, when plants invade your abandoned tabs",https://charliegerard.dev/blog/overgrown-extension/,charliegerard.dev,330,116,speckx,2026-10-22T15:52:21
-50209278,15,Growing Trees,https://brashandplucky.com/2026/10/15/growing-trees.html,brashandplucky.com,117,17,ibobev,2026-10-23T14:07:42
-50237224,16,Attention Is Not What You Need (2025),https://arxiv.org/abs/2512.19428,arxiv.org,143,50,westurner,2026-10-25T23:52:05
-50210181,17,Superhuman Hardware Design Is the Easy Part,https://www.a16z.news/p/superhuman-hardware-design-is-the,a16z.news,43,28,gmays,2026-10-23T14:59:09
-50200957,18,Iron Age salt-mining complex found beneath Hallstatt in Austria,https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/,archaeologymag.com,95,39,janandonly,2026-10-22T21:00:14
-50235017,19,Why I Am a Programmer,https://www.alfie.wtf/programming/why-i-am-a-programmer.html,alfie.wtf,267,85,jruohonen,2026-10-25T19:11:31
-50237078,20,F-Zero X on Nintendo 3DS,https://hypnotize.works/gdx-3ds/postmortem/index.html,hypnotize.works,140,76,bpierre,2026-10-25T23:27:30
-50237379,21,Steal My Bitcoin CTF PoC,https://github.com/KillaBoi/StealMyBitcoin-PoC,github.com,139,36,davikr,2026-10-26T00:15:17
-50235780,22,The State of Context Engineering,https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html,dbreunig.com,214,53,pchristensen,2026-10-25T20:32:31
-50225695,23,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,831,726,ltratt,2026-10-24T21:47:31
-50185534,24,Amazon’s “digital pacifier” for toddlers,https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers,oligarchwatch.substack.com,230,331,jumploops,2026-10-21T18:37:48
-50242555,25,Writing Is Closer to Thought Than Code,https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code,danielmiessler.com,5,1,eigenBasis,2026-10-26T12:32:15
-50213990,26,Two Million Hornets,https://dark-mountain.net/two-million-hornets/,dark-mountain.net,21,4,promulgate,2026-10-23T19:15:57
-50238088,27,IBM CEO says open weight models are now good and cheap on-prem,https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640,theregister.com,330,239,Betelbuddy,2026-10-26T01:47:46
-50233779,28,A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis,https://lynchlab.net/llm-skin-cancer,lynchlab.net,604,254,sungam,2026-10-25T17:15:38
-50227041,29,"Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",https://adrs.systems,adrs.systems,55,32,lumbroso,2026-10-25T00:43:47
-50234879,30,Where the Romans Fought (interactive map),https://iosiflazaridis.github.io/battles-of-the-romans/,iosiflazaridis.github.io,126,49,endorphine,2026-10-25T18:58:14
-50213610,31,Making the Buddha Head from Merv Whole Again,https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/,getty.edu,60,1,laybak,2026-10-23T18:46:00
-50236102,32,OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?,https://minimaxir.com/2026/10/cheap-llms/,minimaxir.com,373,363,minimaxir,2026-10-25T21:11:31
-50237712,33,Removing Next.js Got My Blog to 100 on Every Lighthouse Category,https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category,korindiehacker.bloffy.blog,171,104,textlanes33,2026-10-26T01:03:39
-50231166,34,Active incident at Dreamhost forcing password reset,https://www.dreamhoststatus.com/,dreamhoststatus.com,162,63,greenchair,2026-10-25T13:09:16
-50235738,35,What goes into making an animated film?,https://www.disneyanimation.com/process/,disneyanimation.com,161,70,embedding-shape,2026-10-25T20:27:09
-50233929,36,I refuse to accept a censored Internet. Join Me at FOSDEM 27,https://talkweb.eu/openweb/4558/,talkweb.eu,511,254,Tomte,2026-10-25T17:30:55
-50234699,37,"AI didn't cause the tech jobs bust, but it explains why there's no recovery",https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs,vithushansylvester.com,62,26,hacker_v_s,2026-10-25T18:42:23
-50234232,38,Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop,https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/,theintercept.com,481,131,tdeck,2026-10-25T18:04:11
-50202285,39,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1692,253,sohkamyung,2026-10-22T23:01:18
-50239430,40,Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits,https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/,electrek.co,56,31,MilnerRoute,2026-10-26T05:13:15
-50237813,41,"Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",https://freehire.me/,freehire.me,22,2,i_strelov,2026-10-26T01:13:43
-50235316,42,Eunice is almost here,https://armincat.com/articles/eunice-is-almost-here,armincat.com,77,74,armcat,2026-10-25T19:40:27
-50227330,43,Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English,https://huggingface.co/destined/hurston-1,huggingface.co,61,25,Gcarter08,2026-10-25T01:30:13
-50239041,44,Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management,https://proc-cli.com/,proc-cli.com,16,2,yazeedaloyoun,2026-10-26T04:14:35
-50233438,45,UTS #39: Unicode Security Mechanisms,https://unicode.org/reports/tr39/,unicode.org,43,26,robin_reala,2026-10-25T16:40:37
-50223435,46,"VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",https://www.youtube.com/watch?v=46wxttvq9qY,youtube.com,67,14,zdw,2026-10-24T17:42:08
-50233347,47,A mathematician reads the AI future,https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/,theatlantic.com,66,91,artninja1988,2026-10-25T16:31:21
-50195769,48,Recreate the Apollo Guidance Computer,https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/,raspberrypi.com,56,9,Brajeshwar,2026-10-22T14:21:17
-50221394,49,The Curse of Soldered RAM,https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/,blog.hardill.me.uk,99,114,gsky,2026-10-24T14:09:20
-50196623,50,The U.S. Power Grid,https://nomagicpill.site/knowledge/powergrid.html,nomagicpill.site,92,28,surprisetalk,2026-10-22T15:20:04
-50237485,51,Lula wins election after final votes tallied,https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/,reuters.com,440,495,laurenth,2026-10-26T00:31:07
-50238020,52,Recycling ANSI art: Tracing the origins of Fire Escape's BBS logon screens,https://breakintochat.com/blog/2026/10/25/recycling-ansi-art/,breakintochat.com,9,5,Kirkman14,2026-10-26T01:39:05
-50208628,53,Reverse engineering a Beyblade launch tracker,https://blog.simone.computer/reverse-beyblade-launch-tracker,blog.simone.computer,48,4,syx,2026-10-23T13:25:12
-50241390,54,"Viktor Orbán, U.N. Secretary-General?",https://www.wsj.com/opinion/viktor-orban-u-n-secretary-general-china-russia-us-d968fcaf,wsj.com,9,3,bushwart,2026-10-26T09:54:24
-50233304,55,AI use leads UC Berkeley math professor to see 'no point' in grading homework,https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html,dailycal.org,222,320,romanhn,2026-10-25T16:28:26
-50233294,56,JetBrains Thinkrail,https://github.com/JetBrains/thinkrail,github.com,221,165,hmokiguess,2026-10-25T16:27:12
-50238884,57,US Wages Share of GDI at 75 Year Low,https://fred.stlouisfed.org/series/W270RE1A156NBEA,fred.stlouisfed.org,128,46,omgwtfbyobbq,2026-10-26T03:51:10
-50227356,58,Cerebras Deploys Trillion-Parameter AI Models,https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras,cerebras.ai,358,138,gmays,2026-10-25T01:33:49
-50199199,59,Retired decorator's Pokémon cards sell for £1.5M,https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo,bbc.co.uk,47,44,HelloUsername,2026-10-22T18:25:40
-50230384,60,fheroes2: A recreation of Heroes of Might and Magic II game engine,https://github.com/ihhub/fheroes2,github.com,210,73,tosh,2026-10-25T11:09:12
+50251344,1,Working with academic communities to build scientific understanding,https://openai.com/index/building-scientific-understanding-with-academic-communities/,openai.com,142,29,jonluca,2026-10-26T21:35:28
+50251127,2,CorridorKey 2.0,https://corridorkey.com/,corridorkey.com,80,13,ravenical,2026-10-26T21:18:05
+50248371,3,Type Server Protocol,https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md,github.com,166,125,adamnemecek,2026-10-26T18:14:49
+50245138,4,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,magazine.sebastianraschka.com,498,75,sgiannopoulos,2026-10-26T15:11:59
+50245831,5,CSS-Tricks has a new owner,https://css-tricks.com/css-tricks-has-a-new-owner/,css-tricks.com,340,76,edent,2026-10-26T15:51:23
+50248055,6,Oldest GUI application that still runs on Windows 11,https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/,blog.enlyth.com,215,125,enlyth,2026-10-26T17:56:55
+50247493,7,Nietzschian Debugger,https://github.com/DilawarShafiq/nietzschian-debugger,github.com,110,37,dilawargopang,2026-10-26T17:25:30
+50248124,8,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,openai.com,439,276,meetpateltech,2026-10-26T18:01:17
+50247928,9,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,muratbuffalo.blogspot.com,89,43,aray07,2026-10-26T17:49:55
+50246238,10,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",https://github.com/FrigadeHQ/hob,github.com,73,21,pancomplex,2026-10-26T16:12:29
+50242939,11,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,sec.gov,1399,1369,SiNTEx,2026-10-26T13:04:50
+50213502,12,Native Prometheus Integration with Nginx,https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/,categorica.io,18,4,foxhill,2026-10-23T18:38:13
+50236681,13,SIMD-accelerated computer vision on a $2 microcontroller,https://shraiwi.com/blog/simd-fast-esp32s3/,shraiwi.com,157,52,zdw,2026-10-25T22:29:47
+50209525,14,Diamond Transistor,https://www.df.com/diamond-transistor,df.com,106,58,Gravityloss,2026-10-23T14:20:15
+50245524,15,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,seattletimes.com,643,549,doctorzook,2026-10-26T15:35:12
+50200152,16,Blaise Pascal invented fixed route public transport (2024),https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,humantransit.org,248,132,skadamat,2026-10-22T19:52:50
+50215997,17,Birdwatching rewires the brain and slows cognitive decline,https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline,bbc.com,487,189,cisc,2026-10-23T22:04:55
+50241925,18,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,pharo.org,227,57,xkriva11,2026-10-26T11:15:50
+50249275,19,The EPA Is Quietly Killing Its Web Archive,https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/,motherjones.com,183,30,robtherobber,2026-10-26T19:05:41
+50248005,20,"In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/,404media.co,224,138,Frieren,2026-10-26T17:54:00
+50212764,21,Who killed the EV cert? A browser whodunit for Halloween,https://qwac.com/blog/who-killed-the-ev-cert,qwac.com,15,26,roddylindsay,2026-10-23T17:46:33
+50248665,22,US designates helium as a critical material,https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c,apnews.com,147,82,rbanffy,2026-10-26T18:31:39
+50240922,23,Switzerland. Block by block. At 1:1 scale,https://blocks.manifold3d.ch/,blocks.manifold3d.ch,450,212,theanonymousone,2026-10-26T08:46:09
+50249738,24,Magic state cultivation on a superconducting quantum processor,https://arxiv.org/abs/2512.13908,arxiv.org,5,0,kheal,2026-10-26T19:37:59
+50237019,25,Show HN: Glider 4.0 Unofficial Web Edition (Mac game port),https://dbohdan.github.io/glider/,dbohdan.github.io,26,5,networked,2026-10-25T23:18:42
+50246658,26,Concerning behavior from a popular open-weight AI model,https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model,cohere.com,232,93,matthieu_bl,2026-10-26T16:35:44
+50242870,27,Fixing Tool-Call Accuracy in vLLM,https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm,ubicloud.com,143,64,coffeemug,2026-10-26T12:59:48
+50214967,28,World Wars I and II Military Aviation Museum Collection,https://www.militaryaviationmuseum.org/our-collection/,militaryaviationmuseum.org,26,10,NaOH,2026-10-23T20:35:40
+50222794,29,An incremental approach to JIT construction,https://dl.acm.org/doi/10.1145/3830440.3832304,dl.acm.org,34,1,andsoitis,2026-10-24T16:27:18
+50247630,30,ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems,https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/,404media.co,196,75,cdrnsf,2026-10-26T17:32:16
+50247559,31,Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas,https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm,blog.ericgoldman.org,37,39,hn_acker,2026-10-26T17:28:26
+50241664,32,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,brennenputh.me,253,164,bagatelle,2026-10-26T10:32:14
+50250937,33,Microsoft offers voluntary buyouts to a quarter of its workforce,https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce,kuow.org,99,94,mooreds,2026-10-26T21:05:15
+50209573,34,Colorfigures,https://april-zhu.com/colorfigures,april-zhu.com,124,19,the-mitr,2026-10-23T14:22:23
+50249116,35,"Skydance offers buyouts, orders return to office",https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/,variety.com,65,26,metabagel,2026-10-26T18:56:03
+50250016,36,Somebody please stop the spam texts,https://notes.npilk.com/stop-the-spam-texts,notes.npilk.com,111,126,npilk,2026-10-26T19:57:32
+50249883,37,What Happened to the Neanderthals?,https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html,nytimes.com,5,0,Hooke,2026-10-26T19:47:58
+50244583,38,"Partyline: A group voice application for Reticulum, built on LXST",https://github.com/RFnexus/partyline,github.com,42,11,iamnothere,2026-10-26T14:42:24
+50209524,39,Reinventing the Pencil Sharpener [video],https://www.youtube.com/watch?v=0Gi5Z51KdUE,youtube.com,61,13,surprisetalk,2026-10-23T14:20:04
+50251062,40,Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job,https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/,404media.co,24,7,cdrnsf,2026-10-26T21:13:59
+50228115,41,Show HN: A Truly Modular Keyboard,https://github.com/notaroomba/keybytes,github.com,271,98,NotARoomba,2026-10-25T03:47:56
+50238739,42,"PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",https://github.com/KrushnaVardhanReddy/PaperPilot,github.com,226,81,vardhan1237,2026-10-26T03:29:05
+50251455,43,The Onion Voting Simulator 3D on Steam,https://store.steampowered.com/app/5372440/The_Onion_Voting_Simulator_3D/,store.steampowered.com,5,0,rbanffy,2026-10-26T21:43:58
+50238763,44,Behind the scenes at the NeXT Computer office,https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry,exhibits.stanford.edu,243,150,Austin_Conlon,2026-10-26T03:31:11
+50249916,45,Third Risk,https://thirdrisk.org/,thirdrisk.org,4,0,xiaoyu2006,2026-10-26T19:49:56
+50249872,46,"Neuron Explorer for Qwen3.5-4B: See every neuron at work, make targeted edits",https://github.com/lyramakesmusic/neuron-explorer,github.com,4,0,Schlagbohrer,2026-10-26T19:46:54
+50209278,47,Growing Trees,https://brashandplucky.com/2026/10/15/growing-trees.html,brashandplucky.com,189,26,ibobev,2026-10-23T14:07:42
+50225695,48,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,880,763,ltratt,2026-10-24T21:47:31
+50211780,49,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/,petapixel.com,36,49,thm,2026-10-23T16:41:41
+50200957,50,Iron Age salt-mining complex found beneath Hallstatt in Austria,https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/,archaeologymag.com,131,61,janandonly,2026-10-22T21:00:14
+50248876,51,Microsoft offers 60k employees a voluntary exit,https://twitter.com/Amanda_Goodall/status/2114748370954985906,twitter.com,29,1,m348e912,2026-10-26T18:43:47
+50250168,52,warp.dev Breached,https://twitter.com/zachlloydtweets/status/2114800787716972873,twitter.com,15,1,pranshuchittora,2026-10-26T20:09:12
+50244265,53,KibernetykMono – A Geometric Monospace Typeface,https://pavlokilko.github.io/KibernetykMono/,pavlokilko.github.io,26,3,thw_9a83c,2026-10-26T14:24:56
+50251200,54,OpenAI's agents talked to each other through the CPU Cache,https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/,the-decoder.com,8,1,limbicsystem,2026-10-26T21:24:18
+50238708,55,Show HN: TitleArt – Make text like it's 1997,https://titleart.dvy.io/,titleart.dvy.io,386,73,davidbarker,2026-10-26T03:23:57
+50234474,56,Dolly Parton's Imagination Library,https://imaginationlibrary.com/,imaginationlibrary.com,669,107,jumploops,2026-10-25T18:23:54
+50237379,57,Steal My Bitcoin CTF PoC,https://github.com/KillaBoi/StealMyBitcoin-PoC,github.com,163,50,davikr,2026-10-26T00:15:17
+50247677,58,Nvidia discusses $2k-per-GPU annual fee for software,https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform,tomshardware.com,32,16,gscott,2026-10-26T17:34:45
+50248763,59,"Fishing website for Susaki, Japan, hit by data leak, all 3 users affected",https://soranews24.com/2026/10/26/fishing-information-website-for-susaki-japan-hit-by-data-leak-all-3-users-affected/,soranews24.com,27,2,beansovertoast,2026-10-26T18:37:29
+50248443,60,'modern-day slavery' in the Congo powers the rechargeable battery economy (2023),https://www.npr.org/sections/goatsandsoda/2023/02/01/1152893248/red-cobalt-congo-drc-mining-siddharth-kara,npr.org,26,7,Tellusion,2026-10-26T18:19:39
