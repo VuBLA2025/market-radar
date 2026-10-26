@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50234474,1,Dolly Parton's Imagination Library,https://imaginationlibrary.com/,imaginationlibrary.com,196,31,jumploops,2026-10-25T18:23:54
-50235316,2,Eunice is almost here,https://armincat.com/articles/eunice-is-almost-here,armincat.com,26,20,armcat,2026-10-25T19:40:27
-50233779,3,A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis,https://lynchlab.net/llm-skin-cancer,lynchlab.net,287,143,sungam,2026-10-25T17:15:38
-50233929,4,I refuse to accept a censored Internet. Join Me at FOSDEM 27,https://talkweb.eu/openweb/4558/,talkweb.eu,268,130,Tomte,2026-10-25T17:30:55
-50235017,5,Why I Am a Programmer,https://www.alfie.wtf/programming/why-i-am-a-programmer.html,alfie.wtf,24,5,jruohonen,2026-10-25T19:11:31
-50235010,6,Gheist campaign plants secret-dumping workflows using stolen GitHub tokens,https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles,wiz.io,13,0,acossta,2026-10-25T19:10:36
-50234232,7,Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop,https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/,theintercept.com,227,52,tdeck,2026-10-25T18:04:11
-50235738,8,What goes into making an animated film?,https://www.disneyanimation.com/process/,disneyanimation.com,10,3,embedding-shape,2026-10-25T20:27:09
-50233294,9,JetBrains Thinkrail,https://github.com/JetBrains/thinkrail,github.com,98,58,hmokiguess,2026-10-25T16:27:12
-50196623,10,The U.S. Power Grid,https://nomagicpill.site/knowledge/powergrid.html,nomagicpill.site,18,2,surprisetalk,2026-10-22T15:20:04
-50223435,11,"VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",https://www.youtube.com/watch?v=46wxttvq9qY,youtube.com,33,9,zdw,2026-10-24T17:42:08
-50227330,12,Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English,https://huggingface.co/destined/hurston-1,huggingface.co,20,7,Gcarter08,2026-10-25T01:30:13
-50225695,13,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,709,652,ltratt,2026-10-24T21:47:31
-50231166,14,Active incident at Dreamhost forcing password reset,https://www.dreamhoststatus.com/,dreamhoststatus.com,78,30,greenchair,2026-10-25T13:09:16
-50233304,15,AI use leads UC Berkeley math professor to see 'no point' in grading homework,https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html,dailycal.org,142,227,romanhn,2026-10-25T16:28:26
-50195769,16,Recreate the Apollo Guidance Computer,https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/,raspberrypi.com,29,1,Brajeshwar,2026-10-22T14:21:17
-50233438,17,UTS #39: Unicode Security Mechanisms,https://unicode.org/reports/tr39/,unicode.org,18,0,robin_reala,2026-10-25T16:40:37
-50227356,18,Cerebras Deploys Trillion-Parameter AI Models,https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras,cerebras.ai,338,121,gmays,2026-10-25T01:33:49
-50235217,19,"Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/,arstechnica.com,69,12,_Microft,2026-10-25T19:29:16
-50234329,20,"All you need is Wide Events, not ""Metrics, Logs and Traces""",https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics,isburmistrov.substack.com,50,10,bootlegbilly,2026-10-25T18:11:38
-50218633,21,Root shell on Samsung TV,https://twitter.com/log4j/status/2113014142600953868?s=46,twitter.com,686,535,testing22321,2026-10-24T05:49:57
-50224100,22,The Goose Programming Language,https://aardappel.github.io/goose/,aardappel.github.io,545,341,bobbydigitales,2026-10-24T19:06:55
-50230384,23,fheroes2: A recreation of Heroes of Might and Magic II game engine,https://github.com/ihhub/fheroes2,github.com,184,65,tosh,2026-10-25T11:09:12
-50232312,24,Show HN: I put employees inside S&P 500 market-cap bubbles,https://bigwhalehunting.com/workforce/,bigwhalehunting.com,153,46,vfxGer,2026-10-25T15:05:39
-50193936,25,How Japanese Dried Bonito Is Made,https://kottke.org/26/10/how-japanese-dried-bonito-is-made,kottke.org,173,47,bookofjoe,2026-10-22T11:31:03
-50233775,26,Sabre Wulf Remastered,https://gp-64.com/swr/,gp-64.com,52,8,adunk,2026-10-25T17:15:16
-50224210,27,SpeedCrunch 1.1,https://www.speedcrunch.org/,speedcrunch.org,219,48,LordNibbler,2026-10-24T19:19:43
-50202285,28,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1671,253,sohkamyung,2026-10-22T23:01:18
-50233828,29,Scientists rediscover how to make ancient Roman colour-changing glass,https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass,theguardian.com,35,4,teleforce,2026-10-25T17:20:22
-50225674,30,Small Programs and Languages,https://ratfactor.com/cards/pl-small,ratfactor.com,183,28,andsoitis,2026-10-24T21:44:23
-50197434,31,Reverse engineer of PC-98 Touhou games retires,https://rec98.nmlgc.net/blog/2026-10-05,rec98.nmlgc.net,64,39,mimasama,2026-10-22T16:16:01
-50174816,32,Dijkstra vs. A* vs. Contraction Hierarchies,https://arcadedb.com/route-planning.html,arcadedb.com,25,4,signa11,2026-10-21T01:04:30
-50235651,33,NvALT Back from the Dead,https://brettterpstra.com/2026/10/24/nvalt-back-from-the-dead/,brettterpstra.com,4,0,fork-bomber,2026-10-25T20:18:05
-50219666,34,I don't understand quantum physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,southampton.ac.uk,370,298,rramadass,2026-10-24T09:53:26
-50219700,35,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,https://github.com/Zagitta/gpu-unlock,github.com,330,76,fragebogen,2026-10-24T09:58:27
-50229827,36,Nikon photography contest winner loses title after scientists spot signs of AI,https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html,techspot.com,124,59,thunderbong,2026-10-25T09:51:17
-50225663,37,The Importance of Limitations for Creativity and Learning (2023),https://ratfactor.com/cards/limitations,ratfactor.com,116,39,andsoitis,2026-10-24T21:42:47
-50195184,38,Bring Back the Cool Save File Screens,https://scabshack.lol/posts/bring-back-the-cool-save-file-screens,scabshack.lol,57,22,surprisetalk,2026-10-22T13:40:05
-50226419,39,"America has lost 200k of jobs in media, film and the arts. How much is AI?",https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class,apricitas.io,489,524,gnabgib,2026-10-24T23:11:54
-50222133,40,FreeDNS,https://freedns.afraid.org/,freedns.afraid.org,349,89,esher,2026-10-24T15:20:01
-50172432,41,I Built a Stereo Vision Board for Hardware Hackers,https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/,rootkitlabs.com,123,20,machinehum,2026-10-20T20:45:52
-50186450,42,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,scientificamerican.com,341,101,mooreds,2026-10-21T19:40:01
-50222525,43,Neural chip decodes interactions between brain regions,https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/,actu.epfl.ch,134,47,giuliomagnifico,2026-10-24T15:57:17
-50233020,44,Flock [YC S17] Fever: A Review of Government Surveillance by Benn Jordan [video],https://www.youtube.com/watch?v=OP5GDiLZ1Nw,youtube.com,22,0,input_sh,2026-10-25T16:02:43
-50230917,45,Tool book of a Nuremberg knight from 1505,https://loeffelholz-codex.org/en/,loeffelholz-codex.org,156,78,edwardog,2026-10-25T12:37:54
-50233883,46,Fuck Nuance (2015),https://crookedtimber.org/2015/08/31/fuck-nuance/,crookedtimber.org,26,4,bariumbitmap,2026-10-25T17:26:08
-50235195,47,"""Study history thoroughly"" Lithuanian woman to hammer and sickle waving students",https://www.baltictakes.com/italians-praise-lithuanian-womans-open-letter-encouraging-hammer-and-sickle-waving-youth-to-please-study-history-thoroughly/,baltictakes.com,4,1,Teever,2026-10-25T19:27:48
-50186289,48,A story of a Figma bug that wasn't a bug at all (2021),https://aresluna.org/this-is-a-story-of-a-figma-bug/,aresluna.org,66,9,jllyhill,2026-10-21T19:30:52
-50223777,49,Bbtree: Fastest Ordered Map,https://bbtree.xiangpeng.systems/post/,bbtree.xiangpeng.systems,149,19,aoli-al,2026-10-24T18:22:14
-50232483,50,Firecrawl's Government Index,https://lexifina.com/blog/firecrawl-government-index,lexifina.com,4,0,alansaber,2026-10-25T15:17:51
-50222622,51,Roku developer repositories moved from GitHub to GitLab,https://blog.roku.com/developer/gitlab-move,blog.roku.com,301,213,cxr,2026-10-24T16:06:26
-50169450,52,Social dynamics of toxic metal industry in medieval Europe,https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829,cambridge.org,77,41,XzetaU8,2026-10-20T17:06:48
-50222927,53,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",https://de.numista.com/9866,de.numista.com,136,48,schleck8,2026-10-24T16:41:55
-50212065,54,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,kimi.ai,1078,667,Jowsey,2026-10-23T16:59:08
-50232035,55,A few thoughts on intensity (2024),https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/,tylerhogge.com,60,45,andsoitis,2026-10-25T14:37:49
-50211474,56,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,blog.calif.io,1098,711,pavel_lishin,2026-10-23T16:21:50
-50190363,57,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,simedw.com,649,192,alphax314,2026-10-22T02:18:41
-50219177,58,"Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",https://broccoli2shell.com/,broccoli2shell.com,389,209,theanonymousone,2026-10-24T08:06:39
-50223647,59,Why is AI generated language so hard to understand?,https://arxiv.org/abs/2610.29162,arxiv.org,238,194,canjobear,2026-10-24T18:04:57
-50176674,60,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",https://pragtical.dev/blog/pragtical-v3140-release,pragtical.dev,29,4,rd07,2026-10-21T06:09:04
+50238884,1,US Wages Share of GDI at 75 Year Low,https://fred.stlouisfed.org/series/W270RE1A156NBEA,fred.stlouisfed.org,39,12,omgwtfbyobbq,2026-10-26T03:51:10
+50238708,2,Show HN: TitleArt – Make text like it's 1997,https://titleart.dvy.io/,titleart.dvy.io,47,8,davidbarker,2026-10-26T03:23:57
+50238739,3,"PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",https://github.com/KrushnaVardhanReddy/PaperPilot,github.com,27,2,vardhan1237,2026-10-26T03:29:05
+50234474,4,Dolly Parton's Imagination Library,https://imaginationlibrary.com/,imaginationlibrary.com,465,85,jumploops,2026-10-25T18:23:54
+50238763,5,Behind the scenes at the NeXT Computer office,https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry,exhibits.stanford.edu,23,9,Austin_Conlon,2026-10-26T03:31:11
+50228115,6,Show HN: A Truly Modular Keyboard,https://github.com/notaroomba/keybytes,github.com,43,11,NotARoomba,2026-10-25T03:47:56
+50197108,7,"Overgrown, when plants invade your abandoned tabs",https://charliegerard.dev/blog/overgrown-extension/,charliegerard.dev,204,62,speckx,2026-10-22T15:52:21
+50237224,8,Attention Is Not What You Need (2025),https://arxiv.org/abs/2512.19428,arxiv.org,59,22,westurner,2026-10-25T23:52:05
+50237078,9,F-Zero X on Nintendo 3DS,https://hypnotize.works/gdx-3ds/postmortem/index.html,hypnotize.works,84,42,bpierre,2026-10-25T23:27:30
+50237485,10,Lula wins election after final votes tallied,https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/,reuters.com,236,224,laurenth,2026-10-26T00:31:07
+50238088,11,IBM CEO says open weight models are now good and cheap on-prem,https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640,theregister.com,104,68,Betelbuddy,2026-10-26T01:47:46
+50235017,12,Why I Am a Programmer,https://www.alfie.wtf/programming/why-i-am-a-programmer.html,alfie.wtf,169,57,jruohonen,2026-10-25T19:11:31
+50238620,13,Microsoft Decision-1: 9B Qwen Model Launch Explained,https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/,shattered.io,9,0,gmays,2026-10-26T03:12:05
+50238351,14,"If AI displaces human workers, they will lose more than just pay",https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay,economist.com,23,30,andsoitis,2026-10-26T02:22:38
+50218693,15,The Fall of Scientific American,https://www.thenation.com/article/society/scientific-american-springer-nature-trump/,thenation.com,18,4,littlexsparkee,2026-10-24T06:03:30
+50235780,16,The State of Context Engineering,https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html,dbreunig.com,122,35,pchristensen,2026-10-25T20:32:31
+50235738,17,What goes into making an animated film?,https://www.disneyanimation.com/process/,disneyanimation.com,117,51,embedding-shape,2026-10-25T20:27:09
+50200957,18,Iron Age salt-mining complex found beneath Hallstatt in Austria,https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/,archaeologymag.com,28,3,janandonly,2026-10-22T21:00:14
+50237379,19,Steal My Bitcoin CTF PoC,https://github.com/KillaBoi/StealMyBitcoin-PoC,github.com,47,8,davikr,2026-10-26T00:15:17
+50237712,20,Removing Next.js Got My Blog to 100 on Every Lighthouse Category,https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category,korindiehacker.bloffy.blog,82,39,textlanes33,2026-10-26T01:03:39
+50227041,21,"Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",https://adrs.systems,adrs.systems,20,14,lumbroso,2026-10-25T00:43:47
+50237896,22,iPhone Duo Teardown,https://www.ifixit.com/News/119895/iphone-duo-teardown,ifixit.com,79,43,kripy,2026-10-26T01:23:24
+50233779,23,A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis,https://lynchlab.net/llm-skin-cancer,lynchlab.net,494,224,sungam,2026-10-25T17:15:38
+50185534,24,"Amazon's ""digital pacifier"" for toddlers",https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers,oligarchwatch.substack.com,128,194,jumploops,2026-10-21T18:37:48
+50225695,25,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,767,699,ltratt,2026-10-24T21:47:31
+50236102,26,OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?,https://minimaxir.com/2026/10/cheap-llms/,minimaxir.com,217,246,minimaxir,2026-10-25T21:11:31
+50213610,27,Making the Buddha Head from Merv Whole Again,https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/,getty.edu,30,0,laybak,2026-10-23T18:46:00
+50199199,28,Retired decorator's Pokémon cards sell for £1.5M,https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo,bbc.co.uk,26,18,HelloUsername,2026-10-22T18:25:40
+50234879,29,Where the Romans Fought (interactive map),https://iosiflazaridis.github.io/battles-of-the-romans/,iosiflazaridis.github.io,66,30,endorphine,2026-10-25T18:58:14
+50234232,30,Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop,https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/,theintercept.com,438,118,tdeck,2026-10-25T18:04:11
+50233929,31,I refuse to accept a censored Internet. Join Me at FOSDEM 27,https://talkweb.eu/openweb/4558/,talkweb.eu,430,207,Tomte,2026-10-25T17:30:55
+50231166,32,Active incident at Dreamhost forcing password reset,https://www.dreamhoststatus.com/,dreamhoststatus.com,136,57,greenchair,2026-10-25T13:09:16
+50218633,33,Root shell on Samsung TV,https://twitter.com/log4j/status/2113014142600953868?s=46,twitter.com,807,611,testing22321,2026-10-24T05:49:57
+50235316,34,Eunice is almost here,https://armincat.com/articles/eunice-is-almost-here,armincat.com,71,68,armcat,2026-10-25T19:40:27
+50237365,35,The Great Schlep: Israelis Are Flying Back to Vote,https://www.newyorker.com/news/the-lede/the-great-schlep,newyorker.com,7,0,firefax,2026-10-26T00:12:49
+50208628,36,Reverse engineering a Beyblade launch tracker,https://blog.simone.computer/reverse-beyblade-launch-tracker,blog.simone.computer,42,4,syx,2026-10-23T13:25:12
+50227330,37,Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English,https://huggingface.co/destined/hurston-1,huggingface.co,56,25,Gcarter08,2026-10-25T01:30:13
+50223435,38,"VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",https://www.youtube.com/watch?v=46wxttvq9qY,youtube.com,62,14,zdw,2026-10-24T17:42:08
+50237813,39,"Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",https://freehire.me/,freehire.me,7,0,i_strelov,2026-10-26T01:13:43
+50233438,40,UTS #39: Unicode Security Mechanisms,https://unicode.org/reports/tr39/,unicode.org,38,21,robin_reala,2026-10-25T16:40:37
+50234699,41,"AI didn't cause the tech jobs bust, but it explains why there's no recovery",https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs,vithushansylvester.com,35,16,hacker_v_s,2026-10-25T18:42:23
+50236748,42,Proton Flock Camera Map,https://proton.me/flock-camera-map,proton.me,97,20,cdrnsf,2026-10-25T22:39:42
+50196623,43,The U.S. Power Grid,https://nomagicpill.site/knowledge/powergrid.html,nomagicpill.site,85,25,surprisetalk,2026-10-22T15:20:04
+50195769,44,Recreate the Apollo Guidance Computer,https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/,raspberrypi.com,50,6,Brajeshwar,2026-10-22T14:21:17
+50239111,45,An Invisible Spirit,https://animationobsessive.substack.com/p/an-invisible-spirit,animationobsessive.substack.com,3,0,vinhnx,2026-10-26T04:26:40
+50237852,46,Cve.now: A Free Feed of Security Vulnerabilities for Agents,https://www.sazabi.com/blog/introducing-cve-now,sazabi.com,3,0,shcallaway,2026-10-26T01:18:43
+50233304,47,AI use leads UC Berkeley math professor to see 'no point' in grading homework,https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html,dailycal.org,210,306,romanhn,2026-10-25T16:28:26
+50202285,48,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,edjefferson.com,1683,253,sohkamyung,2026-10-22T23:01:18
+50233347,49,A mathematician reads the AI future,https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/,theatlantic.com,56,78,artninja1988,2026-10-25T16:31:21
+50233294,50,JetBrains Thinkrail,https://github.com/JetBrains/thinkrail,github.com,195,146,hmokiguess,2026-10-25T16:27:12
+50237773,51,"Show HN: RainbowSay – Learn, teach, research languages live with shows you love",https://rainbowsay.ai/,rainbowsay.ai,5,0,gigapotential,2026-10-26T01:08:13
+50180612,52,Chip Builder is a puzzle and strategy game that teaches you chip design,https://chipbuilder.org/,chipbuilder.org,26,7,laurentiurad,2026-10-21T13:28:54
+50235639,53,Focused Company Operating Principles,https://focused.io/operating-principles,focused.io,21,7,mooreds,2026-10-25T20:16:51
+50237680,54,Ask HN: Is it not possible to enroll for Apple Developer anymore?,https://news.ycombinator.com/item?id=50237680,news.ycombinator.com (Ask/Show HN),17,3,olalonde,2026-10-26T01:00:52
+50236828,55,Apollo says AI has delivered 'zero financial payoff' outside the tech industry,https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10,businessinsider.com,43,26,levzettelin,2026-10-25T22:49:06
+50230384,56,fheroes2: A recreation of Heroes of Might and Magic II game engine,https://github.com/ihhub/fheroes2,github.com,204,71,tosh,2026-10-25T11:09:12
+50234329,57,"All you need is Wide Events, not ""Metrics, Logs and Traces""",https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics,isburmistrov.substack.com,88,37,bootlegbilly,2026-10-25T18:11:38
+50238242,58,"U.S. birth rate drops to record low, but older women are having more babies",https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc,npr.org,13,0,pseudolus,2026-10-26T02:06:53
+50227356,59,Cerebras Deploys Trillion-Parameter AI Models,https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras,cerebras.ai,354,131,gmays,2026-10-25T01:33:49
+50235217,60,"Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/,arstechnica.com,178,40,_Microft,2026-10-25T19:29:16
