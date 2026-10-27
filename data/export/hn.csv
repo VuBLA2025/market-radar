@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50251344,1,"Three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,openai.com,673,291,jonluca,2026-10-26T21:35:28
-50251661,2,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,github.com,466,173,vok,2026-10-26T21:59:15
-50253529,3,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,github.com,56,3,doener,2026-10-27T01:15:04
-50245138,4,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,magazine.sebastianraschka.com,623,88,sgiannopoulos,2026-10-26T15:11:59
-50248055,5,Oldest GUI application that still runs on Windows 11,https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/,blog.enlyth.com,355,210,enlyth,2026-10-26T17:56:55
-50234707,6,"APC says let there be light, with standards to speed up photonics manufacturing",https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950,nextplatform.com,24,2,rbanffy,2026-10-25T18:43:01
-50248371,7,Type Server Protocol,https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md,github.com,216,146,adamnemecek,2026-10-26T18:14:49
-50252159,8,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),https://blog.cloudflare.com/kv-cache-exposure-remediation/,blog.cloudflare.com,103,33,wondersky,2026-10-26T22:41:48
-50245831,9,CSS-Tricks has a new owner,https://css-tricks.com/css-tricks-has-a-new-owner/,css-tricks.com,414,94,edent,2026-10-26T15:51:23
-50204697,10,A Printer Printing onto Paper,https://twitter.com/macrofying/status/2112904628509528219,twitter.com,89,23,MrBuddyCasino,2026-10-23T05:01:30
-50245385,11,Solar power is becoming bigger than nuclear,https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear,bbc.com,207,326,geox,2026-10-26T15:26:17
-50253939,12,I still teach OpenGL ES 3.0,https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html,eliasfarhan.ch,14,9,majorchord,2026-10-27T02:15:10
-50226808,13,Virtual and Real World Combine at LAN Party (1998),https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html,latimes.com,32,5,npunt,2026-10-25T00:07:19
-50247928,14,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,muratbuffalo.blogspot.com,148,71,aray07,2026-10-26T17:49:55
-50247493,15,Nietzschian Debugger,https://github.com/DilawarShafiq/nietzschian-debugger,github.com,149,50,dilawargopang,2026-10-26T17:25:30
-50243061,16,New iPad mini,https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/,apple.com,166,451,soheilpro,2026-10-26T13:13:36
-50242939,17,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,sec.gov,1541,1492,SiNTEx,2026-10-26T13:04:50
-50231041,18,LISPy things you can do in 64K bytes of core (2019),https://t3x.org/lisp64k/index.html,t3x.org,43,8,andsoitis,2026-10-25T12:53:47
-50248124,19,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,openai.com,555,347,meetpateltech,2026-10-26T18:01:17
-50200152,20,Blaise Pascal invented fixed route public transport (2024),https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,humantransit.org,275,144,skadamat,2026-10-22T19:52:50
-50232322,21,Historical Telecommunications,https://retronetworking.org/,retronetworking.org,8,1,jruohonen,2026-10-25T15:06:15
-50241664,22,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,brennenputh.me,309,186,bagatelle,2026-10-26T10:32:14
-50240465,23,How to grow a cacao tree at home,https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/,cocoterra.com,30,4,felipevb,2026-10-26T07:50:17
-50236681,24,SIMD-accelerated computer vision on a $2 microcontroller,https://shraiwi.com/blog/simd-fast-esp32s3/,shraiwi.com,191,57,zdw,2026-10-25T22:29:47
-50252008,25,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it,gregoryalexander.com,35,28,rmason,2026-10-26T22:27:17
-50245524,26,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,seattletimes.com,852,782,doctorzook,2026-10-26T15:35:12
-50241925,27,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,pharo.org,249,66,xkriva11,2026-10-26T11:15:50
-50209525,28,Diamond Transistor,https://www.df.com/diamond-transistor,df.com,141,78,Gravityloss,2026-10-23T14:20:15
-50213147,29,In Context [video],https://www.youtube.com/watch?v=P5eO7BNyJao,youtube.com,20,0,adityaathalye,2026-10-23T18:12:13
-50242870,30,Fixing Tool-Call Accuracy in vLLM,https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm,ubicloud.com,158,66,coffeemug,2026-10-26T12:59:48
-50213502,31,Native Prometheus Integration with Nginx,https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/,categorica.io,46,10,foxhill,2026-10-23T18:38:13
-50211780,32,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/,petapixel.com,48,73,thm,2026-10-23T16:41:41
-50246238,33,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",https://github.com/FrigadeHQ/hob,github.com,134,31,pancomplex,2026-10-26T16:12:29
-50249275,34,The EPA Is Quietly Killing Its Web Archive,https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/,motherjones.com,270,49,robtherobber,2026-10-26T19:05:41
-50254383,35,Micron Taiwan increasing salaries for factory workers by 2.7X,https://ec.ltn.com.tw/article/breakingnews/5619258,ec.ltn.com.tw,12,2,osnium123,2026-10-27T03:23:48
-50248665,36,US designates helium as a critical material,https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c,apnews.com,202,117,rbanffy,2026-10-26T18:31:39
-50238763,37,Behind the scenes at the NeXT Computer office,https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry,exhibits.stanford.edu,253,155,Austin_Conlon,2026-10-26T03:31:11
-50246658,38,Concerning behavior from a popular open-weight AI model,https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model,cohere.com,281,113,matthieu_bl,2026-10-26T16:35:44
-50215997,39,Birdwatching rewires the brain and slows cognitive decline,https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline,bbc.com,519,203,cisc,2026-10-23T22:04:55
-50209573,40,Colorfigures,https://april-zhu.com/colorfigures,april-zhu.com,137,20,the-mitr,2026-10-23T14:22:23
-50247630,41,ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems,https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/,404media.co,240,88,cdrnsf,2026-10-26T17:32:16
-50214967,42,World Wars I and II Military Aviation Museum Collection,https://www.militaryaviationmuseum.org/our-collection/,militaryaviationmuseum.org,37,12,NaOH,2026-10-23T20:35:40
-50253630,43,"The 'Buy, Borrow and Die' Wealth Strategy Has Become a $5T Market",https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d,wsj.com,29,7,tysone,2026-10-27T01:30:08
-50251896,44,Running Qwen3.8-Flash-Next NVFP4 at 184 tok/s on a single RTX 6000 Pro,https://meshapplied.com/blog/release-1,meshapplied.com,13,3,matteohorvath,2026-10-26T22:17:22
-50222794,45,An incremental approach to JIT construction,https://dl.acm.org/doi/10.1145/3830440.3832304,dl.acm.org,40,5,andsoitis,2026-10-24T16:27:18
-50249738,46,Magic state cultivation on a superconducting quantum processor,https://arxiv.org/abs/2512.13908,arxiv.org,15,1,kheal,2026-10-26T19:37:59
-50225695,47,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,889,766,ltratt,2026-10-24T21:47:31
-50220331,48,PhysicsForums and the Dead Internet Theory (2025),https://hallofdreams.org/posts/physicsforums/,hallofdreams.org,92,62,bmacho,2026-10-24T11:40:52
-50228115,49,Show HN: A Truly Modular Keyboard,https://github.com/notaroomba/keybytes,github.com,284,102,NotARoomba,2026-10-25T03:47:56
-50238739,50,"PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",https://github.com/KrushnaVardhanReddy/PaperPilot,github.com,230,83,vardhan1237,2026-10-26T03:29:05
-50209524,51,Reinventing the Pencil Sharpener [video],https://www.youtube.com/watch?v=0Gi5Z51KdUE,youtube.com,71,14,surprisetalk,2026-10-23T14:20:04
-50209278,52,Growing Trees,https://brashandplucky.com/2026/10/15/growing-trees.html,brashandplucky.com,195,26,ibobev,2026-10-23T14:07:42
-50237896,53,iPhone Duo Teardown,https://www.ifixit.com/News/119895/iphone-duo-teardown,ifixit.com,146,122,kripy,2026-10-26T01:23:24
-50221394,54,The Curse of Soldered RAM,https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/,blog.hardill.me.uk,112,145,gsky,2026-10-24T14:09:20
-50200957,55,Iron Age salt-mining complex found beneath Hallstatt in Austria,https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/,archaeologymag.com,136,62,janandonly,2026-10-22T21:00:14
-50244583,56,"Partyline: A group voice application for Reticulum, built on LXST",https://github.com/RFnexus/partyline,github.com,47,14,iamnothere,2026-10-26T14:42:24
-50244144,57,Prisoner loses challenge to an Australian state’s ban on inmates eating Vegemite,https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl,cnn.com,33,47,sumnole,2026-10-26T14:17:51
-50249872,58,"Neuron Explorer for Qwen3.5-4B: See every neuron at work, make targeted edits",https://github.com/lyramakesmusic/neuron-explorer,github.com,17,0,Schlagbohrer,2026-10-26T19:46:54
-50240922,59,Switzerland. Block by block. At 1:1 scale,https://blocks.manifold3d.ch/,blocks.manifold3d.ch,466,214,theanonymousone,2026-10-26T08:46:09
-50253512,60,Initial Support for the Apple M4 and Apple A18 Pro Make It into Linux 7.4,https://www.phoronix.com/news/Linux-7.4-SoCs,phoronix.com,16,0,doener,2026-10-27T01:13:03
+50251344,1,"Three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,openai.com,718,314,jonluca,2026-10-26T21:35:28
+50251661,2,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,github.com,501,185,vok,2026-10-26T21:59:15
+50254836,3,There are now 5 inference providers for abliterated DeepSeek,https://allmodels.io/llm/abliterated,allmodels.io,28,21,moeadham,2026-10-27T04:53:52
+50245138,4,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,magazine.sebastianraschka.com,644,91,sgiannopoulos,2026-10-26T15:11:59
+50248055,5,Oldest GUI application that still runs on Windows 11,https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/,blog.enlyth.com,370,215,enlyth,2026-10-26T17:56:55
+50253529,6,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,github.com,62,5,doener,2026-10-27T01:15:04
+50248371,7,Type Server Protocol,https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md,github.com,221,146,adamnemecek,2026-10-26T18:14:49
+50252159,8,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),https://blog.cloudflare.com/kv-cache-exposure-remediation/,blog.cloudflare.com,112,37,wondersky,2026-10-26T22:41:48
+50234707,9,"APC says let there be light, with standards to speed up photonics manufacturing",https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950,nextplatform.com,28,4,rbanffy,2026-10-25T18:43:01
+50245831,10,CSS-Tricks has a new owner,https://css-tricks.com/css-tricks-has-a-new-owner/,css-tricks.com,423,96,edent,2026-10-26T15:51:23
+50204697,11,A Printer Printing onto Paper,https://twitter.com/macrofying/status/2112904628509528219,twitter.com,99,24,MrBuddyCasino,2026-10-23T05:01:30
+50245385,12,Solar power is becoming bigger than nuclear,https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear,bbc.com,224,343,geox,2026-10-26T15:26:17
+50253939,13,I still teach OpenGL ES 3.0,https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html,eliasfarhan.ch,21,14,majorchord,2026-10-27T02:15:10
+50247493,14,Nietzschian Debugger,https://github.com/DilawarShafiq/nietzschian-debugger,github.com,154,50,dilawargopang,2026-10-26T17:25:30
+50243061,15,New iPad mini,https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/,apple.com,178,459,soheilpro,2026-10-26T13:13:36
+50247928,16,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,muratbuffalo.blogspot.com,154,75,aray07,2026-10-26T17:49:55
+50242939,17,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,sec.gov,1561,1500,SiNTEx,2026-10-26T13:04:50
+50226808,18,Virtual and Real World Combine at LAN Party (1998),https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html,latimes.com,37,5,npunt,2026-10-25T00:07:19
+50240465,19,How to grow a cacao tree at home,https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/,cocoterra.com,43,10,felipevb,2026-10-26T07:50:17
+50200152,20,Blaise Pascal invented fixed route public transport (2024),https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,humantransit.org,277,145,skadamat,2026-10-22T19:52:50
+50241664,21,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,brennenputh.me,312,187,bagatelle,2026-10-26T10:32:14
+50248124,22,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,openai.com,566,353,meetpateltech,2026-10-26T18:01:17
+50195812,23,Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes,https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/,lavik.dev,7,5,hubertzhang,2026-10-22T14:23:32
+50236681,24,SIMD-accelerated computer vision on a $2 microcontroller,https://shraiwi.com/blog/simd-fast-esp32s3/,shraiwi.com,194,57,zdw,2026-10-25T22:29:47
+50231041,25,LISPy things you can do in 64K bytes of core (2019),https://t3x.org/lisp64k/index.html,t3x.org,45,8,andsoitis,2026-10-25T12:53:47
+50245524,26,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,seattletimes.com,870,811,doctorzook,2026-10-26T15:35:12
+50241925,27,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,pharo.org,250,68,xkriva11,2026-10-26T11:15:50
+50252008,28,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it,gregoryalexander.com,36,29,rmason,2026-10-26T22:27:17
+50232322,29,Historical Telecommunications,https://retronetworking.org/,retronetworking.org,9,1,jruohonen,2026-10-25T15:06:15
+50254935,30,"UK to charge universities $1,200 per international student",https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe,africa.businessinsider.com,10,0,teleforce,2026-10-27T05:13:08
+50218975,31,Show HN: Encarta 95 Web,https://benwinding.github.io/encarta_95_web/#/article/Art,benwinding.github.io,77,43,gitgud,2026-10-24T07:18:37
+50241925,32,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,pharo.org,268,79,xkriva11,2026-10-26T11:15:50
+50245524,33,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,seattletimes.com,972,954,doctorzook,2026-10-26T15:35:12
+50231041,34,LISPy things you can do in 64K bytes of core (2019),https://t3x.org/lisp64k/index.html,t3x.org,64,13,andsoitis,2026-10-25T12:53:47
+50248124,35,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,openai.com,600,380,meetpateltech,2026-10-26T18:01:17
+50226808,36,Virtual and Real World Combine at LAN Party (1998),https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html,latimes.com,47,6,npunt,2026-10-25T00:07:19
+50196839,37,"Chemists, Chemical Engineers, and Plant Managers",https://www.seeingthesystem.com/p/chemists-chemical-engineers-and-plant,seeingthesystem.com,15,0,TinyBig,2026-10-22T15:32:59
+50242870,38,Fixing Tool-Call Accuracy in vLLM,https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm,ubicloud.com,166,68,coffeemug,2026-10-26T12:59:48
+50209525,39,Diamond Transistor,https://www.df.com/diamond-transistor,df.com,156,87,Gravityloss,2026-10-23T14:20:15
+50252008,40,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it,gregoryalexander.com,42,34,rmason,2026-10-26T22:27:17
+50211780,41,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/,petapixel.com,55,75,thm,2026-10-23T16:41:41
+50246238,42,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",https://github.com/FrigadeHQ/hob,github.com,149,34,pancomplex,2026-10-26T16:12:29
+50238763,43,Behind the scenes at the NeXT Computer office,https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry,exhibits.stanford.edu,258,155,Austin_Conlon,2026-10-26T03:31:11
+50257448,44,Microsoft offers to buy out a quarter of its workforce,https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/,arstechnica.com,6,0,tambourine_man,2026-10-27T11:20:27
+50225695,45,We should be more ambitious with the software we build,https://danluu.com/ambitious/,danluu.com,892,769,ltratt,2026-10-24T21:47:31
+50232322,46,Historical Telecommunications,https://retronetworking.org/,retronetworking.org,16,2,jruohonen,2026-10-25T15:06:15
+50215997,47,Birdwatching rewires the brain and slows cognitive decline,https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline,bbc.com,532,207,cisc,2026-10-23T22:04:55
+50213502,48,Native Prometheus Integration with Nginx,https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/,categorica.io,50,10,foxhill,2026-10-23T18:38:13
+50196212,49,New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients,https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients,sciencealert.com,77,54,gmays,2026-10-22T14:50:22
+50213147,50,In Context [video],https://www.youtube.com/watch?v=P5eO7BNyJao,youtube.com,28,2,adityaathalye,2026-10-23T18:12:13
+50249275,51,The EPA Is Quietly Killing Its Web Archive,https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/,motherjones.com,286,53,robtherobber,2026-10-26T19:05:41
+50255346,52,“AI Skills” are worthless in 2026,https://fishbowl.pastiche.org/2026/10/26/ai-skills,fishbowl.pastiche.org,31,14,saikatsg,2026-10-27T06:33:34
+50228115,53,Show HN: A Truly Modular Keyboard,https://github.com/notaroomba/keybytes,github.com,295,106,NotARoomba,2026-10-25T03:47:56
+50209573,54,Colorfigures,https://april-zhu.com/colorfigures,april-zhu.com,143,22,the-mitr,2026-10-23T14:22:23
+50248665,55,US designates helium as a critical material,https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c,apnews.com,217,130,rbanffy,2026-10-26T18:31:39
+50246658,56,Concerning behavior from a popular open-weight AI model,https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model,cohere.com,308,121,matthieu_bl,2026-10-26T16:35:44
+50238739,57,"PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",https://github.com/KrushnaVardhanReddy/PaperPilot,github.com,231,85,vardhan1237,2026-10-26T03:29:05
+50222794,58,An incremental approach to JIT construction,https://dl.acm.org/doi/10.1145/3830440.3832304,dl.acm.org,47,6,andsoitis,2026-10-24T16:27:18
+50247630,59,ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems,https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/,404media.co,251,91,cdrnsf,2026-10-26T17:32:16
+50220331,60,PhysicsForums and the Dead Internet Theory (2025),https://hallofdreams.org/posts/physicsforums/,hallofdreams.org,99,67,bmacho,2026-10-24T11:40:52
