@@ -991,6 +991,22 @@
     "avg_comments": 108.7,
     "top_domain": "arstechnica.com"
    }
+  },
+  {
+   "at": "2026-10-28T13:10:48+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 214.9,
+    "max_points": 1138,
+    "avg_comments": 113.2,
+    "top_domain": "arstechnica.com"
+   }
   }
  ]
 }
