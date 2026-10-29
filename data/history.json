@@ -1039,6 +1039,22 @@
     "avg_comments": 131.1,
     "top_domain": "reuters.com"
    }
+  },
+  {
+   "at": "2026-10-29T13:16:54+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 261.1,
+    "max_points": 1375,
+    "avg_comments": 132.8,
+    "top_domain": "artificialanalysis.ai"
+   }
   }
  ]
 }
