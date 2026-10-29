@@ -1055,6 +1055,22 @@
     "avg_comments": 132.8,
     "top_domain": "artificialanalysis.ai"
    }
+  },
+  {
+   "at": "2026-10-29T22:50:32+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 147.5,
+    "max_points": 1883,
+    "avg_comments": 81.3,
+    "top_domain": "github.com"
+   }
   }
  ]
 }
