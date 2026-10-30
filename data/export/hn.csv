@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50296470,1,Binance-hacker-1029 – $5.6B stolen from Binance,https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8,arkm.com,1032,620,Tiberium,2026-10-29T21:38:59
-50289418,2,We're releasing the weights of Mistral Large 4,https://mistral.ai/news/mistral-large-4-oss/,mistral.ai,1308,360,kuberwastaken,2026-10-29T14:13:21
-50270651,3,Astroterm: A Planetarium for Your Terminal,https://github.com/da-luce/astroterm,github.com,60,4,nvmdbljstm,2026-10-28T08:29:55
-50255343,4,Cuis: The Modern Smalltalk-80,https://cuis.st/,cuis.st,55,10,theanonymousone,2026-10-27T06:33:16
-50273104,5,I'm so bad at billiards that I ended up in the hyperbolic plane [video],https://www.youtube.com/watch?v=kL9BTbIGxLg,youtube.com,53,6,surprisetalk,2026-10-28T13:20:05
-50296486,6,We ran AI agent swarms in Minecraft and Mindustry,https://labs.ycombinator.com/projects/games/index.html,labs.ycombinator.com,240,82,sandslash,2026-10-29T21:40:28
-50298436,7,Herdr has released native app,https://github.com/herdrdev/herdr-app,github.com,105,72,cherioo,2026-10-30T00:42:41
-50295450,8,A tiny world model running games on a Raspberry Pi Pico 2 W,https://github.com/SheepSeb/tinyworldformer,github.com,174,10,airinei,2026-10-29T20:32:28
-50291054,9,H.264 Is Magic (2016),https://sidbala.com/h-264-is-magic/,sidbala.com,372,140,ea016,2026-10-29T15:53:03
-50290177,10,LLM Voice,https://martinfowler.com/bliki/LLM-Voice.html,martinfowler.com,407,212,ibobev,2026-10-29T14:57:55
-50298964,11,Pico CSS is no longer maintained,https://github.com/picocss/pico/discussions/754,github.com,89,22,henrid,2026-10-30T01:58:44
-50297697,12,Show HN: I Turned DOOM into a Transformer,https://github.com/mottopanikeiku/doomformer,github.com,64,16,falperc,2026-10-29T23:25:46
-50287919,13,DoorDash to acquire Instacart,https://about.doordash.com/en-us/news/doordash-to-acquire-instacart,about.doordash.com,461,628,WalterSobchak,2026-10-29T12:33:05
-50297089,14,"A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",https://journal.animationstudies.org/article/id/66/,journal.animationstudies.org,87,18,simonebrunozzi,2026-10-29T22:26:38
-50299182,15,CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation,https://www.penligent.ai/hackinglabs/cve-2026-98432/,penligent.ai,38,27,cobychapple,2026-10-30T02:33:04
-50291116,16,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,https://news.ycombinator.com/item?id=50291116,news.ycombinator.com (Ask/Show HN),59,16,shong0504,2026-10-29T15:56:32
-50294702,17,Patrick Stewart has died,https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html,nytimes.com,2693,568,j4mie,2026-10-29T19:41:39
-50296947,18,The Great American Rascal: Tom Sawyer at 150,https://claremontreviewofbooks.com/the-great-american-rascal/,claremontreviewofbooks.com,60,26,beatstop,2026-10-29T22:14:23
-50269668,19,Solving Postgres' Count Problem,https://www.paradedb.com/blog/opening-a-closed-tin-part-2,paradedb.com,19,0,philippemnoel,2026-10-28T05:34:16
-50255573,20,Python on My Wrist,https://tildeweb.nl/~michiel/python-on-my-wrist.html,tildeweb.nl,15,3,roywashere,2026-10-27T07:10:45
-50294506,21,"Show HN: Auto Dismiss Mac OS ""Allow <app> to find devices on local networks?""",https://github.com/johncassil/dontallow,github.com,120,91,johncassil,2026-10-29T19:27:44
-50295821,22,"ElementaryUI – Swift, in the Browser",https://elementary.codes,elementary.codes,86,19,frizlab,2026-10-29T20:56:39
-50299004,23,Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge,https://github.com/Millillion/lasm,github.com,21,3,lastmjs,2026-10-30T02:05:41
-50287775,24,If IPv4 were land,https://iptrust.co/blog/if-ipv4-were-land,iptrust.co,259,362,rokostik,2026-10-29T12:19:00
-50295868,25,Sylphide OS: a general-purpose OS for microcontroller-based computers,https://projects.freehackers.org/sylphide-os/,projects.freehackers.org,55,15,iamnothere,2026-10-29T20:59:55
-50298318,26,Cormac McCarthy's Library,https://cormacmccarthy.lib.utk.edu/,cormacmccarthy.lib.utk.edu,35,16,maitland,2026-10-30T00:31:00
-50267380,27,Historical Scientific Instruments,https://nealstephenson.substack.com/p/historical-scientific-instruments,nealstephenson.substack.com,29,1,peteforde,2026-10-27T23:32:35
-50286197,28,What we know so far about Spain train crash,https://www.bbc.com/news/articles/cm8xz7pkd0jjo,bbc.com,175,332,ZeljkoS,2026-10-29T08:55:08
-50274547,29,"Keep the changelog, avoid the conflicts",https://devenv.sh/blog/2026/10/28/keep-the-changelog-avoid-the-conflicts/,devenv.sh,5,1,domenkozar,2026-10-28T14:45:58
-50249598,30,Iterating Backwards in C,https://www.davidpriver.com/Iterating-backwards-in-C.html,davidpriver.com,77,42,cremno,2026-10-26T19:28:19
-50271521,31,Study: Schoolwide phone bans show no significant impact on mental health,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858,jamanetwork.com,55,49,giuliomagnifico,2026-10-28T10:49:06
-50287599,32,NetBSD adds a new text editor called atto,https://mastodon.sdf.org/@netbsd/117518160563539748,mastodon.sdf.org,170,138,luke8086,2026-10-29T11:59:01
-50290283,33,Zombie stats: Where the numbers AI quotes come from,https://trakkr.ai/trakkr-research/zombie-stats,trakkr.ai,155,66,mektrik,2026-10-29T15:06:17
-50294486,34,IgE disruptor for food allergy with Claude-enabled antibody design [pdf],https://divergencelabs.com/publications/ige-preprint.pdf,divergencelabs.com,44,35,matco11,2026-10-29T19:25:48
-50249598,35,Iterating Backwards in C,https://www.davidpriver.com/Iterating-backwards-in-C.html,davidpriver.com,78,43,cremno,2026-10-26T19:28:19
-50296585,36,El Niño is flooding California's coasts with the highest tides to come,https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574,gizmodo.com,118,51,gumby,2026-10-29T21:48:35
-50290912,37,Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks,https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler,skypilot.ai,135,21,wondersky,2026-10-29T15:45:05
-50298721,38,Tracks along the longest drive on another world,https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/,science.nasa.gov,11,0,shcallaway,2026-10-30T01:19:02
-50296920,39,Should a medical diagnosis reshape the past? (2025),https://chengela.substack.com/p/should-a-medical-diagnosis-reshape,chengela.substack.com,30,2,wyndham,2026-10-29T22:12:29
-50299212,40,AGI Economics: Coordination vs. Competence,https://institute.deepmind.com/essays/the-economics-of-intelligence/,institute.deepmind.com,5,0,simonpure,2026-10-30T02:36:33
-50293047,41,Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang,https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/,nypost.com,310,216,mgh2,2026-10-29T17:43:48
-50280722,42,The case of the 9 bit AES key,https://v12.sh/blog/the-case-of-the-9bit-aes-key,v12.sh,135,70,ledoge,2026-10-28T20:51:44
-50285154,43,"We won't ""just hang out""",https://borretti.me/article/we-wont-just-hang-out,borretti.me,168,280,barry-cotter,2026-10-29T06:20:06
-50264368,44,Partitioning my digital life into security domains (2011),https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html,blog.invisiblethings.org,38,4,mashally,2026-10-27T19:21:00
-50278678,45,Show HN: A proof-of-concept formalization of the IRS federal tax forms,https://github.com/emmilco/us-tax-model,github.com,68,12,RGS1811,2026-10-28T18:30:53
-50278645,46,noalloc: Tooling and libraries to enforce zero heap allocations in Golang,https://github.com/theconsensuslabs/noalloc,github.com,75,46,g0xA52A2A,2026-10-28T18:29:25
-50247342,47,The tragedy of losing your Wikipedia page,https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/,wired.com,55,92,tptacek,2026-10-26T17:15:58
-50282538,48,The first wired XR glasses powered by Android XR,https://blog.google/products-and-platforms/platforms/android/xreal-aura/,blog.google,95,92,yincrash,2026-10-28T23:45:19
-50287448,49,How Google determines the names for bodies of water in Google Earth (2008),https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html,publicpolicy.googleblog.com,225,181,terminalbraid,2026-10-29T11:41:18
-50285452,50,"Zero click, silent, remote Android DoS",https://smsofdeath.com/,smsofdeath.com,316,182,MarkBlah,2026-10-29T07:08:50
-50289590,51,Keplearn: Extract Equations from Data in Seconds,https://github.com/owls-on-wires/keplearn,github.com,93,11,owls-on-wires,2026-10-29T14:22:53
-50243757,52,Getting debug access on a Brother printer over Telnet,https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/,inventor7777.github.io,170,55,inventor7777,2026-10-26T13:54:39
-50255161,53,Edit an SQLite database in your browser,https://editsqlite.com/,editsqlite.com,67,33,chmaynard,2026-10-27T05:59:07
-50286987,54,"Chained PHP2Shell exploit roots 25 servers, including US Government servers",https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers,dreamgroup.com,309,153,882542F3884314B,2026-10-29T10:42:41
-50290668,55,I went to Mexico to test-drive the cars Americans can’t buy,https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/,washingtonpost.com,292,339,bookofjoe,2026-10-29T15:30:22
-50292233,56,Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic,https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468,vut.cz,164,17,armcat,2026-10-29T16:56:54
-50242509,57,Java's new AOT cache feature is in a rough state,https://xpipe.io/blog/java-aot-cache,xpipe.io,85,35,theanonymousone,2026-10-26T12:27:44
-50282454,58,StackOverflow now gets fewer than 1000 questions a month,https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1,data.stackexchange.com,777,696,babelfish,2026-10-28T23:35:02
-50276998,59,Why is this fingerprinting script creating bioweapons?,https://nullpt.rs/fingerprinting-bioweapons,nullpt.rs,1543,295,hazebooth,2026-10-28T17:13:29
-50293115,60,"Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",https://github.com/lonthq/overtone-captions,github.com,39,3,rvanderlinden,2026-10-29T17:48:17
+50301462,1,elect.horse,https://elect.horse/,elect.horse,214,49,solarist,2026-10-30T09:14:34
+50302334,2,Backdoors in official Claude Code extensions,https://cyberplace.social/@GossiTheDog/117528831681803563,cyberplace.social,372,104,dsr_,2026-10-30T11:05:53
+50301854,3,Azure's Weakest Link – Five Full Cross-Tenant Compromises,https://www.binarysecurity.no/posts/2026/10/one-root-case,binarysecurity.no,65,1,swq115,2026-10-30T10:06:15
+50296470,4,Binance-hacker-1029 – $5.6B stolen from Binance,https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8,arkm.com,1525,1004,Tiberium,2026-10-29T21:38:59
+50289418,5,We're releasing the weights of Mistral Large 4,https://mistral.ai/news/mistral-large-4-oss/,mistral.ai,1562,410,kuberwastaken,2026-10-29T14:13:21
+50301983,6,Anthropic hacked to deliver remote access trojan,https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2,doublepulsar.com,242,41,bashtoni,2026-10-30T10:22:51
+50301717,7,How Do You Take a Picture of a Black Hole?,https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/,quantamagazine.org,36,26,dverlaeckt80,2026-10-30T09:49:02
+50302814,8,US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech,https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead,progressives.house.gov,32,16,DeepLogin,2026-10-30T12:08:00
+50263127,9,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times,theguardian.com,88,24,benbreen,2026-10-27T17:54:57
+50251070,10,"Why a program doesn't work when run from a batch file, but works when clicked",https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/,devblogs.microsoft.com,48,11,ibobev,2026-10-26T21:14:43
+50298436,11,Herdr has released native app,https://github.com/herdrdev/herdr-app,github.com,259,173,cherioo,2026-10-30T00:42:41
+50273104,12,I'm so bad at billiards that I ended up in the hyperbolic plane [video],https://www.youtube.com/watch?v=kL9BTbIGxLg,youtube.com,170,28,surprisetalk,2026-10-28T13:20:05
+50296486,13,We ran AI agent swarms in Minecraft and Mindustry,https://labs.ycombinator.com/projects/games/index.html,labs.ycombinator.com,325,128,sandslash,2026-10-29T21:40:28
+50273504,14,Finding Panics with Call Graph Analyzer,https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/,tweedegolf.nl,9,0,ndr,2026-10-28T13:48:26
+50270651,15,Astroterm: A Planetarium for Your Terminal,https://github.com/da-luce/astroterm,github.com,172,17,nvmdbljstm,2026-10-28T08:29:55
+50300643,16,Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe,https://www.workatastartup.com/jobs/98722,workatastartup.com,0,0,,2026-10-30T07:00:35
+50255343,17,Cuis: The Modern Smalltalk-80,https://cuis.st/,cuis.st,146,17,theanonymousone,2026-10-27T06:33:16
+50291054,18,H.264 Is Magic (2016),https://sidbala.com/h-264-is-magic/,sidbala.com,465,153,ea016,2026-10-29T15:53:03
+50295450,19,A tiny world model running games on a Raspberry Pi Pico 2 W,https://github.com/SheepSeb/tinyworldformer,github.com,238,16,airinei,2026-10-29T20:32:28
+50273340,20,Artificial Analysis v5 and the benchmarker's dilemma,https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers,interconnects.ai,35,25,6thbit,2026-10-28T13:38:04
+50297697,21,Show HN: I Turned DOOM into a Transformer,https://github.com/mottopanikeiku/doomformer,github.com,109,34,falperc,2026-10-29T23:25:46
+50298318,22,Cormac McCarthy's Library,https://cormacmccarthy.lib.utk.edu/,cormacmccarthy.lib.utk.edu,74,26,maitland,2026-10-30T00:31:00
+50290177,23,LLM Voice,https://martinfowler.com/bliki/LLM-Voice.html,martinfowler.com,514,275,ibobev,2026-10-29T14:57:55
+50255573,24,Python on My Wrist,https://tildeweb.nl/~michiel/python-on-my-wrist.html,tildeweb.nl,65,8,roywashere,2026-10-27T07:10:45
+50291116,25,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,https://news.ycombinator.com/item?id=50291116,news.ycombinator.com (Ask/Show HN),73,26,shong0504,2026-10-29T15:56:32
+50287775,26,If IPv4 were land,https://iptrust.co/blog/if-ipv4-were-land,iptrust.co,303,422,rokostik,2026-10-29T12:19:00
+50266956,27,An illustrated online book on Hewlett-Packard equipment,https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/,blog.adafruit.com,33,6,sohkamyung,2026-10-27T22:47:41
+50297089,28,"A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",https://journal.animationstudies.org/article/id/66/,journal.animationstudies.org,134,33,simonebrunozzi,2026-10-29T22:26:38
+50296920,29,Should a medical diagnosis reshape the past? (2025),https://chengela.substack.com/p/should-a-medical-diagnosis-reshape,chengela.substack.com,54,11,wyndham,2026-10-29T22:12:29
+50298964,30,Pico CSS is no longer maintained,https://github.com/picocss/pico/discussions/754,github.com,168,79,henrid,2026-10-30T01:58:44
+50286197,31,What we know so far about Spain train crash,https://www.bbc.com/news/articles/cm8xz7pkd0jjo,bbc.com,227,407,ZeljkoS,2026-10-29T08:55:08
+50294702,32,Patrick Stewart has died,https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html,nytimes.com,3132,671,j4mie,2026-10-29T19:41:39
+50302407,33,"Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",https://www.youtube.com/watch?v=MENoB3Rex28,youtube.com,13,12,frag,2026-10-30T11:16:15
+50303172,34,The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes,https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/,wired.com,6,0,domhudson,2026-10-30T12:50:01
+50295821,35,"ElementaryUI – Swift, in the Browser",https://elementary.codes,elementary.codes,111,32,frizlab,2026-10-29T20:56:39
+50294506,36,"Show HN: Auto Dismiss Mac OS ""Allow <app> to find devices on local networks?""",https://github.com/johncassil/dontallow,github.com,146,110,johncassil,2026-10-29T19:27:44
+50300683,37,Official Claude Code extension compromise,https://phorion.io/blog/offical-claude-code-vsx-compromise/,phorion.io,27,5,_chall,2026-10-30T07:09:12
+50267380,38,Historical Scientific Instruments,https://nealstephenson.substack.com/p/historical-scientific-instruments,nealstephenson.substack.com,49,4,peteforde,2026-10-27T23:32:35
+50287599,39,NetBSD adds a new text editor called atto,https://mastodon.sdf.org/@netbsd/117518160563539748,mastodon.sdf.org,184,146,luke8086,2026-10-29T11:59:01
+50291421,40,16colo.rs – ANSI/ASCII art archive,https://16colo.rs/,16colo.rs,132,10,memalign,2026-10-29T16:14:28
+50290283,41,Zombie stats: Where the numbers AI quotes come from,https://trakkr.ai/trakkr-research/zombie-stats,trakkr.ai,169,67,mektrik,2026-10-29T15:06:17
+50296947,42,The Great American Rascal: Tom Sawyer at 150,https://claremontreviewofbooks.com/the-great-american-rascal/,claremontreviewofbooks.com,75,43,beatstop,2026-10-29T22:14:23
+50280722,43,The case of the 9 bit AES key,https://v12.sh/blog/the-case-of-the-9bit-aes-key,v12.sh,141,72,ledoge,2026-10-28T20:51:44
+50295868,44,Sylphide OS: a general-purpose OS for microcontroller-based computers,https://projects.freehackers.org/sylphide-os/,projects.freehackers.org,70,18,iamnothere,2026-10-29T20:59:55
+50299004,45,Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge,https://github.com/Millillion/lasm,github.com,32,18,lastmjs,2026-10-30T02:05:41
+50290912,46,Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks,https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler,skypilot.ai,141,21,wondersky,2026-10-29T15:45:05
+50285154,47,"We won't ""just hang out""",https://borretti.me/article/we-wont-just-hang-out,borretti.me,193,314,barry-cotter,2026-10-29T06:20:06
+50282538,48,The first wired XR glasses powered by Android XR,https://blog.google/products-and-platforms/platforms/android/xreal-aura/,blog.google,102,97,yincrash,2026-10-28T23:45:19
+50294486,49,IgE disruptor for food allergy with Claude-enabled antibody design [pdf],https://divergencelabs.com/publications/ige-preprint.pdf,divergencelabs.com,50,38,matco11,2026-10-29T19:25:48
+50269668,50,Solving Postgres' Count Problem,https://www.paradedb.com/blog/opening-a-closed-tin-part-2,paradedb.com,37,3,philippemnoel,2026-10-28T05:34:16
+50287919,51,DoorDash to acquire Instacart,https://about.doordash.com/en-us/news/doordash-to-acquire-instacart,about.doordash.com,474,633,WalterSobchak,2026-10-29T12:33:05
+50243757,52,Getting debug access on a Brother printer over Telnet,https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/,inventor7777.github.io,179,57,inventor7777,2026-10-26T13:54:39
+50285452,53,"Zero click, silent, remote Android DoS",https://smsofdeath.com/,smsofdeath.com,323,185,MarkBlah,2026-10-29T07:08:50
+50293047,54,Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang,https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/,nypost.com,336,227,mgh2,2026-10-29T17:43:48
+50247342,55,The tragedy of losing your Wikipedia page,https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/,wired.com,64,98,tptacek,2026-10-26T17:15:58
+50276998,56,Why is this fingerprinting script creating bioweapons?,https://nullpt.rs/fingerprinting-bioweapons,nullpt.rs,1562,298,hazebooth,2026-10-28T17:13:29
+50299790,57,Deterministic Factoring in Time N^O(1),https://hexagonmath.org/2610.00600v1,hexagonmath.org,13,1,one-punch,2026-10-30T04:11:46
+50299212,58,AGI Economics: Coordination vs. Competence,https://institute.deepmind.com/essays/the-economics-of-intelligence/,institute.deepmind.com,18,4,simonpure,2026-10-30T02:36:33
+50282454,59,StackOverflow now gets fewer than 1000 questions a month,https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1,data.stackexchange.com,796,718,babelfish,2026-10-28T23:35:02
+50278678,60,Show HN: A proof-of-concept formalization of the IRS federal tax forms,https://github.com/emmilco/us-tax-model,github.com,78,13,RGS1811,2026-10-28T18:30:53
