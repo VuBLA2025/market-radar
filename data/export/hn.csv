@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50311686,1,"Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",https://tng.episodle.com/,tng.episodle.com,143,42,francisofascii,2026-10-30T23:51:24
-50307190,2,My favourite PowerMac is a Nintendo Wii,https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/,virtuallyfun.com,272,77,DHowett,2026-10-30T17:25:15
-50312756,3,Tell HN: Scribd Breached,https://news.ycombinator.com/item?id=50312756,news.ycombinator.com (Ask/Show HN),107,35,x______________,2026-10-31T02:46:36
-50277379,4,Cloudflare Turnstile solver library (no headless browser required),https://github.com/chris124567/cfsolve,github.com,145,41,costco,2026-10-28T17:29:23
-50305025,5,Northflank Breached,https://status.northflank.com,status.northflank.com,404,299,js4ever,2026-10-30T15:10:31
-50312922,6,OpenAI raises less than half of $30B target,https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5,wsj.com,108,59,timr,2026-10-31T03:22:44
-50303172,7,The $6.3B Binance hack was pulled off in just 20 minutes,https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/,wired.com,388,266,domhudson,2026-10-30T12:50:01
-50263837,8,Breaking the open web won't stop the bad bots,https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/,techpolicy.press,225,104,raybb,2026-10-27T18:42:55
-50306442,9,Show HN: A working Nintendo in ~1GB of Qwen weights,https://github.com/dbreunig/nesformer,github.com,226,118,dbreunig,2026-10-30T16:40:22
-50309266,10,The oldest ice disappears and the Stone Age emerges from it,https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921,sciencenorway.no,122,50,dxs,2026-10-30T19:51:33
-50274885,11,Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death,https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397,jacc.org,10,4,brandonb,2026-10-28T15:04:12
-50310398,12,"sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",https://www.firezone.dev/blog/introducing-sanstun,firezone.dev,99,17,wh33zle,2026-10-30T21:30:00
-50309029,13,Infinite Mac: BeOS,https://blog.persistent.info/2026/10/infinite-mac-beos.html,blog.persistent.info,135,56,ecliptik,2026-10-30T19:30:09
-50305637,14,Florilegium: Procedural Flowers in LaTeX,https://github.com/kevinraymond/florilegium,github.com,238,43,nanna,2026-10-30T15:48:12
-50289081,15,Brief History of PDP Computers,https://entropicthoughts.com/history-of-pdp-computers,entropicthoughts.com,6,0,ibobev,2026-10-29T13:53:33
-50276613,16,Double Buffering with Cloudflare Queues,https://bellone.com/technical/double-buffering-with-cloudflare-queues,bellone.com,18,2,b_llc,2026-10-28T16:48:23
-50309314,17,Jules Verne's Lost Novel,https://blue-continuum.com/verne-paris,blue-continuum.com,96,19,dnetesn,2026-10-30T19:55:10
-50312739,18,Flock camera searches fell 95% after a dispatcher's misconduct was caught,https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e,wkyc.com,63,6,MilnerRoute,2026-10-31T02:42:02
-50305573,19,The federated code forge,https://tangled.org/blog/forge/,tangled.org,259,82,zlliang,2026-10-30T15:44:29
-50300683,20,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,https://phorion.io/blog/offical-claude-code-vsx-compromise/,phorion.io,856,512,_chall,2026-10-30T07:09:12
-50301854,21,Azure's Weakest Link – Five Full Cross-Tenant Compromises,https://www.binarysecurity.no/posts/2026/10/one-root-case,binarysecurity.no,290,56,swq115,2026-10-30T10:06:15
-50309647,22,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/,bostonglobe.com,270,148,apress,2026-10-30T20:23:30
-50304122,23,Cisco gives engineer unlimited AI tokens to rewrite legacy code,https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/,fortune.com,142,183,taubek,2026-10-30T14:08:20
-50276355,24,Trapped in the Technologist Factory,https://ideolalia.com/essays/trapped-in-the-technologist-factory.html,ideolalia.com,20,7,luu,2026-10-28T16:30:38
-50293437,25,Turning a solar power system into its own backup,https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/,arstechnica.com,44,15,PaulHoule,2026-10-29T18:10:33
-50296730,26,Building an AI-native engineering org,https://twitter.com/sgondala2/status/2115832070274723875,twitter.com,131,168,sgondala_ycapp,2026-10-29T21:58:34
-50258496,27,Tree-mounted machines connect to web app to let users knock on wood remotely,https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/,designboom.com,80,33,surprisetalk,2026-10-27T13:00:04
-50272479,28,Sleep framework: A new way for LLMs to retain knowledge in continual learning,https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/,research.google,198,22,acossta,2026-10-28T12:24:25
-50305693,29,"AI isn't replacing SREs, it's deskilling them",https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling,newsletter.signoz.io,549,410,dorianniemiec,2026-10-30T15:52:18
-50277518,30,Wonderful Weather: Floods and Foreboding in 17th-Century Britain,https://publicdomainreview.org/essay/wonderful-weather/,publicdomainreview.org,16,0,Thevet,2026-10-28T17:34:59
-50301717,31,How do you take a picture of a black hole?,https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/,quantamagazine.org,91,69,dverlaeckt80,2026-10-30T09:49:02
-50291812,32,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,https://github.com/arterialist/kube32,github.com,32,2,Arterialist,2026-10-29T16:35:14
-50310258,33,AO3 Down for Maintenance,https://www.otwstatus.org,otwstatus.org,117,34,idlewords,2026-10-30T21:17:23
-50310687,34,Linode Security Incident,https://status.linode.com/incidents/nt58zhx3pmgm,status.linode.com,176,98,lacoolj,2026-10-30T21:57:40
-50263127,35,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times,theguardian.com,196,55,benbreen,2026-10-27T17:54:57
-50289418,36,We're releasing the weights of Mistral Large 4,https://mistral.ai/news/mistral-large-4-oss/,mistral.ai,1688,435,kuberwastaken,2026-10-29T14:13:21
-50251070,37,"Why a program doesn't work when run from a batch file, but works when clicked",https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/,devblogs.microsoft.com,129,73,ibobev,2026-10-26T21:14:43
-50305218,38,Show HN: Sketch Stadium – watch your agent play Pictionary,https://sketch.wakeshift.ai/games/q5ucru,sketch.wakeshift.ai,31,9,ericlevine,2026-10-30T15:23:11
-50308986,39,A Pickpocket's Guide to New York,https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york,newyorker.com,70,8,prismatic,2026-10-30T19:26:39
-50296486,40,We ran AI agent swarms in Minecraft and Mindustry,https://labs.ycombinator.com/projects/games/index.html,labs.ycombinator.com,400,165,sandslash,2026-10-29T21:40:28
-50308697,41,Bunny CDN Security Incident,https://status.bunny.net/incidents/p6gf1by9kr7m,status.bunny.net,212,40,SondreDag,2026-10-30T19:05:22
-50298721,42,Tracks along the longest drive on another world,https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/,science.nasa.gov,55,7,shcallaway,2026-10-30T01:19:02
-50313257,43,Britain Narrowly Escaped a Grid Blackout in June 2026,https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/,hackaday.com,5,1,sohkamyung,2026-10-31T04:38:44
-50273104,44,I'm so bad at billiards that I ended up in the hyperbolic plane [video],https://www.youtube.com/watch?v=kL9BTbIGxLg,youtube.com,240,37,surprisetalk,2026-10-28T13:20:05
-50296947,45,The Great American Rascal: Tom Sawyer at 150,https://claremontreviewofbooks.com/the-great-american-rascal/,claremontreviewofbooks.com,87,50,beatstop,2026-10-29T22:14:23
-50270651,46,Astroterm: A Planetarium for Your Terminal,https://github.com/da-luce/astroterm,github.com,230,27,nvmdbljstm,2026-10-28T08:29:55
-50312174,47,Tell HN: X is opening any tweet link in a webview whether you press it or not,https://news.ycombinator.com/item?id=50312174,news.ycombinator.com (Ask/Show HN),20,1,stillatit,2026-10-31T00:58:26
-50300643,48,Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe,https://www.workatastartup.com/jobs/98722,workatastartup.com,0,0,,2026-10-30T07:00:35
-50246538,49,Compile-Time Dependent Types,https://thenumb.at/Syl-Intro/,thenumb.at,69,22,ibobev,2026-10-26T16:28:06
-50273504,50,Finding Panics with Call Graph Analyzer,https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/,tweedegolf.nl,64,3,ndr,2026-10-28T13:48:26
-50305724,51,Some Thing is Happening A note from the AI companies,https://alanbellows.com/some-thing-is-happening/,alanbellows.com,34,8,DamnInteresting,2026-10-30T15:53:42
-50307723,52,"GitHub Incident with Actions, Pages, and Webhooks",https://www.githubstatus.com/incidents/pwxsjgnvrk6b,githubstatus.com,147,61,damontal,2026-10-30T17:57:35
-50268478,53,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),https://arxiv.org/abs/2610.36341,arxiv.org,31,0,abrax3141,2026-10-28T02:01:51
-50310431,54,Wall Street closes sharply lower as AI cash burn fears spark tech selloff,https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/,reuters.com,52,8,geox,2026-10-30T21:32:35
-50255343,55,Cuis: The Modern Smalltalk-80,https://cuis.st/,cuis.st,174,27,theanonymousone,2026-10-27T06:33:16
-50307219,56,"Anthropic may not secure investment-grade rating after IPO, Blackstone says",https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f,ft.com,301,248,petethomas,2026-10-30T17:27:25
-50244486,57,Commodore 1600 VICmodem,https://dfarq.homeip.net/commodore-1600-vicmodem/,dfarq.homeip.net,50,20,ibobev,2026-10-26T14:37:17
-50312858,58,Go programs are vulnerable to CVE-2026-98432 (Linux RCE),https://groups.google.com/g/golang-announce/c/PCoQcdxoScw?pli=1,groups.google.com,7,0,dcu,2026-10-31T03:07:32
-50311505,59,The 'Moylan Arrow' Is One of Ford's Best Contributions to Car Design,https://www.thedrive.com/news/the-moylan-arrow-is-one-of-fords-best-contributions-to-car-design,thedrive.com,20,0,thunderbong,2026-10-30T23:30:57
-50305225,60,Polymarket 1h halt after vendor compromise; affected users will be 'made whole',https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405,nbcnews.com,111,43,theanonymousone,2026-10-30T15:23:41
+50314654,1,Serbia just elected the world's brainiest parliament,https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament,science.org,289,175,input_sh,2026-10-31T10:21:30
+50314666,2,Molly(Signal fork) has not been updated since 3 months and is vulnerable,https://piefed.world/post/1503394,piefed.world,59,20,DeepLogin,2026-10-31T10:23:41
+50314085,3,Switch Lowering in GCC,https://xoranth.net/gcc-switch/,xoranth.net,93,16,signa11,2026-10-31T08:02:26
+50314699,4,We Took over ChatGPT Accounts,https://www.parameter.ai/labs/we-found-a-gap-at-openai,parameter.ai,41,24,armcat,2026-10-31T10:30:11
+50260753,5,"Show HN: Marelleo, an open-source story box I built for my kids using ESP32",https://zebra.rodeo/en/blog/marelleo/,zebra.rodeo,93,27,foOg,2026-10-27T15:24:36
+50313661,6,Digital Minimalism,https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html,vitalik.eth.limo,95,62,wilbertliu,2026-10-31T06:16:36
+50290652,7,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",https://thedataexchange.media/leo-de-moura-lean-aws/,thedataexchange.media,68,14,datascientist,2026-10-29T15:29:48
+50307190,8,My favourite PowerMac is a Nintendo Wii,https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/,virtuallyfun.com,324,95,DHowett,2026-10-30T17:25:15
+50303172,9,The $6.3B Binance hack was pulled off in just 20 minutes,https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/,wired.com,485,338,domhudson,2026-10-30T12:50:01
+50277379,10,Cloudflare Turnstile solver library (no headless browser required),https://github.com/chris124567/cfsolve,github.com,241,72,costco,2026-10-28T17:29:23
+50305025,11,Northflank Breached,https://status.northflank.com,status.northflank.com,449,322,js4ever,2026-10-30T15:10:31
+50263837,12,Breaking the open web won't stop the bad bots,https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/,techpolicy.press,278,124,raybb,2026-10-27T18:42:55
+50312756,13,Tell HN: Scribd Breached,https://news.ycombinator.com/item?id=50312756,news.ycombinator.com (Ask/Show HN),254,98,x______________,2026-10-31T02:46:36
+50314872,14,Shiny Object Syndrome,https://en.wikipedia.org/wiki/Shiny_object_syndrome,en.wikipedia.org,24,11,janisz,2026-10-31T11:02:14
+50309266,15,The oldest ice disappears and the Stone Age emerges from it,https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921,sciencenorway.no,163,64,dxs,2026-10-30T19:51:33
+50305637,16,Florilegium: Procedural Flowers in LaTeX,https://github.com/kevinraymond/florilegium,github.com,303,48,nanna,2026-10-30T15:48:12
+50306442,17,Show HN: A working Nintendo in ~1GB of Qwen weights,https://github.com/dbreunig/nesformer,github.com,260,127,dbreunig,2026-10-30T16:40:22
+50300683,18,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,https://phorion.io/blog/offical-claude-code-vsx-compromise/,phorion.io,917,535,_chall,2026-10-30T07:09:12
+50274885,19,Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death,https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397,jacc.org,42,20,brandonb,2026-10-28T15:04:12
+50304122,20,Cisco gives engineer unlimited AI tokens to rewrite legacy code,https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/,fortune.com,212,262,taubek,2026-10-30T14:08:20
+50305573,21,The federated code forge,https://tangled.org/blog/forge/,tangled.org,298,87,zlliang,2026-10-30T15:44:29
+50300151,22,Keeping the Bonfires Lit,https://www.historytoday.com/archive/out-margins/keeping-bonfires-lit,historytoday.com,5,0,Petiver,2026-10-30T05:24:51
+50301854,23,Azure's Weakest Link – Five Full Cross-Tenant Compromises,https://www.binarysecurity.no/posts/2026/10/one-root-case,binarysecurity.no,316,58,swq115,2026-10-30T10:06:15
+50311686,24,"Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",https://tng.episodle.com/,tng.episodle.com,200,57,francisofascii,2026-10-30T23:51:24
+50309314,25,Jules Verne's Lost Novel,https://blue-continuum.com/verne-paris,blue-continuum.com,123,30,dnetesn,2026-10-30T19:55:10
+50309029,26,Infinite Mac: BeOS,https://blog.persistent.info/2026/10/infinite-mac-beos.html,blog.persistent.info,169,102,ecliptik,2026-10-30T19:30:09
+50289081,27,Brief History of PDP Computers,https://entropicthoughts.com/history-of-pdp-computers,entropicthoughts.com,37,15,ibobev,2026-10-29T13:53:33
+50314243,28,How long do you need to hold down the power button to turn off a PC?,https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/,osnews.com,41,7,Arodex,2026-10-31T08:43:32
+50276613,29,Double Buffering with Cloudflare Queues,https://bellone.com/technical/double-buffering-with-cloudflare-queues,bellone.com,50,5,b_llc,2026-10-28T16:48:23
+50276355,30,Trapped in the Technologist Factory,https://ideolalia.com/essays/trapped-in-the-technologist-factory.html,ideolalia.com,50,16,luu,2026-10-28T16:30:38
+50310398,31,"Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",https://www.firezone.dev/blog/introducing-sanstun,firezone.dev,140,37,wh33zle,2026-10-30T21:30:00
+50296730,32,Building an AI-native engineering org,https://twitter.com/sgondala2/status/2115832070274723875,twitter.com,166,185,sgondala_ycapp,2026-10-29T21:58:34
+50269045,33,Sneezecount (2018),https://sneezecount.joyfeed.com,sneezecount.joyfeed.com,8,4,NaOH,2026-10-28T03:31:07
+50309647,34,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/,bostonglobe.com,331,191,apress,2026-10-30T20:23:30
+50292931,35,What's on That Access Port?,https://danielmangum.com/posts/whats-on-that-access-port/,danielmangum.com,4,0,hasheddan,2026-10-29T17:35:57
+50315047,36,French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026,assemblee-nationale.fr,75,82,helloplanets,2026-10-31T11:28:46
+50272479,37,Sleep framework: A new way for LLMs to retain knowledge in continual learning,https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/,research.google,233,34,acossta,2026-10-28T12:24:25
+50293437,38,Turning a solar power system into its own backup,https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/,arstechnica.com,54,20,PaulHoule,2026-10-29T18:10:33
+50258496,39,Tree-mounted machines connect to web app to let users knock on wood remotely,https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/,designboom.com,93,40,surprisetalk,2026-10-27T13:00:04
+50289418,40,We're releasing the weights of Mistral Large 4,https://mistral.ai/news/mistral-large-4-oss/,mistral.ai,1695,436,kuberwastaken,2026-10-29T14:13:21
+50301717,41,How do you take a picture of a black hole?,https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/,quantamagazine.org,104,73,dverlaeckt80,2026-10-30T09:49:02
+50263127,42,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times,theguardian.com,203,57,benbreen,2026-10-27T17:54:57
+50314611,43,Neuroscientists reveal method to train people to have lucid dreams,https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation,livescience.com,13,0,giuliomagnifico,2026-10-31T10:12:30
+50305693,44,"AI isn't replacing SREs, it's deskilling them",https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling,newsletter.signoz.io,609,455,dorianniemiec,2026-10-30T15:52:18
+50296486,45,We ran AI agent swarms in Minecraft and Mindustry,https://labs.ycombinator.com/projects/games/index.html,labs.ycombinator.com,403,166,sandslash,2026-10-29T21:40:28
+50251070,46,"Why a program doesn't work when run from a batch file, but works when clicked",https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/,devblogs.microsoft.com,133,78,ibobev,2026-10-26T21:14:43
+50315039,47,Halloween is a crass American import – I'll never indulge it,https://inews.co.uk/inews-lifestyle/halloween-crass-american-import-never-indulge-4862206,inews.co.uk,3,5,penguin_booze,2026-10-31T11:27:37
+50273104,48,I'm so bad at billiards that I ended up in the hyperbolic plane [video],https://www.youtube.com/watch?v=kL9BTbIGxLg,youtube.com,245,37,surprisetalk,2026-10-28T13:20:05
+50296947,49,The Great American Rascal: Tom Sawyer at 150,https://claremontreviewofbooks.com/the-great-american-rascal/,claremontreviewofbooks.com,89,50,beatstop,2026-10-29T22:14:23
+50270651,50,Astroterm: A Planetarium for Your Terminal,https://github.com/da-luce/astroterm,github.com,233,27,nvmdbljstm,2026-10-28T08:29:55
+50300643,51,Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe,https://www.workatastartup.com/jobs/98722,workatastartup.com,0,0,,2026-10-30T07:00:35
+50291812,52,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,https://github.com/arterialist/kube32,github.com,46,12,Arterialist,2026-10-29T16:35:14
+50305724,53,Some Thing is Happening A note from the AI companies,https://alanbellows.com/some-thing-is-happening/,alanbellows.com,52,15,DamnInteresting,2026-10-30T15:53:42
+50305218,54,Show HN: Sketch Stadium – watch your agent play Pictionary,https://sketch.wakeshift.ai/games/q5ucru,sketch.wakeshift.ai,35,10,ericlevine,2026-10-30T15:23:11
+50298721,55,Tracks along the longest drive on another world,https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/,science.nasa.gov,56,8,shcallaway,2026-10-30T01:19:02
+50310258,56,AO3 Down for Maintenance,https://www.otwstatus.org,otwstatus.org,127,39,idlewords,2026-10-30T21:17:23
+50273504,57,Finding Panics with Call Graph Analyzer,https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/,tweedegolf.nl,68,3,ndr,2026-10-28T13:48:26
+50308986,58,A Pickpocket's Guide to New York,https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york,newyorker.com,75,8,prismatic,2026-10-30T19:26:39
+50277518,59,Wonderful Weather: Floods and Foreboding in 17th-Century Britain,https://publicdomainreview.org/essay/wonderful-weather/,publicdomainreview.org,20,0,Thevet,2026-10-28T17:34:59
+50310687,60,Linode Security Incident,https://status.linode.com/incidents/nt58zhx3pmgm,status.linode.com,186,101,lacoolj,2026-10-30T21:57:40
