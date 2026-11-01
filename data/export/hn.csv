@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50326821,1,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",https://hackerbooks.org,hackerbooks.org,238,71,roansh,2026-11-01T15:58:28
-50327058,2,Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs,https://www.ajupress.com/view/20261028171670308,ajupress.com,66,5,gmays,2026-11-01T16:23:26
-50319510,3,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,karpathy.bearblog.dev,1834,475,karpathy,2026-10-31T19:56:53
-50326118,4,Police chief unplugs Flock cameras after company ignores contract cancellation,https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies,tomshardware.com,229,65,entryleveljobsc,2026-11-01T14:36:13
-50327650,5,Patrick Stewart taught us what good men do with power,https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism,vox.com,34,17,rhaynes,2026-11-01T17:28:16
-50325454,6,Proving and improving the Platonic Representation Hypothesis with JEPAs,https://arxiv.org/abs/2610.39302,arxiv.org,63,31,Anon84,2026-11-01T13:24:49
-50319749,7,Bidirectional charging during grid outages,https://www.jefftk.com/p/bidirectional-charging-during-grid-outages,jefftk.com,34,45,luu,2026-10-31T20:21:55
-50325694,8,Novellas with Groff,https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html,movq.de,65,22,dverlaeckt80,2026-11-01T13:51:41
-50326099,9,Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case,https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/,reddit.com,197,73,entryleveljobsc,2026-11-01T14:34:43
-50327266,10,Frontier Airlines Likely Breached,https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/,reddit.com,57,9,999900000999,2026-11-01T16:46:33
-50314617,11,One-minute frequency disturbances from synchronization in power systems,https://www.nature.com/articles/s41560-026-02144-0,nature.com,66,24,croes,2026-10-31T10:14:08
-50308754,12,Copper – A minimal low-level programming language with OOP and generics,https://tibleiz.net/copper/,tibleiz.net,35,13,bogdanoff_2,2026-10-30T19:09:33
-50320963,13,An Italian farmer found some unknown seeds in his attic and planted them,https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/,smithsonianmag.com,648,179,ecares,2026-10-31T22:41:06
-50314508,14,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,https://kevs3d.co.uk/phoria2/,kevs3d.co.uk,40,5,kevs3d,2026-10-31T09:49:42
-50322173,15,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/,jetstream.security,255,137,doodlesdev,2026-11-01T02:19:53
-50320995,16,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve,github.com,377,184,guregodevo,2026-10-31T22:46:12
-50319143,17,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf,atlasum.net,616,304,oger,2026-10-31T19:16:30
-50280131,18,Radiation Map of the World,https://radiaverse.com/,radiaverse.com,68,28,slater,2026-10-28T20:06:27
-50325253,19,"Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",https://github.com/ivankovic/omnidiff,github.com,35,18,FabCH,2026-11-01T13:02:30
-50290533,20,Show HN: Point your camera at a landscape to learn about its geology,https://outcrop.rocks/,outcrop.rocks,92,27,headsupernova,2026-10-29T15:22:41
-50289844,21,SS27 Color Stats,https://sarahconstantin.substack.com/p/ss27-color-stats,sarahconstantin.substack.com,3,0,surprisetalk,2026-10-29T14:40:05
-50326530,22,Enlightenment 0.28.0 Release,https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0,enlightenment.org,41,12,birdculture,2026-11-01T15:26:06
-50326609,23,"Landline phones will switch off across Britland in 100 days, no extensions",https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673,theregister.com,36,19,edward,2026-11-01T15:33:49
-50310038,24,Understanding Email Encryption,https://www.fastmail.com/blog/email-encryption/,fastmail.com,88,21,nmjenkins,2026-10-30T20:55:56
-50322022,25,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),https://arxiv.org/abs/2409.02292,arxiv.org,155,77,hapax_legomena,2026-11-01T01:46:29
-50324371,26,Domain hacks with unusual Unicode characters (2018),https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/,xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso,41,34,n_plus_1_acc,2026-11-01T10:44:20
-50325662,27,"AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy,tomshardware.com,101,39,entryleveljobsc,2026-11-01T13:47:24
-50303984,28,Running a bootstrapped SaaS for 20 years with my brother,https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/,blog.zamzar.com,196,46,whyleyc,2026-10-30T13:58:42
-50324388,29,Restrooms along the Norwegian Scenic Routes,https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/,visitnorway.com,620,355,giuliomagnifico,2026-11-01T10:47:58
-50323088,30,The AI cost of JavaScript frameworks,https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/,nolanlawson.com,205,144,luu,2026-11-01T06:06:19
-50311045,31,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,https://maketecheasier.com/arecibo-zinc-creep-collapse/,maketecheasier.com,154,46,ohjeez,2026-10-30T22:41:03
-50321048,32,Altoids Project,https://uvdn7.github.io/altoids-project/,uvdn7.github.io,152,7,uvdn7,2026-10-31T22:54:55
-50289711,33,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",https://dl.acm.org/doi/10.1145/857076.857077,dl.acm.org,61,1,gjvc,2026-10-29T14:30:25
-50318720,34,"It's the memory latency, stupid",https://pivotlake.io/blog/its-the-memory-latency-stupid/,pivotlake.io,242,79,ntur1337,2026-10-31T18:38:16
-50316100,35,Jepsen: ParticleDB 1.1.4,https://jepsen.io/analyses/particledb-1.1.4,jepsen.io,311,173,aphyr,2026-10-31T13:39:52
-50290480,36,"No AI, 52 min. Build all Linux Files utils in C by Hand [video]",https://www.youtube.com/watch?v=gQRmSlcTq9c,youtube.com,116,98,surprisetalk,2026-10-29T15:20:04
-50304718,37,A 1580 Map Shows Why Data Visualization Is Never Neutral,https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/,thereader.mitpress.mit.edu,73,10,the-mitr,2026-10-30T14:46:16
-50327406,38,A playable version of Portal prequel F-Stop leaked,https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak,theverge.com,5,0,rarisma,2026-11-01T17:00:41
-50309279,39,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),http://thales.mit.edu/bush/index.php/4801-2/,thales.mit.edu,72,18,peter_d_sherman,2026-10-30T19:52:56
-50314699,40,Do the math: How we took over ChatGPT accounts,https://www.parameter.ai/labs/we-found-a-gap-at-openai,parameter.ai,357,175,armcat,2026-10-31T10:30:11
-50319563,41,"Surviving ""The Graduate""",https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate,newyorker.com,150,46,samizdis,2026-10-31T20:02:06
-50325411,42,"The ""Moon Trees""",https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html,nssdc.gsfc.nasa.gov,28,1,momentmaker,2026-11-01T13:20:23
-50325718,43,Previously untranslated Einstein paper in English,https://www.repository.cam.ac.uk/items/0aaee538-3638-4c47-bf5d-1cb4321d6b0b,repository.cam.ac.uk,4,0,ajw287,2026-11-01T13:54:18
-50321130,44,When electric cars were for women,https://spectrum.ieee.org/early-electric-vehicles,spectrum.ieee.org,68,68,dverlaeckt80,2026-10-31T23:08:12
-50319061,45,The Duty of a Scholar,https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html,daemonology.net,132,35,gslin,2026-10-31T19:07:36
-50324533,46,noyb win: French electronics retailer Fnac Darty fined €7M,https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million,noyb.eu,54,6,latexr,2026-11-01T11:17:15
-50271052,47,Reading and writing are less symmetric than you (probably) think,https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/,fgiesen.wordpress.com,128,29,luu,2026-10-28T09:38:07
-50319358,48,Anthropic blocks users for anything touching training larger models,https://twitter.com/jiahaoshao1/status/2116475922190922088,twitter.com,431,242,pretext,2026-10-31T19:39:19
-50284789,49,"Edgar Allan Poe, Quintessential American Writer",https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html,slate.com,47,9,samclemens,2026-10-29T05:10:00
-50320588,50,ChatGPT and Codex usage limits merging,https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits,help.openai.com,206,146,Zariel,2026-10-31T21:49:07
-50290652,51,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",https://thedataexchange.media/leo-de-moura-lean-aws/,thedataexchange.media,208,52,datascientist,2026-10-29T15:29:48
-50321522,52,"Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",https://bbrouter.com/bbrouter/ben-eater-sap-1,bbrouter.com,44,8,creack,2026-11-01T00:10:30
-50319110,53,Electrification Could Cut Global Energy Use in Half,https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/,fullycharged.show,190,176,toomuchtodo,2026-10-31T19:13:34
-50302686,54,Decode kernel panic from QR Code photo,https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546,gist.github.com,38,15,modinfo,2026-10-30T11:50:24
-50300683,55,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,https://phorion.io/blog/offical-claude-code-vsx-compromise/,phorion.io,985,549,_chall,2026-10-30T07:09:12
-50315782,56,Show HN: A language model that lives in a boot sector,https://github.com/kerlenton/bootgpt,github.com,90,6,kerlenton,2026-10-31T12:58:29
-50314654,57,Serbia just elected the world's brainiest parliament,https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament,science.org,882,491,input_sh,2026-10-31T10:21:30
-50326246,58,Shrinking NixOS RAM footprint and resource requirements to the bare minimum,https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum,lowendspirit.com,10,0,birdculture,2026-11-01T14:52:05
-50320599,59,AI text watermarking and quality loss,https://blog.keyvan.net/p/ai-text-watermarking-and-quality,blog.keyvan.net,62,12,danielfoster,2026-10-31T21:50:13
-50316117,60,The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.,https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html,nytimes.com,42,51,bookofjoe,2026-10-31T13:41:18
+50326821,1,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",https://hackerbooks.org,hackerbooks.org,674,157,roansh,2026-11-01T15:58:28
+50319510,2,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,karpathy.bearblog.dev,2114,514,karpathy,2026-10-31T19:56:53
+50299811,3,Nibnib: Image compression with extreme decompression speed,https://github.com/raphlinus/nibnib,github.com,42,5,raphlinus,2026-10-30T04:17:06
+50328251,4,Mathematics has changed. Let's act like it,https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/,terrytao.wordpress.com,146,172,smilelamp,2026-11-01T18:28:42
+50271106,5,Tips for more effective fuzz testing with AFL++,https://nullprogram.com/blog/2025/02/05/,nullprogram.com,38,4,luu,2026-10-28T09:46:12
+50308754,6,Copper – A minimal low-level programming language with OOP and generics,https://tibleiz.net/copper/,tibleiz.net,103,55,bogdanoff_2,2026-10-30T19:09:33
+50299427,7,New 3D thermal invisibility cloak makes objects disappear from infrared cameras,https://www.sciencedaily.com/releases/2026/10/261025073051.htm,sciencedaily.com,8,2,stevenalowe,2026-10-30T03:06:52
+50320963,8,An Italian farmer found some unknown seeds in his attic and planted them,https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/,smithsonianmag.com,730,194,ecares,2026-10-31T22:41:06
+50325454,9,Proving and improving the Platonic Representation Hypothesis with JEPAs,https://arxiv.org/abs/2610.39302,arxiv.org,93,53,Anon84,2026-11-01T13:24:49
+50326099,10,Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case,https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/,reddit.com,336,116,entryleveljobsc,2026-11-01T14:34:43
+50325253,11,"Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",https://github.com/ivankovic/omnidiff,github.com,105,33,FabCH,2026-11-01T13:02:30
+50325694,12,Novellas with Groff,https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html,movq.de,97,41,dverlaeckt80,2026-11-01T13:51:41
+50319749,13,Bidirectional charging during grid outages,https://www.jefftk.com/p/bidirectional-charging-during-grid-outages,jefftk.com,72,105,luu,2026-10-31T20:21:55
+50314617,14,One-minute frequency disturbances from synchronization in power systems,https://www.nature.com/articles/s41560-026-02144-0,nature.com,105,38,croes,2026-10-31T10:14:08
+50327058,15,Seoul Viosys begins production of rare-earth-free white light emitter,https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml,semiconductor-today.com,115,28,gmays,2026-11-01T16:23:26
+50280131,16,Radiation Map of the World,https://radiaverse.com/,radiaverse.com,111,32,slater,2026-10-28T20:06:27
+50322173,17,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/,jetstream.security,299,179,doodlesdev,2026-11-01T02:19:53
+50313227,18,Parchment Paper History: How We Got Paper Perfect for Baking (2019),https://tedium.co/2019/11/21/nonstick-parchment-paper-history/,tedium.co,22,12,colinprince,2026-10-31T04:31:06
+50319143,19,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf,atlasum.net,678,321,oger,2026-10-31T19:16:30
+50323088,20,The AI cost of JavaScript frameworks,https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/,nolanlawson.com,269,204,luu,2026-11-01T06:06:19
+50320995,21,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve,github.com,414,200,guregodevo,2026-10-31T22:46:12
+50327266,22,Frontier Airlines Likely Breached,https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/,reddit.com,148,44,999900000999,2026-11-01T16:46:33
+50314508,23,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,https://kevs3d.co.uk/phoria2/,kevs3d.co.uk,62,10,kevs3d,2026-10-31T09:49:42
+50329707,24,John Leeson (the voice of K9) has died,https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html,doctorwhonews.net,17,1,slyrus,2026-11-01T20:48:04
+50327650,25,Patrick Stewart taught us what good men do with power,https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism,vox.com,298,208,rhaynes,2026-11-01T17:28:16
+50290533,26,Show HN: Point your camera at a landscape to learn about its geology,https://outcrop.rocks/,outcrop.rocks,129,33,headsupernova,2026-10-29T15:22:41
+50326609,27,"Landline phones will switch off across Britland in 100 days, no extensions",https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673,theregister.com,91,69,edward,2026-11-01T15:33:49
+50310038,28,Understanding Email Encryption (2025),https://www.fastmail.com/blog/email-encryption/,fastmail.com,117,23,nmjenkins,2026-10-30T20:55:56
+50303984,29,Running a bootstrapped SaaS for 20 years with my brother,https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/,blog.zamzar.com,222,52,whyleyc,2026-10-30T13:58:42
+50322022,30,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),https://arxiv.org/abs/2409.02292,arxiv.org,175,91,hapax_legomena,2026-11-01T01:46:29
+50311045,31,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,https://maketecheasier.com/arecibo-zinc-creep-collapse/,maketecheasier.com,164,48,ohjeez,2026-10-30T22:41:03
+50289844,32,SS27 Color Stats,https://sarahconstantin.substack.com/p/ss27-color-stats,sarahconstantin.substack.com,9,2,surprisetalk,2026-10-29T14:40:05
+50325662,33,"AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy,tomshardware.com,136,60,entryleveljobsc,2026-11-01T13:47:24
+50316100,34,Jepsen: ParticleDB 1.1.4,https://jepsen.io/analyses/particledb-1.1.4,jepsen.io,330,185,aphyr,2026-10-31T13:39:52
+50321048,35,Altoids Project,https://uvdn7.github.io/altoids-project/,uvdn7.github.io,158,7,uvdn7,2026-10-31T22:54:55
+50326118,36,Police chief unplugs cameras after Flock ignores contract cancellation,https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras,thedrive.com,398,137,entryleveljobsc,2026-11-01T14:36:13
+50318720,37,"It's the memory latency, stupid",https://pivotlake.io/blog/its-the-memory-latency-stupid/,pivotlake.io,249,87,ntur1337,2026-10-31T18:38:16
+50326530,38,Enlightenment 0.28.0 Release,https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0,enlightenment.org,57,26,birdculture,2026-11-01T15:26:06
+50324388,39,Restrooms along the Norwegian Scenic Routes,https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/,visitnorway.com,662,386,giuliomagnifico,2026-11-01T10:47:58
+50304718,40,A 1580 Map Shows Why Data Visualization Is Never Neutral,https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/,thereader.mitpress.mit.edu,75,12,the-mitr,2026-10-30T14:46:16
+50327406,41,A playable version of Portal prequel F-Stop leaked,https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak,theverge.com,25,1,rarisma,2026-11-01T17:00:41
+50289711,42,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",https://dl.acm.org/doi/10.1145/857076.857077,dl.acm.org,63,2,gjvc,2026-10-29T14:30:25
+50328487,43,Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare,https://nurse.org/news/uber-for-nursing-gig-apps-report/,nurse.org,142,136,ravetcofx,2026-11-01T18:53:46
+50319563,44,"Surviving ""The Graduate""",https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate,newyorker.com,153,52,samizdis,2026-10-31T20:02:06
+50309279,45,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),http://thales.mit.edu/bush/index.php/4801-2/,thales.mit.edu,78,20,peter_d_sherman,2026-10-30T19:52:56
+50290480,46,"No AI, 52 min. Build all Linux Files utils in C by Hand [video]",https://www.youtube.com/watch?v=gQRmSlcTq9c,youtube.com,126,106,surprisetalk,2026-10-29T15:20:04
+50328565,47,Astronomy Picture of the Day: Colors of the Moon,https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/,science.nasa.gov,8,0,taubek,2026-11-01T19:01:36
+50328488,48,It wasn't AI that flipped Proton's charge,https://blog.raed.dev/posts/proton-loser-thinking/,blog.raed.dev,124,77,Raed667,2026-11-01T18:53:55
+50325718,49,Previously untranslated Einstein paper in English,https://www.repository.cam.ac.uk/items/0aaee538-3638-4c47-bf5d-1cb4321d6b0b,repository.cam.ac.uk,8,1,ajw287,2026-11-01T13:54:18
+50321130,50,When electric cars were for women,https://spectrum.ieee.org/early-electric-vehicles,spectrum.ieee.org,70,73,dverlaeckt80,2026-10-31T23:08:12
+50319061,51,The Duty of a Scholar,https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html,daemonology.net,132,37,gslin,2026-10-31T19:07:36
+50271052,52,Reading and writing are less symmetric than you (probably) think,https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/,fgiesen.wordpress.com,130,30,luu,2026-10-28T09:38:07
+50328293,53,Muse AI agent is a commercial surveillance network disguised as an AI assistant,https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial,paulfwalsh.substack.com,14,3,Anon84,2026-11-01T18:33:02
+50328893,54,"Juan Atkins, pioneer of Detroit techno sound, dies aged 64",https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64,theguardian.com,7,2,coffeeyesplease,2026-11-01T19:34:59
+50290652,55,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",https://thedataexchange.media/leo-de-moura-lean-aws/,thedataexchange.media,209,53,datascientist,2026-10-29T15:29:48
+50319358,56,Anthropic blocks users for anything touching training larger models,https://twitter.com/jiahaoshao1/status/2116475922190922088,twitter.com,446,248,pretext,2026-10-31T19:39:19
+50300683,57,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,https://phorion.io/blog/offical-claude-code-vsx-compromise/,phorion.io,989,552,_chall,2026-10-30T07:09:12
+50328567,58,Heretic 2.0 Released: Training-free language model modification,https://news.ycombinator.com/item?id=50328567,news.ycombinator.com (Ask/Show HN),9,1,razster,2026-11-01T19:01:42
+50284789,59,"Edgar Allan Poe, Quintessential American Writer",https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html,slate.com,48,10,samclemens,2026-10-29T05:10:00
+50328462,60,US Jobs Pickup May Keep Fed on Track to Hike Rates Again,https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again,bloomberg.com,30,40,frank_clover,2026-11-01T18:51:29
