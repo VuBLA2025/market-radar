@@ -1231,6 +1231,22 @@
     "avg_comments": 99.9,
     "top_domain": "github.com"
    }
+  },
+  {
+   "at": "2026-11-02T21:46:56+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 233.2,
+    "max_points": 2803,
+    "avg_comments": 104.8,
+    "top_domain": "news.ycombinator.com (Ask/Show HN)"
+   }
   }
  ]
 }

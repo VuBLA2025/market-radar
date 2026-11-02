@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50326821,1,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",https://hackerbooks.org,hackerbooks.org,1182,214,roansh,2026-11-01T15:58:28
-50312408,2,Postgres 19 is late because so many more bugs are being found now,http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html,rhaas.blogspot.com,249,164,soheilpro,2026-10-31T01:38:56
-50332163,3,"F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/,fosscomics.com,69,6,joonehur,2026-11-02T01:59:38
-50319510,4,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,karpathy.bearblog.dev,2430,555,karpathy,2026-10-31T19:56:53
-50331784,5,Trigger.dev customer environment variables exposed,https://trigger.dev/blog/security-incident-nov-2026,trigger.dev,59,20,anurag,2026-11-02T01:09:16
-50315217,6,Mystery of 60-Second Fluctuations in Power Grids Solved,https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved,fz-juelich.de,75,28,_Microft,2026-10-31T11:53:47
-50328896,7,Ask HN: Which TV do you recommend for privacy?,https://news.ycombinator.com/item?id=50328896,news.ycombinator.com (Ask/Show HN),258,422,LecroJS,2026-11-01T19:35:27
-50299811,8,Nibnib: Image compression with extreme decompression speed,https://github.com/raphlinus/nibnib,github.com,124,21,raphlinus,2026-10-30T04:17:06
-50333339,9,"Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",https://wikihack.netlify.app,wikihack.netlify.app,4,0,aizk,2026-11-02T05:06:30
-50271106,10,Tips for more effective fuzz testing with AFL++,https://nullprogram.com/blog/2025/02/05/,nullprogram.com,102,16,luu,2026-10-28T09:46:12
-50308754,11,Copper – A minimal low-level programming language with OOP and generics,https://tibleiz.net/copper/,tibleiz.net,155,82,bogdanoff_2,2026-10-30T19:09:33
-50325253,12,"Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",https://github.com/ivankovic/omnidiff,github.com,205,49,FabCH,2026-11-01T13:02:30
-50332086,13,AI fan wikis riddled with errors are muddying the waters of games culture,https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture,eurogamer.net,62,40,rdmuser,2026-11-02T01:47:07
-50331402,14,OccupySaaS,https://occupysaas.com/,occupysaas.com,173,113,misswaterfairy,2026-11-02T00:17:27
-50325454,15,Proving and improving the Platonic Representation Hypothesis with JEPAs,https://arxiv.org/abs/2610.39302,arxiv.org,126,66,Anon84,2026-11-01T13:24:49
-50299427,16,New 3D thermal invisibility cloak makes objects disappear from infrared cameras,https://www.sciencedaily.com/releases/2026/10/261025073051.htm,sciencedaily.com,65,32,stevenalowe,2026-10-30T03:06:52
-50323088,17,The AI cost of JavaScript frameworks,https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/,nolanlawson.com,341,260,luu,2026-11-01T06:06:19
-50328251,18,Mathematics has changed. Let's act like it,https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/,terrytao.wordpress.com,266,287,smilelamp,2026-11-01T18:28:42
-50314617,19,One-minute frequency disturbances from synchronization in power systems,https://www.nature.com/articles/s41560-026-02144-0,nature.com,139,45,croes,2026-10-31T10:14:08
-50290533,20,Show HN: Point your camera at a landscape to learn about its geology,https://outcrop.rocks/,outcrop.rocks,185,41,headsupernova,2026-10-29T15:22:41
-50326099,21,Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case,https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/,reddit.com,444,157,entryleveljobsc,2026-11-01T14:34:43
-50331957,22,Bones may release proteins that slow aging and extend life span,https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span,science.org,12,0,EA-3167,2026-11-02T01:31:07
-50319749,23,Bidirectional charging during grid outages,https://www.jefftk.com/p/bidirectional-charging-during-grid-outages,jefftk.com,95,144,luu,2026-10-31T20:21:55
-50280131,24,Radiation Map of the World,https://radiaverse.com/,radiaverse.com,150,47,slater,2026-10-28T20:06:27
-50303088,25,Keeping Up Appearances – The women taking over the funeral industry,https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/,lareviewofbooks.org,39,20,TMWNN,2026-10-30T12:40:08
-50314508,26,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,https://kevs3d.co.uk/phoria2/,kevs3d.co.uk,85,15,kevs3d,2026-10-31T09:49:42
-50324371,27,Domain hacks with unusual Unicode characters (2018),https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/,shkspr.mobi,69,49,n_plus_1_acc,2026-11-01T10:44:20
-50318129,28,The She-Wolves of Jülich,https://www.historytoday.com/archive/history-matters/she-wolves-julich,historytoday.com,19,3,Thevet,2026-10-31T17:29:39
-50325694,29,Novellas with Groff,https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html,movq.de,119,51,dverlaeckt80,2026-11-01T13:51:41
-50313227,30,Parchment Paper History: How We Got Paper Perfect for Baking (2019),https://tedium.co/2019/11/21/nonstick-parchment-paper-history/,tedium.co,46,24,colinprince,2026-10-31T04:31:06
-50327058,31,Seoul Viosys begins production of rare-earth-free white light emitter,https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml,semiconductor-today.com,156,45,gmays,2026-11-01T16:23:26
-50320963,32,An Italian farmer found some unknown seeds in his attic and planted them,https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/,smithsonianmag.com,787,203,ecares,2026-10-31T22:41:06
-50331158,33,The Megadonors Who Have Poured $1.2B into the Midterms,https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html,nytimes.com,56,43,doener,2026-11-01T23:46:59
-50322022,34,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),https://arxiv.org/abs/2409.02292,arxiv.org,189,95,hapax_legomena,2026-11-01T01:46:29
-50327416,35,I Am the Reason OpenAI Is Killing Unlimited Chats,https://chaosmanage.github.io/i-killed-unlimited-chatgpt/,chaosmanage.github.io,40,7,gulmothrowaway,2026-11-01T17:01:34
-50303984,36,Running a bootstrapped SaaS for 20 years with my brother,https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/,blog.zamzar.com,230,55,whyleyc,2026-10-30T13:58:42
-50327266,37,Frontier Airlines Likely Breached,https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/,reddit.com,196,75,999900000999,2026-11-01T16:46:33
-50310038,38,Understanding Email Encryption (2025),https://www.fastmail.com/blog/email-encryption/,fastmail.com,130,28,nmjenkins,2026-10-30T20:55:56
-50326609,39,"Landline phones will switch off across Britland in 100 days, no extensions",https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673,theregister.com,145,120,edward,2026-11-01T15:33:49
-50311045,40,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,https://maketecheasier.com/arecibo-zinc-creep-collapse/,maketecheasier.com,172,49,ohjeez,2026-10-30T22:41:03
-50327650,41,Patrick Stewart taught us what good men do with power,https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism,vox.com,410,292,rhaynes,2026-11-01T17:28:16
-50319143,42,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf,atlasum.net,708,328,oger,2026-10-31T19:16:30
-50322173,43,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/,jetstream.security,321,204,doodlesdev,2026-11-01T02:19:53
-50318720,44,"It's the memory latency, stupid",https://pivotlake.io/blog/its-the-memory-latency-stupid/,pivotlake.io,255,94,ntur1337,2026-10-31T18:38:16
-50320995,45,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve,github.com,434,212,guregodevo,2026-10-31T22:46:12
-50321048,46,Altoids Project,https://uvdn7.github.io/altoids-project/,uvdn7.github.io,161,7,uvdn7,2026-10-31T22:54:55
-50319876,47,A Chemical Hunger (2021),https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/,slimemoldtimemold.com,22,2,bilsbie,2026-10-31T20:32:24
-50331001,48,"In LLM era, can software startup survive?",https://news.ycombinator.com/item?id=50331001,news.ycombinator.com (Ask/Show HN),15,13,sjia,2026-11-01T23:28:46
-50319563,49,"Surviving ""The Graduate""",https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate,newyorker.com,161,58,samizdis,2026-10-31T20:02:06
-50304718,50,A 1580 Map Shows Why Data Visualization Is Never Neutral,https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/,thereader.mitpress.mit.edu,77,14,the-mitr,2026-10-30T14:46:16
-50330939,51,U.S. workers took home their smallest share of capital since at least 1947,https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/,fortune.com,267,146,qlte,2026-11-01T23:20:31
-50325662,52,"AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy,tomshardware.com,163,78,entryleveljobsc,2026-11-01T13:47:24
-50290480,53,"No AI, 52 min. Build all Linux Files utils in C by Hand [video]",https://www.youtube.com/watch?v=gQRmSlcTq9c,youtube.com,141,110,surprisetalk,2026-10-29T15:20:04
-50289711,54,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",https://dl.acm.org/doi/10.1145/857076.857077,dl.acm.org,67,1,gjvc,2026-10-29T14:30:25
-50325718,55,Previously untranslated Einstein paper in English,https://www.repository.cam.ac.uk/items/0aaee538-3638-4c47-bf5d-1cb4321d6b0b,repository.cam.ac.uk,14,1,ajw287,2026-11-01T13:54:18
-50300683,56,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,https://phorion.io/blog/offical-claude-code-vsx-compromise/,phorion.io,994,553,_chall,2026-10-30T07:09:12
-50321130,57,When electric cars were for women,https://spectrum.ieee.org/early-electric-vehicles,spectrum.ieee.org,75,76,dverlaeckt80,2026-10-31T23:08:12
-50290652,58,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",https://thedataexchange.media/leo-de-moura-lean-aws/,thedataexchange.media,213,57,datascientist,2026-10-29T15:29:48
-50319061,59,The Duty of a Scholar,https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html,daemonology.net,136,38,gslin,2026-10-31T19:07:36
-50309279,60,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),http://thales.mit.edu/bush/index.php/4801-2/,thales.mit.edu,87,21,peter_d_sherman,2026-10-30T19:52:56
+50341174,1,Astra can read and write weights to improve Qwen,https://rikiyat.github.io/blog/weight-space-programming/,rikiyat.github.io,1240,388,dbreunig,2026-11-02T18:21:28
+50340088,2,Show HN: Subvocal – Talk to your computer without making noise,https://news.ycombinator.com/item?id=50340088,news.ycombinator.com (Ask/Show HN),397,237,aarushyadav,2026-11-02T17:16:17
+50339397,3,US boy names that became girl names and vice versa,https://namedaisy.com/blog/boy-names-that-became-girl-names,namedaisy.com,204,221,xoobdev,2026-11-02T16:34:36
+50339913,4,Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app,https://momentic.ai/,momentic.ai,94,63,wuweiweiwu,2026-11-02T17:05:25
+50339221,5,Show HN: Warsaw in voxels – An interactive 3D map of the city centre,https://p.migdal.pl/warsaw-vibe-voxel/,p.migdal.pl,165,31,stared,2026-11-02T16:25:26
+50336518,6,"If you love a website, back it up",https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/,blog.mistys-internet.website,290,68,ingve,2026-11-02T13:25:35
+50341736,7,Egoless Mathematics in the AI Era,https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/,terrytao.wordpress.com,60,49,smilelamp,2026-11-02T18:54:44
+50338728,8,Ask HN: Who is hiring? (November 2026),https://news.ycombinator.com/item?id=50338728,news.ycombinator.com (Ask/Show HN),138,114,whoishiring,2026-11-02T16:01:37
+50341028,9,Sneaking into the auditorium for the Windows 2000 launch rehearsal,https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/,devblogs.microsoft.com,65,21,ibobev,2026-11-02T18:12:48
+50340992,10,Skill to Create Product Videos,https://github.com/aaitor/skill-video-studio,github.com,36,11,aaitor,2026-11-02T18:10:39
+50342284,11,"Oracle files to sell $20B in new stock, bonds to finance AI buildout",https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html,cnbc.com,93,55,smartmic,2026-11-02T19:27:37
+50337608,12,WTF Ubuntu?,https://chalmovsky.com/posts/wtf-ubuntu,chalmovsky.com,1139,548,chalmovsky,2026-11-02T14:52:00
+50341462,13,Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks,https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432,freenode.net,142,22,majorchord,2026-11-02T18:39:38
+50337558,14,We halved DNS build delay and cut memory use by 85%,https://blog.cloudflare.com/dns-targeted-zone-builds/,blog.cloudflare.com,115,36,wondersky,2026-11-02T14:47:28
+50340159,15,Polyend releases the Tracker firmware source code,https://polyend.com/whats-up/tracker-the-biggest-update-yet/,polyend.com,34,3,austinallegro,2026-11-02T17:20:13
+50339827,16,Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus),https://bitmovin.com/careers/8660599002/,bitmovin.com,0,0,,2026-11-02T17:00:41
+50337716,17,LongCat-2.5: Native Multimodality for Agentic Tasks,https://longcat.ai/blog/longcat-2.5/,longcat.ai,64,21,pretext,2026-11-02T15:00:26
+50339815,18,My Favourite Laptop,https://blog.jsbarretto.com/post/laptop,blog.jsbarretto.com,128,95,ibobev,2026-11-02T16:59:57
+50337661,19,"C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",https://retrogamecoders.com/c64-basic-dungeon-part11/,retrogamecoders.com,46,8,ibobev,2026-11-02T14:56:21
+50340629,20,Making Peace with the Projective Plane,https://www.johndcook.com/blog/2026/11/02/projective-plane/,johndcook.com,18,8,ibobev,2026-11-02T17:47:59
+50341334,21,Agentic backdoors via pretraining poisoning,https://arxiv.org/abs/2610.37741,arxiv.org,63,14,gmays,2026-11-02T18:30:58
+50339494,22,"Anthropic's internal AI use, at retail prices, now exceeds its employee pay",https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11,businessinsider.com,242,199,entryleveljobsc,2026-11-02T16:40:29
+50338747,23,Moving our warehouse off DuckDB,https://posthog.com/blog/moving-off-duckdb,posthog.com,136,100,emschwartz,2026-11-02T16:02:26
+50344181,24,"BYD sold more EVs last month than the US did all quarter, topping 300,000",https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/,electrek.co,7,0,cisc,2026-11-02T21:38:49
+50334704,25,Show HN: I've updated my Linux System Call website and API,https://syscall.sh/,syscall.sh,189,48,guitmz,2026-11-02T09:29:16
+50336840,26,"The U.S. Census Bureau and ""Super Intelligence""",https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/,simonwillison.net,77,33,torutofu,2026-11-02T13:55:45
+50335615,27,Supermarket freezers across Europe hit by second suspected cyber-attack,https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack,theguardian.com,332,380,fergie,2026-11-02T11:50:13
+50341502,28,SOML – A Config Format for Humans,https://github.com/soml-lang/soml,github.com,50,44,microflash,2026-11-02T18:42:04
+50340619,29,Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You,https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you,nist.gov,9,2,tomrod,2026-11-02T17:47:40
+50343418,30,"Valve ""played capitalism so well they broke it"" and now Steam can't be replaced",https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/,gamesradar.com,18,17,consumer451,2026-11-02T20:42:36
+50337503,31,GPT-Rosalind-6 System Card Addendum,https://deploymentsafety.openai.com/gpt-rosalind-6,deploymentsafety.openai.com,58,50,gmays,2026-11-02T14:44:02
+50312408,32,Postgres 19 is late because so many more bugs are being found now,http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html,rhaas.blogspot.com,796,473,soheilpro,2026-10-31T01:38:56
+50326821,33,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",https://hackerbooks.org,hackerbooks.org,1796,299,roansh,2026-11-01T15:58:28
+50337454,34,Jobless tech workers are being left out of San Francisco's AI boom,https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near,bloomberg.com,145,202,mancerayder,2026-11-02T14:40:05
+50343293,35,Moment of Ruby: An Argument for Nothing,https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing,aha.io,10,0,zemptime,2026-11-02T20:32:57
+50319510,36,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,karpathy.bearblog.dev,2803,624,karpathy,2026-10-31T19:56:53
+50341616,37,Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service,https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms,propublica.org,38,16,ck2,2026-11-02T18:48:00
+50338891,38,"Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",https://github.com/atifcodesalot/pyWolf3D,github.com,7,0,BSPtree,2026-11-02T16:09:13
+50339224,39,Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings,https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now,stephenjgallagher.substack.com,66,26,SteveGallag,2026-11-02T16:25:33
+50342908,40,Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies,https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545,swissinfo.ch,8,1,novaRom,2026-11-02T20:06:43
+50331957,41,Bones may release proteins that slow aging and extend life span,https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span,science.org,307,120,EA-3167,2026-11-02T01:31:07
+50336138,42,Last night an AI agent performed brain surgery on a mouse,https://twitter.com/OcanaSantero/status/2115442964574908902,twitter.com,113,95,FacZap,2026-11-02T12:50:59
+50341073,43,Anthropic's spending commitments surge to nearly $900B,https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge,axios.com,16,2,samizdis,2026-11-02T18:15:01
+50334240,44,Wir müssen wissen – wir werden wissen,https://remy.wang/blog/hilbert.html,remy.wang,51,15,remywang,2026-11-02T08:07:20
+50340369,45,Let Me Ch...,https://blog.alxgsv.com/let-me-check/,blog.alxgsv.com,168,61,alxgsv,2026-11-02T17:33:20
+50328896,46,Ask HN: Which TV do you recommend for privacy?,https://news.ycombinator.com/item?id=50328896,news.ycombinator.com (Ask/Show HN),674,810,LecroJS,2026-11-01T19:35:27
+50341065,47,Goldman Restricts Traders and Bankers from Using Some AI Tools,https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools,bloomberg.com,18,3,toomuchtodo,2026-11-02T18:14:38
+50341585,48,South Korea targets ' highest performance' sovereign AI model,https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html,cnbc.com,11,2,Betelbuddy,2026-11-02T18:46:20
+50337725,49,Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017),https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1,quora.com,156,219,zenincognito,2026-11-02T15:01:15
+50343376,50,Japan launches mission to make first return trip to Mars,https://www.ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7,ft.com,4,0,JumpCrisscross,2026-11-02T20:39:05
+50335659,51,"Never Complain, Never Explain","https://en.wikipedia.org/wiki/Never_complain,_never_explain",en.wikipedia.org,147,58,gregsadetsky,2026-11-02T11:55:48
+50315217,52,Mystery of 60-Second Fluctuations in Power Grids Solved,https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved,fz-juelich.de,253,108,_Microft,2026-10-31T11:53:47
+50332163,53,"F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/,fosscomics.com,205,28,joonehur,2026-11-02T01:59:38
+50337703,54,40 °C heat extremes are no longer implausible in the Nordic countries,https://www.nature.com/articles/s44304-026-00290-9,nature.com,46,3,littlexsparkee,2026-11-02T14:59:25
+50334038,55,China's First Frontier AI Export Controls: Mofcom Announcement No. 48,https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/,labs.cloudsecurityalliance.org,146,83,jonnybgood,2026-11-02T07:27:28
+50299427,56,New 3D thermal invisibility cloak makes objects disappear from infrared cameras,https://www.sciencedaily.com/releases/2026/10/261025073051.htm,sciencedaily.com,109,42,stevenalowe,2026-10-30T03:06:52
+50337431,57,Ask HN: What hardware are you using to run local LLMs?,https://news.ycombinator.com/item?id=50337431,news.ycombinator.com (Ask/Show HN),26,24,leafletsigh,2026-11-02T14:38:18
+50341293,58,Researchers face record-low chances of getting a grant partly due to rise of AI,https://nltimes.nl/2026/11/02/researchers-face-record-low-chances-getting-grant-partly-due-rise-ai,nltimes.nl,9,0,giuliomagnifico,2026-11-02T18:28:46
+50333774,59,From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus,https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/,alsterrunde.com,58,8,mertbio,2026-11-02T06:39:42
+50325454,60,Proving and improving the Platonic Representation Hypothesis with JEPAs,https://arxiv.org/abs/2610.39302,arxiv.org,158,81,Anon84,2026-11-01T13:24:49
