@@ -1247,6 +1247,22 @@
     "avg_comments": 104.8,
     "top_domain": "news.ycombinator.com (Ask/Show HN)"
    }
+  },
+  {
+   "at": "2026-11-03T06:57:32+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 288.8,
+    "max_points": 2830,
+    "avg_comments": 123.8,
+    "top_domain": "news.ycombinator.com (Ask/Show HN)"
+   }
   }
  ]
 }
