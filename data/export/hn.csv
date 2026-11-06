@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50385272,1,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,github.com,889,295,motoroco,2026-11-05T22:17:15
-50378228,2,sshole,https://sshhole.com,sshhole.com,2558,622,josemrb,2026-11-05T12:19:02
-50384233,3,MS Paint Remote Code Execution Vulnerability,https://www.cve.org/CVERecord?id=CVE-2026-83844,cve.org,458,174,kuberwastaken,2026-11-05T20:43:42
-50387738,4,Nvidia Kubernetes Engine (NVKE),https://github.com/dsx-ai-factory/nvke,github.com,57,17,gkapur,2026-11-06T03:16:26
-50387796,5,Pwn.college,https://pwn.college/,pwn.college,86,9,tripdout,2026-11-06T03:27:14
-50388122,6,From Linux to Wikipedia: How Volunteers Build the Internet,https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/,thereader.mitpress.mit.edu,26,6,jonbaer,2026-11-06T04:17:49
-50386338,7,Inkling 2 Small,https://thinkingmachines.ai/news/inkling-2-small/,thinkingmachines.ai,163,55,Philpax,2026-11-06T00:00:24
-50383057,8,The Hackintosh Reborn,https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/,naut.ca,282,142,rubatuga,2026-11-05T19:08:22
-50381383,9,Window Sweaters,https://github.com/saragordic/window-sweaters,github.com,297,93,nickswalker,2026-11-05T16:50:14
-50378643,10,"Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",https://firenook.dev/,firenook.dev,93,16,sanjevirau,2026-11-05T13:07:29
-50386789,11,MoofTCP – A modern replacement for MacTCP on 68k Macs,https://github.com/matthewmrichter/mooftcp,github.com,38,20,marcusbasant,2026-11-06T00:54:15
-50381687,12,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,https://github.com/rivet-dev/rivet,github.com,89,49,NathanFlurry,2026-11-05T17:17:42
-50385870,13,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html,finance.yahoo.com,258,114,randycupertino,2026-11-05T23:09:57
-50387546,14,Closed AI models dominate the price-performance frontier,https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/,village.dev,58,45,kevin_hu,2026-11-06T02:49:56
-50368208,15,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),https://www.linum.ai/field-notes/pjit-21k,linum.ai,199,18,schopra909,2026-11-04T16:45:11
-50379576,16,"September in Servo: <progress>, rounded rectangles, and more",https://servo.org/blog/2026/11/05/september-in-servo/,servo.org,221,53,iamnothere,2026-11-05T14:34:18
-50380810,17,Motorola Signature 27 with GrapheneOS support,https://motorolanews.com/motorola-signature-27-2/,motorolanews.com,448,326,monneyboi,2026-11-05T16:01:34
-50378571,18,Download your favourite YouTube videos,https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/,criminallyvulgar.dev,318,149,surprisetalk,2026-11-05T13:00:11
-50378942,19,I wish tech companies knew more about me,https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me,rakhim.exotext.com,374,320,freetonik,2026-11-05T13:40:52
-50383739,20,Goodbye from Salon,https://www.salon.com/2026/11/05/goodbye-from-salon/,salon.com,546,205,mkeeter,2026-11-05T20:03:29
-50388513,21,I struggle to believe that AI R&D is ingenious,https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL,lesswrong.com,3,0,porridgeraisin,2026-11-06T05:19:04
-50383294,22,Pangram Image 1.0,https://www.pangram.com/blog/introducing-pangram-image-1-0,pangram.com,90,39,gmays,2026-11-05T19:27:52
-50379249,23,MCP Explained,https://mcp-explained.com/,mcp-explained.com,284,119,rwilinski,2026-11-05T14:08:35
-50378508,24,Obscure audio codec is a perfect fit for the N64,https://phoboslab.org/log/2026/11/n64-ulc-codec,phoboslab.org,219,28,frostbyte7,2026-11-05T12:51:48
-50383740,25,Search for everyone,https://kagi.com/changelog#11820,kagi.com,633,325,elashri,2026-11-05T20:03:34
-50380979,26,"The Stacks Project, Formalized in Lean",https://axiommath.ai/research/the-stacks-project-formalized/,axiommath.ai,86,23,namanbnsl,2026-11-05T16:16:59
-50377078,27,Baidu released ERNIE 5.5 Flash Base,https://ernie.baidu.com/release/ernie-5-5-flash-base/,ernie.baidu.com,173,96,pretext,2026-11-05T09:29:12
-50364860,28,So my ISP was hijacking my DNS,https://www.karthihegde.dev/posts/dns_tampering,karthihegde.dev,198,147,frostbyte7,2026-11-04T12:51:51
-50380704,29,Show HN: Stroq – a local audit of what your coding agent did and why,https://github.com/AGGIB/Stroq,github.com,81,29,agybay_07,2026-11-05T15:54:41
-50381512,30,Bild AI (YC W25) Is Hiring Founding Product Engineers,https://www.ycombinator.com/companies/bild-ai/jobs,ycombinator.com,0,0,,2026-11-05T17:01:23
-50381033,31,My psychophysics as a bilateral cochlear implant user,https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf,claude.ai,175,80,mi-rae,2026-11-05T16:21:12
-50383163,32,"Hungary: Communist-era files released, up to 60k former agents revealed",https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed,euronews.com,201,51,rdmuser,2026-11-05T19:16:34
-50378625,33,Discord is ditching Electron and its new app uses less RAM,https://www.theverge.com/news/1027379/discord-ditching-electron-web-app,theverge.com,422,359,archb,2026-11-05T13:05:28
-50352846,34,TextEdit vs. Pages,https://leancrew.com/all-this/2026/10/textedit-vs-pages/,leancrew.com,92,71,surprisetalk,2026-11-03T15:00:09
-50380268,35,We can do better than line-buffered output,https://nullprogram.com/blog/2026/11/05/,nullprogram.com,99,11,zdw,2026-11-05T15:25:22
-50380658,36,Building a Multi-Agent System from Scratch: Architecture Patterns,https://kadhar.dev/blog/multi-agent-systems-from-scratch,kadhar.dev,84,34,kadharmfn,2026-11-05T15:51:57
-50349667,37,"The Lisp curse, now coming to your ecosystem",https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html,javahippie.net,220,185,marcolinux,2026-11-03T08:59:31
-50387483,38,Ask HN: What are forgotten topics in computing that deserve a new revisit?,https://news.ycombinator.com/item?id=50387483,news.ycombinator.com (Ask/Show HN),22,18,draxen,2026-11-06T02:40:42
-50364336,39,AI is forcing us to pay off 40 years of technical debt,https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability,spectrum.ieee.org,1271,743,pseudolus,2026-11-04T11:52:17
-50388752,40,Hugging Face's CEO Says His P(Doom) Is 'Close to Zero',https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/,wired.com,5,0,saikatsg,2026-11-06T06:06:33
-50388747,41,The MoE Training Handbook,https://huggingface.co/spaces/huggingface/moe-blogpost,huggingface.co,3,0,matt_d,2026-11-06T06:05:05
-50377821,42,Awesome repositories are no longer awesome,https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/,erikgahner.github.io,284,117,erikgahner,2026-11-05T11:16:51
-50376313,43,GPT-6 Astra covertly underperforms on safety research,https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/,alignment.openai.com,317,175,lucrbvi,2026-11-05T07:44:30
-50373308,44,"Starfall – Affordable, routine access to microgravity",https://www.spacex.com/starfall,spacex.com,274,214,gmays,2026-11-05T00:18:18
-50375691,45,Being a kid making games in the early 2000s,https://jaytholen.net/teengamedev/,jaytholen.net,132,48,farmerbb,2026-11-05T05:53:53
-50341576,46,Spreading Liquid with Three.js,https://mofu-dev.com/en/blog/fluid-foundation/,mofu-dev.com,227,29,mooreds,2026-11-02T18:45:54
-50340195,47,Partial Operator Precedence,https://ziglang.org/devlog/2026/#2026-10-24,ziglang.org,102,60,tosh,2026-11-02T17:22:20
-50380170,48,"Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",https://nordstjernen.org/,nordstjernen.org,51,34,Propelloni,2026-11-05T15:17:31
-50388009,49,"Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears,theguardian.com,10,0,andsoitis,2026-11-06T04:01:38
-50368804,50,Launch HN: Kino AI (YC S23) – AI media manager and video editor,https://news.ycombinator.com/item?id=50368804,news.ycombinator.com (Ask/Show HN),104,35,lukeigel,2026-11-04T17:31:53
-50383902,51,Independent Assessment of AI R&D Acceleration at Anthropic in October 2026,https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/,metr.org,29,5,Hacktrick,2026-11-05T20:16:19
-50375354,52,Lemmings CSS Animation,https://markblah.github.io/lemmings/,markblah.github.io,399,77,MarkBlah,2026-11-05T04:54:10
-50387639,53,Why your Mac may not scan for malware,https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/,eclecticlight.co,12,0,Brajeshwar,2026-11-06T03:02:41
-50379341,54,80k Hops per Second Measurement Confirm Starlink Up/Downlink Channel Pairing,https://sdr-x.github.io/starlink-ul-dl-pair-80k-hop-ad9361/,sdr-x.github.io,26,1,fortran77,2026-11-05T14:17:07
-50366999,55,Kimi K3.1 Pro model weights are out,https://huggingface.co/moonshotai/Kimi-K3.1-Pro,huggingface.co,626,186,abrarthought,2026-11-04T15:30:30
-50388001,56,US FAA says it will phase out floppy disks from air traffic control by 2028,https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/,reuters.com,7,2,ChrisArchitect,2026-11-06T04:00:28
-50366853,57,A wave of plastic-free coffee pods and machines,https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free,cnn.com,140,167,thunderbong,2026-11-04T15:20:49
-50386210,58,One in eight cancers are likely caused by an infection worldwide,https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996,theconversation.com,28,2,gmays,2026-11-05T23:43:36
-50381623,59,Nasdaq plummets 4% into correction territory,https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html,cnbc.com,215,170,kristianp,2026-11-05T17:11:15
-50375653,60,"Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",https://www.altera.com/newsroom/agilex-2x,altera.com,61,23,gmays,2026-11-05T05:47:14
+50388001,1,US FAA says it will phase out floppy disks from air traffic control by 2028,https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/,reuters.com,139,124,ChrisArchitect,2026-11-06T04:00:28
+50391456,2,Tesla to wind down Cybertruck production,https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817,nbcnews.com,519,1194,PLenz,2026-11-06T12:13:51
+50396064,3,We know 15k websites are infected. how do we tell them?,https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/,scotthelme.co.uk,56,35,speckx,2026-11-06T18:13:35
+50394855,4,First steps in bare-metal programming using UEFI,https://kevinboone.me/efitest_index.html,kevinboone.me,99,8,LaSombra,2026-11-06T16:50:29
+50395869,5,Size-It-Up (Game),https://magnitudle.com/size-it-up,magnitudle.com,26,10,whoishiding,2026-11-06T17:59:59
+50395866,6,Perplexity launches AI agents for work,https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work,perplexity.ai,34,26,cybermango,2026-11-06T17:59:41
+50389333,7,Blender's UI and Runtime: Much Faster Than GPUI,https://github.com/ppmpreetham/BUI,github.com,590,240,ppmpreetham,2026-11-06T07:40:35
+50394569,8,"Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",https://github.com/anomalyco/rune,github.com,85,65,mik3y,2026-11-06T16:31:32
+50392118,9,Gemini Omni 1.2 Flash,https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/,blog.google,237,188,thisisauserid,2026-11-06T13:35:27
+50393758,10,Deus Ex,https://www.filfre.net/2026/11/deus-ex/,filfre.net,257,130,cybersoyuz,2026-11-06T15:44:36
+50395043,11,UpCodes (YC S17) is hiring SDR's to sell AI compliance software,https://up.codes/careers?utm_source=HN,up.codes,0,0,,2026-11-06T17:03:33
+50395919,12,Memorilla: Latent Semantic Memory for LLMs,https://arxiv.org/abs/2610.21375,arxiv.org,23,1,handfuloflight,2026-11-06T18:03:33
+50395450,13,Devvm.dev: One VM for every project,https://devvm.dev/,devvm.dev,24,12,luispa,2026-11-06T17:30:22
+50396108,14,40C3 halfnarp – Submit talk preferences to aid scheduling,https://halfnarp.events.ccc.de,halfnarp.events.ccc.de,10,1,hanemile,2026-11-06T18:16:43
+50395905,15,Kalshi court losses pile up as judges refuse to block state gambling laws,https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/,arstechnica.com,56,40,Analemma_,2026-11-06T18:02:34
+50394977,16,PyLings: Solve Exercises and Learn Python,https://github.com/thesayfulla/pylings,github.com,15,1,thesayfulla,2026-11-06T16:59:40
+50393089,17,Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects),https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/,sharedphysics.com,43,1,goopthink,2026-11-06T14:57:16
+50382958,18,Zero Hour: Telling time was a matter of survival and strategy during WWI (2014),https://www.laphamsquarterly.org/roundtable/zero-hour,laphamsquarterly.org,74,2,NaOH,2026-11-05T18:59:37
+50395747,19,Flawless UI-UX Skill 1.0.0,https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0,github.com,14,16,99lcccss,2026-11-06T17:52:34
+50390525,20,Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016),https://jhr.pensoft.net/articles.php?id=9096,jhr.pensoft.net,139,46,hitekker,2026-11-06T10:21:15
+50394906,21,Anthropic IPO buyers see valuation as low as $1.1T,https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout,bloomberg.com,64,160,dgellow,2026-11-06T16:54:36
+50392787,22,MTG-I2 First Images,https://www.eumetsat.int/mtg-i2-first-images,eumetsat.int,50,8,N19PEDL2,2026-11-06T14:35:29
+50390124,23,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105,github.com,580,369,microtonal,2026-11-06T09:27:12
+50394292,24,Scriptable GeoDNS: Leaving AWS for Bunny,https://vincent.bernat.ch/en/blog/2026-bunny-geodns,vincent.bernat.ch,39,14,sshah03,2026-11-06T16:15:03
+50389370,25,Kugelblitz – Mac-Native Google Earth Alternative,https://apps.metaebene.me/en/kugelblitz,apps.metaebene.me,229,60,luoc,2026-11-06T07:47:38
+50395933,26,Microsoft is winding down Oracle deal to rent AI cloud capacity,https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/,reuters.com,41,9,brazukadev,2026-11-06T18:04:06
+50388122,27,From Linux to Wikipedia: How Volunteers Build the Internet,https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/,thereader.mitpress.mit.edu,281,92,jonbaer,2026-11-06T04:17:49
+50393105,28,Ask HN: What in the world is taking Ubuntu so long?,https://news.ycombinator.com/item?id=50393105,news.ycombinator.com (Ask/Show HN),141,77,linsomniac,2026-11-06T14:58:33
+50394116,29,"Reading the Anthropic S-1, with Zvi Mowshowitz",https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/,complexsystemspodcast.com,16,0,nbernard,2026-11-06T16:04:58
+50395833,30,Pliny – Letters – Book 7 Letter 27 (On Ghosts),https://vroma.org/vromans/hwalker/Pliny/Pliny07-27-E.html?utm,vroma.org,10,1,yubblegum,2026-11-06T17:57:40
+50394771,31,Only 16% of U.S. fast-charging stations meet federal NEVI standards (open data),https://chargingnear.me/data,chargingnear.me,14,8,parkgraph,2026-11-06T16:45:10
+50385272,32,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,github.com,1520,478,motoroco,2026-11-05T22:17:15
+50389990,33,AI for scientific discovery: How researchers use Claude,https://www.anthropic.com/research/how-researchers-use-claude,anthropic.com,77,31,ersinesen,2026-11-06T09:13:30
+50394837,34,GPU-Accelerated Weight Teleportation,https://humansand.ai/blog/gpu-accelerated-weight-teleportation,humansand.ai,7,1,gmays,2026-11-06T16:49:00
+50387796,35,Pwn.college,https://pwn.college/,pwn.college,282,45,tripdout,2026-11-06T03:27:14
+50395833,36,Pliny – Letters – Book 7 Letter 27 (On Ghosts),https://vroma.org/vromans/hwalker/Pliny/Pliny07-27-E.html?utm,vroma.org,9,1,yubblegum,2026-11-06T17:57:40
+50391145,37,We've built an open-source feature flag server for 11 years,https://github.com/Unleash/unleash,github.com,120,78,ivarconr,2026-11-06T11:40:06
+50378228,38,sshole,https://sshhole.com,sshhole.com,2893,709,josemrb,2026-11-05T12:19:02
+50392499,39,"University libraries are being swarmed by AI bots, putting public access at risk",https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287,cbc.ca,111,52,blakesterz,2026-11-06T14:13:09
+50394070,40,Swipeblocked: The phrases your iPhone won't suggest,https://swipeblocked.com/,swipeblocked.com,10,2,lladnar,2026-11-06T16:01:54
+50394278,41,WebAssembly Specification Release 3.0 (2026-11-04),https://webassembly.github.io/spec/core/,webassembly.github.io,8,2,Tepix,2026-11-06T16:13:46
+50389420,42,Multiplayer tanks that demolish real buildings from OpenStreetMap,https://worldstrike.fun/,worldstrike.fun,156,109,n4ze3m,2026-11-06T07:55:48
+50389222,43,Britain to make salary disclosure in job ads mandatory,https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/,reuters.com,522,411,1659447091,2026-11-06T07:22:04
+50393235,44,"Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",https://github.com/zalando-incubator/agentic-identity-broker,github.com,17,3,jbspeakr,2026-11-06T15:07:47
+50394444,45,AI coding agent setups from 663 Hacker News comments,https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html,theainewsreport.com,7,0,titusblair,2026-11-06T16:23:51
+50387738,46,Nvidia Kubernetes Engine (NVKE),https://github.com/dsx-ai-factory/nvke,github.com,117,26,gkapur,2026-11-06T03:16:26
+50394221,47,The Formula for Lovable Cities,https://worksinprogress.co/issue/the-forgotten-formula-for-lovable-cities/,worksinprogress.co,5,0,rafaelc,2026-11-06T16:10:21
+50393458,48,"Ozempic-style drugs now in trials for heart failure, addiction and even aging",https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/,maccus.fr,7,0,randycupertino,2026-11-06T15:24:34
+50389570,49,Chomsky and the Two Cultures of Statistical Learning (2011),https://www.norvig.com/chomsky.html,norvig.com,69,49,andsoitis,2026-11-06T08:18:36
+50384233,50,MS Paint Remote Code Execution Vulnerability,https://www.cve.org/CVERecord?id=CVE-2026-83844,cve.org,693,262,kuberwastaken,2026-11-05T20:43:42
+50394737,51,Udpstp and the packets that never left,https://pederbe.dev/writing/udpstp-packets-that-never-left/,pederbe.dev,3,0,pederbe,2026-11-06T16:42:09
+50389260,52,Hardcoded credentials and other issues in Tata Motors App,https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537,cert-in.org.in,78,16,qtqtqt,2026-11-06T07:28:39
+50393547,53,Half of Show HN posts are a bare link. Ones with 500 characters got 2x replies,https://ownfeed.dev/guides/show-hn-analysis-37622-posts,ownfeed.dev,4,3,shun_dev,2026-11-06T15:30:25
+50381687,54,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,https://github.com/rivet-dev/rivet,github.com,117,58,NathanFlurry,2026-11-05T17:17:42
+50394270,55,The United States of Inference,https://subconscious-systems.github.io/united-states-of-inference/,subconscious-systems.github.io,4,1,Jackobrien,2026-11-06T16:13:12
+50394130,56,Tesla Ends Cybertruck Production,https://www.heise.de/en/news/Tesla-ends-Cybertruck-production-in-Texas-11515739.html,heise.de,21,1,Betelbuddy,2026-11-06T16:05:54
+50395877,57,An AI Rant,https://carlhandellen.substack.com/p/an-ai-rant,carlhandellen.substack.com,10,5,exploringclouds,2026-11-06T18:00:30
+50385870,58,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html,finance.yahoo.com,480,218,randycupertino,2026-11-05T23:09:57
+50393770,59,A proof of the Aaronson‑Ambainis conjecture,https://psi.inc/research/aaronson-ambainis/,psi.inc,5,1,artninja1988,2026-11-06T15:45:08
+50383294,60,Pangram Image 1.0,https://www.pangram.com/blog/introducing-pangram-image-1-0,pangram.com,140,65,gmays,2026-11-05T19:27:52
