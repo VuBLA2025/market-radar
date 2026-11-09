@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50416053,1,"Dux: Free, open-source Wayland desktop shell with file manager and theming",https://duxlabs.dev/,duxlabs.dev,107,35,,2026-11-08T19:08:51
-50417407,2,Ask HN: What are you working on? (November 2026),https://news.ycombinator.com/item?id=50417407,news.ycombinator.com (Ask/Show HN),24,166,,2026-11-08T21:20:20
-50415628,3,Goldman Sachs is pulling Claude Code from its bankers and traders,https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers,thestateofai.com,470,293,,2026-11-08T18:16:07
-50368481,4,Declarative Dragging,https://declarative-dragging.github.io/,declarative-dragging.github.io,196,20,,2026-11-04T17:05:07
-50416158,5,Outlook.com Is Quietly Rejecting Email from Domains Without DMARC,https://mailroute.net/blog/outlook-rejecting-email-without-dmarc,mailroute.net,133,111,,2026-11-08T19:20:32
-50416456,6,"The Web Is More Than Enough, by Paul Ford",https://ftrain.com/aboard-the-web-is-more-than-enough,ftrain.com,21,7,,2026-11-08T19:48:32
-50411961,7,"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",https://github.com/synchopate/llama-modchip,github.com,321,120,,2026-11-08T10:22:04
-50412067,8,Writing as a thinking tool,http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html,muratbuffalo.blogspot.com,236,74,,2026-11-08T10:41:52
-50416363,9,How I Fight AI Brain Fry,https://sergeykuhne.com/blog/fighting-ai-brain-fry,sergeykuhne.com,101,85,,2026-11-08T19:37:42
-50415135,10,A Little Snitch for Windows,https://packethound.app/,packethound.app,71,34,,2026-11-08T17:16:07
-50372838,11,"Edward Hopper's Iconic Painting, ""Nighthawks",https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/,lithub.com,40,10,,2026-11-04T23:23:08
-50362963,12,Show HN: Vegetable Gardening for Engineers,https://jrcpl.us/contrib/2020/gardening-for-engineers/,jrcpl.us,122,23,,2026-11-04T08:54:27
-50413769,13,I'm not a fan of Deno's security model (2024),https://goldstein.lol/posts/deno-security/,goldstein.lol,74,32,,2026-11-08T14:42:38
-50416014,14,Playing with the STM32MP2,https://serd.es/2026/11/08/playing-with-stm32mp2.html,serd.es,10,1,,2026-11-08T19:04:07
-50410107,15,"Goodbye Claude, hello Pi",https://caleb.software/posts/claude-to-pi.html,caleb.software,651,413,,2026-11-08T03:11:48
-50416801,16,Nvidia Board of Directors Is Investigating Jensen Huang,https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors,nvidianews.nvidia.com,236,182,,2026-11-08T20:26:43
-50389923,17,The Reconstruction of Torn Documents,https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/,bundesarchiv.de,80,47,,2026-11-06T09:05:18
-50366821,18,Porting Android 16 to my blind mother's keypad phone,https://z1x.us/blog/four-hundred-bucks-of-e-waste,z1x.us,139,40,,2026-11-04T15:18:59
-50415750,19,Playing Zork 1 on a CP/M emulator on Linux (2021),https://kevinboone.me/cpmzork.html,kevinboone.me,21,11,,2026-11-08T18:33:50
-50353814,20,The History of Djgpp,https://www.delorie.com/djgpp/history.html,delorie.com,9,1,,2026-11-03T16:10:37
-50406670,21,What I run on my $10 USD OpenStick homelab,https://blog.bosscher.ch/posts/openstick/,blog.bosscher.ch,760,131,,2026-11-07T18:12:12
-50407882,22,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again,apiiro.com,560,387,,2026-11-07T20:45:32
-50412830,23,"How to prove equations using diagrams, part 1",https://www.epatters.org/post/e-graphs-1/,epatters.org,56,4,,2026-11-08T12:51:38
-50412072,24,JIT bitmap text rendering for microcontrollers,https://linebender.org/blog/jit-bitmap-text/,linebender.org,90,15,,2026-11-08T10:42:15
-50416471,25,Starship Flight 15 on 11/13 plans to catch both booster and ship,https://www.spacex.com/launches/starship-flight-15,spacex.com,45,21,,2026-11-08T19:49:46
-50411467,26,Agent memory needs its OpenTelemetry moment,https://www.lorekit.io/blog/open-agent-memory-format,lorekit.io,159,102,,2026-11-08T08:40:23
-50366902,27,Clj.rs – a Clojure dialect implemented in Rust,https://clj.rs/,clj.rs,155,59,,2026-11-04T15:23:16
-50415078,28,A field guide to CAPTCHA types and how they break,https://github.com/vsmutok/FuckCaptcha,github.com,38,12,,2026-11-08T17:09:55
-50415281,29,Ads in Popular Apps Give Police a Powerful Tool to Spy on Users,https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/,bloomberg.com,91,18,,2026-11-08T17:32:55
-50412152,30,Petered,https://aworkinglibrary.com/writing/petered,aworkinglibrary.com,154,90,,2026-11-08T10:56:43
-50358094,31,Tasfer: a text editor drawn on a 2D canvas,https://www.hamza.se/blog/tasfer,hamza.se,84,50,,2026-11-03T20:58:40
-50404747,32,The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf],https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf,newyorkfed.org,82,55,,2026-11-07T14:18:45
-50406222,33,"MaxxBench – ""Nice DeepSWE score. But is it true?""",https://maxxbench.unlap.ai/research/why-maxxbench/,maxxbench.unlap.ai,382,101,,2026-11-07T17:19:00
-50415817,34,Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It,https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c,wsj.com,80,91,,2026-11-08T18:43:07
-50377661,35,Uranium cubes reveal why the German nuclear project failed,https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/,arstechnica.com,201,144,,2026-11-05T10:52:04
-50412318,36,Person of Interest,https://krthr.co/person-of-interest/,krthr.co,278,184,,2026-11-08T11:23:28
-50416011,37,Reverse engineering a vintage diode-transistor logic chip,https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html,righto.com,8,1,,2026-11-08T19:03:48
-50408713,38,Making any integer with four 2s (2025),https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/,eli.thegreenplace.net,205,53,,2026-11-07T22:38:58
-50370793,39,Nyquist Limit:The frequency of changes in tech is invalidating our understanding,https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/,ryanprior.com,58,23,,2026-11-04T20:07:01
-50378974,40,Finding Xanadu: Inside a JRPG classic translation 15 years in the making,https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/,readonlymemo.com,69,14,,2026-11-05T13:44:07
-50371360,41,New typeface using intricate designs from Shakespeare's First Folio (2023),https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323,itsnicethat.com,45,13,,2026-11-04T20:53:54
-50410249,42,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,https://github.com/dmunozv04/isponsorblocktv,github.com,116,51,,2026-11-08T03:47:19
-50406292,43,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",https://github.com/hedgerow-dev/coldframe,github.com,274,62,,2026-11-07T17:27:30
-50380051,44,Mizu – zero-copy parallel R and Python over shared memory,https://github.com/shikokuchuo/pymizu,github.com,68,10,,2026-11-05T15:09:04
-50408931,45,GitHub New pull request overview page in public preview,https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/,github.blog,176,122,,2026-11-07T23:09:40
-50415498,46,"The efficiency trap: why optimising everything can backfire, badly",https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly,theguardian.com,26,0,,2026-11-08T17:59:23
-50416293,47,PDP-8/E Restoration Log,https://www.ricomputermuseum.org/collections-gallery/equipment/dec-pdp-8e/pdp-8e-restoration-log,ricomputermuseum.org,8,0,,2026-11-08T19:31:19
-50409856,48,Consumer brain wave headsets threaten privacy,https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F,science.org,114,89,,2026-11-08T02:02:38
-50416263,49,Fishermen find Royal Caribbean cruise ship employee in water 20 miles off coast,https://www.cbsnews.com/losangeles/news/newport-beach-fishermen-find-man-treading-water-royal-caribbean-cruise-ship-employee/,cbsnews.com,14,3,,2026-11-08T19:28:37
-50410359,50,Kirlian Photography: Building Your Own Equipment,https://imagesco.com/articles/kirlian/kirlian-photography.html,imagesco.com,69,23,,2026-11-08T04:14:12
-50404599,51,The $8 Linux Computer (2022),http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html,thelittleengineerthatcould.blogspot.com,254,96,,2026-11-07T14:00:20
-50403066,52,Running a law firm on Free software,https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/,decoded.legal,298,140,,2026-11-07T09:39:06
-50411083,53,WaveDudeNext 2D Wave Simulator,https://github.com/graealex/WaveDudeNext,github.com,45,10,,2026-11-08T07:09:02
-50406563,54,The end of Microsoft Research's AI Frontiers group,https://hunch.net/?p=13764006,hunch.net,487,302,,2026-11-07T18:02:17
-50406111,55,Apple’s grey list: Words and phrases your iPhone won’t help you spell,https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you,theguardian.com,521,342,,2026-11-07T17:06:36
-50351954,56,Amsterdam School,https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html,architecture-history.org,60,17,,2026-11-03T13:50:19
-50405782,57,Every processor die anyone has photographed and given away,https://sheets.works/data-viz/cpu-dies,sheets.works,147,32,,2026-11-07T16:21:36
-50396064,58,We know 15k websites are infected. how do we tell them?,https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/,scotthelme.co.uk,221,182,,2026-11-06T18:13:35
-50408961,59,Commodore PET – The Worlds First Personal Computer,https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/,commodore.ca,70,35,,2026-11-07T23:15:34
-50403052,60,Need for Speed Underground 2 online in the browser,https://nfsu2.xyz/,nfsu2.xyz,1107,279,,2026-11-07T09:36:36
+50421426,1,Apple capped engineers at a $200 daily AI budget,https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1,stork.ai,47,40,,2026-11-09T05:30:11
+50420035,2,"RIP, Harvest",https://aphyr.com/posts/427-rip-harvest,aphyr.com,282,84,,2026-11-09T01:58:21
+50418176,3,KetchUp – Open-source SketchUp alternative built with Rust and WebGPU,https://ketchup3d.github.io/app/,ketchup3d.github.io,375,99,,2026-11-08T22:35:35
+50419215,4,Unlocking any car from X brand in most of the world,https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/,shubs.io,217,77,,2026-11-09T00:10:50
+50420857,5,A Critique of GPUI,https://blog.zortax.de/posts/a-critique-of-gpui,blog.zortax.de,64,27,,2026-11-09T03:51:10
+50418182,6,Chimera Vocal Synth,https://chimera-vocal-synth.vercel.app/,chimera-vocal-synth.vercel.app,169,23,,2026-11-08T22:36:03
+50418975,7,I'm not convinced the AI bubble exists,https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists,matteoraso.github.io,159,213,,2026-11-08T23:44:36
+50368481,8,Declarative Dragging,https://declarative-dragging.github.io/,declarative-dragging.github.io,464,62,,2026-11-04T17:05:07
+50416053,9,"Dux: Free, open-source Wayland desktop shell with file manager and theming",https://duxlabs.dev/,duxlabs.dev,250,79,,2026-11-08T19:08:51
+50417407,10,Ask HN: What are you working on? (November 2026),https://news.ycombinator.com/item?id=50417407,news.ycombinator.com (Ask/Show HN),188,633,,2026-11-08T21:20:20
+50416158,11,Outlook.com is rejecting email from domains without DMARC,https://mailroute.net/blog/outlook-rejecting-email-without-dmarc,mailroute.net,346,257,,2026-11-08T19:20:32
+50418016,12,Nvidia CEO Jensen Huang's letter to staff about affair,https://nvidianews.nvidia.com/news/a-message-to-our-company,nvidianews.nvidia.com,524,559,,2026-11-08T22:20:09
+50420599,13,The Qlobe: Rotating Quine (2010),http://mamememo.blogspot.com/2010/09/qlobe.html,mamememo.blogspot.com,15,0,,2026-11-09T03:15:17
+50403153,14,Ask HN: How do you manage your AI agents' context across clients and projects?,https://news.ycombinator.com/item?id=50403153,news.ycombinator.com (Ask/Show HN),42,36,,2026-11-07T10:01:48
+50404428,15,Ur-Nammu Founder of the Sumerian Renaissance,https://www.worldhistory.org/Ur-Nammu/,worldhistory.org,8,0,,2026-11-07T13:35:16
+50415628,16,Goldman Sachs is pulling Claude Code from its bankers and traders,https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers,thestateofai.com,704,390,,2026-11-08T18:16:07
+50401844,17,Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB,https://github.com/rkaehn/uniform,github.com,20,5,,2026-11-07T05:16:31
+50418818,18,When a language's creator and its owners strongly disagree [pdf],https://isocpp.org/files/papers/P4454R0.pdf,isocpp.org,106,99,,2026-11-08T23:28:01
+50371886,19,"Show HN: My compact, bio inspired distributed edge detection algorithm",https://github.com/RenderBear/haci,github.com,4,0,,2026-11-04T21:34:49
+50390822,20,Branching Beyond Leonardo: The Evolution of Tree Architecture Theory,https://blue-continuum.com/branching-beyond-leonardo,blue-continuum.com,12,0,,2026-11-06T11:01:12
+50411961,21,"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",https://github.com/synchopate/llama-modchip,github.com,404,181,,2026-11-08T10:22:04
+50412067,22,Writing as a thinking tool,http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html,muratbuffalo.blogspot.com,327,85,,2026-11-08T10:41:52
+50416456,23,"The Web Is More Than Enough, by Paul Ford",https://ftrain.com/aboard-the-web-is-more-than-enough,ftrain.com,118,71,,2026-11-08T19:48:32
+50405043,24,Air holes turn silicon wafers into flat UV focusing mirrors for compact optics,https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html,phys.org,45,5,,2026-11-07T14:51:40
+50416363,25,How I Fight AI Brain Fry,https://sergeykuhne.com/blog/fighting-ai-brain-fry,sergeykuhne.com,213,161,,2026-11-08T19:37:42
+50410107,26,"Goodbye Claude, hello Pi",https://caleb.software/posts/claude-to-pi.html,caleb.software,732,451,,2026-11-08T03:11:48
+50416014,27,Playing with the STM32MP2,https://serd.es/2026/11/08/playing-with-stm32mp2.html,serd.es,54,32,,2026-11-08T19:04:07
+50420383,28,A Bit about Email,https://maurycyz.com/misc/email/,maurycyz.com,19,3,,2026-11-09T02:46:21
+50412072,29,JIT bitmap text rendering for microcontrollers,https://linebender.org/blog/jit-bitmap-text/,linebender.org,97,20,,2026-11-08T10:42:15
+50407882,30,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again,apiiro.com,599,408,,2026-11-07T20:45:32
+50407882,31,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again,apiiro.com,599,408,,2026-11-07T20:45:32
+50362963,32,Show HN: Vegetable Gardening for Engineers,https://jrcpl.us/contrib/2020/gardening-for-engineers/,jrcpl.us,189,39,,2026-11-04T08:54:27
+50413769,33,I'm not a fan of Deno's security model (2024),https://goldstein.lol/posts/deno-security/,goldstein.lol,96,49,,2026-11-08T14:42:38
+50366821,34,Porting Android 16 to my blind mother's keypad phone,https://z1x.us/blog/four-hundred-bucks-of-e-waste,z1x.us,168,49,,2026-11-04T15:18:59
+50415750,35,Playing Zork 1 on a CP/M emulator on Linux (2021),https://kevinboone.me/cpmzork.html,kevinboone.me,37,14,,2026-11-08T18:33:50
+50415135,36,A Little Snitch for Windows,https://packethound.app/,packethound.app,110,54,,2026-11-08T17:16:07
+50372838,37,"Edward Hopper's Iconic Painting, ""Nighthawks",https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/,lithub.com,87,28,,2026-11-04T23:23:08
+50389923,38,The Reconstruction of Torn Documents,https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/,bundesarchiv.de,99,54,,2026-11-06T09:05:18
+50366902,39,Clj.rs – a Clojure dialect implemented in Rust,https://clj.rs/,clj.rs,169,66,,2026-11-04T15:23:16
+50412830,40,"How to prove equations using diagrams, part 1",https://www.epatters.org/post/e-graphs-1/,epatters.org,69,8,,2026-11-08T12:51:38
+50411467,41,Agent memory needs its OpenTelemetry moment,https://www.lorekit.io/blog/open-agent-memory-format,lorekit.io,178,105,,2026-11-08T08:40:23
+50384664,42,The Kekulé Problem – Cormac McCarthy,https://nautil.us/the-kekul-problem-236574,nautil.us,12,5,,2026-11-05T21:25:29
+50416471,43,Starship Flight 15 on 11/13 plans to catch both booster and ship,https://www.spacex.com/launches/starship-flight-15,spacex.com,116,73,,2026-11-08T19:49:46
+50406222,44,"MaxxBench – ""Nice DeepSWE score. But is it true?""",https://maxxbench.unlap.ai/research/why-maxxbench/,maxxbench.unlap.ai,392,105,,2026-11-07T17:19:00
+50377661,45,Uranium cubes reveal why the German nuclear project failed,https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/,arstechnica.com,208,163,,2026-11-05T10:52:04
+50420069,46,"Show HN: Jot – Select text anywhere on macOS, tap Shift twice, get Markdown",https://sayjot.xyz/,sayjot.xyz,5,1,,2026-11-09T02:04:31
+50404747,47,The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf],https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf,newyorkfed.org,87,57,,2026-11-07T14:18:45
+50408713,48,Making any integer with four 2s (2025),https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/,eli.thegreenplace.net,208,56,,2026-11-07T22:38:58
+50416801,49,Nvidia Board of Directors Is Investigating Jensen Huang,https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors,nvidianews.nvidia.com,457,345,,2026-11-08T20:26:43
+50420532,50,"Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/,itsfoss.com,16,12,,2026-11-09T03:06:55
+50406292,51,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",https://github.com/hedgerow-dev/coldframe,github.com,280,64,,2026-11-07T17:27:30
+50410249,52,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,https://github.com/dmunozv04/isponsorblocktv,github.com,131,57,,2026-11-08T03:47:19
+50408931,53,GitHub New pull request overview page in public preview,https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/,github.blog,189,125,,2026-11-07T23:09:40
+50408630,54,Are big problems more difficult to solve?,https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/,paulitaylor.com,5,0,,2026-11-07T22:24:30
+50406670,55,What I run on my $10 USD OpenStick homelab,https://blog.bosscher.ch/posts/openstick/,blog.bosscher.ch,781,134,,2026-11-07T18:12:12
+50378974,56,Finding Xanadu: Inside a JRPG classic translation 15 years in the making,https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/,readonlymemo.com,74,15,,2026-11-05T13:44:07
+50421342,57,The Origins of Peanut Allergy,https://stephenskolnick.substack.com/p/on-the-origins-of-peanut-allergy,stephenskolnick.substack.com,3,0,,2026-11-09T05:14:59
+50412152,58,Petered,https://aworkinglibrary.com/writing/petered,aworkinglibrary.com,161,92,,2026-11-08T10:56:43
+50370793,59,Nyquist Limit:The frequency of changes in tech is invalidating our understanding,https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/,ryanprior.com,69,23,,2026-11-04T20:07:01
+50404599,60,The $8 Linux Computer (2022),http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html,thelittleengineerthatcould.blogspot.com,259,97,,2026-11-07T14:00:20
