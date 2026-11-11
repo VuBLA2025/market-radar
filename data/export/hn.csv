@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50449748,1,Protecting SSH Keys with macOS Secure Enclave,https://gatezh.com/posts/macos-secure-enclave-ssh-keys/,gatezh.com,83,29,,2026-11-11T04:28:57
-50450007,2,Greg Kurtzer's Ginux is now a userspace kernel,https://github.com/gmkurtzer/ginux,github.com,34,6,,2026-11-11T05:25:54
-50445401,3,Scion is back and is going to sell a kei truck in America,https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/,theautopian.com,432,292,,2026-11-10T19:50:46
-50441707,4,Smart home devices should work without the internet,https://docodethatmatters.com/home-automation-overnight-success/,docodethatmatters.com,846,301,,2026-11-10T15:25:20
-50442736,5,.name Grandfathered,https://neil.fraser.name/news/2026/11/10/,neil.fraser.name,765,171,,2026-11-10T16:37:44
-50448921,6,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,blog.moertel.com,100,15,,2026-11-11T01:56:31
-50449275,7,"To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna,science.org,54,30,,2026-11-11T02:57:08
-50446246,8,Six Math Essentials,https://teorth.github.io/tao-web/six-math-essentials.html,teorth.github.io,205,37,,2026-11-10T20:58:44
-50427107,9,Why I wrote the BEAM book (2025),https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/,happihacking.com,40,3,,2026-11-09T15:41:35
-50443824,10,Synaptics patent claims stop work on DisplayLink drivers,https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/,lwn.net,360,214,,2026-11-10T18:02:02
-50414657,11,A Compendium of Abandoned Greenhouses,https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/,messynessychic.com,8,0,,2026-11-08T16:30:04
-50444129,12,Starlink Mini 2,https://starlink.com/mini-2,starlink.com,364,371,,2026-11-10T18:22:32
-50446520,13,Apple has new Mac app coming to make running local AI models easy,https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/,9to5mac.com,147,105,,2026-11-10T21:25:03
-50447074,14,Tracking Anthropic-discovered vulnerabilities,https://www.vulncheck.com/blog/anthropic-glasswing-november-update,vulncheck.com,380,175,,2026-11-10T22:17:56
-50439193,15,AlphaProof Code,https://deepmind.google/blog/introducing-alphaproof-code/,deepmind.google,611,182,,2026-11-10T12:11:12
-50443427,16,Val Town is winding down,https://blog.val.town/winding-down,blog.val.town,357,92,,2026-11-10T17:31:14
-50442225,17,Announcing .NET 11,https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/,devblogs.microsoft.com,141,204,,2026-11-10T16:01:27
-50406224,18,Hacking the Meta Ray-Ban smartglasses,https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/,p0pcycle.com,93,32,,2026-11-07T17:19:02
-50443812,19,"Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",https://github.com/GoogleChrome/modern-web-guidance,github.com,332,101,,2026-11-10T18:01:15
-50447036,20,$30M Raised to Redo the CPU,https://tendrils.co/blog/2026-11-10/30m-raised,tendrils.co,75,67,,2026-11-10T22:14:03
-50448174,21,AI is becoming an information gateway. Audiences still don’t want it making news,https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/,niemanlab.org,42,20,,2026-11-11T00:15:33
-50443090,22,AMD's Zen 6 Family: Feeding the Beast,https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast,chipsandcheese.com,217,84,,2026-11-10T17:02:32
-50443716,23,"Claude Whiteboards, Claude Sheets, and Claude Data",https://claude.com/resources/articles/sheets-whiteboards-data,claude.com,176,138,,2026-11-10T17:55:07
-50449080,24,Hooked on Tuna,https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428,theconversation.com,25,2,,2026-11-11T02:23:25
-50438318,25,AI usage generates a fragile codebase,https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/,evanxmerz.com,478,459,,2026-11-10T10:25:58
-50448340,26,LLMs Play Zachtronics' TIS-100,https://tis-100.wincon.dev/,tis-100.wincon.dev,39,6,,2026-11-11T00:37:05
-50420579,27,Unremarkable things we made in 2026,https://www.neilchen.co/blog/things2026,neilchen.co,26,0,,2026-11-09T03:12:52
-50433216,28,Process Explorer for macOS,https://github.com/microsoft/Procexp-Mac,github.com,180,58,,2026-11-09T22:30:41
-50444684,29,A comprehensive study of how fingerprintable users are,https://fingerprinting.study/,fingerprinting.study,98,42,,2026-11-10T19:03:54
-50439695,30,Ableton Live 13,https://www.ableton.com/en/live/,ableton.com,301,314,,2026-11-10T12:58:04
-50426754,31,The Assyrian Dictionary of the Oriental Institute of the University of Chicago,https://isac.uchicago.edu/publications/search,isac.uchicago.edu,11,1,,2026-11-09T15:13:07
-50445013,32,What objective is reasoning solving?,https://alexwang.ai/posts/reasoning-as-pathfinding/,alexwang.ai,138,64,,2026-11-10T19:25:14
-50410587,33,Pinot Noir: inside the criminal gangs making fake wine,https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine,economist.com,52,24,,2026-11-08T05:13:25
-50445279,34,Research taste in history: the importance of learning Babylonian math,https://resobscura.substack.com/p/research-taste-in-history-the-importance,resobscura.substack.com,27,1,,2026-11-10T19:42:44
-50441518,35,"Show HN: Valencia, Spain in Sim City/Isometric View",https://tinyvalencia.com/,tinyvalencia.com,224,55,,2026-11-10T15:12:16
-50410329,36,Simon Winchester has died,https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html,nytimes.com,95,31,,2026-11-08T04:07:21
-50382401,37,I deleted all my SSH keys,https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/,blog.infected.systems,244,134,,2026-11-05T18:17:51
-50446219,38,Sherman Anti-Trust Act (1890),https://www.archives.gov/milestone-documents/sherman-anti-trust-act,archives.gov,81,48,,2026-11-10T20:56:16
-50442426,39,Blender 5.3 released with Gaussian Splat support,https://www.blender.org/download/releases/5-3/,blender.org,456,68,,2026-11-10T16:15:43
-50438480,40,What constant surveillance is doing to children and parents,https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/,theatlantic.com,237,263,,2026-11-10T10:47:18
-50437242,41,M John Harrison becomes first science fiction author to win the Booker,https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize,theguardian.com,148,107,,2026-11-10T07:40:52
-50437790,42,Queens Public Library under ransomware attack,https://connect.queenslibrary.org/,connect.queenslibrary.org,196,108,,2026-11-10T09:04:39
-50401414,43,Lighting the Skies,https://computer.rip/2026-10-25-searchlights.html,computer.rip,24,3,,2026-11-07T03:40:34
-50424581,44,Foldable Flight: The Best Paper Airplanes,https://www.foldableflight.com,foldableflight.com,1214,167,,2026-11-09T12:19:22
-50443714,45,An Open Field Guide to Inference Engineering,https://docs.modelplane.ai/guides/inference-guide,docs.modelplane.ai,82,8,,2026-11-10T17:55:07
-50443587,46,Life on Claude Nine,https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html,babuschk.in,96,58,,2026-11-10T17:44:44
-50412554,47,NetBSD 11 desktop on a Raspberry Pi 4,https://neongd.com/articles/netbsd11-rpi4.gmi,neongd.com,131,78,,2026-11-08T12:07:17
-50449440,48,"The Apple Support Community will permanently close on November 20, 2026",https://discussions.apple.com/welcome,discussions.apple.com,38,20,,2026-11-11T03:26:51
-50437752,49,Fossil CO2 emissions decrease in 2026,https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/,news.exeter.ac.uk,172,216,,2026-11-10T08:59:41
-50441350,50,Show HN: Aircad – Professional drafting and 3D modeling in the browser,https://aircad.com,aircad.com,37,16,,2026-11-10T15:01:19
-50447363,51,The Surprising Effectiveness of Deleting Weights in LLM Post-Training,https://arxiv.org/abs/2611.10866,arxiv.org,15,0,,2026-11-10T22:44:49
-50444850,52,Saltline: First-person shooter built by Fable 5.2,https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp,claude.ai,57,69,,2026-11-10T19:14:38
-50426294,53,"Taking another shot at the cheap IP camera, part 2",https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/,ericswpark.com,128,38,,2026-11-09T14:40:42
-50408336,54,Billion Watts in the Speaker [video],https://www.youtube.com/watch?v=PHOcTXYaMfg,youtube.com,107,54,,2026-11-07T21:45:50
-50436640,55,Amazon saves millions by replacing Sonnet 4.6 with Strands Decider,https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/,strandsagents.com,703,246,,2026-11-10T06:01:08
-50446714,56,rVPN – stealth VPN with end-to-end encryption,https://rvpn.org/,rvpn.org,75,64,,2026-11-10T21:42:50
-50412209,57,"Stable URLs for 42,000 Huts and Peaks",https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html,peter-hoffmann.com,25,3,,2026-11-08T11:04:04
-50436410,58,Your TV can see through walls (2025),https://maurycyz.com/projects/fading/,maurycyz.com,263,128,,2026-11-10T05:24:45
-50429068,59,Claude Fable 5.2 and Mythos 5.2,https://www.anthropic.com/claude-fable-and-mythos-5-2,anthropic.com,887,1013,,2026-11-09T18:01:10
-50404969,60,The planet Vulcan: a cautionary tale,https://kevinboone.me/vulcan.html,kevinboone.me,46,18,,2026-11-07T14:42:49
+50456631,1,AWS Finally Built Its Own AWS Emulator,https://github.com/aws/aws-emulator,github.com,258,67,,2026-11-11T18:21:38
+50450488,2,Tim Peters has died,https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028,discuss.python.org,405,41,,2026-11-11T07:03:17
+50455394,3,A false smoke alarm almost drowned Jane Street's only NYC datacenter,https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/,michael.bacarella.com,258,131,,2026-11-11T16:38:44
+50457230,4,Show HN: I recreated Papers Please but you're deciding which YC startups to fund,https://termsheetplease.com/,termsheetplease.com,33,7,,2026-11-11T19:12:16
+50456740,5,AWS Emulator and the engineer's job when agents write the code,https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html,allthingsdistributed.com,56,3,,2026-11-11T18:28:31
+50455633,6,"Faster Retrieval for Better, More Efficient RAG",https://machinelearning.apple.com/research/faster-retrieval,machinelearning.apple.com,79,17,,2026-11-11T16:57:45
+50457197,7,Jensen Huang Must Resign,https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign,economist.com,31,29,,2026-11-11T19:09:53
+50457164,8,Retirement Savings Are Fueling the AI Bubble,https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/,lpeproject.org,11,4,,2026-11-11T19:06:43
+50452455,9,"Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",https://pietromiotti.com/latest/maya-site/?maya,pietromiotti.com,835,309,,2026-11-11T12:05:22
+50453288,10,Hyper-Realistic Sand with WebGL2,https://av.github.io/safe-sand/,av.github.io,213,50,,2026-11-11T13:39:29
+50454625,11,"Show HN: Yogurt – Free, private, open-source alternative to Granola",https://github.com/FrigadeHQ/yogurt,github.com,81,39,,2026-11-11T15:33:06
+50453637,12,Atuin Threads: All your agent sessions on every machine,https://blog.atuin.sh/threads-agent-sessions/,blog.atuin.sh,138,55,,2026-11-11T14:10:46
+50455811,13,Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents,https://pomerado.ai/,pomerado.ai,25,15,,2026-11-11T17:11:56
+50452655,14,Can a Linear Program Do Weight-Space Programming?,https://nathan.rs/posts/weight-space-lp/,nathan.rs,195,29,,2026-11-11T12:30:17
+50451903,15,Using voltage glitching to unleash the A100 in my mining card,https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/,blog.kate.land,216,82,,2026-11-11T10:48:40
+50453763,16,Pharo in the Browser with WebAssembly,https://massimo-nocentini.github.io/pharo-vm/world.html,massimo-nocentini.github.io,103,29,,2026-11-11T14:21:27
+50452652,17,We need more goat sacrifices,https://www.experimental-history.com/p/we-need-more-goat-sacrifices,experimental-history.com,146,87,,2026-11-11T12:29:48
+50438435,18,"The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation,begiant.ca,8,2,,2026-11-10T10:41:26
+50453229,19,"Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",https://github.com/0xdeadf1sh/AssemblyForNeovim,github.com,82,15,,2026-11-11T13:34:24
+50455332,20,"AI, activity, and outcomes in software engineering",https://cabird.com/talks/shipping-faster/,cabird.com,70,83,,2026-11-11T16:33:28
+50452404,21,Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco,https://news.ycombinator.com/item?id=50452404,news.ycombinator.com (Ask/Show HN),0,0,,2026-11-11T12:00:35
+50413266,22,Show HN: Micron – Oberon with the Power of C,https://github.com/rochus-keller/Micron,github.com,26,8,,2026-11-08T13:40:08
+50454823,23,The Computer Graphics Book of Knowledge,https://www.cs.cmu.edu/~ph/nyit/masson/history.htm,cs.cmu.edu,40,17,,2026-11-11T15:50:02
+50454951,24,"Show HN: Klad, a paint app your coding agent can drive (source-available)",https://github.com/klad-app/klad,github.com,54,26,,2026-11-11T16:00:50
+50443264,25,TimeNet: Open-source data infrastructure for Temporal Foundation Models,https://github.com/OpenTSLM/TimeNet,github.com,31,4,,2026-11-10T17:16:09
+50453474,26,I asked every TV manufacturer 17 questions about how they spy on you,https://www.theverge.com/tech/1012372/tv-privacy-acr-questions,theverge.com,296,177,,2026-11-11T13:56:05
+50456010,27,The Power and Legacy of Virginia Tech's Mac-Based Supercomputers,https://512pixels.net/2026/11/va-tech-system-x-system-g/,512pixels.net,13,0,,2026-11-11T17:30:47
+50453171,28,Attention to Mamba: A Recipe for Cross-Architecture Distillation,https://machinelearning.apple.com/research/attention-mamba-distillation,machinelearning.apple.com,48,3,,2026-11-11T13:29:46
+50449748,29,Protecting SSH Keys with macOS Secure Enclave,https://gatezh.com/posts/macos-secure-enclave-ssh-keys/,gatezh.com,364,131,,2026-11-11T04:28:57
+50453555,30,Apple is killing its Support Community forum next week,https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down,theverge.com,236,137,,2026-11-11T14:02:11
+50455031,31,Multiple remote code execution vulnerabilities in danfoss sm-800A,https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a,midnightblue.nl,15,4,,2026-11-11T16:08:14
+50416640,32,Peer-to-peer WebRTC connections with built-in signaling and discovery,https://github.com/lukks/like-webrtc,github.com,65,17,,2026-11-08T20:10:06
+50446520,33,Apple has new Mac app coming to make running local AI models easy,https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/,9to5mac.com,483,504,,2026-11-10T21:25:03
+50436788,34,A C++ Quicksort Faster Than std:sort,https://tiki.li/blog/about_blqsort,tiki.li,21,5,,2026-11-10T06:28:15
+50453080,35,EventSourcingDB 1.3.0 Is Available,https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available,eventfoundation.io,37,6,,2026-11-11T13:19:45
+50457083,36,"Cancer vaccine for Yash, he's diagnosed with stage IV pancreatic cancer",https://github.com/popvax/yash,github.com,11,1,,2026-11-11T18:57:01
+50456791,37,Gemini Decisions API,https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/,blog.google,15,2,,2026-11-11T18:32:42
+50427153,38,"Show HN: 3D to 2D, point clouds flattening (geometry images)",https://github.com/Neighborhood-Grid/flatpoints,github.com,12,3,,2026-11-09T15:44:59
+50452496,39,Next-Level Benchmarking Overfitting – Thomas Neumann,http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html,databasearchitects.blogspot.com,55,13,,2026-11-11T12:09:49
+50449080,40,Hooked on Tuna,https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428,theconversation.com,46,24,,2026-11-11T02:23:25
+50445556,41,Hayabusa2 Is Chasing the mysterious object 1998 KY26,https://gizmodo.com/a-japanese-spacecraft-is-chasing-a-space-rock-that-defies-gravity-the-best-explanation-just-took-a-hit-2000837742,gizmodo.com,10,2,,2026-11-10T20:03:55
+50456926,42,"Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths,tomshardware.com,16,4,,2026-11-11T18:44:23
+50441181,43,A Brain Teaser of an Obituary,https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html,nytimes.com,10,4,,2026-11-10T14:49:46
+50455358,44,Reddit Migration's Impact on Lemmy (2023),https://www.jmis.org/archive/view_article?pid=jmis-10-4-333,jmis.org,25,23,,2026-11-11T16:35:38
+50452224,45,Physically Controllable Relighting of Photographs,https://yaksoy.github.io/PhysicalRelighting/,yaksoy.github.io,58,12,,2026-11-11T11:38:43
+50454418,46,Brazil's Serra Verde starts shipping heavy rare earths to US under 15-year deal,https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-announces-start-commercial-scale-shipments-and,investors.usare.com,11,3,,2026-11-11T15:14:59
+50449891,47,Show HN: Black Ops II statically recompiled to native ARM64 macOS,https://github.com/adrbn/bo2-mac,github.com,125,56,,2026-11-11T04:56:47
+50452742,48,"Open research, stronger privacy: Making Firefox users harder to fingerprint",https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/,blog.mozilla.org,148,48,,2026-11-11T12:44:06
+50448921,49,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,blog.moertel.com,245,55,,2026-11-11T01:56:31
+50450007,50,Greg Kurtzer's Ginux is now a userspace kernel,https://github.com/gmkurtzer/ginux,github.com,112,74,,2026-11-11T05:25:54
+50427107,51,Why I wrote the BEAM book (2025),https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/,happihacking.com,178,39,,2026-11-09T15:41:35
+50453176,52,Show HN: I created a library for correctly using SQLite in Go programs,https://github.com/cattlecloud/litesql,github.com,18,0,,2026-11-11T13:30:26
+50441707,53,Smart home devices should work without the internet,https://docodethatmatters.com/home-automation-overnight-success/,docodethatmatters.com,1123,416,,2026-11-10T15:25:20
+50452394,54,"JSON vs. jsonb in Postgres: size and speed, measured",https://now-next.nl/en/insights/postgresql-json-vs-jsonb-measured/,now-next.nl,21,0,,2026-11-11T11:59:20
+50393070,55,"Why Amstrad chose the 3"" drives",https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/,cpcwiki.eu,82,33,,2026-11-06T14:56:07
+50456944,56,"VW drops 'Gamechanger' production at main plant, risking escalation with workers",https://www.reuters.com/business/world-at-work/vw-drops-gamechanger-production-main-plant-risking-escalation-with-workers-2026-11-11/,reuters.com,7,0,,2026-11-11T18:46:13
+50435962,57,Make this forward pass as fast as possible,https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/,ianbarber.blog,31,5,,2026-11-10T04:10:36
+50443716,58,"Claude Whiteboards, Claude Sheets, and Claude Data",https://claude.com/resources/articles/sheets-whiteboards-data,claude.com,274,212,,2026-11-10T17:55:07
+50456668,59,"Anthropic says a key AI safety alarm has been triggered, days before its IPO",https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html,finance.yahoo.com,9,5,,2026-11-11T18:23:31
+50442736,60,.name Grandfathered,https://neil.fraser.name/news/2026/11/10/,neil.fraser.name,914,200,,2026-11-10T16:37:44
