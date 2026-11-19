@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50552424,1,Gemini 4 Neon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/,blog.google,725,611,,2026-11-18T21:34:07
-50547374,2,Unauthenticated remote code execution in Nginx,https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities,wiz.io,1301,570,,2026-11-18T15:19:55
-50556533,3,"15M web servers on one VM – smoltcp, DPDK, AF_XDP",https://kapteko.com/15-million-webservers/,kapteko.com,36,7,,2026-11-19T05:56:36
-50554038,4,Multiple vulnerabilities in Regexp and String case conversion,https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/,ruby-lang.org,205,67,,2026-11-18T23:52:50
-50548021,5,Seven new models at scalable price-performance,https://microsoft.ai/news/microsoft-ignite-2026/,microsoft.ai,517,341,,2026-11-18T16:08:24
-50553843,6,Anthropic prices initial public offering,https://www.anthropic.com/news/anthropic-prices-initial-public-offering,anthropic.com,158,160,,2026-11-18T23:30:09
-50518303,7,Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute,https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/,futurumgroup.com,21,0,,2026-11-16T14:59:54
-50547620,8,Inside Deutsche Bank,https://www.inside-db.com/,inside-db.com,651,208,,2026-11-18T15:38:33
-50553225,9,LLM assisted reverse engineering,https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering,slowchronicle.com,166,44,,2026-11-18T22:29:13
-50550415,10,Genie 4 is now available,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/,blog.google,236,160,,2026-11-18T18:49:51
-50551046,11,DaisyRose-27B,https://www.radixark.com/blog/daisyrose-27b,radixark.com,187,59,,2026-11-18T19:39:16
-50525260,12,Dumping an AES key from a MyQ garage opener to stop rebooting when offline,https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/,kusha.me,107,36,,2026-11-16T23:47:26
-50530088,13,Camera Index,https://www.cameraindex.co.uk/,cameraindex.co.uk,21,6,,2026-11-17T11:35:33
-50542441,14,Mosquitoes are Ladakh's latest tourists,https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists,ruralindiaonline.org,37,1,,2026-11-18T06:08:25
-50532515,15,"Show HN: An API for word timestamps from speech, 75% within 20ms",https://quebec.yarn.so,quebec.yarn.so,4,0,,2026-11-17T15:16:45
-50546914,16,The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026,https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026,cam.ac.uk,269,194,,2026-11-18T14:43:52
-50519778,17,Logitech Harmony IR code online database archive,https://github.com/pickysysadmin/logitech-harmony-ir-archive,github.com,8,1,,2026-11-16T16:56:43
-50554935,18,Unreal Tournament 2004 in the Browser,https://ut2004.dev/,ut2004.dev,144,59,,2026-11-19T01:29:29
-50554009,19,Palo Alto Networks to Acquire Applied Compute for $4.5B,https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open,investors.paloaltonetworks.com,52,11,,2026-11-18T23:49:13
-50549493,20,Advancing chip design with OpenAI models,https://openai.com/index/advancing-chip-design-with-our-models/,openai.com,200,130,,2026-11-18T17:45:47
-50547980,21,"Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",https://exitpath-ruddy.vercel.app/,exitpath-ruddy.vercel.app,202,61,,2026-11-18T16:04:43
-50554045,22,We need smart people who give a shit,https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/,violetpixel.com,469,238,,2026-11-18T23:53:49
-50547583,23,F-22 Next-Generation micro–Data Transfer Cartridge (mDTC),https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view,sam.gov,167,109,,2026-11-18T15:35:44
-50548161,24,"Show HN: Take Voyager 1 apart, down to a single memory chip",https://rshekhar.com/voyager/,rshekhar.com,184,46,,2026-11-18T16:18:51
-50523377,25,"Show HN: Open-source, real-time object tracking for live video feeds",https://github.com/aryamandarda/tamserve,github.com,78,3,,2026-11-16T21:14:39
-50554374,26,Gemini 4 Neon looks like an Opus 5.5 competitor,https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/,micjm.com,211,67,,2026-11-19T00:29:45
-50510385,27,Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon,https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/,engineering.fb.com,63,12,,2026-11-15T20:30:42
-50547777,28,AI agents ask better questions than KPMG accountants in audit trial,https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/,europeanbusinessmagazine.com,442,192,,2026-11-18T15:49:34
-50545958,29,DNS resolvers are the wrong place to fight piracy,https://techstackups.com/articles/quad9-leaves-france-dns-blocking/,techstackups.com,653,263,,2026-11-18T13:18:02
-50549188,30,Launch HN: Maritime (YC F26) – A managed cloud for production AI agents,https://news.ycombinator.com/item?id=50549188,news.ycombinator.com (Ask/Show HN),52,47,,2026-11-18T17:26:28
-50546967,31,The x86 CPU: From 4004 to 486,https://pikuma.com/blog/history-of-x86-4004-to-486,pikuma.com,167,51,,2026-11-18T14:47:53
-50548004,32,KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312),https://www.cve.org/CVERecord?id=CVE-2026-99312,cve.org,184,121,,2026-11-18T16:06:21
-50554076,33,Pushing WireGuard on macOS to 5 Gbit/s,https://www.firezone.dev/blog/apple-client-performance,firezone.dev,33,4,,2026-11-18T23:57:01
-50524227,34,A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover,https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/,science.nasa.gov,51,5,,2026-11-16T22:19:31
-50554908,35,Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction,https://arxiv.org/abs/2607.29378,arxiv.org,43,7,,2026-11-19T01:27:02
-50554941,36,FailTrace – Reproduce a failed GitHub Actions run locally from its URL,https://github.com/Ri4dH/failtrace,github.com,24,5,,2026-11-19T01:30:43
-50544261,37,Codeberg.org Not Reachable,https://social.anoxinon.de/@codebergstatus/117636437840688845,social.anoxinon.de,302,302,,2026-11-18T10:02:17
-50546922,38,A Primer on Fourier Series (2025),https://arxiv.org/abs/2510.18203,arxiv.org,119,34,,2026-11-18T14:44:33
-50548991,39,CrossPoint Reader,https://crosspointreader.com,crosspointreader.com,119,58,,2026-11-18T17:14:31
-50550096,40,The Magic of Partial Evaluation,https://jimmyhmiller.com/magic-of-partial-evaluation,jimmyhmiller.com,108,30,,2026-11-18T18:29:03
-50548660,41,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",https://news.ycombinator.com/item?id=50548660,news.ycombinator.com (Ask/Show HN),90,32,,2026-11-18T16:53:42
-50553852,42,Ergodicity: What Does It Mean?,https://leonlins.com/writing/ergodicity,leonlins.com,17,0,,2026-11-18T23:32:11
-50554759,43,Recurrent Interface Networks,https://arxiv.org/abs/2212.11972,arxiv.org,10,0,,2026-11-19T01:13:16
-50545238,44,Evidence (YC S21) Is Hiring,https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead,ycombinator.com,0,0,,2026-11-18T12:00:16
-50551359,45,Sexp Matrix,https://lisper.cc/ideas/entangle.html,lisper.cc,46,11,,2026-11-18T20:01:50
-50554641,46,Black high school students sue after AI mistakes Doritos bag for gun,https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/,lawyerscommittee.org,82,42,,2026-11-19T00:57:20
-50555093,47,AI will not make you rich (2025),https://colossus.com/article/ai-will-not-make-you-rich/,colossus.com,93,53,,2026-11-19T01:51:28
-50544821,48,Show HN: Type Fighter 2,https://typefighter2.com/,typefighter2.com,133,59,,2026-11-18T11:11:53
-50538240,49,Java4Shell: RCE in OpenJDK when processing Base64,https://calif.io/java4shell/,calif.io,1162,323,,2026-11-17T21:11:28
-50554973,50,Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools,https://adeindex.com,adeindex.com,16,3,,2026-11-19T01:33:52
-50551398,51,Search Browser – Minimalist WebKit browser with Chrome extension support,https://searchbrowser.app/,searchbrowser.app,59,34,,2026-11-18T20:04:31
-50541790,52,Why is Gemini 4 Carbon taking so long?,https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/,kernel.dev,270,138,,2026-11-18T04:14:04
-50554010,53,Software companies are trying to kill home computing?,https://lateblt.livejournal.com/526188.html,lateblt.livejournal.com,154,98,,2026-11-18T23:49:18
-50553964,54,Oops All Shells – Stupid Vulnerability Name Generator,https://oops-all-shells.netlify.app/,oops-all-shells.netlify.app,14,1,,2026-11-18T23:44:59
-50552140,55,"Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",https://springcraft-ai.github.io/springrep/,springcraft-ai.github.io,29,5,,2026-11-18T21:08:47
-50505310,56,The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter,https://americanhandgunner.com/handguns/revolvers/the-first-revolver/,americanhandgunner.com,60,45,,2026-11-15T09:12:55
-50526087,57,Collisions in Hash Functions,https://collisions.zksecurity.xyz/,collisions.zksecurity.xyz,14,8,,2026-11-17T01:11:09
-50538994,58,Quad9's withdrawal from France: A canary in the coal mine,https://blog.cloudflare.com/quad9-withdrawal-from-france/,blog.cloudflare.com,889,433,,2026-11-17T22:13:34
-50548038,59,SuperEMeans: Making e-means 3× faster,https://www.lkuffo.com/superemeans/,lkuffo.com,56,0,,2026-11-18T16:09:50
-50551509,60,Horizon Labs Report,https://horizon-labs.ai/,horizon-labs.ai,23,6,,2026-11-18T20:12:34
+50562754,1,Anthropic hits $2T in Nasdaq debut,https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/,reuters.com,551,894,,2026-11-19T17:02:40
+50563148,2,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,anthropic.com,245,93,,2026-11-19T17:30:44
+50563066,3,Pancreatic cancer halted by virus injection in three patients,https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/,scienceinhand.com,181,17,,2026-11-19T17:25:33
+50564159,4,The 98% Slot Machine: How Paid Advertising Became an Extraction Tax,https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine,globalcommercegraph.com,68,34,,2026-11-19T18:35:17
+50519231,5,Garage Door Spam,https://blog.harrison.page/garage-door-spam/,blog.harrison.page,622,261,,2026-11-16T16:13:36
+50561515,6,Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest,https://cornholenews.news,cornholenews.news,135,63,,2026-11-19T15:38:32
+50562113,7,UK government forced to admit it issued Apple a secret encryption order,https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/,macanorak.com,315,145,,2026-11-19T16:21:03
+50562320,8,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,github.com,57,57,,2026-11-19T16:34:04
+50558906,9,Someone reported java4shell bug in September 2026,https://github.com/openjdk/jdk/pull/32781,github.com,268,75,,2026-11-19T11:47:03
+50564366,10,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],https://www.youtube.com/watch?v=lwfewYL7X0o,youtube.com,27,34,,2026-11-19T18:47:16
+50561508,11,"Pete warden on local AI, open models, voice interfaces, the future of hardware",https://thedataexchange.media/pete-warden-moonshine/,thedataexchange.media,175,157,,2026-11-19T15:38:12
+50559719,12,Making 8-page foldable zines from a single A4 sheet in the browser,https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/,krthr.co,173,42,,2026-11-19T13:18:11
+50547048,13,Nintendo takes Picofly firmware down from GitHub [video],https://www.youtube.com/watch?v=-TLCGUpoD6c,youtube.com,220,83,,2026-11-18T14:56:04
+50558533,14,How the European Commission rolled out Matrix to more than 40k staff,https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/,element.io,604,289,,2026-11-19T10:58:29
+50556287,15,Ruby2ßhell: Pre-authentication RCE on stock Rails,https://verialabs.com/ruby2shell/,verialabs.com,346,142,,2026-11-19T05:09:11
+50557870,16,What's New in PHP 8.6,https://www.php.net/releases/8.6/en.php,php.net,246,120,,2026-11-19T09:27:15
+50536950,17,An Oregon library ditched Dewey Decimal and got people excited about books again,https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system,fastcompany.com,146,108,,2026-11-17T19:35:12
+50517657,18,Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches,https://www.tisonkun.io/posts/ai-repair-program/,tisonkun.io,6,0,,2026-11-16T13:58:56
+50557661,19,"Do not buy RAM, compress",https://curiousbits.nl/blog/do-not-buy-ram-compress/,curiousbits.nl,188,157,,2026-11-19T08:56:47
+50561170,20,How to Make the Ink Used to Write Hamlet and the Declaration of Independence,https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/,lithub.com,52,22,,2026-11-19T15:13:23
+50559179,21,Unblockable communication with gravity,https://www.science.org/doi/10.1126/sciadv.aee0802,science.org,101,34,,2026-11-19T12:22:00
+50557537,22,"Distributed, high-performance blob storage on SQLite",https://zerodha.tech/blog/high-performance-distributed-blob-storage/,zerodha.tech,223,60,,2026-11-19T08:39:45
+50521083,23,Adding Fortran Support to LLDB (GSoC 2026),https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/,blog.llvm.org,9,4,,2026-11-16T18:34:37
+50560822,24,Everything you need to survive and rebuild society,https://lastbook.org/,lastbook.org,289,154,,2026-11-19T14:47:18
+50560955,25,"Cooling buildings is overtaking heating them as an energy need, IEA says",https://maccus.fr/en/cooling-overtaking-heating/,maccus.fr,126,88,,2026-11-19T14:57:14
+50562262,26,Fuck Your AI Safeguards,https://ounapuu.ee/posts/2026/11/19/unsafeguards/,ounapuu.ee,298,107,,2026-11-19T16:30:18
+50556533,27,"15M web servers on one VM – smoltcp, DPDK, AF_XDP",https://kapteko.com/15-million-webservers/,kapteko.com,346,40,,2026-11-19T05:56:36
+50562636,28,Chrome AI features wasting much bandwidth,https://perishablepress.com/chrome-ai-wasting-much-bandwidth/,perishablepress.com,92,33,,2026-11-19T16:54:25
+50518596,29,I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020),https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062,dl.acm.org,26,3,,2026-11-16T15:26:09
+50517783,30,Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising,https://github.com/neoma-pcam/pcam-live,github.com,11,0,,2026-11-16T14:12:22
+50561436,31,Show HN: Watch weight-space programming in action with WebGPU,https://tabbyml.github.io/weight-space-playground/,tabbyml.github.io,29,3,,2026-11-19T15:32:47
+50557716,32,SSD prices may begin to decline in the latter half of 2027,https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html,drivevault.io,286,221,,2026-11-19T09:05:34
+50503743,33,It's all about the allocator,https://aarol.dev/posts/zig-allocator/,aarol.dev,44,12,,2026-11-15T03:34:58
+50562500,34,AI isn't replacing your job. It's turning it into low-paid gig work,https://restofworld.org/2026/ai-jobs-skills-gig-work/,restofworld.org,73,36,,2026-11-19T16:45:50
+50548808,35,Teaching robots to carve marble sculptures,https://eleanorwiesler.com/blog/robotic-stone-carving/,eleanorwiesler.com,111,87,,2026-11-18T17:03:53
+50552424,36,Gemini 4 Neon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/,blog.google,999,751,,2026-11-18T21:34:07
+50548660,37,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",https://news.ycombinator.com/item?id=50548660,news.ycombinator.com (Ask/Show HN),135,41,,2026-11-18T16:53:42
+50565631,38,"JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",https://www.reuters.com/legal/government/jpmorgan-says-third-party-vendors-targeted-cyberattack-2026-11-19/,reuters.com,11,0,,2026-11-19T20:10:15
+50563328,39,AI Came for the Coders. Understanding Why Tells Us Who's Next,https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html,robertpeake.com,9,4,,2026-11-19T17:43:38
+50547374,40,Unauthenticated remote code execution in Nginx,https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities,wiz.io,1477,630,,2026-11-18T15:19:55
+50560461,41,OpenAI still has a WebRTC Problem,https://moq.dev/blog/webrtc-is-still-the-problem/,moq.dev,88,25,,2026-11-19T14:20:08
+50562101,42,Google Chrome dev team declares bug report bankruptcy (2012),https://blog.plover.com/tech/bug-reports.html,blog.plover.com,84,39,,2026-11-19T16:20:12
+50564282,43,"No Bailout for the AI Bubble, Anthropic IPO Protesters Say",https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/,techpolicy.press,19,3,,2026-11-19T18:42:13
+50517477,44,From data to silicon: play Connect-4 against a chip,https://benoitrostykus.com/data_to_silicon.html,benoitrostykus.com,11,6,,2026-11-16T13:37:28
+50558559,45,"Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",https://contralabs.com/frontierdesign,contralabs.com,105,42,,2026-11-19T11:03:20
+50562242,46,US Intelligence Hawks Plot to Sneak Through Warrantless Spying,https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/,prospect.org,31,4,,2026-11-19T16:29:16
+50544168,47,C's designated initializers give us named arguments,https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/,quuxplusone.github.io,59,45,,2026-11-18T09:49:49
+50519778,48,Logitech Harmony IR code online database archive,https://github.com/pickysysadmin/logitech-harmony-ir-archive,github.com,75,22,,2026-11-16T16:56:43
+50525260,49,Dumping an AES key from a MyQ garage opener to stop rebooting when offline,https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/,kusha.me,156,61,,2026-11-16T23:47:26
+50512280,50,The first ping from Tonga (1997),https://colo.to/firstping.html,colo.to,69,12,,2026-11-16T00:01:14
+50564055,51,"To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",https://www.404media.co/ransomware-fraud-attack-fbi-indictment/,404media.co,12,0,,2026-11-19T18:29:19
+50541774,52,Building Lego Machines to Destroy Tall Lego Towers (2024),https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers,kottke.org,35,4,,2026-11-18T04:10:50
+50548161,53,"Show HN: Take Voyager 1 apart, down to a single memory chip",https://rshekhar.com/voyager/,rshekhar.com,234,57,,2026-11-18T16:18:51
+50547583,54,F-22 Next-Generation micro–Data Transfer Cartridge (mDTC),https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view,sam.gov,194,128,,2026-11-18T15:35:44
+50547980,55,"Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",https://exitpath-ruddy.vercel.app/,exitpath-ruddy.vercel.app,247,93,,2026-11-18T16:04:43
+50560357,56,PostgreSQL 19 Released,https://www.postgresql.org/about/news/postgresql-19-released-3449/,postgresql.org,67,6,,2026-11-19T14:11:37
+50565099,57,Show HN: IT Thinks – Build a GPU from a Single NAND Gate,https://store.steampowered.com/app/5196330/IT_THINKS_Build_Your_Own_GPU/,store.steampowered.com,7,0,,2026-11-19T19:35:03
+50562319,58,Jensen Huang's daughter Madison insulted employees and drove top talent away,https://nypost.com/2026/11/17/business/jensen-huangs-daughter-madison-insulted-workers-reports/,nypost.com,35,13,,2026-11-19T16:34:02
+50554038,59,Multiple vulnerabilities in Regexp and String case conversion,https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/,ruby-lang.org,328,126,,2026-11-18T23:52:50
+50522991,60,Funkycache: A Python library to cache functions in SQLite,https://alexwlchan.net/2026/funkycache/,alexwlchan.net,10,3,,2026-11-16T20:44:37
