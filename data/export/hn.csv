@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50547374,1,Unauthenticated remote code execution in Nginx,https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities,wiz.io,741,312,,2026-11-18T15:19:55
-50548021,2,Seven new models at scalable price-performance,https://microsoft.ai/news/microsoft-ignite-2026/,microsoft.ai,320,207,,2026-11-18T16:08:24
-50547620,3,Inside Deutsche Bank,https://www.inside-db.com/,inside-db.com,379,139,,2026-11-18T15:38:33
-50550415,4,Genie 4 is now available,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/,blog.google,99,77,,2026-11-18T18:49:51
-50545958,5,DNS resolvers are the wrong place to fight piracy,https://techstackups.com/articles/quad9-leaves-france-dns-blocking/,techstackups.com,472,158,,2026-11-18T13:18:02
-50547777,6,AI agents ask better questions than KPMG accountants in audit trial,https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/,europeanbusinessmagazine.com,180,93,,2026-11-18T15:49:34
-50550096,7,The Magic of Partial Evaluation,https://jimmyhmiller.com/magic-of-partial-evaluation,jimmyhmiller.com,49,5,,2026-11-18T18:29:03
-50549493,8,Advancing chip design with OpenAI models,https://openai.com/index/advancing-chip-design-with-our-models/,openai.com,74,30,,2026-11-18T17:45:47
-50546914,9,The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026,https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026,cam.ac.uk,186,142,,2026-11-18T14:43:52
-50551046,10,"DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",https://www.radixark.com/blog/daisyrose-27b,radixark.com,13,3,,2026-11-18T19:39:16
-50547980,11,"Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",https://exitpath-ruddy.vercel.app/,exitpath-ruddy.vercel.app,98,15,,2026-11-18T16:04:43
-50548004,12,KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312),https://www.cve.org/CVERecord?id=CVE-2026-99312,cve.org,143,93,,2026-11-18T16:06:21
-50551398,13,Search Browser – Minimalist WebKit browser with Chrome extension support,https://searchbrowser.app/,searchbrowser.app,10,3,,2026-11-18T20:04:31
-50505310,14,The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter,https://americanhandgunner.com/handguns/revolvers/the-first-revolver/,americanhandgunner.com,24,4,,2026-11-15T09:12:55
-50548660,15,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",https://news.ycombinator.com/item?id=50548660,news.ycombinator.com (Ask/Show HN),46,15,,2026-11-18T16:53:42
-50548161,16,"Show HN: Take Voyager 1 apart, down to a single memory chip",https://rshekhar.com/voyager/,rshekhar.com,91,23,,2026-11-18T16:18:51
-50517840,17,Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck,https://github.com/mr-anjaneyam/Emittr,github.com,27,32,,2026-11-16T14:18:15
-50547583,18,F-22 Next-Generation micro–Data Transfer Cartridge (mDTC),https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view,sam.gov,118,76,,2026-11-18T15:35:44
-50546967,19,The x86 CPU: From 4004 to 486,https://pikuma.com/blog/history-of-x86-4004-to-486,pikuma.com,108,27,,2026-11-18T14:47:53
-50549188,20,Launch HN: Maritime (YC F26) – A managed cloud for production AI agents,https://news.ycombinator.com/item?id=50549188,news.ycombinator.com (Ask/Show HN),26,23,,2026-11-18T17:26:28
-50546922,21,A Primer on Fourier Series (2025),https://arxiv.org/abs/2510.18203,arxiv.org,83,21,,2026-11-18T14:44:33
-50543989,22,Energy-Based Reasoners: 385x more efficient inference,https://energy-based-reasoners.github.io/,energy-based-reasoners.github.io,278,44,,2026-11-18T09:29:32
-50545238,23,Evidence (YC S21) Is Hiring,https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead,ycombinator.com,0,0,,2026-11-18T12:00:16
-50548991,24,CrossPoint Reader,https://crosspointreader.com,crosspointreader.com,44,23,,2026-11-18T17:14:31
-50549438,25,Lakegres: Vector search on existing Open/Hudi/Iceberg tables,https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats,onehouse.ai,30,6,,2026-11-18T17:41:48
-50550264,26,When Free Software Isn't Free Enough,https://foss.life/notes/2026/free-software-isnt-free-enough/,foss.life,13,0,,2026-11-18T18:39:28
-50551359,27,Sexp Matrix,https://lisper.cc/ideas/entangle.html,lisper.cc,3,1,,2026-11-18T20:01:50
-50548038,28,SuperEMeans: Making e-means 3× faster,https://www.lkuffo.com/superemeans/,lkuffo.com,38,0,,2026-11-18T16:09:50
-50550461,29,"Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",https://tin.computer/blog/fake-ai-crawler-secrets-scanners,tin.computer,8,1,,2026-11-18T18:53:17
-50544821,30,Show HN: Type Fighter 2,https://typefighter2.com/,typefighter2.com,107,49,,2026-11-18T11:11:53
-50548214,31,RFC 2675: IPv6 Jumbograms,https://www.rfc-editor.org/info/rfc2675/,rfc-editor.org,27,24,,2026-11-18T16:22:23
-50550062,32,Scottish HTTP Codes,https://underwood.network/http/scots.html,underwood.network,187,37,,2026-11-18T18:26:19
-50508356,33,New FreeBSD Pkgbase(8) Tool,https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/,vermaden.wordpress.com,39,10,,2026-11-15T16:46:13
-50550737,34,"Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux",https://github.com/skorotkiewicz/poptato,github.com,3,1,,2026-11-18T19:18:25
-50541790,35,Why is Gemini 4 Carbon taking so long?,https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/,kernel.dev,258,135,,2026-11-18T04:14:04
-50550607,36,Show HN: Fun with bicycle trainers and web APIs,https://joelriley.com/fun-with-trainers,joelriley.com,3,0,,2026-11-18T19:05:49
-50538240,37,Java4Shell: RCE in OpenJDK when processing Base64,https://calif.io/java4shell/,calif.io,1140,316,,2026-11-17T21:11:28
-50549718,38,Show HN: BPM – Baby Plus Music Visualizer,https://hberg.com/bpm/,hberg.com,6,1,,2026-11-18T18:00:55
-50500863,39,Demazure Operators for Beginners,https://webspace.science.uu.nl/~kalle101/Demazure.html,webspace.science.uu.nl,8,1,,2026-11-14T21:11:46
-50506430,40,What is the randomart image for? (2023),https://bytes.zone/posts/what-is-the-randomart-image-for/,bytes.zone,14,2,,2026-11-15T12:27:07
-50548491,41,M.C. Escher's Art Creates Mathematical Worlds,https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/,quantamagazine.org,11,4,,2026-11-18T16:41:57
-50517929,42,My Emacs 31 contributions,https://xenodium.com/my-emacs-31-contributions,xenodium.com,113,16,,2026-11-16T14:26:10
-50546900,43,Can Universities Survive? AI vs. Higher Education [audio],https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education,ppfideas.com,22,18,,2026-11-18T14:42:25
-50549441,44,Forking TuxGuitar into a 17-EDO tab editor,https://frogwizard.bearblog.dev/tuxguitar-17edo/,frogwizard.bearblog.dev,5,2,,2026-11-18T17:41:57
-50504373,45,A Perfect SimCity,https://www.jeffquast.com/post/a-perfect-simcity/,jeffquast.com,210,117,,2026-11-15T05:54:22
-50551360,46,Gateway-Free Kafka Streaming from FPGA-Based Detectors on Zynq-7000,https://arxiv.org/abs/2611.22674,arxiv.org,7,0,,2026-11-18T20:01:52
-50548633,47,Pikuma: Fundamentals of Computer Science and Mathematics,https://pikuma.com/,pikuma.com,20,1,,2026-11-18T16:52:08
-50538994,48,Quad9's withdrawal from France: A canary in the coal mine,https://blog.cloudflare.com/quad9-withdrawal-from-france/,blog.cloudflare.com,869,418,,2026-11-17T22:13:34
-50541619,49,Claude was trained on protein sequences at scale,http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/,xinmingtu.cn,157,67,,2026-11-18T03:47:43
-50540178,50,Google's AI answers reducing search traffic by 40%,https://revscope.co/blog/search-seo-geo-2026/,revscope.co,675,524,,2026-11-18T00:17:58
-50507918,51,When AI Knows More Than It Can Offer,https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e,medium.com,88,55,,2026-11-15T15:59:23
-50540437,52,ID.me terms required for IRS sign-in,https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in,consumerrights.wiki,481,250,,2026-11-18T00:51:45
-50542705,53,AI is killing All About Berlin,https://nicolasbouliane.com/blog/death-by-ai,nicolasbouliane.com,726,663,,2026-11-18T06:47:26
-50509141,54,"IPv6 delegation, an unusually subtle failure mode",https://savyasacheejha.com/posts/why-odhcpd/,savyasacheejha.com,60,44,,2026-11-15T18:06:13
-50547901,55,Amazon and Google will together own nearly 30% of Anthropic after its IPO,https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/,techcrunch.com,30,0,,2026-11-18T15:59:04
-50534631,56,Nvidia stopped disclosing Singapore sales as revenues hit $104B,https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf,ft.com,650,295,,2026-11-17T17:12:06
-50536468,57,Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos,https://news.ycombinator.com/item?id=50536468,news.ycombinator.com (Ask/Show HN),87,44,,2026-11-17T19:01:43
-50538184,58,Tencent Hy4 Flash,https://hy.tencent.ai/research/hy4-flash,hy.tencent.ai,162,25,,2026-11-17T21:06:08
-50548794,59,Foldlet – A daily four dimensional puzzle inspired by The Three-Body Problem,https://foldlet.net/,foldlet.net,9,5,,2026-11-18T17:02:37
-50547395,60,Satellites now outnumber the visible stars above most towns,https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns,space.com,33,3,,2026-11-18T15:21:01
+50552424,1,Gemini 4 Neon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/,blog.google,725,611,,2026-11-18T21:34:07
+50547374,2,Unauthenticated remote code execution in Nginx,https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities,wiz.io,1301,570,,2026-11-18T15:19:55
+50556533,3,"15M web servers on one VM – smoltcp, DPDK, AF_XDP",https://kapteko.com/15-million-webservers/,kapteko.com,36,7,,2026-11-19T05:56:36
+50554038,4,Multiple vulnerabilities in Regexp and String case conversion,https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/,ruby-lang.org,205,67,,2026-11-18T23:52:50
+50548021,5,Seven new models at scalable price-performance,https://microsoft.ai/news/microsoft-ignite-2026/,microsoft.ai,517,341,,2026-11-18T16:08:24
+50553843,6,Anthropic prices initial public offering,https://www.anthropic.com/news/anthropic-prices-initial-public-offering,anthropic.com,158,160,,2026-11-18T23:30:09
+50518303,7,Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute,https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/,futurumgroup.com,21,0,,2026-11-16T14:59:54
+50547620,8,Inside Deutsche Bank,https://www.inside-db.com/,inside-db.com,651,208,,2026-11-18T15:38:33
+50553225,9,LLM assisted reverse engineering,https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering,slowchronicle.com,166,44,,2026-11-18T22:29:13
+50550415,10,Genie 4 is now available,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/,blog.google,236,160,,2026-11-18T18:49:51
+50551046,11,DaisyRose-27B,https://www.radixark.com/blog/daisyrose-27b,radixark.com,187,59,,2026-11-18T19:39:16
+50525260,12,Dumping an AES key from a MyQ garage opener to stop rebooting when offline,https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/,kusha.me,107,36,,2026-11-16T23:47:26
+50530088,13,Camera Index,https://www.cameraindex.co.uk/,cameraindex.co.uk,21,6,,2026-11-17T11:35:33
+50542441,14,Mosquitoes are Ladakh's latest tourists,https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists,ruralindiaonline.org,37,1,,2026-11-18T06:08:25
+50532515,15,"Show HN: An API for word timestamps from speech, 75% within 20ms",https://quebec.yarn.so,quebec.yarn.so,4,0,,2026-11-17T15:16:45
+50546914,16,The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026,https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026,cam.ac.uk,269,194,,2026-11-18T14:43:52
+50519778,17,Logitech Harmony IR code online database archive,https://github.com/pickysysadmin/logitech-harmony-ir-archive,github.com,8,1,,2026-11-16T16:56:43
+50554935,18,Unreal Tournament 2004 in the Browser,https://ut2004.dev/,ut2004.dev,144,59,,2026-11-19T01:29:29
+50554009,19,Palo Alto Networks to Acquire Applied Compute for $4.5B,https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open,investors.paloaltonetworks.com,52,11,,2026-11-18T23:49:13
+50549493,20,Advancing chip design with OpenAI models,https://openai.com/index/advancing-chip-design-with-our-models/,openai.com,200,130,,2026-11-18T17:45:47
+50547980,21,"Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",https://exitpath-ruddy.vercel.app/,exitpath-ruddy.vercel.app,202,61,,2026-11-18T16:04:43
+50554045,22,We need smart people who give a shit,https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/,violetpixel.com,469,238,,2026-11-18T23:53:49
+50547583,23,F-22 Next-Generation micro–Data Transfer Cartridge (mDTC),https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view,sam.gov,167,109,,2026-11-18T15:35:44
+50548161,24,"Show HN: Take Voyager 1 apart, down to a single memory chip",https://rshekhar.com/voyager/,rshekhar.com,184,46,,2026-11-18T16:18:51
+50523377,25,"Show HN: Open-source, real-time object tracking for live video feeds",https://github.com/aryamandarda/tamserve,github.com,78,3,,2026-11-16T21:14:39
+50554374,26,Gemini 4 Neon looks like an Opus 5.5 competitor,https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/,micjm.com,211,67,,2026-11-19T00:29:45
+50510385,27,Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon,https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/,engineering.fb.com,63,12,,2026-11-15T20:30:42
+50547777,28,AI agents ask better questions than KPMG accountants in audit trial,https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/,europeanbusinessmagazine.com,442,192,,2026-11-18T15:49:34
+50545958,29,DNS resolvers are the wrong place to fight piracy,https://techstackups.com/articles/quad9-leaves-france-dns-blocking/,techstackups.com,653,263,,2026-11-18T13:18:02
+50549188,30,Launch HN: Maritime (YC F26) – A managed cloud for production AI agents,https://news.ycombinator.com/item?id=50549188,news.ycombinator.com (Ask/Show HN),52,47,,2026-11-18T17:26:28
+50546967,31,The x86 CPU: From 4004 to 486,https://pikuma.com/blog/history-of-x86-4004-to-486,pikuma.com,167,51,,2026-11-18T14:47:53
+50548004,32,KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312),https://www.cve.org/CVERecord?id=CVE-2026-99312,cve.org,184,121,,2026-11-18T16:06:21
+50554076,33,Pushing WireGuard on macOS to 5 Gbit/s,https://www.firezone.dev/blog/apple-client-performance,firezone.dev,33,4,,2026-11-18T23:57:01
+50524227,34,A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover,https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/,science.nasa.gov,51,5,,2026-11-16T22:19:31
+50554908,35,Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction,https://arxiv.org/abs/2607.29378,arxiv.org,43,7,,2026-11-19T01:27:02
+50554941,36,FailTrace – Reproduce a failed GitHub Actions run locally from its URL,https://github.com/Ri4dH/failtrace,github.com,24,5,,2026-11-19T01:30:43
+50544261,37,Codeberg.org Not Reachable,https://social.anoxinon.de/@codebergstatus/117636437840688845,social.anoxinon.de,302,302,,2026-11-18T10:02:17
+50546922,38,A Primer on Fourier Series (2025),https://arxiv.org/abs/2510.18203,arxiv.org,119,34,,2026-11-18T14:44:33
+50548991,39,CrossPoint Reader,https://crosspointreader.com,crosspointreader.com,119,58,,2026-11-18T17:14:31
+50550096,40,The Magic of Partial Evaluation,https://jimmyhmiller.com/magic-of-partial-evaluation,jimmyhmiller.com,108,30,,2026-11-18T18:29:03
+50548660,41,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",https://news.ycombinator.com/item?id=50548660,news.ycombinator.com (Ask/Show HN),90,32,,2026-11-18T16:53:42
+50553852,42,Ergodicity: What Does It Mean?,https://leonlins.com/writing/ergodicity,leonlins.com,17,0,,2026-11-18T23:32:11
+50554759,43,Recurrent Interface Networks,https://arxiv.org/abs/2212.11972,arxiv.org,10,0,,2026-11-19T01:13:16
+50545238,44,Evidence (YC S21) Is Hiring,https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead,ycombinator.com,0,0,,2026-11-18T12:00:16
+50551359,45,Sexp Matrix,https://lisper.cc/ideas/entangle.html,lisper.cc,46,11,,2026-11-18T20:01:50
+50554641,46,Black high school students sue after AI mistakes Doritos bag for gun,https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/,lawyerscommittee.org,82,42,,2026-11-19T00:57:20
+50555093,47,AI will not make you rich (2025),https://colossus.com/article/ai-will-not-make-you-rich/,colossus.com,93,53,,2026-11-19T01:51:28
+50544821,48,Show HN: Type Fighter 2,https://typefighter2.com/,typefighter2.com,133,59,,2026-11-18T11:11:53
+50538240,49,Java4Shell: RCE in OpenJDK when processing Base64,https://calif.io/java4shell/,calif.io,1162,323,,2026-11-17T21:11:28
+50554973,50,Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools,https://adeindex.com,adeindex.com,16,3,,2026-11-19T01:33:52
+50551398,51,Search Browser – Minimalist WebKit browser with Chrome extension support,https://searchbrowser.app/,searchbrowser.app,59,34,,2026-11-18T20:04:31
+50541790,52,Why is Gemini 4 Carbon taking so long?,https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/,kernel.dev,270,138,,2026-11-18T04:14:04
+50554010,53,Software companies are trying to kill home computing?,https://lateblt.livejournal.com/526188.html,lateblt.livejournal.com,154,98,,2026-11-18T23:49:18
+50553964,54,Oops All Shells – Stupid Vulnerability Name Generator,https://oops-all-shells.netlify.app/,oops-all-shells.netlify.app,14,1,,2026-11-18T23:44:59
+50552140,55,"Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",https://springcraft-ai.github.io/springrep/,springcraft-ai.github.io,29,5,,2026-11-18T21:08:47
+50505310,56,The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter,https://americanhandgunner.com/handguns/revolvers/the-first-revolver/,americanhandgunner.com,60,45,,2026-11-15T09:12:55
+50526087,57,Collisions in Hash Functions,https://collisions.zksecurity.xyz/,collisions.zksecurity.xyz,14,8,,2026-11-17T01:11:09
+50538994,58,Quad9's withdrawal from France: A canary in the coal mine,https://blog.cloudflare.com/quad9-withdrawal-from-france/,blog.cloudflare.com,889,433,,2026-11-17T22:13:34
+50548038,59,SuperEMeans: Making e-means 3× faster,https://www.lkuffo.com/superemeans/,lkuffo.com,56,0,,2026-11-18T16:09:50
+50551509,60,Horizon Labs Report,https://horizon-labs.ai/,horizon-labs.ai,23,6,,2026-11-18T20:12:34
