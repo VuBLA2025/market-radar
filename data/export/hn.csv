@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50569226,1,"OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",https://github.com/openssl/openssl/pull/33652,github.com,175,101,,2026-11-20T02:01:09
-50570479,2,Google is pushing OEMs against GrapheneOS and bootloader unlocking,https://grapheneos.social/@GrapheneOS/117645038299496084,grapheneos.social,250,55,,2026-11-20T05:21:02
-50570628,3,Jujutsu Primer,https://ethanlowman.com/posts/jj-primer/,ethanlowman.com,42,23,,2026-11-20T05:46:01
-50569516,4,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,snowflake.com,64,8,,2026-11-20T02:43:49
-50569998,5,FFmpeg 9.1 'Gauss',https://ffmpeg.org/download.html#release_9.1,ffmpeg.org,61,13,,2026-11-20T04:02:39
-50521512,6,Bit Shifting in Basic,https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/,subethasoftware.com,22,1,,2026-11-16T19:04:36
-50563148,7,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,anthropic.com,466,220,,2026-11-19T17:30:44
-50568861,8,Vint Cerf on why TCP/IP was never patented,https://seremot.com/p/vint-cerf-on-why-tcpip-was-never,seremot.com,90,28,,2026-11-20T01:06:12
-50569985,9,GIMP now has UI tests,https://www.gimp.org/news/2026/11/16/gimp-ui-tests/,gimp.org,90,79,,2026-11-20T04:00:24
-50528119,10,How to CAD Almost Anything,https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/,ocw.mit.edu,229,71,,2026-11-17T06:29:57
-50519231,11,Garage Door Spam,https://blog.harrison.page/garage-door-spam/,blog.harrison.page,834,350,,2026-11-16T16:13:36
-50522471,12,"Frankenstein PBC – Animation, bestowed upon lifeless matter",https://www.frankensteinpbc.com/,frankensteinpbc.com,10,3,,2026-11-16T20:10:38
-50538977,13,Weight-Space Programming builds neural networks like a 1990s researcher,https://notesbylex.com/weight-space-programming-1990s,notesbylex.com,65,5,,2026-11-17T22:11:46
-50562754,14,Anthropic’s Nasdaq debut,https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/,reuters.com,1046,2073,,2026-11-19T17:02:40
-50562320,15,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,github.com,113,75,,2026-11-19T16:34:04
-50568548,16,ChatGPT for SNES,https://www.bxfoundry.com/chatgpt_snes/,bxfoundry.com,60,18,,2026-11-20T00:25:59
-50564159,17,The 98% Slot Machine: How Paid Advertising Became an Extraction Tax,https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine,globalcommercegraph.com,259,142,,2026-11-19T18:35:17
-50558906,18,Someone reported java4shell bug in September 2026,https://github.com/openjdk/jdk/pull/32781,github.com,414,111,,2026-11-19T11:47:03
-50569890,19,PostgreSQL 19,https://www.postgresql.org/docs/release/19.0/,postgresql.org,88,3,,2026-11-20T03:45:45
-50563066,20,Pancreatic cancer halted by virus injection in three patients,https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/,newscientist.com,736,119,,2026-11-19T17:25:33
-50568643,21,"Postgres 19 is out, and it's available on Neon and Databricks Lakebase",https://www.databricks.com/blog/postgresql-19-available-lakebase,databricks.com,56,20,,2026-11-20T00:37:31
-50537492,22,Automatic Checking of Compiler Correctness with E-Graphs,https://stng.substack.com/p/automatic-checking-of-compiler-correctness,stng.substack.com,17,0,,2026-11-17T20:12:34
-50561515,23,Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest,https://cornholenews.news,cornholenews.news,216,99,,2026-11-19T15:38:32
-50564366,24,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],https://www.youtube.com/watch?v=lwfewYL7X0o,youtube.com,101,199,,2026-11-19T18:47:16
-50567374,25,RegExr: Temporarily Offline,https://regexr.com/,regexr.com,72,38,,2026-11-19T22:27:07
-50566261,26,Rebuilding my local voice assistant pipeline,https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline,blog.platypush.tech,97,15,,2026-11-19T20:57:14
-50559719,27,Making 8-page foldable zines from a single A4 sheet in the browser,https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/,krthr.co,287,61,,2026-11-19T13:18:11
-50530132,28,Talking Venice with Mahesh Subramony at AMD In-Depth,https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony,chipsandcheese.com,27,0,,2026-11-17T11:41:08
-50562113,29,UK government forced to admit it issued Apple a secret encryption order,https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/,macanorak.com,612,275,,2026-11-19T16:21:03
-50547048,30,Nintendo takes Picofly firmware down from GitHub [video],https://www.youtube.com/watch?v=-TLCGUpoD6c,youtube.com,282,113,,2026-11-18T14:56:04
-50536950,31,An Oregon library ditched Dewey Decimal and got people excited about books again,https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system,fastcompany.com,226,161,,2026-11-17T19:35:12
-50557661,32,"Do not buy RAM, compress",https://curiousbits.nl/blog/do-not-buy-ram-compress/,curiousbits.nl,284,234,,2026-11-19T08:56:47
-50558533,33,How the European Commission rolled out Matrix to more than 40k staff,https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/,element.io,687,341,,2026-11-19T10:58:29
-50570984,34,"Former YC President: ""Stop!”",https://geoffralston.substack.com/p/stop,geoffralston.substack.com,6,0,,2026-11-20T06:43:08
-50567209,35,Synology Security Advisory,https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21,synology.com,136,103,,2026-11-19T22:13:40
-50568082,36,"Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87,wsj.com,167,44,,2026-11-19T23:32:11
-50557870,37,What's New in PHP 8.6,https://www.php.net/releases/8.6/en.php,php.net,286,132,,2026-11-19T09:27:15
-50559179,38,Unblockable communication with gravity,https://www.science.org/doi/10.1126/sciadv.aee0802,science.org,161,62,,2026-11-19T12:22:00
-50537832,39,Computer Graphics from Scratch (2021),https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html,gabrielgambetta.com,72,14,,2026-11-17T20:37:53
-50569783,40,Mapping every neuron in Qwen3-8B,https://www.fermionresearch.com/research/mapping-every-neuron-in-qwen3-8b/,fermionresearch.com,10,0,,2026-11-20T03:26:51
-50544546,41,"IRA Velinsky, industrial designer for Commodore and Atari",https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/,dfarq.homeip.net,17,2,,2026-11-18T10:39:16
-50557537,42,"Distributed, high-performance blob storage on SQLite",https://zerodha.tech/blog/high-performance-distributed-blob-storage/,zerodha.tech,278,71,,2026-11-19T08:39:45
-50517657,43,Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches,https://www.tisonkun.io/posts/ai-repair-program/,tisonkun.io,40,3,,2026-11-16T13:58:56
-50561170,44,How to Make the Ink Used to Write Hamlet and the Declaration of Independence,https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/,lithub.com,85,33,,2026-11-19T15:13:23
-50561508,45,"Pete warden on local AI, open models, voice interfaces, the future of hardware",https://thedataexchange.media/pete-warden-moonshine/,thedataexchange.media,226,210,,2026-11-19T15:38:12
-50568130,46,Gemini 4 Neon is the new #1 on the Models Engineering Index,https://git-aarvin.github.io/mei/,git-aarvin.github.io,335,209,,2026-11-19T23:35:35
-50521083,47,Adding Fortran Support to LLDB (GSoC 2026),https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/,blog.llvm.org,40,15,,2026-11-16T18:34:37
-50552424,48,Gemini 4 Neon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/,blog.google,1030,765,,2026-11-18T21:34:07
-50547374,49,Unauthenticated remote code execution in Nginx,https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities,wiz.io,1489,641,,2026-11-18T15:19:55
-50548660,50,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",https://news.ycombinator.com/item?id=50548660,news.ycombinator.com (Ask/Show HN),144,42,,2026-11-18T16:53:42
-50560822,51,Everything you need to survive and rebuild society,https://lastbook.org/,lastbook.org,389,200,,2026-11-19T14:47:18
-50557716,52,SSD prices may begin to decline in the latter half of 2027,https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html,drivevault.io,307,230,,2026-11-19T09:05:34
-50556287,53,Ruby2ßhell: Pre-authentication RCE on stock Rails,https://verialabs.com/ruby2shell/,verialabs.com,395,176,,2026-11-19T05:09:11
-50541489,54,Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch,https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/,developers.googleblog.com,8,1,,2026-11-18T03:28:39
-50560955,55,"Cooling buildings is overtaking heating them as an energy need, IEA says",https://maccus.fr/en/cooling-overtaking-heating/,maccus.fr,157,110,,2026-11-19T14:57:14
-50548808,56,Teaching robots to carve marble sculptures,https://eleanorwiesler.com/blog/robotic-stone-carving/,eleanorwiesler.com,122,89,,2026-11-18T17:03:53
-50568116,57,Prepaid gas bonds: A differentiated source of tax-exempt income,https://www.blackrock.com/us/individual/insights/prepaid-gas-bonds,blackrock.com,9,3,,2026-11-19T23:34:18
-50558559,58,"Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",https://contralabs.com/frontierdesign,contralabs.com,135,45,,2026-11-19T11:03:20
-50562262,59,Fuck Your AI Safeguards,https://ounapuu.ee/posts/2026/11/19/unsafeguards/,ounapuu.ee,530,210,,2026-11-19T16:30:18
-50567735,60,Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause',https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/,techdirt.com,64,18,,2026-11-19T22:56:59
+50579568,1,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,math216.wordpress.com,711,322,,2026-11-20T18:33:14
+50574968,2,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,alpo.ge,2013,1355,,2026-11-20T14:16:21
+50581260,3,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,thinkingmachines.ai,37,2,,2026-11-20T20:12:19
+50577265,4,Language Models Can Rewrite Their Own Weights,https://arxiv.org/abs/2611.21885,arxiv.org,248,90,,2026-11-20T16:29:06
+50578358,5,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/,terrytao.wordpress.com,162,39,,2026-11-20T17:21:36
+50579331,6,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,manidoraisamy.com,101,54,,2026-11-20T18:17:51
+50579297,7,Vibecoding an inference chip,https://ankitg.me/blog/vibecoding-inference-chip/,ankitg.me,51,13,,2026-11-20T18:15:16
+50576232,8,Finite-time blow-up for the Navier–Stokes equations,https://github.com/tristanbuckmaster/navier-stokes/,github.com,190,64,,2026-11-20T15:34:31
+50580536,9,Winedroid – run Android apps without Android (WASM demo),https://winedroid.soham.sh/demo/,winedroid.soham.sh,25,8,,2026-11-20T19:30:16
+50572355,10,"If you can't explain something in simple terms, you don't understand it (2017)",https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it,kottke.org,536,268,,2026-11-20T09:43:19
+50572503,11,"Frostbite: A new CPU architecture discovered, designed and verified by AI",https://architectlabs.com/blog/frostbite,architectlabs.com,557,297,,2026-11-20T10:01:41
+50572348,12,Signal Is Serious About Protecting Your Privacy,https://signal.org/blog/protecting-your-privacy/,signal.org,378,237,,2026-11-20T09:42:16
+50578233,13,Running two PSP emulators on one Switch 2 and sharing one via GameShare,https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md,github.com,41,0,,2026-11-20T17:14:03
+50577613,14,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",https://news.ycombinator.com/item?id=50577613,news.ycombinator.com (Ask/Show HN),70,90,,2026-11-20T16:45:25
+50526023,15,Show HN: I made an audio-to-MIDI model 60x more efficient,https://kobi.music/research/dettato,kobi.music,189,36,,2026-11-17T01:03:05
+50577901,16,Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI,https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/,motherjones.com,149,96,,2026-11-20T16:59:27
+50578117,17,PostgreSQL 19: A hands-on tour with runnable browser examples,https://certuvia.com/blog/postgres-19,certuvia.com,27,1,,2026-11-20T17:08:56
+50546676,18,LZ-RDO lands in ARM's astc-encoder,https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder,jonolick.com,7,0,,2026-11-18T14:23:24
+50575644,19,Why there are still no non-WebKit browsers on iOS,https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/,blog.mozilla.org,274,142,,2026-11-20T15:03:31
+50527444,20,The G1 Garbage Collector,https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/,dev.java,75,35,,2026-11-17T04:29:07
+50545262,21,Teskooano: A 3D N-body simulator in the browser,https://teskooano.space/,teskooano.space,9,1,,2026-11-18T12:02:59
+50572822,22,The Making of Oxygene,https://jeanmicheljarre.com/aaa/the-making-of-oxygene,jeanmicheljarre.com,179,64,,2026-11-20T10:41:10
+50560595,23,Floppy3.5: A portable 3.5-inch floppy WiFi NAS,https://github.com/bigcrimping/floppy3.5,github.com,115,49,,2026-11-19T14:29:49
+50531009,24,Lovable: Now you can explore any idea in parallel without touching what's live,https://lovable.dev/blog/introducing-drafts,lovable.dev,30,19,,2026-11-17T13:22:18
+50569226,25,"OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",https://github.com/openssl/openssl/pull/33652,github.com,357,317,,2026-11-20T02:01:09
+50572448,26,"What people are building, discovered through new domains",https://startups.novumsignals.com/,startups.novumsignals.com,147,69,,2026-11-20T09:54:33
+50561199,27,Show HN: Fast deterministic natural language search for OpenStreetMap data,https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935,hippomaps.ch,112,32,,2026-11-19T15:16:02
+50573886,28,"If you stop writing code, you also get worse at reviewing it",https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/,cekrem.github.io,288,136,,2026-11-20T12:41:38
+50576855,29,I'll never buy Framework hardware again,https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/,poolp.org,726,485,,2026-11-20T16:06:30
+50581438,30,"Nvidia accounting under SEC investigation, sources say",https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html,finance.yahoo.com,5,1,,2026-11-20T20:22:41
+50572116,31,Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019),https://ecohustler.com/article/one-corporation-to-pollute-them-all/,ecohustler.com,471,296,,2026-11-20T09:13:09
+50578794,32,Anthropic shares tank after IPO as the Nasdaq erases 2026 gains,https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394,nbcnews.com,154,136,,2026-11-20T17:44:01
+50546365,33,Why YC Series A rounds fell off a cliff,https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2,jaredheyman.medium.com,67,42,,2026-11-18T13:56:28
+50569998,34,FFmpeg 9.1 'Gauss',https://ffmpeg.org/download.html#release_9.1,ffmpeg.org,279,35,,2026-11-20T04:02:39
+50545818,35,µ-Wire – USB on an ATtiny 10,https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/,cpldcpu.com,112,17,,2026-11-18T13:02:08
+50563148,36,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,anthropic.com,548,264,,2026-11-19T17:30:44
+50569516,37,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,snowflake.com,174,29,,2026-11-20T02:43:49
+50577872,38,AI is giving everyone the same advice,https://a90.com/experiments/same-advice/,a90.com,7,1,,2026-11-20T16:58:05
+50576012,39,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,slopstrap.mikelacher.com,23,4,,2026-11-20T15:24:11
+50572430,40,UK fridges secured from hackers,https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o,bbc.co.uk,141,133,,2026-11-20T09:52:20
+50523241,41,The Strongest Sokoban Solver,https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver,healeycodes.com,133,28,,2026-11-16T21:04:01
+50569890,42,PostgreSQL 19,https://www.postgresql.org/docs/release/19.0/,postgresql.org,362,24,,2026-11-20T03:45:45
+50569519,43,What Comes After AGI?,https://institute.deepmind.com/essays/what-comes-after-agi/,institute.deepmind.com,152,298,,2026-11-20T02:44:13
+50581381,44,Walls Beneath Jerusalem May Solve 150-Year Mystery,https://www.discovermagazine.com/two-walls-beneath-jerusalem-may-solve-a-150-year-mystery-about-rome-s-military-camp-49991,discovermagazine.com,3,0,,2026-11-20T20:18:42
+50579237,45,European rights court bars Romanian lawyer for 2 years over AI citations,https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations,echr.coe.int,19,3,,2026-11-20T18:11:11
+50568861,46,Vint Cerf on why TCP/IP was never patented,https://seremot.com/p/vint-cerf-on-why-tcpip-was-never,seremot.com,152,88,,2026-11-20T01:06:12
+50577603,47,Teenage Engineering EP/BC–1 professional CD player,https://teenage.engineering/products/bc-1,teenage.engineering,7,2,,2026-11-20T16:44:58
+50571189,48,"""I can tell you wrote this yourself""",https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/,em-online.bearblog.dev,394,382,,2026-11-20T07:13:21
+50581270,49,Predictions of the End of Wikipedia,https://en.wikipedia.org/wiki/Predictions_of_the_end_of_Wikipedia,en.wikipedia.org,6,0,,2026-11-20T20:12:47
+50567209,50,Synology Security Advisory,https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21,synology.com,178,137,,2026-11-19T22:13:40
+50580377,51,Judge: DHS's Seizure Of Immigration Lawyer's Phone Likely Violated 1st Amendment,https://www.techdirt.com/2026/11/20/judge-says-dhss-seizure-of-an-immigration-lawyers-phone-likely-violated-the-first-amendment/,techdirt.com,14,1,,2026-11-20T19:21:24
+50541568,52,Show HN: Tinnitus frequency finder and audio notch tool,https://trynotched.com/find,trynotched.com,135,96,,2026-11-18T03:40:01
+50562320,53,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,github.com,122,84,,2026-11-19T16:34:04
+50580666,54,An all-digital future means constant security breaches,https://www.dedoimedo.com/life/digital-future.html,dedoimedo.com,7,0,,2026-11-20T19:37:31
+50580620,55,Anthropic is not living up to its ideals,https://so8res.substack.com/p/anthropic-is-not-living-up-to-its,so8res.substack.com,5,0,,2026-11-20T19:35:04
+50521512,56,Bit Shifting in Basic,https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/,subethasoftware.com,61,11,,2026-11-16T19:04:36
+50559749,57,Show HN: Foolscap – a writing app that reads your book and never writes for you,https://foolscap.works/,foolscap.works,117,92,,2026-11-19T13:21:20
+50538977,58,Weight-Space Programming builds neural networks like a 1990s researcher,https://notesbylex.com/weight-space-programming-1990s,notesbylex.com,118,11,,2026-11-17T22:11:46
+50568548,59,ChatGPT for SNES,https://www.bxfoundry.com/chatgpt_snes/,bxfoundry.com,117,36,,2026-11-20T00:25:59
+50537492,60,Automatic Checking of Compiler Correctness with E-Graphs,https://stng.substack.com/p/automatic-checking-of-compiler-correctness,stng.substack.com,60,0,,2026-11-17T20:12:34
