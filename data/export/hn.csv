@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50579568,1,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,math216.wordpress.com,1891,873,,2026-11-20T18:33:14
-50574968,2,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,alpo.ge,2533,1748,,2026-11-20T14:16:21
-50581260,3,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,thinkingmachines.ai,899,171,,2026-11-20T20:12:19
-50586292,4,ClawDOS – An AI coding agent for DOS,http://ricapar.net/ClawDOS/,ricapar.net,21,2,,2026-11-21T05:38:01
-50583274,5,NINLIVE: The Nine Inch Nails live archive,https://ninlive.com/,ninlive.com,217,57,,2026-11-20T22:30:47
-50579331,6,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,manidoraisamy.com,388,224,,2026-11-20T18:17:51
-50585376,7,Clojure will affect the way you think about programming (2017),https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/,eli.thegreenplace.net,52,18,,2026-11-21T02:40:39
-50578358,8,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/,terrytao.wordpress.com,407,170,,2026-11-20T17:21:36
-50534387,9,"Valkey kills the skiplist, cuts sorted set overhead by up to 43%",https://valkey.io/blog/from-skiplist-to-b+tree/,valkey.io,108,39,,2026-11-17T16:58:30
-50583768,10,Sir Brian May adds new dimension to Hera asteroid,https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid,esa.int,87,17,,2026-11-20T23:19:44
-50577265,11,Language Models Can Rewrite Their Own Weights,https://arxiv.org/abs/2611.21885,arxiv.org,388,117,,2026-11-20T16:29:06
-50581110,12,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,https://www.masteringemacs.org/article/announcing-dreamcoder,masteringemacs.org,183,48,,2026-11-20T20:03:59
-50576232,13,Finite-time blow-up for the Navier–Stokes equations,https://github.com/tristanbuckmaster/navier-stokes/,github.com,276,86,,2026-11-20T15:34:31
-50583761,14,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",https://news.ycombinator.com/item?id=50583761,news.ycombinator.com (Ask/Show HN),99,105,,2026-11-20T23:18:32
-50585593,15,Backblaze Notice at Collection and Privacy Policy,https://www.backblaze.com/company/policy/privacy,backblaze.com,158,48,,2026-11-21T03:23:16
-50556482,16,"Fewer slides, more dragons",https://www.breakingchange.blog/p/fewer-slides-more-dragons,breakingchange.blog,9,0,,2026-11-19T05:46:36
-50574383,17,Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day,https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off,theguardian.com,254,523,,2026-11-20T13:29:59
-50579297,18,Vibecoding an inference chip,https://ankitg.me/blog/vibecoding-inference-chip/,ankitg.me,139,54,,2026-11-20T18:15:16
-50583856,19,Serious cyberattack thought backed by wealthy operators,https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411,ruv.is,69,36,,2026-11-20T23:29:30
-50581084,20,The stochastic parrots have apparently proved the Riemann Hypothesis,https://scottaaronson.blog/?p=10344,scottaaronson.blog,270,242,,2026-11-20T20:03:07
-50541568,21,Show HN: Tinnitus frequency finder and audio notch tool,https://trynotched.com/find,trynotched.com,155,109,,2026-11-18T03:40:01
-50540342,22,3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards,https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/,news.mongabay.com,10,0,,2026-11-18T00:39:18
-50495392,23,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/,simpleflying.com,108,73,,2026-11-14T09:13:24
-50580536,24,Winedroid – run Android apps without Android (WASM demo),https://winedroid.soham.sh/demo/,winedroid.soham.sh,129,37,,2026-11-20T19:30:16
-50581177,25,"And yet, it moves",https://signoregalilei.com/2026/11/20/and-yet-it-moves/,signoregalilei.com,135,83,,2026-11-20T20:07:55
-50521550,26,I can’t believe it’s 1,https://aperiodical.com/2026/11/i-cant-believe-its-1/,aperiodical.com,58,59,,2026-11-16T19:07:13
-50576012,27,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,slopstrap.mikelacher.com,192,35,,2026-11-20T15:24:11
-50526023,28,Show HN: I made an audio-to-MIDI model 60x more efficient,https://kobi.music/research/dettato,kobi.music,272,56,,2026-11-17T01:03:05
-50583117,29,The Hungry Butler Effect: Concealed Commercial Incentives in LLMs,https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models,researchgate.net,34,12,,2026-11-20T22:18:20
-50581403,30,Show HN: OpenComputer – an open source alternative to Devin,https://github.com/diggerhq/opencomputer,github.com,102,26,,2026-11-20T20:19:56
-50577613,31,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",https://news.ycombinator.com/item?id=50577613,news.ycombinator.com (Ask/Show HN),108,151,,2026-11-20T16:45:25
-50584429,32,I Don't Trust Visual Recordings Anymore. But One Day I Will Again,https://spectrum.ieee.org/fighting-back-against-deep-fakes,spectrum.ieee.org,28,8,,2026-11-21T00:33:40
-50581438,33,US SEC's Nvidia probe is examining potential accounting issues – sources,https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627,marketscreener.com,275,146,,2026-11-20T20:22:41
-50572355,34,"If you can't explain something in simple terms, you don't understand it (2017)",https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it,kottke.org,653,307,,2026-11-20T09:43:19
-50572503,35,"Frostbite: A new CPU architecture discovered, designed and verified by AI",https://architectlabs.com/blog/frostbite,architectlabs.com,641,332,,2026-11-20T10:01:41
-50551619,36,How to Bypass Rust's Orphan Rule,https://edvong.com/bypass-orphan-rule/,edvong.com,30,4,,2026-11-18T20:22:06
-50535187,37,Substrate: A Lisp for WebAssembly,https://substrate-lang.com,substrate-lang.com,14,2,,2026-11-17T17:44:10
-50560595,38,Floppy3.5: A portable 3.5-inch floppy WiFi NAS,https://github.com/bigcrimping/floppy3.5,github.com,145,59,,2026-11-19T14:29:49
-50572822,39,The Making of Oxygene,https://jeanmicheljarre.com/aaa/the-making-of-oxygene,jeanmicheljarre.com,205,76,,2026-11-20T10:41:10
-50532515,40,"Show HN: An API for word timestamps from speech, 75% within 20ms",https://quebec.yarn.so,quebec.yarn.so,73,10,,2026-11-17T15:16:45
-50527444,41,The G1 Garbage Collector,https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/,dev.java,108,65,,2026-11-17T04:29:07
-50572348,42,Restricting AI agents in mobile operating systems platforms from capturing data,https://signal.org/blog/protecting-your-privacy/,signal.org,543,318,,2026-11-20T09:42:16
-50577872,43,AI is giving everyone the same advice,https://a90.com/experiments/same-advice/,a90.com,76,28,,2026-11-20T16:58:05
-50576855,44,I'll never buy Framework hardware again,https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/,poolp.org,784,574,,2026-11-20T16:06:30
-50583134,45,Merkle Tree Certificates,https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/,datatracker.ietf.org,30,7,,2026-11-20T22:19:23
-50578233,46,Running two PSP emulators on one Switch 2 and sharing one via GameShare,https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md,github.com,57,0,,2026-11-20T17:14:03
-50572448,47,"What people are building, discovered through new domains",https://startups.novumsignals.com/,startups.novumsignals.com,159,75,,2026-11-20T09:54:33
-50563148,48,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,anthropic.com,554,271,,2026-11-19T17:30:44
-50564684,49,"Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",https://github.com/seb3773/lz0,github.com,8,3,,2026-11-19T19:07:04
-50578117,50,PostgreSQL 19: A hands-on tour with runnable browser examples,https://certuvia.com/blog/postgres-19,certuvia.com,47,4,,2026-11-20T17:08:56
-50561199,51,Show HN: Fast deterministic natural language search for OpenStreetMap data,https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935,hippomaps.ch,127,33,,2026-11-19T15:16:02
-50569998,52,FFmpeg 9.1 'Gauss',https://ffmpeg.org/download.html#release_9.1,ffmpeg.org,297,35,,2026-11-20T04:02:39
-50575644,53,Why there are still no non-WebKit browsers on iOS,https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/,blog.mozilla.org,346,206,,2026-11-20T15:03:31
-50570628,54,Jujutsu Primer,https://ethanlowman.com/posts/jj-primer/,ethanlowman.com,198,184,,2026-11-20T05:46:01
-50584776,55,Integrals of Polynomials with Galois Group S_p,https://m-slee.netlify.app/posts/integrals-galois-polynomials,m-slee.netlify.app,7,1,,2026-11-21T01:17:05
-50572116,56,Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019),https://ecohustler.com/article/one-corporation-to-pollute-them-all/,ecohustler.com,519,323,,2026-11-20T09:13:09
-50585366,57,The FBI was hacked again,https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database,cnn.com,19,1,,2026-11-21T02:39:13
-50569516,58,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,snowflake.com,177,29,,2026-11-20T02:43:49
-50584198,59,How to generate an accessible color palette from a single color,https://taisho.design/en/blog/accessible-color-palette-from-one-color,taisho.design,9,0,,2026-11-21T00:03:33
-50581165,60,Reverse Engineering my cat's litter box,https://master--ytulsiani.netlify.app/blog/furrytails/,master--ytulsiani.netlify.app,30,11,,2026-11-20T20:07:14
+50591853,1,Inkling-2-Mini in 5.4 GB Memory,https://github.com/ShinMegamiBoson/lookatmyquant,github.com,99,9,,2026-11-21T18:02:19
+50532613,2,Brazil's tax authority open-sources its tax calculator on GitHub under MIT,https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria,gov.br,538,177,,2026-11-17T15:22:57
+50589618,3,Lean verification of the Riemann Hypothesis,https://leanprover-community.github.io/blog/posts/riemann-hypothesis/,leanprover-community.github.io,525,414,,2026-11-21T14:36:45
+50588982,4,Detonating a pile of lead azide,https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really,science.org,386,254,,2026-11-21T13:23:14
+50591260,5,PostgreSQL Extensions in Go,https://jespino.github.io/gopgext/,jespino.github.io,61,2,,2026-11-21T17:08:04
+50587875,6,My monitor was cutting my download speed by 75%,https://blog.tymscar.com/posts/studiodisplayethernet/,blog.tymscar.com,330,168,,2026-11-21T10:36:32
+50579568,7,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,math216.wordpress.com,2329,1116,,2026-11-20T18:33:14
+50590441,8,Verification files for the Lean proof of the Riemann Hypothesis,https://math.mit.edu/~drew/grh/,math.mit.edu,39,12,,2026-11-21T15:54:34
+50574968,9,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,alpo.ge,2833,2004,,2026-11-20T14:16:21
+50581260,10,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,thinkingmachines.ai,1274,260,,2026-11-20T20:12:19
+50577991,11,I'm quite pleased by the tech architecture of my art website,https://klauria.tech/klauria-art/,klauria.tech,90,17,,2026-11-20T17:03:39
+50587208,12,RCE in Gnupg,https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html,lists.gnupg.org,189,65,,2026-11-21T08:32:58
+50591835,13,Jensen Huang's fall is bad news for Silicon Valley's accelerationists,https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists,economist.com,103,162,,2026-11-21T17:59:59
+50550015,14,How I made a custom game engine for Satelital,https://spectralorbit.com/blog/satelital_game_engine,spectralorbit.com,10,1,,2026-11-18T18:23:03
+50546587,15,LLMs can read and write executables byte by byte from a hex dump,https://sgiannopoulos.github.io/blog/machine-code-programming/,sgiannopoulos.github.io,122,85,,2026-11-18T14:15:58
+50535228,16,The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU,https://8bitarchitect.net/machines/elektronika-bk-0010/,8bitarchitect.net,37,10,,2026-11-17T17:46:37
+50583761,17,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",https://news.ycombinator.com/item?id=50583761,news.ycombinator.com (Ask/Show HN),492,546,,2026-11-20T23:18:32
+50574264,18,Deterministic Simulation Testing Is for Everyone,https://outdata.net/blog/261120,outdata.net,54,6,,2026-11-20T13:19:48
+50541047,19,Show HN: An ASCII cell aquarium for your terminal,https://github.com/kborer/cells/,github.com,27,10,,2026-11-18T02:18:29
+50579331,20,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,manidoraisamy.com,546,298,,2026-11-20T18:17:51
+50588916,21,Astra 6.2 and Sol 6.2 flop at Simple Bench,https://simple-bench.com/,simple-bench.com,138,124,,2026-11-21T13:16:12
+50532417,22,Tropical Rainforests Species may be surprisingly young,https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html,phys.org,4,0,,2026-11-17T15:08:54
+50578358,23,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/,terrytao.wordpress.com,516,225,,2026-11-20T17:21:36
+50590279,24,"Show HN: Zero C#, Power of C# without any GC",https://onurgumus.github.io/zero-csharp/index.html,onurgumus.github.io,64,45,,2026-11-21T15:39:09
+50583274,25,NINLIVE: The Nine Inch Nails live archive,https://ninlive.com/,ninlive.com,337,93,,2026-11-20T22:30:47
+50586292,26,ClawDOS – An AI coding agent for DOS,http://ricapar.net/ClawDOS/,ricapar.net,139,43,,2026-11-21T05:38:01
+50585376,27,Clojure will affect the way you think about programming (2017),https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/,eli.thegreenplace.net,180,82,,2026-11-21T02:40:39
+50576012,28,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,slopstrap.mikelacher.com,575,113,,2026-11-20T15:24:11
+50586648,29,Surprisingly Adorable Insect Portraits,https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/,amateurphotographer.com,130,27,,2026-11-21T06:44:14
+50577265,30,Language Models Can Rewrite Their Own Weights,https://arxiv.org/abs/2611.21885,arxiv.org,468,140,,2026-11-20T16:29:06
+50574383,31,Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day,https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off,theguardian.com,470,816,,2026-11-20T13:29:59
+50583768,32,Sir Brian May adds new dimension to Hera asteroid,https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid,esa.int,150,38,,2026-11-20T23:19:44
+50534387,33,"Valkey kills the skiplist, cuts sorted set overhead by up to 43%",https://valkey.io/blog/from-skiplist-to-b+tree/,valkey.io,188,66,,2026-11-17T16:58:30
+50581110,34,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,https://www.masteringemacs.org/article/announcing-dreamcoder,masteringemacs.org,266,110,,2026-11-20T20:03:59
+50592134,35,Countries open path towards 'killer robots' pact,https://www.afp.com/en/countries-open-path-towards-killer-robots-pact,afp.com,7,0,,2026-11-21T18:32:56
+50546873,36,Defcon 5's California Caravan Program/Zine,https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/,netninja.com,27,2,,2026-11-18T14:40:07
+50576232,37,Finite-time blow-up for the Navier–Stokes equations,https://github.com/tristanbuckmaster/navier-stokes/,github.com,311,99,,2026-11-20T15:34:31
+50587859,38,FBI reportedly investigating apparent hack of its criminal database,https://www.bbc.com/news/articles/cvze7de86pk3o,bbc.com,143,72,,2026-11-21T10:33:57
+50589184,39,Show HN: I made a PS1 style racing game,https://outpostracer.com,outpostracer.com,12,6,,2026-11-21T13:47:45
+50556482,40,"Fewer slides, more dragons",https://www.breakingchange.blog/p/fewer-slides-more-dragons,breakingchange.blog,64,25,,2026-11-19T05:46:36
+50541568,41,Show HN: Tinnitus frequency finder and audio notch tool,https://trynotched.com/find,trynotched.com,207,131,,2026-11-18T03:40:01
+50495392,42,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/,simpleflying.com,135,105,,2026-11-14T09:13:24
+50592411,43,GTA VI is building behavioral profiles of those who play,https://twitter.com/make_claude/status/2123908856145232060,twitter.com,7,3,,2026-11-21T18:59:13
+50579297,44,Vibecoding an inference chip,https://ankitg.me/blog/vibecoding-inference-chip/,ankitg.me,169,70,,2026-11-20T18:15:16
+50583856,45,Serious cyberattack thought backed by wealthy operators,https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411,ruv.is,136,73,,2026-11-20T23:29:30
+50580536,46,Winedroid – run Android apps without Android (WASM demo),https://winedroid.soham.sh/demo/,winedroid.soham.sh,175,46,,2026-11-20T19:30:16
+50521550,47,I can’t believe it’s 1,https://aperiodical.com/2026/11/i-cant-believe-its-1/,aperiodical.com,77,75,,2026-11-16T19:07:13
+50526023,48,Show HN: I made an audio-to-MIDI model 60x more efficient,https://kobi.music/research/dettato,kobi.music,291,65,,2026-11-17T01:03:05
+50589452,49,Battery storage in Great Britain: how a grid battery makes money,https://a115.co.uk/battery-storage-revenues/,a115.co.uk,5,0,,2026-11-21T14:18:51
+50581084,50,The stochastic parrots have apparently proved the Riemann Hypothesis,https://scottaaronson.blog/?p=10344,scottaaronson.blog,334,304,,2026-11-20T20:03:07
+50591875,51,FBI Criminal Database Hacked,https://www.france24.com/en/fbi-criminal-database-hacked,france24.com,7,0,,2026-11-21T18:05:09
+50589235,52,Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code,https://github.com/natsu0529/agent-mcts,github.com,7,0,,2026-11-21T13:53:08
+50591780,53,GrapheneOS made a proof of concept RCS messaging app without Google Messages,https://twitter.com/GrapheneOS/status/2124158267123233056,twitter.com,7,1,,2026-11-21T17:54:38
+50572355,54,"If you can't explain something in simple terms, you don't understand it (2017)",https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it,kottke.org,689,316,,2026-11-20T09:43:19
+50572503,55,"Frostbite: A new CPU architecture discovered, designed and verified by AI",https://architectlabs.com/blog/frostbite,architectlabs.com,663,351,,2026-11-20T10:01:41
+50587205,56,Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize,https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize,alcf.anl.gov,11,0,,2026-11-21T08:32:34
+50563148,57,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,anthropic.com,565,273,,2026-11-19T17:30:44
+50577613,58,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",https://news.ycombinator.com/item?id=50577613,news.ycombinator.com (Ask/Show HN),121,178,,2026-11-20T16:45:25
+50591185,59,K-I-L-L-M-E-N-O-W,https://twitter.com/GrapheneOS/status/2124155903729639818,twitter.com,12,6,,2026-11-21T17:00:05
+50540342,60,3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards,https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/,news.mongabay.com,31,6,,2026-11-18T00:39:18
