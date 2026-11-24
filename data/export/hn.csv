@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50624497,1,2035 Came Early,https://fzakaria.com/2026/11/23/2035-came-early,fzakaria.com,197,37,,2026-11-24T06:30:33
-50614249,2,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,ladybird.org,1947,455,,2026-11-23T16:13:12
-50620349,3,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,stalw.art,470,245,,2026-11-23T22:32:29
-50624061,4,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,phoronix.com,79,30,,2026-11-24T05:15:22
-50611576,5,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,2562,3481,,2026-11-23T14:00:18
-50623515,6,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,salvageyarddrone.wordpress.com,80,31,,2026-11-24T04:00:28
-50604710,7,Modernizing iperf/iperf3 and introducing fireperf,https://blog.daniel-baumann.ch/posts/20261122-1.html,blog.daniel-baumann.ch,100,8,,2026-11-22T22:37:51
-50592307,8,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,usenix.org,34,0,,2026-11-21T18:49:45
-50622774,9,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,governor.ny.gov,356,106,,2026-11-24T02:27:02
-50607512,10,Lowering Perplexity Without Scaling,https://micjm.com/blog/lowering-perplexity-without-scaling/,micjm.com,49,13,,2026-11-23T04:33:50
-50619103,11,GPUI is getting its own repository,https://github.com/zed-industries/gpui,github.com,257,99,,2026-11-23T20:52:54
-50619207,12,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,bored.com,241,52,,2026-11-23T21:01:16
-50615308,13,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",https://twitter.com/ylecun/status/2124550037912920090,twitter.com,1667,936,,2026-11-23T17:07:26
-50622934,14,Making a dumb TV just smart enough,https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/,qsantos.fr,76,25,,2026-11-24T02:46:54
-50617499,15,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,arm.jonpalmisc.com,1042,238,,2026-11-23T19:17:55
-50606192,16,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,spelunkr.tv,1001,173,,2026-11-23T01:13:51
-50610170,17,New material gets stronger the more it bends,https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/,source.washu.edu,27,14,,2026-11-23T11:12:33
-50620721,18,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,viktorkrapivin.com,109,9,,2026-11-23T23:03:13
-50602041,19,Falsehoods Programmers Believe About ATProto,https://reiver.link/atproto/falsehoods-programmers-believe/,reiver.link,4,0,,2026-11-22T17:51:57
-50606611,20,Becoming a Magician,https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/,autotranslucence.wordpress.com,11,1,,2026-11-23T02:04:25
-50622804,21,Rune: Rust VM for Emacs,https://github.com/CeleritasCelery/rune,github.com,41,11,,2026-11-24T02:30:47
-50611402,22,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,huggingface.co,170,34,,2026-11-23T13:42:38
-50582698,23,How photos were transmitted by wire in the 1930s (2024),https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s,kottke.org,62,9,,2026-11-20T21:47:06
-50620328,24,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,arxiv.org,60,4,,2026-11-23T22:29:48
-50621466,25,"The Power of GraphQL, Without GraphQL",https://cobalt27.dev/,cobalt27.dev,55,30,,2026-11-24T00:03:59
-50620831,26,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,smithsonianmag.com,46,28,,2026-11-23T23:12:40
-50609685,27,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,z.ai,1122,366,,2026-11-23T10:06:43
-50593006,28,Ride the SQL curve from basics to mastery,https://sqlride.com/,sqlride.com,34,12,,2026-11-21T19:56:36
-50600838,29,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,herbsutter.com,131,163,,2026-11-22T15:59:59
-50605479,30,Nespresso's project to reduce grams of coffee per capsule,https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/,alvinbunk.wordpress.com,313,328,,2026-11-22T23:57:45
-50615481,31,Kagi Mail (public beta),https://blog.kagi.com/kagi-mail-public-beta,blog.kagi.com,427,344,,2026-11-23T17:17:01
-50610743,32,Win4wine – Run Windows Shell as the Linux Desktop on Wine,https://github.com/mikuta0407/win4wine,github.com,236,121,,2026-11-23T12:28:11
-50594935,33,Derivative Flipping,http://blog.sigfpe.com/2026/11/derivative-flipping.html,blog.sigfpe.com,89,17,,2026-11-22T00:13:17
-50619630,34,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,https://openai.com/index/introducing-shirudo/,openai.com,71,23,,2026-11-23T21:30:41
-50595365,35,What does it mean to understand what we built?,https://brooker.co.za/blog/2026/11/16/understanding.html,brooker.co.za,64,21,,2026-11-22T01:34:57
-50625888,36,Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex,https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/,philippdubach.com,4,0,,2026-11-24T09:39:50
-50610334,37,The next circle of security hell,https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/,blogs.gentoo.org,249,151,,2026-11-23T11:34:16
-50620102,38,VP ≠ VNP over Every Field,https://github.com/anthropics/formal-math/tree/main/vp-vnp,github.com,328,292,,2026-11-23T22:09:10
-50615161,39,EasyPost (YC S13) Is Hiring,https://www.easypost.com/careers/,easypost.com,0,0,,2026-11-23T17:00:05
-50609579,40,Don't keep your SSH keys on disk,https://jola.dev/posts/you-cant-afford-ssh-keys-disk,jola.dev,176,111,,2026-11-23T09:55:38
-50574412,41,Show HN: Drive around my village in 3D,https://cherwellvalleymotorclub.app,cherwellvalleymotorclub.app,118,85,,2026-11-20T13:32:42
-50607668,42,"Yes, 17M lines of Lean is a lot",https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/,micjm.com,264,340,,2026-11-23T05:00:49
-50602561,43,"Show HN: Type-C – variants, options, generics and pattern matching for C",https://github.com/stass/type-c,github.com,42,18,,2026-11-22T18:40:57
-50611861,44,Building a wireless network adapter for the Super Nintendo,https://boland.dev/snet/,boland.dev,83,17,,2026-11-23T14:16:37
-50618513,45,Claude Ship,https://claude.com/resources/articles/introducing-claude-ship,claude.com,56,18,,2026-11-23T20:14:18
-50623020,46,Hacking radiators,https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/,qsantos.fr,19,9,,2026-11-24T02:56:41
-50619186,47,The horse made the state,https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist,aeon.co,68,60,,2026-11-23T20:59:12
-50622612,48,Aristotle Formally Verifies Celeste Speedrun Optimality,https://www.harmonic.fun/news/celeste-classic-speedrun/,harmonic.fun,18,0,,2026-11-24T02:05:12
-50587439,49,Spacecraft reaches Mercury on second-ever mission to enter its orbit,https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo,theguardian.com,343,111,,2026-11-21T09:14:02
-50621977,50,Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity,https://www.science.org/doi/10.1126/scisignal.aef1375,science.org,89,63,,2026-11-24T00:53:46
-50623965,51,Show HN: Genesis Map – Visualize your agent's changes. See where they can break,https://github.com/GenesisAgentInfra/genesis,github.com,8,0,,2026-11-24T05:04:41
-50593540,52,Developing the perception to separate the form of a place from what it contains,https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas,thedeletedscenes.com,20,12,,2026-11-21T20:54:18
-50584526,53,Elixir HLS makes FPGA circuits from functions written in Elixir,https://github.com/elixir-hls/elixir-hls,github.com,156,17,,2026-11-21T00:47:57
-50625721,54,CVE-2026-124851: information disclosure vulnerability in ZSTD 1.5.1 to 1.5.7,https://www.facebook.com/security/advisories/cve-2026-124851?_fb_noscript=1,facebook.com,5,1,,2026-11-24T09:17:42
-50587286,55,What's the difference between an integer and a pointer? (2018),https://blog.regehr.org/archives/1621,blog.regehr.org,105,112,,2026-11-21T08:49:14
-50615520,56,How should an LLM see a computer?,https://www.greptile.com/blog/trex-computer-use,greptile.com,51,23,,2026-11-23T17:19:25
-50601823,57,Was software just always too complex for humans?,https://anil.recoil.org/notes/software-too-complex-for-humans,anil.recoil.org,106,122,,2026-11-22T17:32:41
-50577534,58,Let's Meet in the Middle,https://george.mand.is/2026/11/lets-meet-in-the-middle/,george.mand.is,99,11,,2026-11-20T16:41:54
-50581961,59,Brake Check: Hijacking Trailer Brakes over Bluetooth,https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/,elementdigital.com.au,101,71,,2026-11-20T20:57:16
-50610318,60,Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor,https://github.com/os6/nospeaker,github.com,311,173,,2026-11-23T11:31:54
+50633922,1,Ternary Bonsai 2.5 27B,https://prismml.com/news/bonsai-2-5-27b,prismml.com,202,60,,2026-11-24T20:08:03
+50635271,2,Heart attack and stroke risk detectable decades in advance,https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance,ed.ac.uk,24,4,,2026-11-24T21:51:21
+50634426,3,Launch HN: Versine (YC F26) – MCP to send and receive money,https://news.ycombinator.com/item?id=50634426,news.ycombinator.com (Ask/Show HN),40,20,,2026-11-24T20:44:15
+50634658,4,GPT-6 models demonstrate intrinsic protein-design capabilities,https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/,openai.com,47,5,,2026-11-24T21:02:22
+50630594,5,Active intrusion campaign against Check Point security management servers,https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign,greynoise.io,236,96,,2026-11-24T16:32:17
+50625265,6,Gödel Enigma,https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description,helsinki.fi,31,6,,2026-11-24T08:16:02
+50598555,7,The Spray Bottle,https://mechanical-pencil.com/products/spray-bottle,mechanical-pencil.com,296,81,,2026-11-22T11:16:30
+50633424,8,From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver,https://andlukyane.com/blog/cayley-graphs-and-torchtpu,andlukyane.com,43,0,,2026-11-24T19:40:43
+50609483,9,Calculate how many mesh radio nodes your city needs,https://meshcoveragecalculator.lalala.ing/,meshcoveragecalculator.lalala.ing,46,6,,2026-11-23T09:46:57
+50624497,10,2035 came early,https://fzakaria.com/2026/11/23/2035-came-early,fzakaria.com,925,350,,2026-11-24T06:30:33
+50630462,11,Jetty Pro,http://hypercritical.co/2026/11/23/jetty-pro,hypercritical.co,235,100,,2026-11-24T16:23:02
+50629106,12,Splitting USB-C: USB 3 and USB 2 on one port,https://www.frankchiarulli.com/blog/splitting-usb-c/,frankchiarulli.com,117,76,,2026-11-24T14:54:10
+50629231,13,"A training engine for your local model, using your idle compute",https://github.com/sous-labs/songe,github.com,149,40,,2026-11-24T15:03:40
+50627783,14,GTA 6 Running on Windows,https://twitter.com/raul_bs3/status/2125213756238291075,twitter.com,218,248,,2026-11-24T13:19:31
+50610820,15,An Italian folding bicycle design that fits into a suitcase,https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase,core77.com,83,62,,2026-11-23T12:40:08
+50634933,16,An unclassified CIA system was breached in a cyberattack,https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77,apnews.com,43,13,,2026-11-24T21:24:27
+50631041,17,"Weave (YC W25) is hiring ML, AI, product, & design engineers",https://jobs.ashbyhq.com/weave-os,jobs.ashbyhq.com,0,0,,2026-11-24T17:00:55
+50625384,18,Quad9 pulled their DNS service from France,https://quad9.net/news/blog/quad9-service-deactivation-in-france/,quad9.net,315,160,,2026-11-24T08:33:14
+50632883,19,Cloudflare hides shortcomings of the underlying infrastructure,https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/,charlie.fish,129,85,,2026-11-24T19:03:55
+50633159,20,"Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",https://grafana.com/grafana/download,grafana.com,103,18,,2026-11-24T19:23:44
+50630294,21,"Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",https://masondata.ai/,masondata.ai,75,14,,2026-11-24T16:11:52
+50591024,22,"Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",https://github.com/PQCrypta/pqcrypta-proxy,github.com,4,0,,2026-11-21T16:46:43
+50604355,23,Cento fine foods has been sued for “tomato fraud”,https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html,slate.com,79,122,,2026-11-22T21:59:09
+50627340,24,"LLM agents work for their parent companies, not for you",https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/,michaelharley.net,846,349,,2026-11-24T12:40:15
+50626413,25,Worshipping at the altar of Brendan Gregg,https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg,fzakaria.com,208,38,,2026-11-24T10:50:14
+50599458,26,How a Mechanical Watch Keeps Time (Interactive 3D),https://martincmartin.github.io/slidev-stem/watches/article/1/,martincmartin.github.io,197,50,,2026-11-22T13:21:25
+50629962,27,"The KL Divergence Is Never Negative, Except in PyTorch",https://arxiv.org/abs/2611.30835,arxiv.org,75,30,,2026-11-24T15:50:22
+50631157,28,"Microsoft declares 'Code Red' after historic outage, internal memos show",https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/,reuters.com,190,163,,2026-11-24T17:07:41
+50605361,29,The new set of problems for engineers to solve,https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve,katelynlesse.com,110,90,,2026-11-22T23:42:53
+50627836,30,Anthropic breaks below $83 IPO price,https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading,bloomberg.com,285,577,,2026-11-24T13:23:47
+50629936,31,Show HN: Brickie – Deploy sandboxes in your own AWS account,https://github.com/hatchet-dev/brickie,github.com,19,2,,2026-11-24T15:48:34
+50622638,32,GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school,https://github.com/ItsNotRexed/Leonida/issues,github.com,324,584,,2026-11-24T02:08:09
+50620831,33,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,smithsonianmag.com,64,57,,2026-11-23T23:12:40
+50630809,34,Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?,https://news.ycombinator.com/item?id=50630809,news.ycombinator.com (Ask/Show HN),201,156,,2026-11-24T16:45:44
+50611576,35,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,2781,3680,,2026-11-23T14:00:18
+50608604,36,Show HN: KradleBench – Multi-agent AI evals in Minecraft,https://www.kradle.ai?1,kradle.ai,12,3,,2026-11-23T07:39:04
+50635246,37,New York Ban AI Toys for 5 Years,https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot,governor.ny.gov,13,1,,2026-11-24T21:49:50
+50608343,38,SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance,https://dl.acm.org/doi/10.1145/3828523.3857112,dl.acm.org,60,4,,2026-11-23T06:54:08
+50598094,39,An anti-slavery sugar bowl (2024),https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl,vam.ac.uk,112,76,,2026-11-22T10:12:22
+50625953,40,Just a Few Bugs,https://www.justafewbugs.xyz/,justafewbugs.xyz,136,44,,2026-11-24T09:47:59
+50634780,41,"Why Is TikTok a National Security Threat, but Jensen Huang Is Fine?",https://www.techdirt.com/2026/11/24/ive-been-under-a-rock-why-is-tiktok-a-national-security-threat-but-jensen-huang-is-fine/,techdirt.com,15,8,,2026-11-24T21:10:55
+50632082,42,Find your city's climate twin,https://www.wxtravel.io/?view=climate-zones,wxtravel.io,18,1,,2026-11-24T18:12:48
+50624061,43,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,phoronix.com,215,118,,2026-11-24T05:15:22
+50611613,44,Gnomon: Git for Postgres Data,https://gnomon.bitsinfra.com/,gnomon.bitsinfra.com,38,6,,2026-11-23T14:03:38
+50634734,45,Working with AI,https://www.anthropic.com/research/working-with-ai,anthropic.com,56,50,,2026-11-24T21:07:38
+50634984,46,The Global War on VPNs Draws Closer,https://www.techdirt.com/2026/11/24/the-global-war-on-vpns-draws-closer/,techdirt.com,13,0,,2026-11-24T21:27:49
+50614249,47,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,ladybird.org,2373,590,,2026-11-23T16:13:12
+50633531,48,Show HN: Analysis of Hacker News predictions since 2008,https://hnpredictions.com/,hnpredictions.com,6,1,,2026-11-24T19:46:54
+50629555,49,'Castles' Review,https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink,wsj.com,13,3,,2026-11-24T15:24:29
+50630245,50,Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban,https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/,upi.com,110,63,,2026-11-24T16:08:29
+50634815,51,"Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026,wsj.com,14,0,,2026-11-24T21:14:06
+50623515,52,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,salvageyarddrone.wordpress.com,168,67,,2026-11-24T04:00:28
+50632998,53,Compiling web applications into verified operations for AI agents,https://protocolis.co/paper/,protocolis.co,32,10,,2026-11-24T19:12:02
+50606192,54,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,spelunkr.tv,1065,181,,2026-11-23T01:13:51
+50635406,55,More NYC records released show air quality aftermath of 9/11 attacks,https://www.yahoo.com/news/us/articles/more-nyc-records-released-show-140043190.html,yahoo.com,5,0,,2026-11-24T22:01:42
+50598679,56,Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88,https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html,nytimes.com,66,23,,2026-11-22T11:35:03
+50620349,57,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,stalw.art,684,341,,2026-11-23T22:32:29
+50622774,58,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,governor.ny.gov,757,395,,2026-11-24T02:27:02
+50622854,59,Declare is a UI language for you and your AI,https://davidtemkin.github.io/declarelang/,davidtemkin.github.io,102,87,,2026-11-24T02:36:56
+50592307,60,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,usenix.org,96,12,,2026-11-21T18:49:45
