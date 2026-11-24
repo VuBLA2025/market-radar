@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50606192,1,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,spelunkr.tv,432,62,,2026-11-23T01:13:51
-50607261,2,XNU Linux: Full OS X GUI Userspace on Linux,https://github.com/AFK-surf/xnulinux,github.com,195,85,,2026-11-23T03:49:24
-50603845,3,"A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth,gpupartner.com,444,176,,2026-11-22T21:01:16
-50598441,4,Masullo on the Riemann Hypothesis,https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/,johncarlosbaez.wordpress.com,188,107,,2026-11-22T10:59:56
-50607627,5,A Partial Evaluator for C,https://phoenix.labri.fr/software/tempo/,phoenix.labri.fr,35,1,,2026-11-23T04:51:48
-50602843,6,The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife,https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife,audubon.org,458,232,,2026-11-22T19:10:34
-50601525,7,Perplexity and Intelligence,https://openai.com/index/perplexity-and-intelligence/,openai.com,560,382,,2026-11-22T17:06:27
-50608390,8,CollectWise (YC F24) Is Hiring,https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager,ycombinator.com,0,0,,2026-11-23T07:01:08
-50547698,9,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527,apnews.com,208,51,,2026-11-18T15:43:29
-50607668,10,"Yes, 17M lines of Lean is a lot",https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/,micjm.com,25,28,,2026-11-23T05:00:49
-50604988,11,GL.iNet Security Notice 2026-11-20,https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20,gl-inet.com,173,83,,2026-11-22T23:06:37
-50603589,12,"A miniature San Francisco with live buses, planes and boats",https://smallsf.com/,smallsf.com,246,88,,2026-11-22T20:33:23
-50606499,13,Treemap of the Riemann Hypothesis Lean Proof,https://pengowray.github.io/riemann-zeta-proof-visualizer/,pengowray.github.io,54,13,,2026-11-23T01:50:23
-50569505,14,LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025),https://arxiv.org/abs/2506.13771,arxiv.org,34,5,,2026-11-20T02:40:48
-50603143,15,Assume People Are Not Interested in Your Blog Post,https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/,danielsada.tech,162,82,,2026-11-22T19:41:30
-50604123,16,The struggle for freedom: How BSD escaped AT&T licensing,https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/,fosscomics.com,103,36,,2026-11-22T21:33:12
-50560120,17,De-fanging dangerous triggers in GitHub Actions across an organization,https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/,alpha-omega.dev,6,0,,2026-11-19T13:52:42
-50604472,18,The Usefulness of Useless Knowledge [pdf] (1939),https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf,ias.edu,109,21,,2026-11-22T22:10:58
-50560563,19,The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy,https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy,gameboymuseum.com,43,24,,2026-11-19T14:27:07
-50603465,20,"Nyx, the Oldest Internet Service Provider",https://nyx.net/,nyx.net,127,18,,2026-11-22T20:15:59
-50605045,21,Progress map for the Lean formalization of Alessandro Masullo's manuscript,https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3,claude.ai,216,159,,2026-11-22T23:12:10
-50602947,22,What Happened to Silicon Valley?,https://www.oreilly.com/radar/what-happened-to-silicon-valley/,oreilly.com,606,325,,2026-11-22T19:20:15
-50599762,23,Show HN: I built a game where you are an LLM's subagent,https://github.com/gulivan/worker755,github.com,309,74,,2026-11-22T13:56:58
-50577353,24,Verifying formal models of Raft implementations,https://antithesis.com/blog/2026/verifying-formal-models/,antithesis.com,30,1,,2026-11-20T16:33:22
-50606072,25,What we learned operating auth for 1k APIs,https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/,nango.dev,38,5,,2026-11-23T01:01:11
-50596133,26,"Toyota, Nissan, and Honda to standardize parts to lower costs",https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/,caranddriver.com,1275,698,,2026-11-22T04:04:56
-50605445,27,"0rwx – A simple model of AI usage, inspired by Unix permissions",https://0rwx.com/,0rwx.com,43,10,,2026-11-22T23:53:00
-50604540,28,"Localcode, open source agentic coding on your Mac with one command",https://github.com/mjwsolo/localcode,github.com,54,13,,2026-11-22T22:18:48
-50600622,29,"I joined the NTP Pool, but not with my Stratum 1 Pi",https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/,jeffgeerling.com,152,54,,2026-11-22T15:35:24
-50600511,30,Open Social Web Alliance,https://osw-alliance.net/en/,osw-alliance.net,237,224,,2026-11-22T15:24:32
-50580986,31,Slow inefficient (non-derogatory) guestbook,https://kwon.nyc/notes/slow-inefficient-non-derogatory-guestbook/,kwon.nyc,5,0,,2026-11-20T19:57:48
-50546124,32,Advice for Young Researchers,http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html,togelius.blogspot.com,78,33,,2026-11-18T13:33:25
-50606704,33,Advanced Character Physics (2001) [pdf],https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf,cs.cmu.edu,14,0,,2026-11-23T02:17:27
-50594182,34,A Better Vocabulary for Testing,https://alperenkeles.com/posts/vocab-for-testing/,alperenkeles.com,129,31,,2026-11-21T22:15:39
-50588375,35,"'Legally, they don't exist': the hybrid crabs puzzling biologists and fishers",https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas,theguardian.com,37,1,,2026-11-21T12:09:23
-50575007,36,How the World Draws the World,https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html,googlemapsmania.blogspot.com,20,3,,2026-11-20T14:20:15
-50607498,37,DeFlock Amerca Facebook Group Suspended as a Dangerous Organization,https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/,facebook.com,118,40,,2026-11-23T04:31:32
-50602153,38,Harvard CS 2881R AI Safety,https://boazbk.github.io/mltheoryseminar/,boazbk.github.io,64,8,,2026-11-22T18:01:54
-50555002,39,Ask HN: Tips for transitioning from web development to embedded/firmware?,https://news.ycombinator.com/item?id=50555002,news.ycombinator.com (Ask/Show HN),134,81,,2026-11-19T01:37:45
-50582069,40,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib,theguardian.com,1355,303,,2026-11-20T21:03:12
-50597612,41,87% of the Anthropic power will come from gas and 11% from coal in 2028,https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/,betterdatacenterproject.com,954,945,,2026-11-22T08:57:34
-50562207,42,Inside PyPy: First Contact with RPython,https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/,bernsteinbear.com,64,9,,2026-11-19T16:26:51
-50559441,43,The Transvoxel Algorithm,https://transvoxel.org/,transvoxel.org,71,6,,2026-11-19T12:50:25
-50599309,44,Testing Terraform with AWS Emulator,https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/,notes.hatedabamboo.me,76,11,,2026-11-22T13:00:36
-50556249,45,Agentics: Mushy Software,https://12gramsofcarbon.com/p/agentics-mushy-software,12gramsofcarbon.com,45,6,,2026-11-19T05:02:09
-50589618,46,Lean verification of the Riemann Hypothesis,https://leanprover-community.github.io/blog/posts/riemann-hypothesis/,leanprover-community.github.io,1222,1022,,2026-11-21T14:36:45
-50566495,47,Self-hosted library branch over public web OPDS,https://joinmayberry.com/,joinmayberry.com,122,32,,2026-11-19T21:15:47
-50606513,48,Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware,https://github.com/njgreb/n64fireplace,github.com,7,1,,2026-11-23T01:52:12
-50603232,49,All Delta Flights Through Atlanta Delayed as Automated System Falters,https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html,nytimes.com,112,50,,2026-11-22T19:51:46
-50603219,50,What Happened in Fall 2026: AI and P vs. NP,https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np,cacm.acm.org,23,4,,2026-11-22T19:50:36
-50597959,51,Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator,https://simonwillison.net/2026/Nov/21/muru/,simonwillison.net,75,11,,2026-11-22T09:57:01
-50596960,52,Notes on the discrete Fourier transform (DFT),https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/,eli.thegreenplace.net,96,14,,2026-11-22T06:52:25
-50574968,53,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,alpo.ge,2910,2094,,2026-11-20T14:16:21
-50608133,54,COP31 climate talks fail to reach deal amid fossil fuel and money rows,https://www.bbc.com/news/articles/cqwy06zrd26lo,bbc.com,5,2,,2026-11-23T06:20:13
-50604314,55,Agent swarm trying to solve P vs. NP,https://pequalnp.com/,pequalnp.com,143,122,,2026-11-22T21:53:45
-50576012,56,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,slopstrap.mikelacher.com,777,145,,2026-11-20T15:24:11
-50594911,57,Sandwich Simulator,https://stulle.app/,stulle.app,585,201,,2026-11-22T00:07:59
-50607810,58,The End of Insight,https://johnhorgan.org/cross-check/the-end-of-insight,johnhorgan.org,5,0,,2026-11-23T05:27:58
-50600435,59,Backblaze customers worried of personal data sale/sharing after policy update,https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/,neowin.net,165,62,,2026-11-22T15:16:02
-50591853,60,Inkling-2-Mini in 5.4 GB Memory,https://github.com/ShinMegamiBoson/lookatmyquant,github.com,588,138,,2026-11-21T18:02:19
+50611576,1,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,1942,3033,,2026-11-23T14:00:18
+50620349,2,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,stalw.art,96,57,,2026-11-23T22:32:29
+50614249,3,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,ladybird.org,1308,313,,2026-11-23T16:13:12
+50620102,4,VP ≠ VNP over Every Field,https://github.com/anthropics/formal-math/tree/main/vp-vnp,github.com,160,112,,2026-11-23T22:09:10
+50619103,5,GPUI is getting its own repository,https://github.com/zed-industries/gpui,github.com,78,15,,2026-11-23T20:52:54
+50617499,6,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,arm.jonpalmisc.com,784,160,,2026-11-23T19:17:55
+50609685,7,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,z.ai,1024,334,,2026-11-23T10:06:43
+50619207,8,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,bored.com,65,18,,2026-11-23T21:01:16
+50615308,9,Dario is hyping the dangers so OSS models are illegal and he stays in control,https://twitter.com/ylecun/status/2124550037912920090,twitter.com,994,578,,2026-11-23T17:07:26
+50618798,10,Next gaming monitor should still be an OLED,https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled,rockpapershotgun.com,16,26,,2026-11-23T20:30:46
+50620721,11,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,viktorkrapivin.com,12,2,,2026-11-23T23:03:13
+50611402,12,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,huggingface.co,107,20,,2026-11-23T13:42:38
+50620250,13,Levent Alpöge comments on his Riemann Hypothesis proof,https://twitter.com/__alpoge__/status/2124987173439209561,twitter.com,55,44,,2026-11-23T22:22:56
+50587439,14,Spacecraft reaches Mercury on second-ever mission to enter its orbit,https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo,theguardian.com,277,86,,2026-11-21T09:14:02
+50594935,15,Derivative Flipping,http://blog.sigfpe.com/2026/11/derivative-flipping.html,blog.sigfpe.com,63,6,,2026-11-22T00:13:17
+50615481,16,Kagi Mail (public beta),https://blog.kagi.com/kagi-mail-public-beta,blog.kagi.com,323,254,,2026-11-23T17:17:01
+50595365,17,What does it mean to understand what we built?,https://brooker.co.za/blog/2026/11/16/understanding.html,brooker.co.za,19,5,,2026-11-22T01:34:57
+50619186,18,The horse made the state,https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist,aeon.co,51,48,,2026-11-23T20:59:12
+50610318,19,Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor,https://github.com/os6/nospeaker,github.com,265,156,,2026-11-23T11:31:54
+50615161,20,EasyPost (YC S13) Is Hiring,https://www.easypost.com/careers/,easypost.com,0,0,,2026-11-23T17:00:05
+50600838,21,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,herbsutter.com,96,86,,2026-11-22T15:59:59
+50606192,22,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,spelunkr.tv,924,160,,2026-11-23T01:13:51
+50610743,23,Win4wine – Run Windows Shell as the Linux Desktop on Wine,https://github.com/mikuta0407/win4wine,github.com,208,110,,2026-11-23T12:28:11
+50620530,24,The Beauty of Artists' Studios,https://spectator.com/article/the-beauty-of-artists-studios/,spectator.com,7,0,,2026-11-23T22:48:33
+50616933,25,Apple removed my open-source app from EU App Stores after 9 years,https://github.com/glushchenko/fsnotes/discussions/2056,github.com,466,99,,2026-11-23T18:48:10
+50602561,26,"Show HN: Type-C – variants, options, generics and pattern matching for C",https://github.com/stass/type-c,github.com,16,3,,2026-11-22T18:40:57
+50548763,27,Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains),https://github.com/voygr-tech/placebench,github.com,7,0,,2026-11-18T17:00:13
+50609708,28,Show HN: Hermit CRM – Free open-source CRM for solopreneurs,https://hermitcrm.io/,hermitcrm.io,34,2,,2026-11-23T10:09:02
+50620822,29,Huang's Return Is the Biggest National Security Scandal in U.S. History,https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/,foreignpolicy.com,14,3,,2026-11-23T23:11:38
+50615520,30,How should an LLM see a computer?,https://www.greptile.com/blog/trex-computer-use,greptile.com,39,21,,2026-11-23T17:19:25
+50574412,31,Show HN: Drive around my village in 3D,https://cherwellvalleymotorclub.app,cherwellvalleymotorclub.app,103,72,,2026-11-20T13:32:42
+50610334,32,The next circle of security hell,https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/,blogs.gentoo.org,233,138,,2026-11-23T11:34:16
+50611861,33,Building a wireless network adapter for the Super Nintendo,https://boland.dev/snet/,boland.dev,76,17,,2026-11-23T14:16:37
+50605479,34,Nespresso's project to reduce grams of coffee per capsule,https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/,alvinbunk.wordpress.com,261,274,,2026-11-22T23:57:45
+50573996,35,Crafting Targeted MP4 Fuzzers,https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/,atredis.com,22,2,,2026-11-20T12:51:47
+50619630,36,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,https://openai.com/index/introducing-shirudo/,openai.com,14,1,,2026-11-23T21:30:41
+50587286,37,What's the difference between an integer and a pointer? (2018),https://blog.regehr.org/archives/1621,blog.regehr.org,103,101,,2026-11-21T08:49:14
+50577534,38,Let's Meet in the Middle,https://george.mand.is/2026/11/lets-meet-in-the-middle/,george.mand.is,88,11,,2026-11-20T16:41:54
+50584327,39,"Anatomia Di Tor – The Tor Protocol, Byte by Byte",https://github.com/aleff-github/onion-routing-anatomy,github.com,31,0,,2026-11-21T00:20:37
+50609579,40,Don't keep your SSH keys on disk,https://jola.dev/posts/you-cant-afford-ssh-keys-disk,jola.dev,146,96,,2026-11-23T09:55:38
+50620328,41,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,arxiv.org,5,0,,2026-11-23T22:29:48
+50607668,42,"Yes, 17M lines of Lean is a lot",https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/,micjm.com,256,332,,2026-11-23T05:00:49
+50584526,43,Elixir HLS makes FPGA circuits from functions written in Elixir,https://github.com/elixir-hls/elixir-hls,github.com,145,16,,2026-11-21T00:47:57
+50618513,44,Claude Ship,https://claude.com/resources/articles/introducing-claude-ship,claude.com,15,5,,2026-11-23T20:14:18
+50621127,45,Short Nvidia Fund Halted After 91% Wipeout,https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48,wsj.com,5,0,,2026-11-23T23:36:26
+50612686,46,Cyberleek posted the GTA 6 Xbox build executable,https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/,reddit.com,253,275,,2026-11-23T14:49:44
+50547698,47,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527,apnews.com,355,133,,2026-11-18T15:43:29
+50587750,48,MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash,https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/,allaboutcircuits.com,93,40,,2026-11-21T10:14:11
+50581961,49,Brake Check: Hijacking Trailer Brakes over Bluetooth,https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/,elementdigital.com.au,93,65,,2026-11-20T20:57:16
+50601823,50,Was software just always too complex for humans?,https://anil.recoil.org/notes/software-too-complex-for-humans,anil.recoil.org,95,112,,2026-11-22T17:32:41
+50619973,51,16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill',https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/,wired.com,15,5,,2026-11-23T21:56:44
+50598441,52,Masullo on the Riemann Hypothesis,https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/,johncarlosbaez.wordpress.com,304,280,,2026-11-22T10:59:56
+50607261,53,XNU Linux: Full OS X GUI Userspace on Linux,https://github.com/AFK-surf/xnulinux,github.com,597,244,,2026-11-23T03:49:24
+50602660,54,Dirac's Theorem at a Dinner Party,https://prideout.net/blog/dirac-dinner-party/,prideout.net,17,8,,2026-11-22T18:50:27
+50583535,55,Reviving the Donkey Car with Erlang,https://underjord.io/reviving-the-donkey-car-with-erlang.html,underjord.io,38,1,,2026-11-20T22:56:20
+50618834,56,Jensen Huang's Apology May Be the Only Correct Use of AI,https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/,theatlantic.com,21,1,,2026-11-23T20:33:07
+50600771,57,Ask HN: Are the trades a safe career transition?,https://news.ycombinator.com/item?id=50600771,news.ycombinator.com (Ask/Show HN),51,83,,2026-11-22T15:52:33
+50606499,58,Treemap of the Riemann Hypothesis Lean Proof,https://pengowray.github.io/riemann-zeta-proof-visualizer/,pengowray.github.io,185,74,,2026-11-23T01:50:23
+50595534,59,What was so great about move 37?,https://www.lesswrong.com/posts/zAcYRJP9CZcYXTs7o/what-was-so-great-about-move-37,lesswrong.com,9,1,,2026-11-22T02:09:12
+50603589,60,"A miniature San Francisco with live buses, planes and boats",https://smallsf.com/,smallsf.com,370,112,,2026-11-22T20:33:23
