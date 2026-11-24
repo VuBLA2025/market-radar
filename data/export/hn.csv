@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50611576,1,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,1942,3033,,2026-11-23T14:00:18
-50620349,2,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,stalw.art,96,57,,2026-11-23T22:32:29
-50614249,3,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,ladybird.org,1308,313,,2026-11-23T16:13:12
-50620102,4,VP ≠ VNP over Every Field,https://github.com/anthropics/formal-math/tree/main/vp-vnp,github.com,160,112,,2026-11-23T22:09:10
-50619103,5,GPUI is getting its own repository,https://github.com/zed-industries/gpui,github.com,78,15,,2026-11-23T20:52:54
-50617499,6,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,arm.jonpalmisc.com,784,160,,2026-11-23T19:17:55
-50609685,7,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,z.ai,1024,334,,2026-11-23T10:06:43
-50619207,8,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,bored.com,65,18,,2026-11-23T21:01:16
-50615308,9,Dario is hyping the dangers so OSS models are illegal and he stays in control,https://twitter.com/ylecun/status/2124550037912920090,twitter.com,994,578,,2026-11-23T17:07:26
-50618798,10,Next gaming monitor should still be an OLED,https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled,rockpapershotgun.com,16,26,,2026-11-23T20:30:46
-50620721,11,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,viktorkrapivin.com,12,2,,2026-11-23T23:03:13
-50611402,12,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,huggingface.co,107,20,,2026-11-23T13:42:38
-50620250,13,Levent Alpöge comments on his Riemann Hypothesis proof,https://twitter.com/__alpoge__/status/2124987173439209561,twitter.com,55,44,,2026-11-23T22:22:56
-50587439,14,Spacecraft reaches Mercury on second-ever mission to enter its orbit,https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo,theguardian.com,277,86,,2026-11-21T09:14:02
-50594935,15,Derivative Flipping,http://blog.sigfpe.com/2026/11/derivative-flipping.html,blog.sigfpe.com,63,6,,2026-11-22T00:13:17
-50615481,16,Kagi Mail (public beta),https://blog.kagi.com/kagi-mail-public-beta,blog.kagi.com,323,254,,2026-11-23T17:17:01
-50595365,17,What does it mean to understand what we built?,https://brooker.co.za/blog/2026/11/16/understanding.html,brooker.co.za,19,5,,2026-11-22T01:34:57
-50619186,18,The horse made the state,https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist,aeon.co,51,48,,2026-11-23T20:59:12
-50610318,19,Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor,https://github.com/os6/nospeaker,github.com,265,156,,2026-11-23T11:31:54
-50615161,20,EasyPost (YC S13) Is Hiring,https://www.easypost.com/careers/,easypost.com,0,0,,2026-11-23T17:00:05
-50600838,21,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,herbsutter.com,96,86,,2026-11-22T15:59:59
-50606192,22,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,spelunkr.tv,924,160,,2026-11-23T01:13:51
-50610743,23,Win4wine – Run Windows Shell as the Linux Desktop on Wine,https://github.com/mikuta0407/win4wine,github.com,208,110,,2026-11-23T12:28:11
-50620530,24,The Beauty of Artists' Studios,https://spectator.com/article/the-beauty-of-artists-studios/,spectator.com,7,0,,2026-11-23T22:48:33
-50616933,25,Apple removed my open-source app from EU App Stores after 9 years,https://github.com/glushchenko/fsnotes/discussions/2056,github.com,466,99,,2026-11-23T18:48:10
-50602561,26,"Show HN: Type-C – variants, options, generics and pattern matching for C",https://github.com/stass/type-c,github.com,16,3,,2026-11-22T18:40:57
-50548763,27,Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains),https://github.com/voygr-tech/placebench,github.com,7,0,,2026-11-18T17:00:13
-50609708,28,Show HN: Hermit CRM – Free open-source CRM for solopreneurs,https://hermitcrm.io/,hermitcrm.io,34,2,,2026-11-23T10:09:02
-50620822,29,Huang's Return Is the Biggest National Security Scandal in U.S. History,https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/,foreignpolicy.com,14,3,,2026-11-23T23:11:38
-50615520,30,How should an LLM see a computer?,https://www.greptile.com/blog/trex-computer-use,greptile.com,39,21,,2026-11-23T17:19:25
-50574412,31,Show HN: Drive around my village in 3D,https://cherwellvalleymotorclub.app,cherwellvalleymotorclub.app,103,72,,2026-11-20T13:32:42
-50610334,32,The next circle of security hell,https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/,blogs.gentoo.org,233,138,,2026-11-23T11:34:16
-50611861,33,Building a wireless network adapter for the Super Nintendo,https://boland.dev/snet/,boland.dev,76,17,,2026-11-23T14:16:37
-50605479,34,Nespresso's project to reduce grams of coffee per capsule,https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/,alvinbunk.wordpress.com,261,274,,2026-11-22T23:57:45
-50573996,35,Crafting Targeted MP4 Fuzzers,https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/,atredis.com,22,2,,2026-11-20T12:51:47
-50619630,36,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,https://openai.com/index/introducing-shirudo/,openai.com,14,1,,2026-11-23T21:30:41
-50587286,37,What's the difference between an integer and a pointer? (2018),https://blog.regehr.org/archives/1621,blog.regehr.org,103,101,,2026-11-21T08:49:14
-50577534,38,Let's Meet in the Middle,https://george.mand.is/2026/11/lets-meet-in-the-middle/,george.mand.is,88,11,,2026-11-20T16:41:54
-50584327,39,"Anatomia Di Tor – The Tor Protocol, Byte by Byte",https://github.com/aleff-github/onion-routing-anatomy,github.com,31,0,,2026-11-21T00:20:37
-50609579,40,Don't keep your SSH keys on disk,https://jola.dev/posts/you-cant-afford-ssh-keys-disk,jola.dev,146,96,,2026-11-23T09:55:38
-50620328,41,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,arxiv.org,5,0,,2026-11-23T22:29:48
-50607668,42,"Yes, 17M lines of Lean is a lot",https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/,micjm.com,256,332,,2026-11-23T05:00:49
-50584526,43,Elixir HLS makes FPGA circuits from functions written in Elixir,https://github.com/elixir-hls/elixir-hls,github.com,145,16,,2026-11-21T00:47:57
-50618513,44,Claude Ship,https://claude.com/resources/articles/introducing-claude-ship,claude.com,15,5,,2026-11-23T20:14:18
-50621127,45,Short Nvidia Fund Halted After 91% Wipeout,https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48,wsj.com,5,0,,2026-11-23T23:36:26
-50612686,46,Cyberleek posted the GTA 6 Xbox build executable,https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/,reddit.com,253,275,,2026-11-23T14:49:44
-50547698,47,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527,apnews.com,355,133,,2026-11-18T15:43:29
-50587750,48,MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash,https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/,allaboutcircuits.com,93,40,,2026-11-21T10:14:11
-50581961,49,Brake Check: Hijacking Trailer Brakes over Bluetooth,https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/,elementdigital.com.au,93,65,,2026-11-20T20:57:16
-50601823,50,Was software just always too complex for humans?,https://anil.recoil.org/notes/software-too-complex-for-humans,anil.recoil.org,95,112,,2026-11-22T17:32:41
-50619973,51,16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill',https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/,wired.com,15,5,,2026-11-23T21:56:44
-50598441,52,Masullo on the Riemann Hypothesis,https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/,johncarlosbaez.wordpress.com,304,280,,2026-11-22T10:59:56
-50607261,53,XNU Linux: Full OS X GUI Userspace on Linux,https://github.com/AFK-surf/xnulinux,github.com,597,244,,2026-11-23T03:49:24
-50602660,54,Dirac's Theorem at a Dinner Party,https://prideout.net/blog/dirac-dinner-party/,prideout.net,17,8,,2026-11-22T18:50:27
-50583535,55,Reviving the Donkey Car with Erlang,https://underjord.io/reviving-the-donkey-car-with-erlang.html,underjord.io,38,1,,2026-11-20T22:56:20
-50618834,56,Jensen Huang's Apology May Be the Only Correct Use of AI,https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/,theatlantic.com,21,1,,2026-11-23T20:33:07
-50600771,57,Ask HN: Are the trades a safe career transition?,https://news.ycombinator.com/item?id=50600771,news.ycombinator.com (Ask/Show HN),51,83,,2026-11-22T15:52:33
-50606499,58,Treemap of the Riemann Hypothesis Lean Proof,https://pengowray.github.io/riemann-zeta-proof-visualizer/,pengowray.github.io,185,74,,2026-11-23T01:50:23
-50595534,59,What was so great about move 37?,https://www.lesswrong.com/posts/zAcYRJP9CZcYXTs7o/what-was-so-great-about-move-37,lesswrong.com,9,1,,2026-11-22T02:09:12
-50603589,60,"A miniature San Francisco with live buses, planes and boats",https://smallsf.com/,smallsf.com,370,112,,2026-11-22T20:33:23
+50624497,1,2035 Came Early,https://fzakaria.com/2026/11/23/2035-came-early,fzakaria.com,197,37,,2026-11-24T06:30:33
+50614249,2,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,ladybird.org,1947,455,,2026-11-23T16:13:12
+50620349,3,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,stalw.art,470,245,,2026-11-23T22:32:29
+50624061,4,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,phoronix.com,79,30,,2026-11-24T05:15:22
+50611576,5,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,2562,3481,,2026-11-23T14:00:18
+50623515,6,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,salvageyarddrone.wordpress.com,80,31,,2026-11-24T04:00:28
+50604710,7,Modernizing iperf/iperf3 and introducing fireperf,https://blog.daniel-baumann.ch/posts/20261122-1.html,blog.daniel-baumann.ch,100,8,,2026-11-22T22:37:51
+50592307,8,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,usenix.org,34,0,,2026-11-21T18:49:45
+50622774,9,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,governor.ny.gov,356,106,,2026-11-24T02:27:02
+50607512,10,Lowering Perplexity Without Scaling,https://micjm.com/blog/lowering-perplexity-without-scaling/,micjm.com,49,13,,2026-11-23T04:33:50
+50619103,11,GPUI is getting its own repository,https://github.com/zed-industries/gpui,github.com,257,99,,2026-11-23T20:52:54
+50619207,12,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,bored.com,241,52,,2026-11-23T21:01:16
+50615308,13,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",https://twitter.com/ylecun/status/2124550037912920090,twitter.com,1667,936,,2026-11-23T17:07:26
+50622934,14,Making a dumb TV just smart enough,https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/,qsantos.fr,76,25,,2026-11-24T02:46:54
+50617499,15,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,arm.jonpalmisc.com,1042,238,,2026-11-23T19:17:55
+50606192,16,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,spelunkr.tv,1001,173,,2026-11-23T01:13:51
+50610170,17,New material gets stronger the more it bends,https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/,source.washu.edu,27,14,,2026-11-23T11:12:33
+50620721,18,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,viktorkrapivin.com,109,9,,2026-11-23T23:03:13
+50602041,19,Falsehoods Programmers Believe About ATProto,https://reiver.link/atproto/falsehoods-programmers-believe/,reiver.link,4,0,,2026-11-22T17:51:57
+50606611,20,Becoming a Magician,https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/,autotranslucence.wordpress.com,11,1,,2026-11-23T02:04:25
+50622804,21,Rune: Rust VM for Emacs,https://github.com/CeleritasCelery/rune,github.com,41,11,,2026-11-24T02:30:47
+50611402,22,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,huggingface.co,170,34,,2026-11-23T13:42:38
+50582698,23,How photos were transmitted by wire in the 1930s (2024),https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s,kottke.org,62,9,,2026-11-20T21:47:06
+50620328,24,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,arxiv.org,60,4,,2026-11-23T22:29:48
+50621466,25,"The Power of GraphQL, Without GraphQL",https://cobalt27.dev/,cobalt27.dev,55,30,,2026-11-24T00:03:59
+50620831,26,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,smithsonianmag.com,46,28,,2026-11-23T23:12:40
+50609685,27,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,z.ai,1122,366,,2026-11-23T10:06:43
+50593006,28,Ride the SQL curve from basics to mastery,https://sqlride.com/,sqlride.com,34,12,,2026-11-21T19:56:36
+50600838,29,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,herbsutter.com,131,163,,2026-11-22T15:59:59
+50605479,30,Nespresso's project to reduce grams of coffee per capsule,https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/,alvinbunk.wordpress.com,313,328,,2026-11-22T23:57:45
+50615481,31,Kagi Mail (public beta),https://blog.kagi.com/kagi-mail-public-beta,blog.kagi.com,427,344,,2026-11-23T17:17:01
+50610743,32,Win4wine – Run Windows Shell as the Linux Desktop on Wine,https://github.com/mikuta0407/win4wine,github.com,236,121,,2026-11-23T12:28:11
+50594935,33,Derivative Flipping,http://blog.sigfpe.com/2026/11/derivative-flipping.html,blog.sigfpe.com,89,17,,2026-11-22T00:13:17
+50619630,34,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,https://openai.com/index/introducing-shirudo/,openai.com,71,23,,2026-11-23T21:30:41
+50595365,35,What does it mean to understand what we built?,https://brooker.co.za/blog/2026/11/16/understanding.html,brooker.co.za,64,21,,2026-11-22T01:34:57
+50625888,36,Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex,https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/,philippdubach.com,4,0,,2026-11-24T09:39:50
+50610334,37,The next circle of security hell,https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/,blogs.gentoo.org,249,151,,2026-11-23T11:34:16
+50620102,38,VP ≠ VNP over Every Field,https://github.com/anthropics/formal-math/tree/main/vp-vnp,github.com,328,292,,2026-11-23T22:09:10
+50615161,39,EasyPost (YC S13) Is Hiring,https://www.easypost.com/careers/,easypost.com,0,0,,2026-11-23T17:00:05
+50609579,40,Don't keep your SSH keys on disk,https://jola.dev/posts/you-cant-afford-ssh-keys-disk,jola.dev,176,111,,2026-11-23T09:55:38
+50574412,41,Show HN: Drive around my village in 3D,https://cherwellvalleymotorclub.app,cherwellvalleymotorclub.app,118,85,,2026-11-20T13:32:42
+50607668,42,"Yes, 17M lines of Lean is a lot",https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/,micjm.com,264,340,,2026-11-23T05:00:49
+50602561,43,"Show HN: Type-C – variants, options, generics and pattern matching for C",https://github.com/stass/type-c,github.com,42,18,,2026-11-22T18:40:57
+50611861,44,Building a wireless network adapter for the Super Nintendo,https://boland.dev/snet/,boland.dev,83,17,,2026-11-23T14:16:37
+50618513,45,Claude Ship,https://claude.com/resources/articles/introducing-claude-ship,claude.com,56,18,,2026-11-23T20:14:18
+50623020,46,Hacking radiators,https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/,qsantos.fr,19,9,,2026-11-24T02:56:41
+50619186,47,The horse made the state,https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist,aeon.co,68,60,,2026-11-23T20:59:12
+50622612,48,Aristotle Formally Verifies Celeste Speedrun Optimality,https://www.harmonic.fun/news/celeste-classic-speedrun/,harmonic.fun,18,0,,2026-11-24T02:05:12
+50587439,49,Spacecraft reaches Mercury on second-ever mission to enter its orbit,https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo,theguardian.com,343,111,,2026-11-21T09:14:02
+50621977,50,Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity,https://www.science.org/doi/10.1126/scisignal.aef1375,science.org,89,63,,2026-11-24T00:53:46
+50623965,51,Show HN: Genesis Map – Visualize your agent's changes. See where they can break,https://github.com/GenesisAgentInfra/genesis,github.com,8,0,,2026-11-24T05:04:41
+50593540,52,Developing the perception to separate the form of a place from what it contains,https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas,thedeletedscenes.com,20,12,,2026-11-21T20:54:18
+50584526,53,Elixir HLS makes FPGA circuits from functions written in Elixir,https://github.com/elixir-hls/elixir-hls,github.com,156,17,,2026-11-21T00:47:57
+50625721,54,CVE-2026-124851: information disclosure vulnerability in ZSTD 1.5.1 to 1.5.7,https://www.facebook.com/security/advisories/cve-2026-124851?_fb_noscript=1,facebook.com,5,1,,2026-11-24T09:17:42
+50587286,55,What's the difference between an integer and a pointer? (2018),https://blog.regehr.org/archives/1621,blog.regehr.org,105,112,,2026-11-21T08:49:14
+50615520,56,How should an LLM see a computer?,https://www.greptile.com/blog/trex-computer-use,greptile.com,51,23,,2026-11-23T17:19:25
+50601823,57,Was software just always too complex for humans?,https://anil.recoil.org/notes/software-too-complex-for-humans,anil.recoil.org,106,122,,2026-11-22T17:32:41
+50577534,58,Let's Meet in the Middle,https://george.mand.is/2026/11/lets-meet-in-the-middle/,george.mand.is,99,11,,2026-11-20T16:41:54
+50581961,59,Brake Check: Hijacking Trailer Brakes over Bluetooth,https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/,elementdigital.com.au,101,71,,2026-11-20T20:57:16
+50610318,60,Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor,https://github.com/os6/nospeaker,github.com,311,173,,2026-11-23T11:31:54
