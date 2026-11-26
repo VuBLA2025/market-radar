@@ -2047,6 +2047,22 @@
     "avg_comments": 98.8,
     "top_domain": "github.com"
    }
+  },
+  {
+   "at": "2026-11-26T21:42:08+00:00",
+   "books": {
+    "count": 1000,
+    "avg_price": 35.07,
+    "in_stock_pct": 100.0,
+    "avg_rating": 2.92
+   },
+   "hn": {
+    "count": 60,
+    "avg_points": 201.8,
+    "max_points": 1943,
+    "avg_comments": 113.4,
+    "top_domain": "github.com"
+   }
   }
  ]
 }
