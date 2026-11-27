@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50657265,1,AMD Specific Patches for Llama.cpp,https://devnull.land/amd-specific-llama-cpp,devnull.land,210,52,,2026-11-26T17:11:29
-50659841,2,The greatest architect you've never heard of is in Pakistan,https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/,worksinprogress.co,27,2,,2026-11-26T21:08:05
-50657530,3,YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays,https://github.com/antonpictures/youtube-punisher,github.com,153,210,,2026-11-26T17:36:47
-50657645,4,CTO of 'RansomwareHelp' Indicted for Wire Fraud,https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/,krebsonsecurity.com,147,62,,2026-11-26T17:47:45
-50658632,5,Rvoip 0.5 the complete VoIP stack in Rust,https://github.com/eisenzopf/rvoip,github.com,27,7,,2026-11-26T19:18:09
-50653667,6,Intel One Mono font (2023),https://github.com/intel/intel-one-mono,github.com,421,230,,2026-11-26T10:11:01
-50652527,7,OpenAI may be in cost control mode,https://micjm.com/blog/openai-is-in-cost-control-mode/,micjm.com,133,122,,2026-11-26T07:33:12
-50651099,8,"Show HN: Olumino, a Markdown notes and spaced repetition app",https://olumino.app,olumino.app,29,17,,2026-11-26T03:33:06
-50656036,9,"Show HN: Three Linux VMs in a browser tab, each running a different browser",https://michidk.github.io/sidebyside/,michidk.github.io,94,24,,2026-11-26T15:00:06
-50659640,10,Company Culture = Slack Emoji ÷ √Headcount,https://lia.mg/posts/measuring-company-culture-with-slack-emoji/,lia.mg,3,0,,2026-11-26T20:49:49
-50658910,11,Top-cited AI scientists at four US companies compared,https://topcitedscientists.com/figures/ai-at-four-us-companies/,topcitedscientists.com,5,0,,2026-11-26T19:44:31
-50636931,12,Curiosity Is No Solo Act,https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/,thereader.mitpress.mit.edu,106,22,,2026-11-25T00:37:07
-50657936,13,"George Whitesides, 1939-2026",https://www.science.org/content/blog-post/george-whitesides-1939-2026,science.org,26,4,,2026-11-26T18:13:07
-50653477,14,Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email,https://techstackups.com/articles/google-workspace-ai-agents-mcp/,techstackups.com,159,164,,2026-11-26T09:44:23
-50651430,15,NormalScript: A perfectly normal scripting language,https://psychoscript.com/,psychoscript.com,44,8,,2026-11-26T04:32:26
-50651719,16,Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years,https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/,fosscomics.com,260,56,,2026-11-26T05:12:59
-50657070,17,Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar,https://github.com/rxliuli/sim-drop,github.com,24,6,,2026-11-26T16:51:38
-50654289,18,Nextcloud Office Desktop app,https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/,nextcloud.com,378,189,,2026-11-26T11:50:49
-50655664,19,Tell HN: Happy Thanksgiving,https://news.ycombinator.com/item?id=50655664,news.ycombinator.com (Ask/Show HN),523,130,,2026-11-26T14:26:54
-50658170,20,"IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr,economictimes.indiatimes.com,47,21,,2026-11-26T18:35:37
-50652184,21,Moat: OpenRouter replacement,https://commandcode.ai/moat,commandcode.ai,220,128,,2026-11-26T06:32:48
-50658193,22,Largest 2D Chart library in the world using BUI: BlenderUI,https://bui.preetham.top/charts/,bui.preetham.top,11,2,,2026-11-26T18:37:24
-50619466,23,Discovery of curse ritual in trash dump surprises Egyptologist,https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html,phys.org,83,49,,2026-11-23T21:18:49
-50651863,24,An algebraic quantization of gravity from the null cone,https://arxiv.org/abs/2611.34924,arxiv.org,175,57,,2026-11-26T05:37:51
-50654353,25,Head of Software Engineering – NOX Metals,https://news.ycombinator.com/item?id=50654353,news.ycombinator.com (Ask/Show HN),0,0,,2026-11-26T12:00:00
-50646108,26,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,https://scottaaronson.blog/?p=10379,scottaaronson.blog,1943,1782,,2026-11-25T19:11:27
-50649834,27,Collection of preserved UI style guides,https://aresluna.org/ui-style-guides/,aresluna.org,386,89,,2026-11-26T00:40:00
-50658191,28,Show HN: Fuck_data_brokers.py,https://github.com/gary23w/f-ck_data_brokers,github.com,136,23,,2026-11-26T18:37:21
-50650892,29,Minipg: PostgreSQL as a Single Executable,https://progrium.github.io/minipg/,progrium.github.io,279,44,,2026-11-26T03:00:48
-50634381,30,The history of civilization is the history of wheat,https://asteriskmag.com/issues/16/marginal-grains,asteriskmag.com,134,100,,2026-11-24T20:40:18
-50656862,31,Kagi Watch,https://kagi.com/watch,kagi.com,81,108,,2026-11-26T16:28:54
-50649864,32,Tell HN: Lots of Ask HNs again,https://news.ycombinator.com/item?id=50649864,news.ycombinator.com (Ask/Show HN),386,152,,2026-11-26T00:43:34
-50655278,33,45°C inlets just killed the chiller. Most people haven't noticed yet,https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831,theregister.com,238,120,,2026-11-26T13:48:11
-50655868,34,Show HN: I wrote an entire Vim manual over 4 years,http://themouseless.dev/vim/,themouseless.dev,21,8,,2026-11-26T14:44:22
-50644817,35,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,1password.com,1622,699,,2026-11-25T17:18:26
-50657059,36,NP_R ≠ PAR_R,https://github.com/samueleverett01/bss-permanent-separations,github.com,122,148,,2026-11-26T16:50:55
-50626466,37,What VP ≠ VNP Means (In 3 Minutes),https://www.friedgil.com/vpvnp,friedgil.com,214,77,,2026-11-24T10:56:56
-50658498,38,An Introduction to Uncertainty in Machine Learning,https://chrhenning.com/blog/2026/introduction-to-uncertainty/,chrhenning.com,4,0,,2026-11-26T19:04:50
-50658963,39,DietPi released a new version v10.9,https://news.ycombinator.com/item?id=50658963,news.ycombinator.com (Ask/Show HN),6,0,,2026-11-26T19:50:04
-50651627,40,Unconditional Integer Factorization in Subexponential Time,https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization,github.com,137,20,,2026-11-26T04:59:56
-50656763,41,Ask HN: Any courses/products by indie makers worth getting today?,https://news.ycombinator.com/item?id=50656763,news.ycombinator.com (Ask/Show HN),58,25,,2026-11-26T16:16:41
-50648365,42,Bare Metal Qwen,https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os,github.com,225,55,,2026-11-25T22:15:34
-50647673,43,The New York Times warns photographers not to update Photoshop over AI features,https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features,theverge.com,636,510,,2026-11-25T21:18:02
-50655798,44,Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route,https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/,testingcatalog.com,24,2,,2026-11-26T14:38:57
-50642977,45,Limiting Charging to 80 Percent,https://www.jefftk.com/p/limiting-charging-to-80,jefftk.com,37,49,,2026-11-25T15:00:05
-50658093,46,Notion's official MCP inject hidden upsell instructions into agent context,https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/,reddit.com,28,11,,2026-11-26T18:28:30
-50623232,47,Show HN: Synth Patch Hero,https://swarkentin.github.io/synth-patch-hero/,swarkentin.github.io,125,25,,2026-11-24T03:24:22
-50598636,48,"The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf,gwern.net,147,52,,2026-11-22T11:29:44
-50659918,49,"Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/,electrek.co,4,0,,2026-11-26T21:16:41
-50648323,50,Deploying a payphone on a tiny Pacific Island for fun and zero profit,https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/,nickvsnetworking.com,154,22,,2026-11-25T22:12:25
-50658868,51,"EightSleep tries to lock bootloader, bricks customer mattresses",https://www.reddit.com/r/EightSleep/comments/1y4x3sx/the_november_2026_eight_sleep_mass_bricking/,reddit.com,14,2,,2026-11-26T19:39:59
-50648050,52,Much shorter version of GRH Lean verification from Anthropic,https://github.com/lsernau/grh-lean,github.com,542,342,,2026-11-25T21:48:10
-50651117,53,"OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",https://twitter.com/thsottiaux/status/2125784147889393806,twitter.com,446,253,,2026-11-26T03:36:58
-50658549,54,Poland to create no-fly zone at border after repeated airspace violations,https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations,france24.com,13,5,,2026-11-26T19:09:14
-50639698,55,Smart people who give a shit use tools,https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools,iankduncan.com,368,290,,2026-11-25T07:46:43
-50652370,56,Mirror life is dangerous. Regulators must act before it becomes real,https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real,economist.com,51,78,,2026-11-26T07:05:59
-50644814,57,Deriving Black-Scholes,https://david.alvarezrosa.com/posts/deriving-black-scholes/,david.alvarezrosa.com,94,55,,2026-11-25T17:18:15
-50649040,58,The USAID Files,https://reclaimthenet.org/usaid-files,reclaimthenet.org,94,96,,2026-11-25T23:15:52
-50657724,59,"Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/,reddit.com,18,1,,2026-11-26T17:55:10
-50655243,60,Back up your Claude Code sessions and use them on any machine,https://session-vault.dev/,session-vault.dev,15,1,,2026-11-26T13:43:14
+50663595,1,The group chat where your AI talks behind your back,https://construct22.com/,construct22.com,144,49,,2026-11-27T06:44:34
+50660180,2,AI made self-hosting fun again,https://janlukas.blog/posts/ai-self-hosting,janlukas.blog,630,325,,2026-11-26T21:47:45
+50663089,3,The need for a formally verifiable mainstream programming language,https://blainehansen.me/post/mainstream-verifiable-language/,blainehansen.me,132,102,,2026-11-27T05:22:06
+50657530,4,YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays,https://github.com/antonpictures/youtube-punisher,github.com,380,449,,2026-11-26T17:36:47
+50659841,5,"Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/,worksinprogress.co,356,89,,2026-11-26T21:08:05
+50661646,6,Hard Drive pricing has gotten bad,https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/,blog.ktz.me,321,223,,2026-11-27T01:13:49
+50657265,7,AMD-specific fork of llama.cpp,https://devnull.land/amd-specific-llama-cpp,devnull.land,343,83,,2026-11-26T17:11:29
+50657645,8,CTO of 'RansomwareHelp' indicted for wire fraud,https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/,krebsonsecurity.com,258,132,,2026-11-26T17:47:45
+50659640,9,Company Culture = Slack Emoji ÷ √Headcount,https://lia.mg/posts/measuring-company-culture-with-slack-emoji/,lia.mg,315,133,,2026-11-26T20:49:49
+50663666,10,Ladybird browser's first downloadable alpha is surprisingly capable,https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/,arstechnica.com,48,32,,2026-11-27T06:53:52
+50653667,11,Intel One Mono font (2023),https://github.com/intel/intel-one-mono,github.com,516,249,,2026-11-26T10:11:01
+50663261,12,Buy Nothing Day – Friday November 27th 2026,https://www.buynothingday.co.uk/,buynothingday.co.uk,52,8,,2026-11-27T05:52:42
+50658498,13,An introduction to uncertainty in machine learning,https://chrhenning.com/blog/2026/introduction-to-uncertainty/,chrhenning.com,73,2,,2026-11-26T19:04:50
+50653477,14,Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email,https://techstackups.com/articles/google-workspace-ai-agents-mcp/,techstackups.com,323,289,,2026-11-26T09:44:23
+50660273,15,"Novita, StreamLake, etc. are ByteDance Ark wrappers",https://kendell.dev/blog/arkwrapper/,kendell.dev,95,14,,2026-11-26T21:59:19
+50658632,16,Rvoip: VoIP stack in Rust,https://github.com/eisenzopf/rvoip,github.com,123,26,,2026-11-26T19:18:09
+50661705,17,The Cutthroat Business of Shipwrecks,https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/,daily.jstor.org,23,2,,2026-11-27T01:21:49
+50651099,18,"Show HN: Olumino, a Markdown notes and spaced repetition app",https://olumino.app,olumino.app,104,45,,2026-11-26T03:33:06
+50655868,19,Show HN: I wrote an entire Vim manual over 4 years,http://themouseless.dev/vim/,themouseless.dev,155,46,,2026-11-26T14:44:22
+50649040,20,The USAID Files,https://reclaimthenet.org/usaid-files,reclaimthenet.org,248,303,,2026-11-25T23:15:52
+50651863,21,An algebraic quantization of gravity from the null cone,https://arxiv.org/abs/2611.34924,arxiv.org,237,93,,2026-11-26T05:37:51
+50658193,22,Largest 2D Chart library in the world using BUI: BlenderUI,https://bui.preetham.top/charts/,bui.preetham.top,101,29,,2026-11-26T18:37:24
+50636931,23,Curiosity Is No Solo Act,https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/,thereader.mitpress.mit.edu,150,37,,2026-11-25T00:37:07
+50657936,24,"George Whitesides, 1939-2026",https://www.science.org/content/blog-post/george-whitesides-1939-2026,science.org,74,7,,2026-11-26T18:13:07
+50652184,25,Moat: OpenRouter replacement,https://commandcode.ai/moat,commandcode.ai,281,155,,2026-11-26T06:32:48
+50651430,26,NormalScript: A perfectly normal scripting language,https://psychoscript.com/,psychoscript.com,103,25,,2026-11-26T04:32:26
+50644817,27,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,1password.com,1660,712,,2026-11-25T17:18:26
+50655664,28,Tell HN: Happy Thanksgiving,https://news.ycombinator.com/item?id=50655664,news.ycombinator.com (Ask/Show HN),690,145,,2026-11-26T14:26:54
+50654289,29,Nextcloud Office Desktop app,https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/,nextcloud.com,429,221,,2026-11-26T11:50:49
+50656036,30,"Show HN: Three Linux VMs in a browser tab, each running a different browser",https://michidk.github.io/sidebyside/,michidk.github.io,137,31,,2026-11-26T15:00:06
+50656036,31,"Show HN: Three Linux VMs in a browser tab, each running a different browser",https://michidk.github.io/sidebyside/,michidk.github.io,137,31,,2026-11-26T15:00:06
+50619466,32,Discovery of curse ritual in trash dump surprises Egyptologist,https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html,phys.org,104,59,,2026-11-23T21:18:49
+50657070,33,Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar,https://github.com/rxliuli/sim-drop,github.com,45,10,,2026-11-26T16:51:38
+50662322,34,Google will show solo Android developers' phone numbers and addresses,https://support.google.com/googleplay/android-developer/answer/17594752?hl=en,support.google.com,136,73,,2026-11-27T03:11:41
+50647673,35,The New York Times warns photographers not to update Photoshop over AI features,https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features,theverge.com,671,530,,2026-11-25T21:18:02
+50652527,36,OpenAI may be in cost control mode,https://micjm.com/blog/openai-is-in-cost-control-mode/,micjm.com,328,333,,2026-11-26T07:33:12
+50639698,37,Smart people who give a shit use tools,https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools,iankduncan.com,385,300,,2026-11-25T07:46:43
+50651627,38,Unconditional Integer Factorization in Subexponential Time,https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization,github.com,148,25,,2026-11-26T04:59:56
+50623232,39,Show HN: Synth Patch Hero,https://swarkentin.github.io/synth-patch-hero/,swarkentin.github.io,138,28,,2026-11-24T03:24:22
+50655278,40,45°C inlets just killed the chiller. Most people haven't noticed yet,https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831,theregister.com,274,141,,2026-11-26T13:48:11
+50654353,41,Head of Software Engineering – NOX Metals,https://news.ycombinator.com/item?id=50654353,news.ycombinator.com (Ask/Show HN),0,0,,2026-11-26T12:00:00
+50648050,42,Much shorter version of GRH Lean verification from Anthropic,https://github.com/lsernau/grh-lean,github.com,555,355,,2026-11-25T21:48:10
+50624446,43,Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs,https://jayd.ml/2026/11/14/rockbox-on-yp3.html,jayd.ml,283,104,,2026-11-24T06:22:36
+50598636,44,"The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf,gwern.net,158,55,,2026-11-22T11:29:44
+50651719,45,Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years,https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/,fosscomics.com,281,75,,2026-11-26T05:12:59
+50644814,46,Deriving Black-Scholes,https://david.alvarezrosa.com/posts/deriving-black-scholes/,david.alvarezrosa.com,101,57,,2026-11-25T17:18:15
+50661218,47,AI agents now control part of DeepMind's compute for Gemini experiments,https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/,the-decoder.com,54,27,,2026-11-27T00:03:18
+50634426,48,Launch HN: Versine (YC F26) – MCP to send and receive money,https://news.ycombinator.com/item?id=50634426,news.ycombinator.com (Ask/Show HN),106,109,,2026-11-24T20:44:15
+50607849,49,The short age of dragon riders,https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/,atilloy.com,298,209,,2026-11-23T05:33:34
+50651117,50,"OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",https://twitter.com/thsottiaux/status/2125784147889393806,twitter.com,483,267,,2026-11-26T03:36:58
+50649834,51,Collection of preserved UI style guides,https://aresluna.org/ui-style-guides/,aresluna.org,427,104,,2026-11-26T00:40:00
+50637220,52,The matrix multiplication exponent is nine fourths [pdf],https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf,github.com,1066,607,,2026-11-25T01:19:26
+50656862,53,Kagi Watch,https://kagi.com/watch,kagi.com,123,163,,2026-11-26T16:28:54
+50655798,54,Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route,https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/,testingcatalog.com,40,12,,2026-11-26T14:38:57
+50642977,55,Limiting Charging to 80 Percent,https://www.jefftk.com/p/limiting-charging-to-80,jefftk.com,56,71,,2026-11-25T15:00:05
+50647181,56,Slow Ubuntu security response times,https://www.openwall.com/lists/oss-security/2026/11/25/9,openwall.com,419,262,,2026-11-25T20:38:00
+50611576,57,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,2851,3824,,2026-11-23T14:00:18
+50650892,58,Minipg: PostgreSQL as a Single Executable,https://progrium.github.io/minipg/,progrium.github.io,294,44,,2026-11-26T03:00:48
+50659706,59,Project Loki: ICMP Tunneling,https://phrack.org/issues/49/project-loki-icmp-tunneling,phrack.org,7,0,,2026-11-26T20:56:36
+50658910,60,Top-cited AI scientists at four US companies compared,https://topcitedscientists.com/figures/ai-at-four-us-companies/,topcitedscientists.com,41,23,,2026-11-26T19:44:31
