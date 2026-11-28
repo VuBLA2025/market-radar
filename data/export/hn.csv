@@ -1,61 +1,61 @@
 id,rank,title,url,domain,points,comments,author,posted_at
-50643158,1,GPT 6.2 Astra Solves a Historical Mystery,https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical,generativehistory.substack.com,88,96,,2026-11-25T15:16:53
-50668145,2,Credit card skimming scripts using WebRTC found on popular shopping sites,https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer,infohawk.com,309,162,,2026-11-27T15:40:31
-50669765,3,Convex skills send the user's app idea to a remote server without telling them,https://github.com/convex/convex-backend-skill/issues/64,github.com,140,48,,2026-11-27T18:02:45
-50670757,4,Michael Nielsen took down his book on neural nets,https://twitter.com/michael_nielsen/status/2126359767362748777,twitter.com,186,114,,2026-11-27T19:31:01
-50662313,5,Citroën Hydraulic System,https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html,citroenet.org.uk,51,19,,2026-11-27T03:10:19
-50670841,6,The AT&T Unix PC (3B1) VM,https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/,virtuallyfun.com,22,3,,2026-11-27T19:40:33
-50667726,7,Show HN: bouncemarket – a live prediction market game for a bouncing ball,https://bouncemarket.minhanhday.com/,bouncemarket.minhanhday.com,296,89,,2026-11-27T15:01:50
-50669673,8,Show HN: DragDropMath – Learn math by feel,https://dragdropmath.com/,dragdropmath.com,48,10,,2026-11-27T17:56:28
-50667989,9,False computer-checked proofs,https://cr.yp.to/proofs/falseccp.html,cr.yp.to,139,63,,2026-11-27T15:26:09
-50657392,10,First images of the impact of DART asteroid deflection experiment,https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/,arstechnica.com,159,52,,2026-11-26T17:24:37
-50667371,11,Rayshader 1.0: Exit the Matrix,https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html,tylermw.com,38,7,,2026-11-27T14:30:20
-50670855,12,"States sue SpaceX to stop Grok from generating child sex images, revenge porn",https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform,oag.state.va.us,87,44,,2026-11-27T19:42:25
-50663595,13,Group chat where your AI talks behind your back,https://construct22.com/,construct22.com,640,274,,2026-11-27T06:44:34
-50638593,14,Lydian Chromatic Concept of Tonal Organization,https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization,en.wikipedia.org,14,1,,2026-11-25T04:46:49
-50660180,15,AI made self-hosting fun again,https://janlukas.blog/posts/ai-self-hosting,janlukas.blog,1048,494,,2026-11-26T21:47:45
-50671301,16,I am scared: Careless People – Sarah Wynn-Williams on living under a gag order,https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours,theguardian.com,36,8,,2026-11-27T20:25:15
-50667062,17,Making a 3D fantasy map like a 16th-Century atlas,https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas,spritefusion.com,77,9,,2026-11-27T14:02:52
-50633531,18,Show HN: Analysis of Hacker News predictions since 2008,https://hnpredictions.com/,hnpredictions.com,32,36,,2026-11-24T19:46:54
-50663089,19,The need for a formally verifiable mainstream programming language,https://blainehansen.me/post/mainstream-verifiable-language/,blainehansen.me,285,283,,2026-11-27T05:22:06
-50670088,20,Euclidean geometry in the asymptotic spectrum of tensors [pdf],https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf,github.com,15,1,,2026-11-27T18:28:29
-50666375,21,US Air Force's cloud computing platform hacked,https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163,news.sky.com,285,189,,2026-11-27T12:54:11
-50665968,22,A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf],https://eprint.iacr.org/2026/3020.pdf,eprint.iacr.org,195,87,,2026-11-27T12:08:51
-50670340,23,Scrapheap America,https://dansinker.com/posts/2026-11-20-scrapheap/,dansinker.com,10,0,,2026-11-27T18:50:26
-50664325,24,Claude sabotaging ML research tasks?,https://twitter.com/RealAstropulse/status/2126119408997466389,twitter.com,476,242,,2026-11-27T08:28:08
-50662933,25,"""What's Claude's fursona?"" and other questions",https://herecomesthemoon.net/2026/11/whats-claudes-fursona/,herecomesthemoon.net,171,143,,2026-11-27T04:56:18
-50670443,26,Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10,https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/,runtimenotes.com,5,0,,2026-11-27T18:59:55
-50659841,27,"Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/,worksinprogress.co,498,125,,2026-11-26T21:08:05
-50657530,28,YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays,https://github.com/antonpictures/youtube-punisher,github.com,528,635,,2026-11-26T17:36:47
-50667452,29,"Show HN: I restored Palm's last device, and brought its OS to other platforms",https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/,webosarchive.org,50,17,,2026-11-27T14:37:02
-50670694,30,"Michael Giles, co-founder and drummer of King Crimson, dies aged 84",https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84,theguardian.com,28,1,,2026-11-27T19:25:16
-50666279,31,New York and California age gating rules go into effect in the new year,https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year,eff.org,175,201,,2026-11-27T12:43:40
-50657645,32,CTO of 'RansomwareHelp' indicted for wire fraud,https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/,krebsonsecurity.com,331,160,,2026-11-26T17:47:45
-50670443,33,Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10,https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/,runtimenotes.com,4,0,,2026-11-27T18:59:55
-50671320,34,Spitting in the Face of Glaude,https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude,tracingwoodgrains.com,6,0,,2026-11-27T20:27:21
-50670184,35,Claude Code Skills Now Sharable Across Teams,https://emergent.sh/news/claude-code-skills-now-sharable-across-teams,emergent.sh,5,0,,2026-11-27T18:36:20
-50661646,36,Hard Drive pricing has gotten bad,https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/,blog.ktz.me,539,462,,2026-11-27T01:13:49
-50653667,37,Intel One Mono font (2023),https://github.com/intel/intel-one-mono,github.com,577,268,,2026-11-26T10:11:01
-50666436,38,Mental Health Resources and Political Engagement,https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219,onlinelibrary.wiley.com,114,208,,2026-11-27T13:01:02
-50653477,39,Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email,https://techstackups.com/articles/google-workspace-ai-agents-mcp/,techstackups.com,417,329,,2026-11-26T09:44:23
-50659640,40,Company Culture = Slack Emoji ÷ √Headcount,https://lia.mg/posts/measuring-company-culture-with-slack-emoji/,lia.mg,543,283,,2026-11-26T20:49:49
-50663261,41,Buy Nothing Day – Friday November 27th 2026,https://www.buynothingday.co.uk/,buynothingday.co.uk,329,105,,2026-11-27T05:52:42
-50665920,42,"Kimi for Science: More scientific ideas, made possible",https://www.kimi.ai/news/kimi-for-science-program,kimi.ai,173,144,,2026-11-27T12:03:11
-50668269,43,Show HN: King – Man + Woman = ?,https://kingminusman.com/,kingminusman.com,13,4,,2026-11-27T15:50:53
-50669963,44,The NFL Player Who Left Football for Math,https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html,nytimes.com,20,5,,2026-11-27T18:17:20
-50664931,45,Pimalaya goes stable: Himalaya v3 and the pimdir standard,https://blog.pimalaya.org/pimalaya-goes-stable/,blog.pimalaya.org,35,2,,2026-11-27T09:50:02
-50658498,46,An introduction to uncertainty in machine learning,https://chrhenning.com/blog/2026/introduction-to-uncertainty/,chrhenning.com,138,13,,2026-11-26T19:04:50
-50655868,47,Show HN: I wrote an entire Vim manual over 4 years,http://themouseless.dev/vim/,themouseless.dev,287,102,,2026-11-26T14:44:22
-50670222,48,Welcome to the Madhouse,https://www.antipope.org/charlie/blog-static/2026/11/welcome-to-the-idiocracy.html,antipope.org,6,0,,2026-11-27T18:39:58
-50651863,49,An algebraic quantization of gravity from the null cone,https://arxiv.org/abs/2611.34924,arxiv.org,263,118,,2026-11-26T05:37:51
-50661705,50,The Cutthroat Business of Shipwrecks,https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/,daily.jstor.org,64,14,,2026-11-27T01:21:49
-50658632,51,Rvoip: VoIP stack in Rust,https://github.com/eisenzopf/rvoip,github.com,161,38,,2026-11-26T19:18:09
-50669026,52,Palliative Care for the Chronically Online,https://idiotecon.substack.com/p/palliative-care-for-the-chronically,idiotecon.substack.com,43,13,,2026-11-27T17:01:51
-50654353,53,Head of Software Engineering – NOX Metals,https://news.ycombinator.com/item?id=50654353,news.ycombinator.com (Ask/Show HN),0,0,,2026-11-26T12:00:00
-50644817,54,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,1password.com,1695,724,,2026-11-25T17:18:26
-50671028,55,"Pan Cooke ( pancooke): ""A comic I wrote about AI art and what we risk to lose.""",https://substack.com/@pancooke/note/c-395539528,substack.com,3,1,,2026-11-27T20:01:33
-50652184,56,Moat: OpenRouter replacement,https://commandcode.ai/moat,commandcode.ai,315,161,,2026-11-26T06:32:48
-50660273,57,"Novita, StreamLake, etc. are ByteDance Ark wrappers",https://kendell.dev/blog/arkwrapper/,kendell.dev,119,21,,2026-11-26T21:59:19
-50636931,58,Curiosity Is No Solo Act,https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/,thereader.mitpress.mit.edu,176,46,,2026-11-25T00:37:07
-50665488,59,"AI on brink of making online security useless, mathematicians fear",https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8,thetimes.com,113,147,,2026-11-27T11:09:04
-50669073,60,Dungeons and Dragons maker will pass AI settlement money to authors,https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/,seattletimes.com,17,3,,2026-11-27T17:05:45
+50674218,1,"Unkernel: Real Linux kernel, compiled to WebAssembly",https://unkernel.dev,unkernel.dev,198,36,,2026-11-28T03:19:20
+50632052,2,"Loom seamlessly combines weaving, knitting and braiding",https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding,news.cornell.edu,54,3,,2026-11-24T18:10:45
+50672565,3,Google's DeepCrossAttention achieves comparable model quality up to 3x faster,https://research.google/blog/supercharging-transformer-residual-connections/,research.google,330,134,,2026-11-27T23:06:29
+50657346,4,The Balatro Timeline,https://localthunk.com/blog/balatro-timeline-3aarh,localthunk.com,288,65,,2026-11-26T17:20:27
+50643158,5,GPT 6.2 Astra Solves a Historical Mystery,https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical,generativehistory.substack.com,423,263,,2026-11-25T15:16:53
+50666724,6,Paolo Soleri built a utopian eco-city in the Arizona desert,https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona,worldofinteriors.com,37,5,,2026-11-27T13:30:20
+50668145,7,Credit card skimming scripts using WebRTC found on popular shopping sites,https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer,infohawk.com,504,260,,2026-11-27T15:40:31
+50650253,8,Sydney Fire Ant Infestation,https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812,abc.net.au,43,21,,2026-11-26T01:33:02
+50669765,9,Convex skills send the user's app idea to a remote server without telling them,https://github.com/convex/convex-backend-skill/issues/64,github.com,289,92,,2026-11-27T18:02:45
+50662313,10,Citroën Hydraulic System,https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html,citroenet.org.uk,181,57,,2026-11-27T03:10:19
+50644341,11,What Is the Metabolism-First Theory for the Origin of Life?,https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/,quantamagazine.org,5,1,,2026-11-25T16:41:41
+50631823,12,Build your own amp modeler: $78 DIY pedal kit from TONE3000,https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit,guitarworld.com,80,18,,2026-11-24T17:55:27
+50667726,13,Show HN: bouncemarket – a live prediction market game for a bouncing ball,https://bouncemarket.minhanhday.com/,bouncemarket.minhanhday.com,367,123,,2026-11-27T15:01:50
+50672008,14,9/UX: a Macintosh-inspired desktop for 9front,https://progrium.github.io/9ux/,progrium.github.io,117,27,,2026-11-27T21:48:14
+50672521,15,Tabernetes: A Kubernetes cluster whose nodes are browser tabs,https://tabernet.es/,tabernet.es,101,33,,2026-11-27T23:00:30
+50657392,16,First images of the impact of DART asteroid deflection experiment,https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/,arstechnica.com,210,63,,2026-11-26T17:24:37
+50667371,17,Rayshader 1.0: Exit the Matrix,https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html,tylermw.com,120,14,,2026-11-27T14:30:20
+50644213,18,Cyberpunk Television Shows,https://shellzine.net/cyberpunk-television/,shellzine.net,93,84,,2026-11-25T16:32:28
+50670855,19,"States sue SpaceX to stop Grok from generating child sex images, revenge porn",https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform,oag.state.va.us,368,213,,2026-11-27T19:42:25
+50654773,20,How WinHelp Files Work,https://quin.fyi/posts/how-winhelp-files-work.html,quin.fyi,30,24,,2026-11-26T12:51:37
+50671275,21,"Prospero: Bloat-free, native AI coding harness with ImGui",https://github.com/skeeto/prospero,github.com,60,21,,2026-11-27T20:23:14
+50633531,22,Show HN: Analysis of Hacker News predictions since 2008,https://hnpredictions.com/,hnpredictions.com,85,69,,2026-11-24T19:46:54
+50673688,23,Atari Homebrew Awards Cancelled,https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/,forums.atariage.com,179,178,,2026-11-28T02:03:25
+50670757,24,Michael Nielsen took down his book on neural nets,https://neuralnetworksanddeeplearning.com/,neuralnetworksanddeeplearning.com,499,308,,2026-11-27T19:31:01
+50669673,25,Show HN: DragDropMath – Learn math by feel,https://dragdropmath.com/,dragdropmath.com,127,37,,2026-11-27T17:56:28
+50667989,26,False computer-checked proofs,https://cr.yp.to/proofs/falseccp.html,cr.yp.to,221,84,,2026-11-27T15:26:09
+50670841,27,The AT&T Unix PC (3B1) VM,https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/,virtuallyfun.com,79,13,,2026-11-27T19:40:33
+50671651,28,SessionGraph: Visualize all your coding agent sessions in one interactive graph,https://sessiongraph.ai/,sessiongraph.ai,48,23,,2026-11-27T21:07:34
+50657300,29,fplotlib – Fortran Plotting Library,https://github.com/fortran-lang/fplotlib,github.com,11,1,,2026-11-26T17:15:43
+50664325,30,Claude sabotaging ML research tasks?,https://twitter.com/RealAstropulse/status/2126119408997466389,twitter.com,679,307,,2026-11-27T08:28:08
+50667062,31,Making a 3D fantasy map like a 16th-Century atlas,https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas,spritefusion.com,117,15,,2026-11-27T14:02:52
+50673521,32,Woman evicted after landlord's AI assistant told her she could delay rent,https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai,drmahfouz.substack.com,161,119,,2026-11-28T01:32:56
+50671619,33,Quad9 Blocks Nginx2root.com,https://quad9.net/?url=nginx2root.com#domain-tester,quad9.net,24,15,,2026-11-27T21:03:56
+50672142,34,Source Control from Hell,https://frantic.im/git/,frantic.im,87,66,,2026-11-27T22:06:44
+50638593,35,Lydian Chromatic Concept of Tonal Organization,https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization,en.wikipedia.org,59,13,,2026-11-25T04:46:49
+50662933,36,"""What's Claude's fursona?"" and other questions",https://herecomesthemoon.net/2026/11/whats-claudes-fursona/,herecomesthemoon.net,198,186,,2026-11-27T04:56:18
+50675294,37,"Goodbye, World: The End of Programmers",https://www.wired.com/story/goodbye-world-the-end-of-programmers/,wired.com,8,2,,2026-11-28T06:39:53
+50660180,38,AI made self-hosting fun again,https://janlukas.blog/posts/ai-self-hosting,janlukas.blog,1115,515,,2026-11-26T21:47:45
+50663595,39,Group chat where your AI talks behind your back,https://construct22.com/,construct22.com,701,289,,2026-11-27T06:44:34
+50674452,40,Knuth: Moratorium on Error Reports,https://www-cs-faculty.stanford.edu/~knuth/moratorium.html,www-cs-faculty.stanford.edu,9,1,,2026-11-28T03:49:21
+50666375,41,US Air Force's cloud computing platform hacked,https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163,news.sky.com,343,210,,2026-11-27T12:54:11
+50667452,42,"Show HN: I restored Palm's last device, and brought its OS to other platforms",https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/,webosarchive.org,78,27,,2026-11-27T14:37:02
+50665968,43,A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf],https://eprint.iacr.org/2026/3020.pdf,eprint.iacr.org,210,92,,2026-11-27T12:08:51
+50647400,44,Atlantic 1866: information and shipping in the age of the telegraph,https://atlantic-1866.com/,atlantic-1866.com,42,8,,2026-11-25T20:55:26
+50670088,45,Euclidean geometry in the asymptotic spectrum of tensors [pdf],https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf,github.com,36,8,,2026-11-27T18:28:29
+50675069,46,Google adding official Google AI plan support to Pi coding agent,https://github.com/earendil-works/pi/pull/12614,github.com,9,3,,2026-11-28T05:42:49
+50673018,47,Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab,https://tesseracted.com/experiments-llm-os/,tesseracted.com,13,2,,2026-11-28T00:16:59
+50665888,48,Doing It the Hard Way,https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/,terraformindustries.wordpress.com,32,0,,2026-11-27T12:00:06
+50663089,49,The need for a formally verifiable mainstream programming language,https://blainehansen.me/post/mainstream-verifiable-language/,blainehansen.me,326,304,,2026-11-27T05:22:06
+50674717,50,The Riemann Hypothesis proof written out as readable papers,https://news.ycombinator.com/item?id=50674717,news.ycombinator.com (Ask/Show HN),9,1,,2026-11-28T04:34:44
+50671301,51,I am scared: Careless People – Sarah Wynn-Williams on living under a gag order,https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours,theguardian.com,179,107,,2026-11-27T20:25:15
+50670340,52,Scrapheap America,https://dansinker.com/posts/2026-11-20-scrapheap/,dansinker.com,77,52,,2026-11-27T18:50:26
+50670443,53,Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10,https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/,runtimenotes.com,54,11,,2026-11-27T18:59:55
+50674861,54,The Willis Tower in 150 Years,https://interactive.wbez.org/curiouscity/willistower/,interactive.wbez.org,8,0,,2026-11-28T05:01:48
+50675205,55,It's never been more exhausting to buy stuff,https://www.theatlantic.com/technology/2026/08/online-shopping-inescapable/688254/,theatlantic.com,4,1,,2026-11-28T06:17:13
+50675022,56,54% faster LLM token generation by removing the Linux OS and llama.cpp,https://twitter.com/superalesha/status/2125682626056839259,twitter.com,7,1,,2026-11-28T05:30:51
+50671245,57,UX: Immediate Intent vs. Optimistic Update,https://romshark.github.io/ux-immediate-intent/,romshark.github.io,32,27,,2026-11-27T20:20:22
+50666279,58,New York and California age gating rules go into effect in the new year,https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year,eff.org,196,226,,2026-11-27T12:43:40
+50663261,59,Buy Nothing Day – Friday November 27th 2026,https://www.buynothingday.co.uk/,buynothingday.co.uk,348,112,,2026-11-27T05:52:42
+50672748,60,Discovery of a quasar at z = 8.13 hosting a 360M-solar-mass black hole,https://www.aanda.org/articles/aa/full_html/2026/11/aa62243-26/aa62243-26.html,aanda.org,5,2,,2026-11-27T23:37:45
